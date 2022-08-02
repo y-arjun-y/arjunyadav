@@ -19,11 +19,6 @@ export default function Document() {
           integrity="sha384-Xi8rHCmBmhbuyyhbI88391ZKP2dmfnOl4rT9ZfRI7mLTdk1wblIUnrIq35nqwEvC"
           crossOrigin="anonymous"
         />
-        <script type="module">
-          import renderMathInElement from
-          "https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/auto-render.mjs";
-          renderMathInElement(document.body);
-        </script>
       </Head>
       <body>
         <Main />

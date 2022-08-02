@@ -34,6 +34,7 @@ export default function Post({ frontmatter, content }) {
   return (
     <div>
       <h1>{frontmatter.title}</h1>
+      <p>{frontmatter.publish_date}</p>
       <div dangerouslySetInnerHTML={{ __html: marked.parse(content) }} />
     </div>
   );

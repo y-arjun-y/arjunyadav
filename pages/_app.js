@@ -6,6 +6,11 @@ function ArjunYadav({ Component, pageProps }) {
     <>
       <Head>
         <title>Arjun Yadav</title>
+        <script type="module">
+          import renderMathInElement from
+          "https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/auto-render.mjs";
+          renderMathInElement(document.body);
+        </script>
       </Head>
       <Navbar />
       <Component {...pageProps} />
