@@ -864,6 +864,27 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 03, 2022</time> Finished [My Calendar I](https://leetcode.com/problems/my-calendar-i/) but I had to look at the solution:
+
+```
+class MyCalendar:
+
+    def __init__(self):
+        self.events = []
+
+    def book(self, start: int, end: int) -> bool:
+        for s, e in self.events:
+            if s < end and start < e:
+                return False
+
+        self.events.append((start, end))
+        return True
+
+# Your MyCalendar object will be instantiated and called as such:
+# obj = MyCalendar()
+# param_1 = obj.book(start,end)
+```
+
 - <time>Aug 02, 2022</time> Finished [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/):
 
 ```
@@ -6653,6 +6674,7 @@ class Solution:
 <hr />
 
 #### Log
+
 - <time>Aug 03, 2022</time> 21.554, 5.782, 40.320 and 7.502.
 
 - <time>Aug 02, 2022</time> So close: 19.009, 4.656 (!), 30.284 and 8.706.
