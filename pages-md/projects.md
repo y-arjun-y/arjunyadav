@@ -7,9 +7,10 @@ meta_description: Check out my project logs here!
 
 ### Ongoing
 
-- <a href="#landingpage">Landing Page Project</a>
+- <a href="#drums">Drums</a>
+- <a href="#landingpage">Landing Page Project + App Integration</a>
 - <a href="#solaris">SOLARIS</a>
-- <a href="#eabristol2">EA Bristol Website Re-design (Round 2)</a>
+- <a href="#eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</a>
 - <a href="#introml">Introduction to Machine Learning</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
 - <a href="#brilliant">Brilliant</a>
@@ -49,16 +50,32 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-## <span id="landingpage">Landing Page Project</span>
+## <span id="drums">Drums</span>
 
-<small>29 Jul, 2022-present</small>  
-<small>Designing a landing page for a project I've been accepted to. Note that, due to organizational requirements, I'm being incredibly vague.</small>
+<small>Aug 02, 2022-present</small>  
+<small>I alternate between the [guitar](/#guitar/) and the drums. Trying to get better every day and [have some fun as well](https://www.youtube.com/watch?v=Y2AEvI0z_ec)!</small>
+
+<hr />
+<small>Drums' start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Aug 02, 2022</time> Played [Yellow by Coldplay](https://www.youtube.com/watch?v=fviwj5P1FCc).
+<hr />
+
+## <span id="landingpage">Landing Page Project + App Integration</span>
+
+<small>Jul 29, 2022-present</small>  
+<small>Designing a landing page for a project I've been accepted to. In addition, I'm helping with app integrations. Note that, due to organizational requirements, I'm being incredibly vague.</small>
 
 <hr />
 <small>Landing Page Project's start date is the date I started logging, not the date when the project started.</small>
 <hr />
 
 #### Log
+
+- <time>Aug 02, 2022</time> Finished with the sixth draft of the first section.
 
 - <time>Aug 01, 2022</time> Had a productive meeting and finished with the fifth draft of the first section.
 
@@ -71,7 +88,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 ## <span id="solaris">SOLARIS</span>
 
-<small>10 Jul, 2022-present</small>  
+<small>Jul 10, 2022-present</small>  
 <small>Trying to co-lead a rationality club in my school.</small>
 
 <hr />
@@ -91,7 +108,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 ## <span id="eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</span>
 
-<small>08 Jul, 2022-present</small>  
+<small>Jul 08, 2022-present</small>  
 <small>Trying to make EA Bristol's website the best EA group website out there. The latter project mentioned is entangled with the former and I will be vague when describing the latter project in the logs.</small>
 
 <hr />
@@ -121,12 +138,14 @@ Confused? See the <a href="#note">note</a> down below.
 
 ## <span id="introml">[Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning-duke/)</span>
 
-<small>04 Jul, 2022-present</small>  
+<small>Jul 04, 2022-present</small>  
 <small>Trying to learn the fundamental concepts of machine learning.</small>
 
 <hr />
 
 #### Log
+
+- <time>Aug 02, 2022</time> Continued with Week 3.
 
 - <time>Aug 01, 2022</time> Continued with Week 3.
 
@@ -179,12 +198,14 @@ Confused? See the <a href="#note">note</a> down below.
 
 ## <span id="mathforml">Mathematics for Machine Learning</span>
 
-<small>04 Jul, 2022-present</small>  
+<small>Jul 04, 2022-present</small>  
 <small>Trying to learn the [linear algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) and [multivariate calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) behind machine learning.</small>
 
 <hr />
 
 #### Log
+
+- <time>Aug 02, 2022</time> Continued with Week 5 and learnt about [eigenbasis](https://math.stackexchange.com/questions/1409350/what-is-an-eigenbasis-and-how-do-i-calculate-it-with-the-information-below).
 
 - <time>Aug 01, 2022</time> Continued with Week 5 after passing the second eigenvector quiz.
 
@@ -241,7 +262,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 ## <span id="brilliant">[Brilliant](https://brilliant.org)</span>
 
-<small>14 Apr, 2022-present</small>  
+<small>Apr 14, 2022-present</small>  
 <small>Trying to learn more about computer science, mathematics and science with Brilliant + trying to complete the [daily challenges](https://brilliant.org/daily-problems/)!</small>
 
 <hr />
@@ -452,14 +473,14 @@ Confused? See the <a href="#note">note</a> down below.
 
 ## <span id="kenken">[KENKEN](http://www.kenkenpuzzle.com/)</span>
 
-<small>30 Jan, 2022-present</small>  
+<small>Jan 30, 2022-present</small>  
 <small>I was a two-time silver medalist for 2019 and 2020 in my country. Trying to get a similar result for 2022! Note that I have four 5x5s and two 6x6s for this project (previously two 4x4s and four 5x5s).</small>
 
 <hr />
 
 #### Log
 
-- <time>Aug 02, 2022</time> Back to sub-10 for all correct!
+- <time>Aug 02, 2022</time> Back to sub-10 minutes for all correct!
 
 - <time>Aug 01, 2022</time> Daily puzzles went well.
 
@@ -819,7 +840,7 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 ## <span id="coldtakesbetareading">[Cold Takes](https://www.cold-takes.com/) Beta-Reading</span>
 
 <small>20 Jan, 2022-present</small>  
-<small>I got accepted to proof-read Holden Karnofsky's articles for his blog, Cold Takes. Trying to be as useful as I can be!</small>
+<small>I got accepted to proof-read Holden Karnofsky's articles for his blog, Cold Takes. Trying to be as useful as I can be! Currently an occasional project.</small>
 
 <hr />
 
@@ -836,7 +857,7 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 ## <span id="leetcode">[LeetCode](https://leetcode.com/arjyadav7)</span>
 
-<small>13 Nov, 2021-present</small>  
+<small>Nov 13, 2021-present</small>  
 <small>Trying to do a problem every day. All of the general problems are done in [Python](https://python.org).</small>
 
 <hr />
@@ -4683,7 +4704,7 @@ class Solution:
 
 ## <span id="guitar">Guitar</span>
 
-<small>29 Oct, 2021-present</small>  
+<small>Oct 29, 2021-present</small>  
 <small>Trying to learn acoustic guitar via [justinguitar.com](https://justinguitar.com)</small>
 
 <hr />
@@ -5016,7 +5037,7 @@ class Solution:
 
 ## <span id="freecodecamp">[freeCodeCamp](https://freecodecamp.org)</span>
 
-<small>28 Oct, 2021-present</small>  
+<small>Oct 28, 2021-present</small>  
 <small>Trying to finish freeCodeCamp.org's curriculum by the end of 2022.</small>
 
 <hr />
@@ -5591,7 +5612,7 @@ class Solution:
 
 ## <span id="duolingo">[Duolingo](https://duolingo.com)</span>
 
-<small>28 Oct, 2021-present</small>  
+<small>Oct 28, 2021-present</small>  
 <small>Trying to learn [Hindi](https://www.duolingo.com/enroll/hi/en/Learn-Hindi) and [French](https://www.duolingo.com/enroll/fr/en/Learn-French) with [Duolingo](https://duolingo.com), currently at a Level 5 Trophy for Hindi.</small>
 
 <hr />
@@ -6163,7 +6184,7 @@ class Solution:
 
 ## <span id="chess">[Chess](https://lichess.org/@/y_arjun_y)</span>
 
-<small>28 Oct, 2021-present</small>  
+<small>Oct 28, 2021-present</small>  
 <small>Trying to get better at chess via practicing on [lichess](https://lichess.org). You can see all my games that I refer to [here](https://lichess.org/@/y_arjun_y/all). Previously, I practiced on [chess.com](https://chess.com). Currently a Friday & Sunday project.</small>
 
 <hr />
@@ -6624,7 +6645,7 @@ class Solution:
 
 ## <span id="cubing">[Cubing](https://www.worldcubeassociation.org/persons/2019YADA06)</span>
 
-<small>28 Oct, 2021-present</small>  
+<small>Oct 28, 2021-present</small>  
 <small>Trying to get better every day at the four events I practice, which are [3x3](https://ruwix.com/the-rubiks-cube/), [2x2](https://ruwix.com/twisty-puzzles/2x2x2-rubiks-cube-pocket/), [3x3 OH](https://ruwix.com/the-rubiks-cube/one-handed/) and [Skewb](https://ruwix.com/twisty-puzzles/skewb-pyraminx-mod-skewb-diamond/), all [AO5](https://ruwix.com/the-rubiks-cube/cubing-terminology-abbreviations-commonly-used-expressions/)'s are presented in that order and I usually write about any [PB](https://ruwix.com/the-rubiks-cube/cubing-terminology-abbreviations-commonly-used-expressions/) I get.</small>
 
 <hr />
@@ -7185,7 +7206,7 @@ class Solution:
 
 ## <span id="fastai">[fast.ai](https://fast.ai)</span>
 
-<small>15 Mar, 2022-present</small>  
+<small>Mar 15, 2022-present</small>  
 <small>Trying to learn A.I. by leveraging pre-existing knowledge. Currently paused.</small>
 
 <hr />
@@ -7369,7 +7390,7 @@ class Solution:
 
 ## <span id="sudoku">Sudoku</span>
 
-<small>28 Apr, 2022-present (inactive)</small>  
+<small>Apr 28, 2022-present (inactive)</small>  
 <small>Trying to solve at least one sudoku every Friday & Saturday. The weird notation you see encodes the puzzle, you can parse it [here](https://sudoku-solver.freecodecamp.rocks/) (note that you may need to provide ~2-3 more guesses for it to solve it). Currently inactive/paused.</small>
 
 <hr />
@@ -7463,7 +7484,7 @@ class Solution:
 
 ## <span id="gallpeters">[gallpeters](https://gallpeters.vercel.app)</span>
 
-<small>07 Apr, 2022-17 Apr, 2022</small>  
+<small>Apr 07, 2022-May 17, 2022</small>  
 <small>Created a simple website/API to create a customizable world map.</small>
 
 <hr />
@@ -7556,7 +7577,7 @@ class Solution:
 
 ## <span id="eadata">[Effective Altruism Data](https://effectivealtruismdata.com)</span>
 
-<small>28 Oct, 2021-15 Apr, 2022</small>  
+<small>Oct 28, 2021-Apr 15, 2022</small>  
 <small>I was a programmer for EA Data (official website [here](https://effectivealtruismdata.com), up-to-date one [here](https://effectivealtruismdata.herokuapp.com) which may require some refreshing to work). See the [repository](https://github.com/hamishhuggard/ea_data_viz) and [my fork](https://github.com/y-arjun-y/ea_data_viz) for commits mentioned. The two EA Forum posts ([1](https://forum.effectivealtruism.org/posts/CQaNyJfsRFZhseiLZ/effectivealtruismdata-com-a-website-for-aggregating-and), [2](https://forum.effectivealtruism.org/posts/c5f9bL8f3YenLmqSc/new-data-visualisations-of-the-ea-forum)) may also prove informative.</small>
 
 <hr />
@@ -7829,7 +7850,7 @@ class Solution:
 
 ## <span id="bettermailto">[bettermailto](https://bettermailto.com)</span>
 
-<small>29 Oct, 2021-06 Apr, 2022</small>  
+<small>Oct 29, 2021-Apr 06, 2022</small>  
 <small>Created an alternative to the [mailto attribute in HTML](https://css-tricks.com/snippets/html/mailto-links/). See the repository [here](https://github.com/bettermailto/bettermailto).</small>
 
 <hr />
@@ -8155,7 +8176,7 @@ category=android.intent.category.DEFAULT
 
 ## <span id="eafacilitator">[EA In-Depth Fellowship Facilitator](https://www.effectivealtruism.org/virtual-programs/in-depth-program/)</span>
 
-<small>29 Dec, 2021-01 Mar, 2022</small>  
+<small>Dec 29, 2021-Mar 01, 2022</small>  
 <small>I got accepted to be a facilitator for EA Virtual Programs In-Depth Fellowship, it was an awesome experience!</small>
 
 <hr />
@@ -8185,14 +8206,14 @@ category=android.intent.category.DEFAULT
 
 ## <span id="millerrabin">[Miller-Rabin Research](https://drive.google.com/file/d/10amLeqLfCtTacSXVoJMn97ktD5njTa39/view?usp=sharing)</span>
 
-<small>28 Nov, 2021-24 Jan, 2022</small>  
+<small>Nov 28, 2021-Jan 24, 2022</small>  
 <small>Did some research in to the liars in [the Miller-Rabin Primality Test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test), inspired by [Numberphile](https://www.youtube.com/watch?v=_MscGSN5J6o).</small>
 
 <hr />
 
 #### Log
 
-- <time>Jan 22, 2022</time> Alright, got rejected from arXiv again. My advisor suggested finding some other math archives. Honestly, with the exception of [ViXra](https://academia.stackexchange.com/questions/105518/what-are-the-differences-between-vixra-org-and-arxiv-org#:~:text=Warranted%20or%20not,a%20bad%20reputation.) (which I won't go with, see link for reason) there aren't any pre-print repositories that aren't affiliated with a university.
+- <time>Jan 24, 2022</time> Alright, got rejected from arXiv again. My advisor suggested finding some other math archives. Honestly, with the exception of [ViXra](https://academia.stackexchange.com/questions/105518/what-are-the-differences-between-vixra-org-and-arxiv-org#:~:text=Warranted%20or%20not,a%20bad%20reputation.) (which I won't go with, see link for reason) there aren't any pre-print repositories that aren't affiliated with a university.
 
   In the end, I had a lot of fun with this project! The link to the paper on Google Drive is [here](https://drive.google.com/file/d/10amLeqLfCtTacSXVoJMn97ktD5njTa39/view?usp=sharing) and I also cold emailed the inspiration for the paper.
 
@@ -8311,7 +8332,7 @@ category=android.intent.category.DEFAULT
 
 ## <span id="eabristol">[EA Bristol](https://eabristol.co.uk) Website Redesign</span>
 
-<small>20 Nov, 2021-21 Nov, 2021</small>  
+<small>Nov 20, 2021-Nov 21, 2021</small>  
 <small>Re-designed EA Bristol's website.</small>
 
 <hr />
@@ -8325,7 +8346,7 @@ category=android.intent.category.DEFAULT
 
 ## <span id="eaindepth">[Effective Altruism In-Depth Fellowship](https://www.effectivealtruism.org/virtual-programs/in-depth-program)</span>
 
-<small>30 Oct, 2021-30 Oct, 2021</small>  
+<small>Oct 30, 2021-Oct 30, 2021</small>  
 <small>I attended EA Virtual Program's In-Depth Fellowship after my [introductory fellowship by EA Cambridge](https://www.eacambridge.org/ea-fellowship-info).</small>
 
 <hr />
@@ -8339,7 +8360,7 @@ category=android.intent.category.DEFAULT
 
 ## <span id="eaglobal2021">[EA Global: London 2021](https://www.eaglobal.org/events/london2021/) </span>
 
-<small>30 Oct, 2021-30 Oct, 2021</small>  
+<small>Oct 30, 2021-Oct 30, 2021</small>  
 <small>Attended EA Global: London 2021 as a virtual attendee.</small>
 
 <hr />
