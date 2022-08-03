@@ -4738,6 +4738,8 @@ class Solution:
 
 #### Log
 
+- <time>Aug 03, 2022</time> Continued with Module 4 practice.
+
 - <time>Aug 01, 2022</time> "Learnt" [the intro to Chop Suey!](https://www.youtube.com/watch?v=EjQxA7ulTdM) Drop C tuning is awesome.
 
 - <time>Jul 28, 2022</time> Practiced a sliding power chord song that was recommended to us (why do almost all of them have iffy names?)
