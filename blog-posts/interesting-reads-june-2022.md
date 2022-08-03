@@ -1,7 +1,7 @@
 ---
 title: Interesting Reads - June 2022
-publish_date: Jun 30, 2022
-meta_description: I log everything I read in Notion. This month I read 1 book, 38 newsletters and 9 articles.
+publish_date: Jun 30, 2022 22:04
+meta_description: I log everything I read in Notion. This month I read 1 book, 38 newsletters and 9 articles. Here are some of the highlights of this month!
 meta_image: https://upload.wikimedia.org/wikipedia/commons/d/df/Moving_Day*%28in_Little_Old_New_York%29_cleaned.jpg
 ---
 

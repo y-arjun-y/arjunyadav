@@ -1,6 +1,6 @@
 ---
 title: Interesting Reads - December 2021
-publish_date: Dec 31, 2021
+publish_date: Dec 31, 2021 23:30
 meta_description: I log everything I read in Notion. This month I read 66 newsletters and 26 articles. Here are some of the highlights of this month!
 ---
 

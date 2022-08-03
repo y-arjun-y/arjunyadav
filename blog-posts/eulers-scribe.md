@@ -1,6 +1,6 @@
 ---
 title: Euler's Scribe
-publish_date: Jun 30, 2022
+publish_date: Jun 30, 2022 21:16
 meta_description: This is a fictional recount of Renard, one of the many scribes Leonhard Euler employed to write his mathematical research after he went almost totally blind.
 meta_image: https://cdn.britannica.com/65/126865-050-633DCA21/Leonhard-Euler.jpg
 ---

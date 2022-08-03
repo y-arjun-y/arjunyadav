@@ -1,6 +1,7 @@
 ---
 title: Notion template for personal predictions
 publish_date: May 30, 2022
+meta_description: I created a simple Notion template for creating personal predictions. You can set multiple reminders and even embed line charts showcasing the likelihood across time
 meta_image: https://lh3.google.com/u/0/d/1D9ipqFP3cHFawzipBKnDpj13o7MAKDfU=w2880-h1528-iv1
 ---
 

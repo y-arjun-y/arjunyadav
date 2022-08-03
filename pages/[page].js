@@ -1,6 +1,9 @@
 import fs from "fs";
 import matter from "gray-matter";
-import { marked } from "marked";
+import Head from "next/head";
+const md = require("markdown-it")({
+  html: true,
+}).use(require("markdown-it-footnote"));
 
 export async function getStaticPaths() {
   const files = fs.readdirSync("./pages-md");
@@ -28,8 +31,17 @@ export async function getStaticProps({ params: { page } }) {
 
 export default function Post({ frontmatter, content }) {
   return (
-    <div>
-      <div dangerouslySetInnerHTML={{ __html: marked.parse(content) }} />
-    </div>
+    <>
+      <Head>
+        <meta property="og:title" content={frontmatter.meta_description} />
+        <meta property="og:image" content={frontmatter.meta_image} />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={frontmatter.meta_description} />
+        <title>{frontmatter.title}</title>
+      </Head>
+      <div>
+        <div dangerouslySetInnerHTML={{ __html: md.render(content) }} />
+      </div>
+    </>
   );
 }

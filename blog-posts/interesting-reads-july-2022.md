@@ -1,7 +1,7 @@
 ---
 title: Interesting Reads - July 2022
 publish_date: Jul 31, 2022
-meta_description: I log everything I read in Notion. This month I read 32 newsletters and 15 articles.
+meta_description: I log everything I read in Notion. This month I read 32 newsletters and 15 articles. Here are some of the highlights of this month!
 meta_image: https://images.unsplash.com/photo-1578301978018-3005759f48f7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1688&q=80
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: A Look Back on 2021
-publish_date: Dec 31, 2021
+publish_date: Dec 31, 2021 15:31
 meta_description: 2021 was and will always be an important year for me, why? There are two reasons that I want to write about deeply here.
 meta_image: https://images.unsplash.com/photo-1578305871793-d1e7a0942c97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1774&q=80
 ---
