@@ -5069,6 +5069,8 @@ class Solution:
 
 #### Log
 
+- <time>Aug 03, 2022</time> Continued with Scientific Computing with Python.
+
 - <time>Aug 02, 2022</time> Continued with Scientific Computing with Python.
 
 - <time>Aug 01, 2022</time> Continued with Scientific Computing with Python.
