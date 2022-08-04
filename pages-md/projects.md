@@ -278,6 +278,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 04, 2022</time> Finished with [Insertion Sort](https://brilliant.org/courses/computer-science-algorithms/array-algorithms-2/insertion-sort-algo/).
+
 - <time>Aug 03, 2022</time> Finished with Sorting an Array.
 
 - <time>Aug 02, 2022</time> Continued with Sorting an Array.
