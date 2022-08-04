@@ -2,6 +2,7 @@
 title: Interesting Reads - December 2021
 publish_date: Dec 31, 2021 23:30
 meta_description: I log everything I read in Notion. This month I read 66 newsletters and 26 articles. Here are some of the highlights of this month!
+meta_image: https://images.unsplash.com/photo-1583502071591-0896dbb468b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=824&q=80
 ---
 
 ![Building - Mountain Range](https://images.unsplash.com/photo-1583502071591-0896dbb468b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=824&q=80)
