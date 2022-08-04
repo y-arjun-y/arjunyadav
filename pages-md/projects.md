@@ -62,6 +62,7 @@ Confused? See the <a href="#note">note</a> down below.
 #### Log
 
 - <time>Aug 02, 2022</time> Played [Yellow by Coldplay](https://www.youtube.com/watch?v=fviwj5P1FCc).
+
 <hr />
 
 ## <span id="landingpage">Landing Page Project + App Integration</span>
@@ -74,6 +75,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 03, 2022</time> Wrote-up and sent my findings on app integration and pricing.
 
 - <time>Aug 02, 2022</time> Finished with the sixth draft of the first section.
 
@@ -114,6 +117,10 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 03, 2022</time> Finished with authentication.
+
+- <time>Aug 02, 2022</time> Nearly done with authentication!
 
 - <time>Aug 01, 2022</time> Continued with authentication, need to start from scratch with authentication from tomorrow as I'm making very little progress.
 
