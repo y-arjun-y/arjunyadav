@@ -489,6 +489,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 04, 2022</time> Don't do KENKEN when you're tired.
+
 - <time>Aug 03, 2022</time> Daily puzzles went okay.
 
 - <time>Aug 02, 2022</time> Back to sub-10 minutes for all correct!
@@ -875,7 +877,8 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
-- <time>Aug 04, 2022</time> Finished  Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string):
+- <time>Aug 04, 2022</time> Finished Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string):
+
 ```
 class Solution:
     def largestGoodInteger(self, num: str) -> str:
