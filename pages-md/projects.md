@@ -875,6 +875,34 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 04, 2022</time> Finished  Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string):
+```
+class Solution:
+    def largestGoodInteger(self, num: str) -> str:
+        if "999" in num:
+            return "999"
+        elif "888" in num:
+            return "888"
+        elif "777" in num:
+            return "777"
+        elif "666" in num:
+            return "666"
+        elif "555" in num:
+            return "555"
+        elif "444" in num:
+            return "444"
+        elif "333" in num:
+            return "333"
+        elif "222" in num:
+            return "222"
+        elif "111" in num:
+            return "111"
+        elif "000" in num:
+            return "000"
+        else:
+            return ""
+```
+
 - <time>Aug 03, 2022</time> Finished [My Calendar I](https://leetcode.com/problems/my-calendar-i/) but I had to look at the solution:
 
 ```
