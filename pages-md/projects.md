@@ -6298,6 +6298,8 @@ class Solution:
 
 #### Log
 
+- <time>Aug 05, 2022</time> [I was **this** close to a checkmate and](https://lichess.org/qkecYsz9)...
+
 - <time>Jul 31, 2022</time> [Sigh](https://lichess.org/Qp3Ydw1h).
 
 - <time>Jul 29, 2022</time> Decided to play sort of fast and loose with [this game](https://lichess.org/2cs4kdik0fxR), turns out I was _too_ fast and loose.
