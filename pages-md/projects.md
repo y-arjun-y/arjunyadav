@@ -893,7 +893,21 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
-- <time>Aug 04, 2022</time> Finished Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string):
+- <time>Aug 05, 2022</time> Finished [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/):
+
+```
+class Solution:
+    def minimumOperations(self, nums: List[int]) -> int:
+        count = 0
+
+        while list(set(nums)) != [0]:
+            nums = [i - min([i for i in nums if i != 0]) if i > 0 else i for i in nums]
+            count += 1
+
+        return count
+```
+
+- <time>Aug 04, 2022</time> Finished [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string):
 
 ```
 class Solution:
