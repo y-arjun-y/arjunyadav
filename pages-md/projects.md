@@ -122,7 +122,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 05, 2022</time> Added organisation pictures for the booking project.
+- <time>Aug 05, 2022</time> Added organisation pictures for the booking project and the ability to review your booking.
 
 - <time>Aug 04, 2022</time> Sent the booking project.
 
