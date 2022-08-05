@@ -78,7 +78,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 04, 2022</time> Wrote-up and sent my findings on app integration and pricing.
+- <time>Aug 05, 2022</time> Wrote-up and sent my findings on apps for different scenarios.
+
+- <time>Aug 04, 2022</time> Wrote-up and sent my findings on an app integration and pricing.
 
 - <time>Aug 02, 2022</time> Finished with the sixth draft of the first section.
 
@@ -119,6 +121,10 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 05, 2022</time> Added organisation pictures for the booking project.
+
+- <time>Aug 04, 2022</time> Sent the booking project.
 
 - <time>Aug 03, 2022</time> Finished with authentication.
 
@@ -216,7 +222,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 0r, 2022</time> Continued with Week 5 and learnt about PageRank. Lots to finish up tomorrow (and review simultaneously) so I can focus on multivariate calculus. 
+- <time>Aug 04, 2022</time> Continued with Week 5 and learnt about PageRank. Lots to finish up tomorrow (and review simultaneously) so I can focus on multivariate calculus.
 
 - <time>Aug 02, 2022</time> Continued with Week 5 and learnt about [eigenbasis](https://math.stackexchange.com/questions/1409350/what-is-an-eigenbasis-and-how-do-i-calculate-it-with-the-information-below).
 
