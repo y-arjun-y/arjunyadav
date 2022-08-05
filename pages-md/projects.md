@@ -5141,6 +5141,8 @@ class Solution:
 
 #### Log
 
+- <time>Aug 05, 2022</time> Contunued with Scientific Computing with Python. Never repeat string data more than once.
+
 - <time>Aug 04, 2022</time> Continued with Scientific Computing with Python.
 
 - <time>Aug 03, 2022</time> Continued with Scientific Computing with Python.
