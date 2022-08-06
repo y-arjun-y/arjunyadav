@@ -899,6 +899,21 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 06, 2022</time> Finished [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/):
+
+```
+class Solution:
+    def makeFancyString(self, s: str) -> str:
+        fancy_string = []
+
+        for i in range(len(s) - 2):
+            if s[i] == s[i+1] == s[i+2]:
+                continue
+            fancy_string.append(s[i])
+
+        return "".join(fancy_string) + s[len(s) - 2:]
+```
+
 - <time>Aug 05, 2022</time> Finished [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/):
 
 ```
