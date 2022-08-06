@@ -80,7 +80,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 05, 2022</time> Wrote-up and sent my findings on an organisational discount.
+- <time>Aug 06, 2022</time> Wrote-up and sent my findings on an organisational discount.
 
 - <time>Aug 05, 2022</time> Wrote-up and sent my findings on apps for different scenarios.
 
@@ -105,6 +105,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 06, 2022</time> Finished the feedback form for tomorrow.
 
 - <time>Jul 31, 2022</time> Fourth meeting happened with much better attendance and overall a pretty fruitful discussion! I'm happy to have had that with the most important week.
 
@@ -5167,6 +5169,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Aug 06, 2022</time> Contunued with Scientific Computing with Python. Nearly done with the videos.
 
 - <time>Aug 05, 2022</time> Contunued with Scientific Computing with Python. Never repeat string data more than once.
 
