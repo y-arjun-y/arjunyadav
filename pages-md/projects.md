@@ -78,6 +78,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 05, 2022</time> Wrote-up and sent my findings on an organisational discount.
+
 - <time>Aug 05, 2022</time> Wrote-up and sent my findings on apps for different scenarios.
 
 - <time>Aug 04, 2022</time> Wrote-up and sent my findings on an app integration and pricing.
@@ -121,6 +123,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 06, 2022</time> Got started with a calendar event generator.
 
 - <time>Aug 05, 2022</time> Added organisation pictures for the booking project and the ability to review your booking.
 
