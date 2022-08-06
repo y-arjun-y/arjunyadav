@@ -168,6 +168,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 06, 2022</time> Continued with Week 3.
+
 - <time>Aug 04, 2022</time> Continued with Week 3.
 
 - <time>Aug 02, 2022</time> Continued with Week 3.
@@ -229,6 +231,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 06, 2022</time> Continued with Week 5 and Week 1 (Calculus).
 
 - <time>Aug 04, 2022</time> Continued with Week 5 and learnt about PageRank. Lots to finish up tomorrow (and review simultaneously) so I can focus on multivariate calculus.
 
