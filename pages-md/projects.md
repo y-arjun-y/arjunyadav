@@ -6362,6 +6362,8 @@ class Solution:
 
 #### Log
 
+- <time>Aug 07, 2022</time> This is, probably by a lot, [the most surprising checkmate I've received](https://lichess.org/VLZ8KdYlThwJ).
+
 - <time>Aug 05, 2022</time> [I was **this** close to a checkmate and](https://lichess.org/qkecYsz9)...
 
 - <time>Jul 31, 2022</time> [Sigh](https://lichess.org/Qp3Ydw1h).
