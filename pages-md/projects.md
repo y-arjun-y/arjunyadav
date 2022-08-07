@@ -913,6 +913,27 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 07, 2022</time> Finished [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/):
+
+```py
+class Solution:
+    def mergeAlternately(self, word1: str, word2: str) -> str:
+        res = ""
+
+        for i in range(len(word1)):
+            res += word1[i]
+            if i <= len(word2) - 1:
+                res += word2[i]
+
+        if len(res) < len(word1 + word2):
+            if len(word1) < len(word2):
+                res += word2[len(word1):]
+            else:
+                res += word1[len(word2):]
+
+        return res
+```
+
 - <time>Aug 06, 2022</time> Finished [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/):
 
 ```py
