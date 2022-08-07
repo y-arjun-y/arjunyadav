@@ -302,6 +302,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 07, 2022</time> Got started with [https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/best-worst-average/](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/best-worst-average/)
+
 - <time>Aug 06, 2022</time> Finished [Counting Operations](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/counting-operations/).
 
 - <time>Aug 05, 2022</time> Finished [Timing Programs with a Stopwatch](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/timing-programs/)
