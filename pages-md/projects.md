@@ -915,7 +915,7 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 - <time>Aug 06, 2022</time> Finished [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/):
 
-```
+```py
 class Solution:
     def makeFancyString(self, s: str) -> str:
         fancy_string = []
@@ -930,7 +930,7 @@ class Solution:
 
 - <time>Aug 05, 2022</time> Finished [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/):
 
-```
+```py
 class Solution:
     def minimumOperations(self, nums: List[int]) -> int:
         count = 0
@@ -944,7 +944,7 @@ class Solution:
 
 - <time>Aug 04, 2022</time> Finished [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string):
 
-```
+```py
 class Solution:
     def largestGoodInteger(self, num: str) -> str:
         if "999" in num:
@@ -973,7 +973,7 @@ class Solution:
 
 - <time>Aug 03, 2022</time> Finished [My Calendar I](https://leetcode.com/problems/my-calendar-i/) but I had to look at the solution:
 
-```
+```py
 class MyCalendar:
 
     def __init__(self):
@@ -994,7 +994,7 @@ class MyCalendar:
 
 - <time>Aug 02, 2022</time> Finished [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/):
 
-```
+```py
 class Solution:
     def mostFrequent(self, nums: List[int], key: int) -> int:
         if len(set(nums)) == 1:
@@ -1004,7 +1004,7 @@ class Solution:
 
 - <time>Aug 01, 2022</time> Finished [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/):
 
-```
+```py
 class Solution:
     def uniqueOccurrences(self, arr: List[int]) -> bool:
         return sorted(list(set([arr.count(i) for i in set(arr)]))) == sorted([arr.count(i) for i in set(arr)])
@@ -1033,7 +1033,7 @@ class Solution:
 
 - <time>Jul 30, 2022</time> Finished [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/):
 
-```
+```py
 class Solution:
     def greatestLetter(self, s: str) -> str:
         string = sorted([i for i in s if s.count(i.lower()) >= 1 and s.count(i.upper()) >= 1], reverse=True)
@@ -1044,7 +1044,7 @@ class Solution:
 
 - <time>Jul 29, 2022</time> Finished [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/):
 
-```
+```py
 class Solution:
     def isSumEqual(self, firstWord: str, secondWord: str, targetWord: str) -> bool:
         conversion = {
@@ -1092,7 +1092,7 @@ class Solution:
 
 - <time>Jul 28, 2022</time> Finished [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/):
 
-```
+```py
 class Solution:
     def freqAlphabets(self, s: str) -> str:
         conversion = {
@@ -1139,7 +1139,7 @@ class Solution:
 
 - <time>Jul 27, 2022</time> Finished [Decode the Message](https://leetcode.com/problems/decode-the-message):
 
-```
+```py
 class Solution:
     def decodeMessage(self, key: str, message: str) -> str:
         alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
@@ -1160,7 +1160,7 @@ class Solution:
 
 - <time>Jul 26, 2022</time> Finished [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/):
 
-```
+```py
 class Solution:
     def digitCount(self, num: str) -> bool:
         if False in [num.count(str(i)) == int(num[i]) for i in range(len(num))]:
@@ -1170,7 +1170,7 @@ class Solution:
 
 - <time>Jul 25, 2022</time> Finished [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (though my solution is definitely not O(log n) lol):
 
-```
+```py
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
         if target not in nums:
@@ -1187,7 +1187,7 @@ class Solution:
 
 - <time>Jul 24, 2022</time> Finished [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/):
 
-```
+```py
 class Solution:
     def bestHand(self, ranks: List[int], suits: List[str]) -> str:
         if len(set(suits)) == 1:
@@ -1202,7 +1202,7 @@ class Solution:
 
 - <time>Jul 23, 2022</time> Finished [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) but I had to look at the solution:
 
-```
+```py
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:
         l, r = 0, num
@@ -1224,7 +1224,7 @@ class Solution:
 
 - <time>Jul 22, 2022</time> Finished [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/):
 
-```
+```py
 class Solution:
     def hasAlternatingBits(self, n: int) -> bool:
         if n == 1:
@@ -1242,7 +1242,7 @@ class Solution:
 
 - <time>Jul 21, 2022</time> Finished [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) in one submit:
 
-```
+```py
 class Solution:
     def stringMatching(self, words: List[str]) -> List[str]:
         return [i for i in words if True in [i in j for j in words if i != j]]
@@ -1257,7 +1257,7 @@ SELECT customer_number FROM orders GROUP BY customer_number ORDER BY COUNT(*) DE
 
 - <time>Jul 19, 2022</time> Finished [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/):
 
-```
+```py
 class Solution:
     def checkZeroOnes(self, s: str) -> bool:
          return max([len(i) for i in s.split('0')]) > max([len(i) for i in s.split('1')])
@@ -1266,7 +1266,7 @@ class Solution:
 
 - <time>Jul 18, 2022</time> Finished [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) and wrote [a post about my solution](https://leetcode.com/problems/max-consecutive-ones/discuss/2298384/Easy-Python3-one-liner-beats-90):
 
-```
+```py
 class Solution:
     def findMaxConsecutiveOnes(self, nums: List[int]) -> int:
         return max([len(i) for i in "".join([str(i) for i in nums]).split('0')])
@@ -1275,7 +1275,7 @@ class Solution:
 
 - <time>Jul 17, 2022</time> Finished [Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/):
 
-```
+```py
 class Solution:
     def fillCups(self, amount: List[int]) -> int:
         if max(amount) > sum(sorted(amount, reverse=True)[1:]):
@@ -1285,7 +1285,7 @@ class Solution:
 
 - <time>Jul 16, 2022</time> Finished [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) (by skipping the last three test cases lol). Will attempt [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) next:
 
-```
+```py
 class Solution:
     def nextGreaterElement(self, n: int) -> int:
         if n == 2147483647:
@@ -1309,7 +1309,7 @@ class Solution:
 
 - <time>Jul 14, 2022</time> Finished [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) with a very slow solution:
 
-```
+```py
 class Solution:
     def kthSmallestPrimeFraction(self, arr: List[int], k: int) -> List[int]:
         return sorted([[i, j] for j in arr for i in arr], key=lambda x:x[0] / x[1])[k - 1]
@@ -1319,7 +1319,7 @@ class Solution:
 
 - <time>Jul 12, 2022</time> Finally, solved [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) with a nice one-liner that uses the square root trick:
 
-```
+```py
 class Solution:
     def constructRectangle(self, area: int) -> List[int]:
         return sorted([(sorted([i, area // i], reverse=True), abs(i - area // i)) for i in range(1, ceil(sqrt(area)) + 1) if area % i == 0], key=lambda x: x[1])[0][0]
@@ -1327,7 +1327,7 @@ class Solution:
 
 - <time>Jul 11, 2022/</time> I tried copying my solution for Find the Middle Index in Array for [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) (since it's the same quesiton) but the constraints are 100x larger, so it timed out and I had to look at the solution:
 
-```
+```py
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
         S = sum(nums)
@@ -1341,7 +1341,7 @@ class Solution:
 
 - <time>Jul 10, 2022</time> [Sigh](https://leetcode.com/problems/min-cost-climbing-stairs/) (had to look at the solution):
 
-```
+```py
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
         for i in range(2, len(cost)):
@@ -1354,7 +1354,7 @@ class Solution:
 
 Last unsuccessful submit:
 
-```
+```py
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
         cost_0 = 0
@@ -1381,7 +1381,7 @@ class Solution:
 
 - <time>Jul 09, 2022</time> Finished [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) but I had to look at the solution:
 
-```
+```py
 class Solution:
     def findJudge(self, n: int, trust: List[List[int]]) -> int:
         if n == 1:
@@ -1412,7 +1412,7 @@ class Solution:
 
 - <time>Jul 08, 2022</time> Finished [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/):
 
-```
+```py
 class Solution:
     def findRestaurant(self, list1: List[str], list2: List[str]) -> List[str]:
         common_interest = sorted([(i, list1.index(i) + list2.index(i)) for i in list1 if i in list2], key=lambda x: x[1])
@@ -1429,7 +1429,7 @@ class Solution:
 
 - <time>Jul 07, 2022</time> Finished [Super Pow](https://leetcode.com/problems/super-pow/submissions/) (though I basically looked at the solution, at least I learnt about [a cool piece of maths](https://brilliant.org/wiki/eulers-totient-function/)):
 
-```
+```py
 class Solution:
     def superPow(self, a: int, b: List[int]) -> int:
         from math import gcd
@@ -1446,7 +1446,7 @@ class Solution:
 
 - <time>Jul 06, 2022</time> Finished [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/):
 
-```
+```py
 class Solution:
     def findMiddleIndex(self, nums: List[int]) -> int:
         return min([i for i in range(len(nums)) if sum(nums[:i]) == sum(nums[i+1:])], default=-1)
@@ -1454,7 +1454,7 @@ class Solution:
 
 - <time>Jul 05, 2022</time> Finished [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/):
 
-```
+```py
 class Solution:
     def shortestToChar(self, s: str, c: str) -> List[int]:
         indices = [i for i in range(len(s)) if s[i] == c]
@@ -1463,7 +1463,7 @@ class Solution:
 
 - <time>Jul 04, 2022</time> Lol, I got a 404ms runtime for [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) (which beat exactly 5.00% of all Python3 submissions):
 
-```
+```py
 class Solution:
     def maxProductDifference(self, nums: List[int]) -> int:
         if len(set(nums)) == 1:
@@ -1498,7 +1498,7 @@ class MedianFinder:
 
 - <time>Jul 02, 2022</time> Finished [Relative Ranks](https://leetcode.com/problems/relative-ranks/):
 
-```
+```py
 class Solution:
     def findRelativeRanks(self, score: List[int]) -> List[str]:
         reference = sorted(score, reverse=True)
@@ -1520,7 +1520,7 @@ class Solution:
 
 - <time>Jul 01, 2022</time> Trying to solve more medium problems, so [here we are](https://leetcode.com/problems/simple-bank-system/submissions/):
 
-```
+```py
 class Bank:
 
     def __init__(self, balance: List[int]):
@@ -1556,7 +1556,7 @@ class Bank:
 
 - <time>Jun 30, 2022</time> Finished [Design HashSet](https://leetcode.com/problems/design-hashset/):
 
-```
+```py
 class MyHashSet:
 
     def __init__(self):
@@ -1581,7 +1581,7 @@ class MyHashSet:
 
 - <time>Jun 29, 2022</time> Finished [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/) but I had to look at the solution:
 
-```
+```py
 class Solution:
     def countVowels(self, word: str) -> int:
          return sum([(i+1) * (len(word) - i) for i in range(len(word)) if word[i] in ['a', 'e', 'i', 'o', 'u']])
@@ -1589,7 +1589,7 @@ class Solution:
 
 - <time>Jun 28, 2022</time> Finished [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/):
 
-```
+```py
 class Solution:
     def selfDividingNumbers(self, left: int, right: int) -> List[int]:
         def selfDividing(n):
@@ -1605,7 +1605,7 @@ class Solution:
 
 - <time>Jun 27, 2022</time> Finished [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/):
 
-```
+```py
 class Solution:
     def checkRecord(self, s: str) -> bool:
         if s.count('A') < 2 and 'LLL' not in s:
@@ -1615,7 +1615,7 @@ class Solution:
 
 - <time>Jun 26, 2022</time> Finished [Count Asterisks](https://leetcode.com/problems/count-asterisks/):
 
-```
+```py
 class Solution:
     def countAsterisks(self, s: str) -> int:
         array = s.split("|")
@@ -1624,7 +1624,7 @@ class Solution:
 
 - <time>Jun 25, 2022</time> Finished [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/), but I had to look at the solution (forgot about `like`, I was trying to use substring lol):
 
-```
+```sql
 # Write your MySQL query statement below
 SELECT * FROM Patients WHERE conditions like 'DIAB1%' or conditions like '% DIAB1%'
 
@@ -1632,7 +1632,7 @@ SELECT * FROM Patients WHERE conditions like 'DIAB1%' or conditions like '% DIAB
 
 - <time>Jun 24, 2022</time> I got tunnel visioned in [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/), focused so much on list comprehension that I forgot about normal for loops (which was presented in the solution):
 
-```
+```py
 class Solution:
     def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:
         count = 0
@@ -1650,7 +1650,7 @@ class Solution:
 
 - <time>Jun 23, 2022</time> I was sort of close with [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/), but I had to look at the solution:
 
-```
+```py
 class Solution:
     def shortestCompletingWord(self, licensePlate: str, words: List[str]) -> str:
         s=re.sub('[0-9\s]','',licensePlate)
@@ -1674,7 +1674,7 @@ class Solution:
 
 - <time>Jun 22, 2022</time> Nice. Finished [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/submissions/) in one submit. I'll try to tackle [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) tomorrow:
 
-```
+```py
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
         return sorted(points, key=lambda x: sqrt(x[0] ** 2 + x[1] ** 2))[:k]
@@ -1689,7 +1689,7 @@ sed -n 10p file.txt
 
 - <time>Jun 20, 2022</time> Finished [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/):
 
-```
+```py
 class Solution:
     def canMakeArithmeticProgression(self, arr: List[int]) -> bool:
         if len(arr) > 2:
@@ -1702,7 +1702,7 @@ class Solution:
 
 - <time>Jun 19, 2022</time> Finished [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation):
 
-```
+```py
 class Solution:
     def interpret(self, command: str) -> str:
         command = command.replace("()", "o")
@@ -1713,7 +1713,7 @@ class Solution:
 
 - <time>Jun 18, 2022</time> Finished [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/):
 
-```
+```py
 class Solution:
     def percentageLetter(self, s: str, letter: str) -> int:
         return floor((s.count(letter) / len(s)) * 100)
@@ -1742,7 +1742,7 @@ class Solution:
 
 - <time>Jun 16, 2022</time> Finished [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/), but I had to look at the solution (mine was too slow):
 
-```
+```py
 class Solution:
     def findPoisonedDuration(self, timeSeries: List[int], duration: int) -> int:
         if len(timeSeries) == 0:
@@ -1758,7 +1758,7 @@ class Solution:
 
 - <time>Jun 15, 2022</time> Finished [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/), but I had to look at the solution:
 
-```
+```py
 from math import pi, sqrt, cos, sin
 from random import random
 
@@ -1781,7 +1781,7 @@ class Solution:
 
 - <time>Jun 14, 2022</time> Finished [Distribute Candies](https://leetcode.com/problems/distribute-candies/):
 
-```
+```py
 class Solution:
     def distributeCandies(self, candyType: List[int]) -> int:
         types = len(set(candyType))
@@ -1795,7 +1795,7 @@ class Solution:
 
 - <time>Jun 13, 2022</time> Finished [Keyboard Row](https://leetcode.com/problems/keyboard-row/):
 
-```
+```py
 class Solution:
     def findWords(self, words: List[str]) -> List[str]:
         first_row = "qwertyuiop"
@@ -1807,7 +1807,7 @@ class Solution:
 
 - <time>Jun 12, 2022</time> Finished [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/):
 
-```
+```py
 class Solution:
     def judgeCircle(self, moves: str) -> bool:
         y = 0
@@ -1828,7 +1828,7 @@ class Solution:
 
 - <time>Jun 11, 2022</time> Finished [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/):
 
-```
+```py
 class Solution:
     def titleToNumber(self, columnTitle: str) -> int:
         conversion = {
@@ -1870,7 +1870,7 @@ class Solution:
 
 - <time>Jun 10, 2022</time> Finished [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/). I'm really unsure why repeated division doesn't work for all numbers:
 
-```
+```py
 class Solution:
     def convertToTitle(self, columnNumber: int) -> str:
         conversion = {
@@ -1931,7 +1931,7 @@ class Solution:
 
 - <time>Jun 09, 2022</time> Finished [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/):
 
-```
+```py
 class Solution:
     def divideArray(self, nums: List[int]) -> bool:
         if False in [nums.count(i) % 2 == 0 for i in nums]:
@@ -1941,7 +1941,7 @@ class Solution:
 
 - <time>Jun 08, 2022</time> Finished [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/), but I had to look at the solution:
 
-```
+```py
 class Solution:
     def sortByBits(self, arr: List[int]) -> List[int]:
         def bit_count(x):
@@ -1958,7 +1958,7 @@ class Solution:
 
 - <time>Jun 07, 2022</time> Sigh, my binary search solution for [First Bad Version](https://leetcode.com/problems/first-bad-version/) timed out so I had to look at the solution:
 
-```
+```py
 # The isBadVersion API is already defined for you.
 # def isBadVersion(version: int) -> bool:
 
@@ -1979,7 +1979,7 @@ class Solution:
 
 - <time>Jun 06, 2022</time> Finished [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/):
 
-```
+```py
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -1993,7 +1993,7 @@ class Solution:
 
 - <time>Jun 05, 2022</time> [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) is an interesting problem. The people who created the test cases wanted to make sure that you used a very rare placeholder. I used the non-breaking space (" "):
 
-```
+```py
 class Solution:
     def reverseVowels(self, s: str) -> str:
         if s != " ":
@@ -2019,7 +2019,7 @@ class Solution:
 
 - <time>Jun 04, 2022</time> MAN I could have solved [Perfect Number](https://leetcode.com/problems/perfect-number/) without looking at the solution if I had remembered to use the `sqrt()` trick when it comes to factors of numbers...
 
-```
+```py
 class Solution:
     def checkPerfectNumber(self, num: int) -> bool:
         res = 0
@@ -2035,7 +2035,7 @@ class Solution:
 
 - <time>Jun 03, 2022</time> Finished [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/):
 
-```
+```py
 class Solution:
     def countSegments(self, s: str) -> int:
         return len([i for i in s.split(" ") if i != ""])
@@ -2043,7 +2043,7 @@ class Solution:
 
 - <time>Jun 02, 2022</time> Finished [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/), first submit!:
 
-```
+```py
 class Solution:
     def transpose(self, matrix: List[List[int]]) -> List[List[int]]:
         res = []
@@ -2056,7 +2056,7 @@ class Solution:
 
 - <time>Jun 01, 2022</time> Finished [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/):
 
-```
+```py
 class RandomizedSet:
 
     def __init__(self):
@@ -2090,7 +2090,7 @@ class RandomizedSet:
 
 - <time>May 31, 2022</time> Man, I was pretty so close with [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) but alas, I had to look at the solution:
 
-```
+```py
 class MyStack:
     def __init__(self):
         self.stack =[]
@@ -2118,7 +2118,7 @@ class MyStack:
 
 - <time>May 30, 2022</time> Finished [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/):
 
-```
+```py
 class Solution:
     def defangIPaddr(self, address: str) -> str:
         return address.replace(".", "[.]")
@@ -2126,7 +2126,7 @@ class Solution:
 
 - <time>May 29, 2022</time> [Another failed medium problem](https://leetcode.com/problems/random-pick-index/) that I had to look at the solution for (at least [people don't seem to like this one very much](https://leetcode.com/problems/random-pick-index/solution/) lol):
 
-```
+```py
 class Solution:
 
     def __init__(self, nums: List[int]):
@@ -2150,7 +2150,7 @@ class Solution:
 
 - <time>May 28, 2022</time> Man, I was kind of close with [Count and Say](https://leetcode.com/problems/count-and-say/), but I had to look at the solution:
 
-```
+```py
 class Solution:
     def countAndSay(self, n: int) -> str:
         output = '1'
@@ -2163,7 +2163,7 @@ class Solution:
 
 - <time>May 27, 2022</time> Finished [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/):
 
-```
+```py
 class Solution:
     def countOperations(self, num1: int, num2: int) -> int:
         if num1 == 0 or num2 == 0:
@@ -2189,7 +2189,7 @@ class Solution:
 
 - <time>May 26, 2022</time> Finished [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/):
 
-```
+```py
 class Solution:
     def countPrimeSetBits(self, left: int, right: int) -> int:
         # https://stackoverflow.com/questions/1801391/how-to-create-the-most-compact-mapping-n-%E2%86%92-isprimen-up-to-a-limit-n
@@ -2222,7 +2222,7 @@ class Solution:
 
 - <time>May 25, 2022</time> Finished [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/):
 
-```
+```py
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -2245,7 +2245,7 @@ class Solution:
 
 - <time>May 24, 2022</time> Finished [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/submissions/):
 
-```
+```py
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -2268,7 +2268,7 @@ class Solution:
 
 - <time>May 23, 2022</time> Finished [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) and [made a post about my solution](<https://leetcode.com/problems/sum-of-left-leaves/discuss/2066550/Simple-recursive-Python-3-solution-(faster-than-~83)>):
 
-```
+```py
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -2293,7 +2293,7 @@ class Solution:
 
 - <time>May 22, 2022</time> Finished [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) with a very bad solution:
 
-```
+```py
 class KthLargest:
 
     def __init__(self, k: int, nums: List[int]):
@@ -2316,7 +2316,7 @@ class KthLargest:
 
 - <time>May 21, 2022</time> Finished [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) though I looked at the solution for the return statement and the type of traversal:
 
-```
+```py
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -2339,7 +2339,7 @@ class Solution:
 
 - <time>May 20, 2022</time> Finished [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/):
 
-```
+```py
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -2362,7 +2362,7 @@ class Solution:
 
 - <time>May 19, 2022</time> Finished [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) (also I'm pretty sure yesterday's solution violated the problem's constraints):
 
-```
+```py
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
@@ -2384,7 +2384,7 @@ class Solution:
 
 - <time>May 18, 2022</time> Finished [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/):
 
-```
+```py
 class MyQueue:
 
     def __init__(self):
@@ -2413,7 +2413,7 @@ class MyQueue:
 
 - <time>May 17, 2022</time> Finished [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) but I had to look at the solution:
 
-```
+```py
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, x):
@@ -2437,7 +2437,7 @@ class Solution:
 
 - <time>May 16, 2022</time> Solved [my first stack problem](https://leetcode.com/problems/min-stack/)! Never knew I would come this far lol:
 
-```
+```py
 class MinStack:
 
     def __init__(self):
@@ -2470,7 +2470,7 @@ class MinStack:
 
 - <time>May 15, 2022</time> Finished [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/):
 
-```
+```py
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -2494,7 +2494,7 @@ class Solution:
 
 - <time>May 14, 2022</time> Finished [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree). The mode part was harder than the binary tree part lol (since we needed to account for ties):
 
-```
+```py
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -2521,7 +2521,7 @@ class Solution:
 
 - <time>May 13, 2022</time> Finished [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) (again, previously learnt this with Brilliant):
 
-```
+```py
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -2545,7 +2545,7 @@ class Solution:
 
 - <time>May 12, 2022</time> Finished [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) (again, previously learnt this with Brilliant):
 
-```
+```py
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -2569,7 +2569,7 @@ class Solution:
 
 - <time>May 11, 2022</time> Finished [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (I learnt this traversal method with [Brilliant](/#brilliant/) so it was just a matter of remembering it):
 
-```
+```py
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -2593,7 +2593,7 @@ class Solution:
 
 - <time>May 10, 2022</time> I did it! [Solved a problem about a new data structure I learnt](https://leetcode.com/problems/same-tree/) without seeing the solution (yes I know, it's a very simple problem lol):
 
-```
+```py
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -2621,7 +2621,7 @@ class Solution:
 
 - <time>May 09, 2022</time> Finished [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/):
 
-```
+```py
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
         if digits != "":
@@ -2643,7 +2643,7 @@ class Solution:
 
 - <time>May 08, 2022</time> Finished [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) but I had to look at the solution:
 
-```
+```py
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
@@ -2666,7 +2666,7 @@ class Solution:
 
 - <time>May 06, 2022</time> Finished [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/):
 
-```
+```py
 class Solution:
     def removeDigit(self, number: str, digit: str) -> str:
         nums = list(number)
@@ -2676,7 +2676,7 @@ class Solution:
 
 - <time>May 05, 2022</time> I belly laughed after the simplest one-liner I could think of actually got through all the test cases for Check if All A's Appears Before All B's:
 
-```
+```py
 class Solution:
     def checkString(self, s: str) -> bool:
         return 'a' not in s[len([i for i in s if i == "a"]):]
@@ -2684,7 +2684,7 @@ class Solution:
 
 - <time>May 04, 2022</time> Finished [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/), will try to finish [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) tomorrow:
 
-```
+```py
 class Solution:
     def areNumbersAscending(self, s: str) -> bool:
         if [int(i) for i in s.split() if i.isdigit()].count([int(i) for i in s.split() if i.isdigit()][0]) == len([int(i) for i in s.split() if i.isdigit()]):
@@ -2698,7 +2698,7 @@ class Solution:
 
 - <time>May 03, 2022</time> Finished [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/):
 
-```
+```py
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
         first_max = max(nums)
@@ -2710,7 +2710,7 @@ class Solution:
 
 - <time>May 02, 2022</time> Had to look at the solution for [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) after my very long solution only got ~79% of the tests cases correct :(
 
-```
+```py
 class Solution:
     def countVowelSubstrings(self, word: str) -> int:
         return sum(set(word[i:j+1]) == set('aeiou') for i in range(len(word)) for j in range(i+1, len(word)))
@@ -2718,7 +2718,7 @@ class Solution:
 
 - <time>May 01, 2022</time> I overcomplicated my solution for [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) which led me to looking at the solution (which is so darn simple!):
 
-```
+```py
 class Solution:
     def backspaceCompare(self, s: str, t: str) -> bool:
         s_res = []
@@ -2741,7 +2741,7 @@ class Solution:
 
 - <time>Apr 30, 2022</time> I was so close with [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/) but alas, had to look at the solution:
 
-```
+```py
 class Solution:
     def checkAlmostEquivalent(self, word1: str, word2: str) -> bool:
         letters = set(word1 + word2)
@@ -2754,7 +2754,7 @@ class Solution:
 
 - <time>Apr 29, 2022</time> Finished [Reformat Date](https://leetcode.com/problems/reformat-date/):
 
-```
+```py
 class Solution:
     def reformatDate(self, date: str) -> str:
         given_day = "".join([i for i in date[:4] if i not in "thndrdst"]).strip()
@@ -2795,7 +2795,7 @@ class Solution:
 
 - <time>Apr 28, 2022</time> Finished [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/):
 
-```
+```py
 class Solution:
     def isCovered(self, ranges: List[List[int]], left: int, right: int) -> bool:
         return False not in [i in [i for j in [[*range(i[0], i[1] + 1)] for i in ranges] for i in j] for i in range(left, right + 1)]
@@ -2803,7 +2803,7 @@ class Solution:
 
 - <time>Apr 27, 2022</time> Finished [Count Integers with Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/) with a bad for loop. I'll be trying to learn some data structures in the next few months so hopefully this should go:
 
-```
+```py
 class Solution:
     def countEven(self, num: int) -> int:
         res = []
@@ -2817,7 +2817,7 @@ class Solution:
 
 - <time>Apr 26, 2022</time> Finished [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/):
 
-```
+```py
 class Solution:
     def findClosestNumber(self, nums: List[int]) -> int:
         distances = [(i, abs(i)) for i in nums]
@@ -2829,7 +2829,7 @@ class Solution:
 
 - <time>Apr 25, 2022</time> Finished [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/):
 
-```
+```py
 class Solution:
     def getLucky(self, s: str, k: int) -> int:
         res = int("".join([str(ord(i) - 96) for i in s]))
@@ -2843,7 +2843,7 @@ class Solution:
 
 - <time>Apr 24, 2022</time> Finished [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/):
 
-```
+```py
 class Solution:
     def checkValid(self, matrix: List[List[int]]) -> bool:
         compare = [i for i in range(1, len(matrix) + 1)]
@@ -2861,7 +2861,7 @@ class Solution:
 
 - <time>Apr 23, 2022</time> Finished [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/), though I basically looked at the solution:
 
-```
+```py
 class Solution:
     def diagonalSum(self, mat: List[List[int]]) -> int:
         if len(mat) % 2 == 0:
@@ -2872,7 +2872,7 @@ class Solution:
 
 - <time>Apr 22, 2022</time> Finished [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/):
 
-```
+```py
 class Solution:
     def dominantIndex(self, nums: List[int]) -> int:
         no_max = nums[:]
@@ -2887,7 +2887,7 @@ class Solution:
 
 - <time>Apr 21, 2022</time> Finished [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/):
 
-```
+```py
 class Solution:
     def fib(self, n: int) -> int:
         def fibonacci(n):
@@ -2903,41 +2903,41 @@ class Solution:
 
 - <time>Apr 20, 2022</time> Finished [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) but I had to look at the solution (I was pretty darn close! I just couldn't isolate the name):
 
-```
+```sql
 SELECT employee.Name AS 'Employee' FROM Employee AS employee, Employee AS manager WHERE employee.ManagerId = manager.Id AND employee.Salary > manager.Salary
 ```
 
 - <time>Apr 19, 2022</time> Finished [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/):
 
-```
+```sql
 # Write your MySQL query statement below
 SELECT employee_id, IF(employee_id % 2 != 0 AND LEFT(name, 1)  != "M", salary, 0) as bonus FROM Employees
 ```
 
 - <time>Apr 18, 2022</time> Finished [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students):
 
-```
+```sql
 # Write your MySQL query statement below
 SELECT class FROM (SELECT class, COUNT(student) as student_count FROM Courses GROUP BY class) as class WHERE student_count >= 5
 ```
 
 - <time>Apr 17, 2022</time> Finished [Article Views I](https://leetcode.com/problems/article-views-i/):
 
-```
+```sql
 # Write your MySQL query statement below
 SELECT DISTINCT author_id as id FROM Views WHERE author_id = viewer_id ORDER BY author_id ASC
 ```
 
 - <time>Apr 16, 2022</time> Finished [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/):
 
-```
+```sql
 # Write your MySQL query statement below
 SELECT name FROM Customer WHERE referee_id IS NULL OR referee_id != 2
 ```
 
 - <time>Apr 15, 2022</time> Finished [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/):
 
-```
+```py
 class Solution:
     def isPrefixString(self, s: str, words: List[str]) -> bool:
         return s in ["".join(words[:i + 1]) for i in range(len(words))]
@@ -2945,7 +2945,7 @@ class Solution:
 
 - <time>Apr 14, 2022</time> Finished [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/), will do [its sequel](https://leetcode.com/problems/intersection-of-two-arrays-ii/) tomorrow:
 
-```
+```py
 class Solution:
     def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
         return set([i for i in nums1 if i in nums2])
@@ -2953,7 +2953,7 @@ class Solution:
 
 - <time>Apr 13, 2022</time> Finished [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string):
 
-```
+```py
 class Solution:
     def firstUniqChar(self, s: str) -> int:
         return [i for i in range(len(s)) if s[i] not in s[:i] + s[i + 1:]][0] if len([i for i in range(len(s)) if s[i] not in s[:i] + s[i + 1:]]) > 0 else -1
@@ -2961,7 +2961,7 @@ class Solution:
 
 - <time>Apr 12, 2022</time> Finished [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/):
 
-```
+```py
 class Solution:
     def uniqueMorseRepresentations(self, words: List[str]) -> int:
         def wordToMorse(word):
@@ -2984,7 +2984,7 @@ class Solution:
 
 - <time>Apr 11, 2022</time> Finished [Reverse Bits](https://leetcode.com/problems/reverse-bits/) but I had to look at the solution:
 
-```
+```py
 class Solution:
     def reverseBits(self, n: int) -> int:
         return int(bin(n)[2:].zfill(32)[::-1], 2)
@@ -2992,7 +2992,7 @@ class Solution:
 
 - <time>Apr 10, 2022</time> Finished [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products), not sure why putting each SQL "part" in separate lines is faster:
 
-```
+```sql
 # Write your MySQL query statement below
 SELECT product_id
 FROM Products
@@ -3002,7 +3002,7 @@ AND recyclable='Y'
 
 - <time>Apr 09, 2022</time> Finished [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) with Binary Search:
 
-```
+```py
 # The guess API is already defined for you.
 # @param num, your guess
 # @return -1 if num is higher than the picked number
@@ -3027,7 +3027,7 @@ class Solution:
 
 - <time>Apr 08, 2022</time> Finished [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array):
 
-```
+```py
 class Solution:
     def xorOperation(self, n: int, start: int) -> int:
         return eval("^".join([str(start + 2 * i) for i in range(n)]))
@@ -3035,7 +3035,7 @@ class Solution:
 
 - <time>Apr 07, 2022</time> Finished [Goat Latin](https://leetcode.com/problems/goat-latin/) with a decently fast solution:
 
-```
+```py
 class Solution:
     def toGoatLatin(self, sentence: str) -> str:
         res = []
@@ -3054,7 +3054,7 @@ class Solution:
 
 - <time>Apr 06, 2022</time> Finished [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/submissions/):
 
-```
+```py
 class Solution:
     def sumBase(self, n: int, k: int) -> int:
         # https://stackoverflow.com/a/28666223/15329048
@@ -3073,7 +3073,7 @@ class Solution:
 
 - <time>Apr 05, 2022</time> Finished [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/):
 
-```
+```py
 class Solution:
     def squareIsWhite(self, coordinates: str) -> bool:
         letter_number = ord(coordinates[:1]) - 96
@@ -3086,7 +3086,7 @@ class Solution:
 
 - <time>Apr 04, 2022</time> Finished [Rotate String](https://leetcode.com/problems/rotate-string/) with a one-liner that [I made a post about](https://leetcode.com/problems/rotate-string/discuss/1913514/Easy-and-faster-than-95-Python-one-liner):
 
-```
+```py
 class Solution:
     def rotateString(self, s: str, goal: str) -> bool:
         return s in [goal[i:] + goal[:i] for i in range(0, len(goal))]
@@ -3094,7 +3094,7 @@ class Solution:
 
 - <time>Apr 03, 2022</time> Finished [Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/) (though I basically looked at the solution). I think I'm going to do [this problem](https://leetcode.com/problems/surface-area-of-3d-shapes/) next:
 
-```
+```py
 class Solution:
     def addNegabinary(self, arr1: List[int], arr2: List[int]) -> List[int]:
         # https://stackoverflow.com/a/56416623/15329048
@@ -3121,7 +3121,7 @@ class Solution:
 
 - <time>Apr 02, 2022</time> Finished [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/):
 
-```
+```py
 class Solution:
     def findDifference(self, nums1: List[int], nums2: List[int]) -> List[List[int]]:
         return [list(dict.fromkeys([i for i in nums1 if i not in nums2])), list(dict.fromkeys([i for i in nums2 if i not in nums1]))]
@@ -3129,7 +3129,7 @@ class Solution:
 
 - <time>Apr 01, 2022</time> Finished [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/):
 
-```
+```py
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         return sorted(list(dict.fromkeys(nums)), key=nums.count, reverse=True)[:k]
@@ -3137,7 +3137,7 @@ class Solution:
 
 - <time>Mar 31, 2022</time> This took so gosh dang long, but I think I got [one of the first Python one-liners](https://leetcode.com/problems/next-greater-element-i/discuss/1899938/First-ever-one-liner-in-Python-for-this-problem) for [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) (possibly the first?):
 
-```
+```py
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
         return [[j for j in nums2[nums2.index(i):] if j > i][0] if len([j for j in nums2[nums2.index(i):] if j > i]) > 0 else -1 for i in nums1]
@@ -3145,7 +3145,7 @@ class Solution:
 
 - <time>Mar 30, 2022</time> Finished [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/):
 
-```
+```py
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         return target in [i for j in matrix for i in j]
@@ -3153,7 +3153,7 @@ class Solution:
 
 - <time>Mar 29, 2022</time> Finished [Reverse Integer](https://leetcode.com/problems/reverse-integer/):
 
-```
+```py
 class Solution:
     def reverse(self, x: int) -> int:
         if x > 0:
@@ -3171,7 +3171,7 @@ class Solution:
 
 - <time>Mar 28, 2022</time> Finished [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/1):
 
-```
+```py
 class Solution:
     def search(self, nums: List[int], target: int) -> bool:
         return target in nums
@@ -3179,7 +3179,7 @@ class Solution:
 
 - <time>Mar 27, 2022</time> Finished [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) with a nice one-liner:
 
-```
+```py
 class Solution:
     def kWeakestRows(self, mat: List[List[int]], k: int) -> List[int]:
         return [i[0] for i in sorted([(i, j.count(1)) for i, j in enumerate(mat)], key=lambda x: x[1])][:k]
@@ -3187,7 +3187,7 @@ class Solution:
 
 - <time>Mar 26, 2022</time> Sort of finished [Permutations](https://leetcode.com/problems/permutations/):
 
-```
+```py
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         import itertools
@@ -3197,7 +3197,7 @@ class Solution:
 
 - <time>Mar 25, 2022</time> Finished [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) with the "[:]" trick:
 
-```
+```py
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         """
@@ -3209,7 +3209,7 @@ class Solution:
 
 - <time>Mar 24, 2022</time> I was watching [a video on the binary search algorithm](https://www.youtube.com/watch?v=MFhxShGxHWc) and I implemented the while loop version in Python in [Binary Search](https://leetcode.com/problems/binary-search) (had to look online for it in another language, in this case [JavaScript](https://www.javascript.com/)):
 
-```
+```py
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         start = 0
@@ -3229,7 +3229,7 @@ class Solution:
 
 - <time>Mar 23, 2022</time> Finished [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) though I sort of looked at [the solution](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/submissions/), manually counting all the odd numbers was too slow:
 
-```
+```py
 class Solution:
     def countOdds(self, low: int, high: int) -> int:
         # https://math.stackexchange.com/a/3798408
@@ -3244,7 +3244,7 @@ class Solution:
 
 - <time>Mar 22, 2022</time> Finished [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/):
 
-```
+```py
 class Solution:
     def numJewelsInStones(self, jewels: str, stones: str) -> int:
         return len([i for i in stones if i in jewels])
@@ -3252,7 +3252,7 @@ class Solution:
 
 - <time>Mar 21, 2022</time> Finished [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) with a one-liner:
 
-```
+```py
 class Solution:
     def findKthPositive(self, arr: List[int], k: int) -> int:
         return list(set(range(1, 2500)) - set(arr))[k - 1]
@@ -3260,14 +3260,14 @@ class Solution:
 
 - <time>Mar 20, 2022</time> Finished [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/):
 
-```
+```sql
 # Write your MySQL query statement below
 SELECT * FROM Cinema WHERE id % 2 != 0 AND DESCRIPTION != 'boring' ORDER BY rating DESC
 ```
 
 - <time>Mar 19, 2022</time> Finished [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) with a nice [math based answer](https://math.stackexchange.com/questions/405966/if-i-have-three-points-is-there-an-easy-way-to-tell-if-they-are-collinear):
 
-```
+```py
 class Solution:
     def isBoomerang(self, points: List[List[int]]) -> bool:
         # https://math.stackexchange.com/questions/405966/if-i-have-three-points-is-there-an-easy-way-to-tell-if-they-are-collinear
@@ -3276,7 +3276,7 @@ class Solution:
 
 - <time>Mar 18, 2022</time> So this is why it's a nightmare to work with date/time while programming, finished with [Day of the Year](https://leetcode.com/problems/day-of-the-year/):
 
-```
+```py
 class Solution:
     def dayOfYear(self, date: str) -> int:
         month = int(date[5:7])
@@ -3389,7 +3389,7 @@ class Solution:
 
 - <time>Mar 17, 2022</time> Finished ~~the worst problem on LeetCode~~ [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) but I had to look at the solution since my answer was a couple of milliseconds too slow:
 
-```
+```py
 class Solution:
     def prefixesDivBy5(self, nums: List[int]) -> List[bool]:
         string = "".join(str(i) for i in nums)
@@ -3398,21 +3398,21 @@ class Solution:
 
 - <time>Mar 16, 2022</time> Finished [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order):
 
-```
+```sql
 # Write your MySQL query statement below
 SELECT name as Customers FROM Customers WHERE id NOT IN ( SELECT customerId from Orders )
 ```
 
 - <time>Mar 15, 2022</time> Finished [Big Countries](https://leetcode.com/problems/big-countries/):
 
-```
+```sql
 # Write your MySQL query statement below
 SELECT name, population, area FROM World WHERE area>=3000000 OR population>=25000000
 ```
 
 - <time>Mar 14, 2022</time> Finished [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/):
 
-```
+```py
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         nums[:] =  list(dict.fromkeys(nums))
@@ -3420,14 +3420,14 @@ class Solution:
 
 - <time>Mar 13, 2022</time> Finished [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/), I technically looked at the solution as I didn't know about the existence of "HAVING":
 
-```
+```sql
 # Write your MySQL query statement below
 SELECT email FROM Person GROUP BY email HAVING COUNT(id) >1;
 ```
 
 - <time>Mar 12, 2022</time> [Day of the Week](https://leetcode.com/problems/day-of-the-week/) took SO LONG but I'm really proud of my solution, with no imports!
 
-```
+```py
 class Solution:
     def dayOfTheWeek(self, day: int, month: int, year: int) -> str:
         # Using this peculiar Quora answer: https://www.quora.com/How-do-I-calculate-the-day-from-dates#:~:text=I%20have%20explained%20this%20with%20by%20taking%202%20examples.%20hope%20this%20will%20help%20you.
@@ -3516,7 +3516,7 @@ class Solution:
 
 - <time>Mar 11, 2022</time> I was overthinking [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) and I had to look at the solution:
 
-```
+```py
 class Solution:
     def numIdenticalPairs(self, nums: List[int]) -> int:
         count = 0
@@ -3531,7 +3531,7 @@ class Solution:
 
 - <time>Mar 10, 2022</time> Finished with [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix), not every fast but oh well:
 
-```
+```py
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         return target in [i for j in matrix for i in j]
@@ -3539,7 +3539,7 @@ class Solution:
 
 - <time>Mar 09, 2022</time> Finished [Baseball Game](https://leetcode.com/problems/baseball-game/) with a non-one liner (gasp). A really fun problem!
 
-```
+```py
 class Solution:
     def calPoints(self, ops: List[str]) -> int:
         scores = []
@@ -3559,7 +3559,7 @@ class Solution:
 
 - <time>Mar 08, 2022</time> Finally, finished [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) with a decent one-liner:
 
-```
+```py
 class Solution:
     def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
         return [True if i + extraCandies >= max(candies) else False for i in candies]
@@ -3567,7 +3567,7 @@ class Solution:
 
 - <time>Mar 07, 2022</time> Two days in a row of looking at the solution, sigh. The problem was [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/):
 
-```
+```py
 class Solution:
     def countConsistentStrings(self, allowed: str, words: List[str]) -> int:
         return sum(1 for word in words if set(word) <= set(allowed))
@@ -3575,7 +3575,7 @@ class Solution:
 
 - <time>Mar 06, 2022</time> Sad, had to look at the solution for [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/):
 
-```
+```py
 class Solution:
     def shuffle(self, nums: List[int], n: int) -> List[int]:
         return [nums[(i >> 1) + n * (i & 1)] for i in range(2 * n)]
@@ -3583,7 +3583,7 @@ class Solution:
 
 - <time>Mar 05, 2022</time> Finished with [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/):
 
-```
+```py
 class Solution:
     def maximumWealth(self, accounts: List[List[int]]) -> int:
         return max([sum(i) for i in accounts])
@@ -3591,7 +3591,7 @@ class Solution:
 
 - <time>Mar 04, 2022</time> Finished with [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/):
 
-```
+```py
 class Solution:
     def duplicateZeros(self, arr: List[int]) -> None:
         """
@@ -3612,7 +3612,7 @@ class Solution:
 
 - <time>Mar 03, 2022</time> Got pretty lucky with finding a solution for [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) in less than ~2 minutes lol:
 
-```
+```py
 class Solution:
     def prefixCount(self, words: List[str], pref: str) -> int:
         return len([i for i in words if pref == i[:len(pref)]])
@@ -3620,7 +3620,7 @@ class Solution:
 
 - <time>Mar 02, 2022</time> [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) took much longer than it should have:
 
-```
+```py
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:
         return [sum(nums[:i]) for i in range(len(nums) + 1)][1:]
@@ -3628,7 +3628,7 @@ class Solution:
 
 - <time>Mar 01, 2022</time> Usually the daily challenges are really tough, but today's [Counting Bits](https://leetcode.com/problems/counting-bits/) was really easy:
 
-```
+```py
 class Solution:
     def countBits(self, n: int) -> List[int]:
         return [bin(i)[2:].count('1') for i in range(n + 1)]
@@ -3636,7 +3636,7 @@ class Solution:
 
 - <time>Feb 28, 2022</time> Finished with [Single Number III](https://leetcode.com/problems/single-number-iii/), same solution as yesterday's problem but it's returning a list:
 
-```
+```py
 class Solution:
     def singleNumber(self, nums: List[int]) -> List[int]:
         return [i for i in nums if nums.count(i) == 1]
@@ -3644,7 +3644,7 @@ class Solution:
 
 - <time>Feb 27, 2022</time> Finished with [Single Number II](https://leetcode.com/problems/single-number-ii/) with my first submission taking 6251 ms lol:
 
-```
+```py
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
         return [i for i in nums if nums.count(i) == 1][0]
@@ -3652,7 +3652,7 @@ class Solution:
 
 - <time>Feb 26, 2022</time> Finished with [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) but I had to look at the solution, really neat solution!
 
-```
+```py
 class Solution:
     def hasGroupsSizeX(self, deck: List[int]) -> bool:
         return gcd(*Counter(deck).values()) > 1
@@ -3660,7 +3660,7 @@ class Solution:
 
 - <time>Feb 25, 2022</time> Finished with [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/):
 
-```
+```py
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
         return [len([j for j in nums if j < i]) for i in nums]
@@ -3668,7 +3668,7 @@ class Solution:
 
 - <time>Feb 24, 2022</time> Finished with [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/):
 
-```
+```py
 class Solution:
     def average(self, salary: List[int]) -> float:
         return sum([i for i in salary if i != min(salary) and i != max(salary)])/len([i for i in salary if i != min(salary) and i != max(salary)])
@@ -3676,7 +3676,7 @@ class Solution:
 
 - <time>Feb 23, 2022</time> Finished with [Two Out of Three](https://leetcode.com/problems/two-out-of-three/):
 
-```
+```py
 class Solution:
     def twoOutOfThree(self, nums1: List[int], nums2: List[int], nums3: List[int]) -> List[int]:
         return list(set([i for i in nums1 if i in nums2 or i in nums3] + [i for i in nums2 if i in nums1 or i in nums3] + [i for i in nums3 if i in nums1 or i in nums2]))
@@ -3684,13 +3684,13 @@ class Solution:
 
 - <time>Feb 22, 2022</time> Finished with [Permutations II](https://leetcode.com/problems/permutations-ii/) but I felt that my solution wasn't really good (I used a package that did all of the heavy lifting) and so I finished [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) as well:
 
-```
+```py
 class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
         return set([i for i in list(permutations(nums))])
 ```
 
-```
+```py
 class Solution:
     def countNegatives(self, grid: List[List[int]]) -> int:
         return len([i for i in [i for j in grid for i in j] if i < 0])
@@ -3698,7 +3698,7 @@ class Solution:
 
 - <time>Feb 21, 2022</time> Finished with [Flipping an Image](https://leetcode.com/problems/flipping-an-image/), felt good after not doing anything meaningful for LeetCode yesterday so [I made a post about it](https://leetcode.com/problems/flipping-an-image/discuss/1788727/Sort-of-fast-one-liner-for-Python) (even though it's not extremely fast):
 
-```
+```py
 class Solution:
     def flipAndInvertImage(self, image: List[List[int]]) -> List[List[int]]:
         return [[0 if j == 1 else 1 if j == 0 else j for j in i] for i in [i[::-1] for i in image]]
@@ -3708,7 +3708,7 @@ class Solution:
 
 - <time>Feb 19, 2022</time> Took so long to find a problem that I could actually do. Finished with [Set Mismatch](https://leetcode.com/problems/set-mismatch/) (but I had to look at the solution):
 
-```
+```py
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
         return [sum(nums) - sum(set(nums)), sum(range(1, len(nums) + 1)) - sum(set(nums))]
@@ -3716,7 +3716,7 @@ class Solution:
 
 - <time>Feb 18, 2022</time> Finished with Capitalize the Title:
 
-```
+```py
 class Solution:
     def capitalizeTitle(self, title: str) -> str:
         return " ".join([i.capitalize() if len(i) >= 3 else i.lower() for i in title.split()])
@@ -3724,7 +3724,7 @@ class Solution:
 
 - <time>Feb 17, 2022</time> Finished with [Detect Capital](https://leetcode.com/problems/detect-capital/) with a memory-efficient one-liner. Will do [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/) tomorrow:
 
-```
+```py
 class Solution:
     def detectCapitalUse(self, word: str) -> bool:
         return word == word.upper() or word == word.lower() or word == word.capitalize()
@@ -3732,7 +3732,7 @@ class Solution:
 
 - <time>Feb 16, 2022</time> Finished with [Majority Element II](https://leetcode.com/problems/majority-element-ii/) with a sad one-liner (had to escape an absurdly long test case):
 
-```
+```py
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
         return set([i for i in nums if nums.count(i) > len(nums) / 3]) if len(nums) < 10000 else [1, 2]
@@ -3740,7 +3740,7 @@ class Solution:
 
 - <time>Feb 15, 2022</time> Finished with [Slowest Key](https://leetcode.com/problems/slowest-key) wth a very long and slow one-liner that [I made a post about](<https://leetcode.com/problems/slowest-key/discuss/1773220/Interesting-Python3-one-liner-(very-slow)>):
 
-```
+```py
 class Solution:
     def slowestKey(self, releaseTimes: List[int], keysPressed: str) -> str:
         return [i for _, i in sorted(zip([([0] + releaseTimes)[i] - ([0] + releaseTimes)[i - 1] for i in range(len(releaseTimes) + 1)][1:], keysPressed))][-1]
@@ -3748,7 +3748,7 @@ class Solution:
 
 - <time>Feb 14, 2022</time> Finished with [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) with a fast and memory efficient one-liner:
 
-```
+```py
 class Solution:
     def buildArray(self, nums: List[int]) -> List[int]:
         return [nums[nums[i]] for i in range(len(nums))]
@@ -3756,7 +3756,7 @@ class Solution:
 
 - <time>Feb 13, 2022</time> Finished with [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/), interesting problem:
 
-```
+```py
 class Solution:
     def smallestEqual(self, nums: List[int]) -> int:
         return min([i for i in range(len(nums)) if i % 10 == nums[i]], default=-1)
@@ -3764,7 +3764,7 @@ class Solution:
 
 - <time>Feb 12, 2022</time> Finished with [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) with an interesting one-liner [that I made a post about](<https://leetcode.com/problems/minimum-distance-to-the-target-element/discuss/1765258/Simple-Python3-one-liner-(beats-~77)>):
 
-```
+```py
 class Solution:
     def getMinDistance(self, nums: List[int], target: int, start: int) -> int:
         return min(abs(i - start) for i in range(len(nums)) if nums[i] == target)
@@ -3772,7 +3772,7 @@ class Solution:
 
 - <time>Feb 11, 2022</time> Finished with [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/), why are my one-liners so slow?
 
-```
+```py
 class Solution:
     def firstPalindrome(self, words: List[str]) -> str:
         return [i for i in words if i == i[::-1]][0] if len([i for i in words if i == i[::-1]]) else ""
@@ -3780,7 +3780,7 @@ class Solution:
 
 - <time>Feb 10, 2022</time> Sad day, finished [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) but I had to look at the solution:
 
-```
+```py
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
         return ((c:=Counter()),(s:=0),sum(c[s-k] for n in nums if (c.update({s:1}),(s:=s+n))))[-1]
@@ -3789,7 +3789,7 @@ class Solution:
 
 - <time>Feb 09, 2022</time> Finished [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) with a slow one-liner:
 
-```
+```py
 class Solution:
     def targetIndices(self, nums: List[int], target: int) -> List[int]:
         return [i for i in range(len(nums)) if sorted(nums)[i] == target]
@@ -3797,7 +3797,7 @@ class Solution:
 
 - <time>Feb 08, 2022</time> Finished [Find Peak Element](https://leetcode.com/problems/find-peak-element/) with another funny solution (this time, a one-liner):
 
-```
+```py
 class Solution:
     def findPeakElement(self, nums: List[int]) -> int:
         return nums.index(max(nums))
@@ -3805,7 +3805,7 @@ class Solution:
 
 - <time>Feb 07, 2022</time> Finished [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) with a funny solution:
 
-```
+```py
 class Solution:
     def findFinalValue(self, nums: List[int], original: int) -> int:
         while original in nums:
@@ -3816,7 +3816,7 @@ class Solution:
 
 - <time>Feb 06, 2022</time> Finished [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/) with a near one-liner:
 
-```
+```py
 class Solution:
     def numDifferentIntegers(self, word: str) -> int:
         import re
@@ -3826,7 +3826,7 @@ class Solution:
 
 - <time>Feb 05, 2022</time> Finished with [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) with a one-liner:
 
-```
+```py
 class Solution:
     def peakIndexInMountainArray(self, arr: List[int]) -> int:
         return arr.index(max(arr))
@@ -3834,7 +3834,7 @@ class Solution:
 
 - <time>Feb 04, 2022</time> Finished with [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) with a one-liner, fun problem!
 
-```
+```py
 class Solution:
     def repeatedNTimes(self, nums: List[int]) -> int:
         return list(set(sorted(nums)[::2]) & set(sorted(nums)[1::2]))[0]
@@ -3842,7 +3842,7 @@ class Solution:
 
 - <time>Feb 03, 2022</time> Finished with [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) with a near one-liner:
 
-```
+```py
 class Solution:
     def subtractProductAndSum(self, n: int) -> int:
         import math
@@ -3852,7 +3852,7 @@ class Solution:
 
 - <time>Feb 02, 2022</time> Finished with [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) with a pretty fast one-liner (I could have sworn I did this problem before lol):
 
-```
+```py
 class Solution:
     def areOccurrencesEqual(self, s: str) -> bool:
         return len(set([s.count(i) for i in set(s)])) == 1
@@ -3861,7 +3861,7 @@ class Solution:
 
 - <time>Feb 01, 2022</time> Finished with [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) with a very slow one-liner:
 
-```
+```py
 class Solution:
     def maxPower(self, s: str) -> int:
         return max([len(i) for i in [s[i: j] for i in range(len(s)) for j in range(i + 1, len(s) + 1)] if i == len(i) * i[0]])
@@ -3869,7 +3869,7 @@ class Solution:
 
 - <time>Jan 31, 2022</time> Finished with [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/):
 
-```
+```py
 class Solution:
     def secondHighest(self, s: str) -> int:
         digits = sorted(list(set([int(i) for i in s if i.isnumeric()])))
@@ -3884,7 +3884,7 @@ class Solution:
 
 - <time>Jan 30, 2022</time> Finished [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) with a decent one-liner:
 
-```
+```py
 class Solution:
     def reverseWords(self, s: str) -> str:
         return " ".join([i for i in s.split()][::-1])
@@ -3892,7 +3892,7 @@ class Solution:
 
 - <time>Jan 29, 2022</time> Finished [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) with a crazy fast one-liner (beats 96% of submissions), [so I made a post about it](https://leetcode.com/problems/reverse-words-in-a-string-iii/discuss/1728706/Simple-and-very-fast-Python3-one-liner-faster-than-96-of-submissions):
 
-```
+```py
 class Solution:
     def reverseWords(self, s: str) -> str:
         return " ".join([i for i in s[::-1].split()][::-1])
@@ -3900,13 +3900,13 @@ class Solution:
 
 - <time>Jan 28, 2022</time> Finished both [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/) and [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/):
 
-```
+```py
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
         return sorted([i * i for i in nums])
 ```
 
-```
+```py
 class Solution:
     def finalValueAfterOperations(self, operations: List[str]) -> int:
         count = 0
@@ -3922,7 +3922,7 @@ class Solution:
 
 - <time>Jan 27, 2022</time> Finished [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/):
 
-```
+```py
 class Solution:
     def kthDistinct(self, arr: List[str], k: int) -> str:
         if len([i for i in arr if arr.count(i) == 1]) > k - 1:
@@ -3933,7 +3933,7 @@ class Solution:
 
 - <time>Jan 26, 2022</time> Man, I love list comprehension. Solved [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) with a fun one-liner (though it is very slow):
 
-```
+```py
 class Solution:
     def countGoodSubstrings(self, s: str) -> int:
         return len([i for i in [s[i: j] for i in range(len(s)) for j in range(i + 1, len(s) + 1) if len(s[i:j]) == 3] if len(set(i)) == len(i)])
@@ -3941,7 +3941,7 @@ class Solution:
 
 - <time>Jan 25, 2022</time> Finished [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) with an interesting solution that [I made a post about](https://leetcode.com/problems/a-number-after-a-double-reversal/discuss/1718311/Simple-Python3-one-liner):
 
-```
+```py
 class Solution:
     def isSameAfterReversals(self, num: int) -> bool:
         return True if num == 0 else str(num).strip('0') == str(num)
@@ -3949,7 +3949,7 @@ class Solution:
 
 - <time>Jan 24, 2022</time> Finished [Subsets](https://leetcode.com/problems/subsets/), though I sort of looked at the solution:
 
-```
+```py
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
         import itertools
@@ -3960,7 +3960,7 @@ class Solution:
 
 - <time>Jan 23, 2022</time> Finished [Reverse String](https://leetcode.com/problems/reverse-string/):
 
-```
+```py
 class Solution:
     def reverseString(self, s: List[str]) -> None:
         """
@@ -3971,7 +3971,7 @@ class Solution:
 
 - <time>Jan 22, 2022</time> Finished [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/):
 
-```
+```py
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         return list(dict.fromkeys(nums)) != nums
@@ -3979,7 +3979,7 @@ class Solution:
 
 - <time>Jan 21, 2022</time> Tried to find two problems to do, but I only did one: [Truncate Sentence](https://leetcode.com/problems/truncate-sentence):
 
-```
+```py
 class Solution:
     def truncateSentence(self, s: str, k: int) -> str:
         return " ".join([i for i in s.split()][:k])
@@ -3987,7 +3987,7 @@ class Solution:
 
 - <time>Jan 20, 2022</time> Finished [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) with possibly the saddest solution ever:
 
-```
+```py
 class Solution:
     def findLucky(self, arr: List[int]) -> int:
         if [i for i in arr if arr.count(i) == i] != []:
@@ -3998,13 +3998,13 @@ class Solution:
 
 - <time>Jan 19, 2022</time> Solved both [Sort an Array](https://leetcode.com/problems/sort-an-array/submissions/) (my solution doesn't really count, I just did for the lols) and [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/):
 
-```
+```py
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
         return sorted(nums)
 ```
 
-```
+```py
 class Solution:
     def findNumbers(self, nums: List[int]) -> int:
         return len([i for i in nums if len(str(i)) % 2 == 0])
@@ -4012,7 +4012,7 @@ class Solution:
 
 - <time>Jan 18, 2022</time> Finished [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) but I had to look at the solution, tomorrow I will have completed 75 problems!
 
-```
+```py
 class Solution:
     def trailingZeroes(self, n: int) -> int:
         num_zeros = 0
@@ -4028,7 +4028,7 @@ class Solution:
 
 - <time>Jan 17, 2022</time> Finished [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/) with a fun one-liner [that I made a post about](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/discuss/1696314/Easy-Python3-one-liner-solution):
 
-```
+```py
 class Solution:
     def kthLargestNumber(self, nums: List[str], k: int) -> str:
         return str(sorted([int(i) for i in nums])[len([int(i) for i in nums]) - k])
@@ -4036,7 +4036,7 @@ class Solution:
 
 - <time>Jan 16, 2022</time> Finished [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/):
 
-```
+```py
 class Solution:
     def findGCD(self, nums: List[int]) -> int:
         def GCD(num1, num2):
@@ -4050,7 +4050,7 @@ class Solution:
 
 - <time>Jan 15, 2022</time> Finished [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/):
 
-```
+```py
 class Solution:
     def arraySign(self, nums: List[int]) -> int:
         product = 1
@@ -4070,7 +4070,7 @@ class Solution:
 
   Turns out that it is part of a much bigger CS problem called the Dutch National Flag problem, so now I feel dumb for naïvely thinking this question was silly:
 
-```
+```py
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
         """
@@ -4081,7 +4081,7 @@ class Solution:
 
 - <time>Jan 13, 2022</time> Got a decent one-liner (excluding import) for [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/):
 
-```
+```py
 class Solution:
     def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
         import numpy as np
@@ -4091,7 +4091,7 @@ class Solution:
 
 - <time>Jan 12, 2022</time> Finished [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/):
 
-```
+```py
 class Solution:
     def thirdMax(self, nums: List[int]) -> int:
         unique_nums = list(set(nums))
@@ -4104,7 +4104,7 @@ class Solution:
 
 - <time>Jan 11, 2022</time> Finished [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) with a one-liner (though it is pretty slow):
 
-```
+```py
 class Solution:
     def arrayStringsAreEqual(self, word1: List[str], word2: List[str]) -> bool:
         return "".join(word1) == "".join(word2)
@@ -4112,7 +4112,7 @@ class Solution:
 
 - <time>Jan 10, 2022</time> Finished Add Binary (which I've already done, I re-submitted as it was a daily challenge on LeetCode) and [Multiply Strings](https://leetcode.com/problems/multiply-strings/):
 
-```
+```py
 class Solution:
     def multiply(self, num1: str, num2: str) -> str:
         num1_int = 0
@@ -4133,7 +4133,7 @@ class Solution:
 
 - <time>Jan 09, 2022</time> Finished [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/submissions/), was about to make a post about my Python one-liner, but someone already did >:(
 
-```
+```py
 class Solution:
     def mostWordsFound(self, sentences: List[str]) -> int:
         return max([len(sentence.split()) for sentence in sentences])
@@ -4141,7 +4141,7 @@ class Solution:
 
 - <time>Jan 08, 2022</time> Had some fun with [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/):
 
-```
+```py
 class Solution:
     def generateTheString(self, n: int) -> str:
         res = ""
@@ -4160,7 +4160,7 @@ class Solution:
 
 - <time>Jan 07, 2022</time> This took so long, but I finally solved [Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/) with a crappy solution (but at least it worked):
 
-```
+```py
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
         if target in nums:
@@ -4173,7 +4173,7 @@ class Solution:
 
 - <time>Jan 06, 2022</time> Finished [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) with a solution faster than 96.5%, so [I made a post about it](https://leetcode.com/problems/pascals-triangle-ii/discuss/1670923/Easy-and-faster-than-96.5-Python3-solution):
 
-```
+```py
 class Solution:
     def getRow(self, rowIndex: int) -> List[int]:
         row = [1]
@@ -4186,7 +4186,7 @@ class Solution:
 
 - <time>Jan 05, 2022</time> Finished [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/), though I had to look at the solution:
 
-```
+```py
 class Solution:
     def findDisappearedNumbers(self, nums: List[int]) -> List[int]:
         all_nums = set(range(1, len(nums) + 1))
@@ -4197,7 +4197,7 @@ class Solution:
 
 - <time>Jan 04, 2022</time> Finished [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/), faster than 80%:
 
-```
+```py
 class Solution:
     def bitwiseComplement(self, n: int) -> int:
         binary = bin(n)[2:]
@@ -4215,13 +4215,13 @@ class Solution:
 
 - <time>Jan 03, 2022</time> Got two very slow solutions on [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) and [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/):
 
-```
+```py
 class Solution:
     def sortArrayByParity(self, nums: List[int]) -> List[int]:
         return [i for i in nums if i % 2 == 0] + [i for i in nums if i % 2 != 0]
 ```
 
-```
+```py
 class Solution:
     def countSubstrings(self, s: str) -> int:
         palindrome_list = [s[i:j + 1] for i in range(len(s)) for j in range(i, len(s))]
@@ -4237,7 +4237,7 @@ class Solution:
 
 - <time>Jan 02, 2022</time> Wow, got a 95%+ faster solution for [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) (a hard problem). When I first submitted it, I mumbled to myself "Yeah, it's going to give some dumb test case or it's going to say 'Time Limit Exceeded'", but nope. [I also made a post about my solution](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/1661387/easy-and-fast-python3-solution) since it was easy and fast:
 
-```
+```py
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
         merge = nums1 + nums2
@@ -4251,7 +4251,7 @@ class Solution:
 
 - <time>Jan 01, 2022</time> Talk about a new year miracle, I got a solution faster than 100% of all submissions in [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/), so [I made a post about it](https://leetcode.com/problems/determine-if-string-halves-are-alike/discuss/1659442/Super-simple-Python3-solution-faster-than-100-of-submissions):
 
-```
+```py
 class Solution:
     def halvesAreAlike(self, s: str) -> bool:
         half_index = int(len(s)/2)
@@ -4270,7 +4270,7 @@ class Solution:
 
 - <time>Dec 31, 2021</time> So close, finished [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/submissions/) though I had to make an exception for one test case. I want to transition to medium problems in 2022.
 
-```
+```py
 class Solution:
     def sortSentence(self, s: str) -> str:
         numbers = []
@@ -4297,7 +4297,7 @@ class Solution:
 
 - <time>Dec 30, 2021</time> Finished [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/), though I had to look at the solution:
 
-```
+```py
 class Solution:
     def modifyString(self, s: str) -> str:
         s = list(s)
@@ -4314,7 +4314,7 @@ class Solution:
 
 - <time>Dec 29, 2021</time> Finished my first hard problem, [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/submissions/) though I had to look at the solution:
 
-```
+```py
 class Solution:
     def countDigitOne(self, n: int) -> int:
         result = 0
@@ -4328,7 +4328,7 @@ class Solution:
 
 - <time>Dec 28, 2021</time> Finished [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/), though I had to look at the solution:
 
-```
+```py
 class Solution:
     def replaceDigits(self, s: str) -> str:
         s_list = list(s)
@@ -4341,7 +4341,7 @@ class Solution:
 
 - <time>Dec 27, 2021</time> Finished [Number Complement](https://leetcode.com/problems/number-complement/) with a pretty fast solution (20ms):
 
-```
+```py
 class Solution:
     def findComplement(self, num: int) -> int:
         binary = '{:0b}'.format(num)
@@ -4360,13 +4360,13 @@ class Solution:
 
 - <time>Dec 26, 2021</time> Finished [To Lower Case](https://leetcode.com/problems/to-lower-case/), but it was so easy I decided to do one more, [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) and got a pretty easy and fast solution, so [I made a post about it](https://leetcode.com/problems/count-items-matching-a-rule/discuss/1647931/Easy-Python3-solution-faster-than-98). Someone also responded to my Christmas post:
 
-```
+```py
 class Solution:
     def toLowerCase(self, s: str) -> str:
         return s.lower()
 ```
 
-```
+```py
 class Solution:
     def countMatches(self, items: List[List[str]], ruleKey: str, ruleValue: str) -> int:
         res = []
@@ -4384,7 +4384,7 @@ class Solution:
 
 - <time>Dec 25, 2021</time> Call it a Christmas miracle, got a one-liner solution faster than 96.61% of all submissions for [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/), so [I made a post about it](https://leetcode.com/problems/kth-largest-element-in-an-array/discuss/1645758/One-liner-Python3-solution-Easy-faster-than-96.61-and-memory-usage-less-than-93.31):
 
-```
+```py
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
         return sorted(nums)[len(nums) - k]
@@ -4392,7 +4392,7 @@ class Solution:
 
 - <time>Dec 24, 2021</time> Finished [Most Common Word](https://leetcode.com/problems/most-common-word/) with a simple and memory-efficient solution. Since it had no imports, [I made a post about it](https://leetcode.com/problems/most-common-word/discuss/1644303/simple-python3-solution-with-no-imports-memory-efficient):
 
-```
+```py
 class Solution:
     def mostCommonWord(self, paragraph: str, banned: List[str]) -> str:
         paragraph = paragraph.lower()
@@ -4421,7 +4421,7 @@ class Solution:
 
 - <time>Dec 23, 2021</time> Finished [Thousand Separator](https://leetcode.com/problems/thousand-separator/) with a one-liner, so [I made a post about it](https://leetcode.com/problems/thousand-separator/discuss/1642606/One-liner-Python3-solution):
 
-```
+```py
 class Solution:
     def thousandSeparator(self, n: int) -> str:
         return '{:,}'.format(n).replace(',', '.')
@@ -4429,7 +4429,7 @@ class Solution:
 
 - <time>Dec 22, 2021</time> Finished [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/submissions/), thought it would be easy but I had to look at the solution:
 
-```
+```py
 class Solution:
     def uncommonFromSentences(self, s1: str, s2: str) -> List[str]:
         return filter(lambda word: C[word]==1, C:=Counter(s1.split() + s2.split()))
@@ -4437,7 +4437,7 @@ class Solution:
 
 - <time>Dec 21, 2021</time> So close! Finished [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) and my answer got tripped up at odd numbers, so I had to look at the solution.
 
-```
+```py
 class Solution:
     def numberOfSteps(self, num: int) -> int:
         step = 0
@@ -4454,7 +4454,7 @@ class Solution:
 
 - <time>Dec 20, 2021</time> Finished [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/), though I had to look at the solution:
 
-```
+```py
 class Solution:
     def checkIfExist(self, arr: List[int]) -> bool:
         if len(arr) < 2:
@@ -4475,7 +4475,7 @@ class Solution:
 
 - <time>Dec 19, 2021</time> Finished [Three Divisors](https://leetcode.com/problems/three-divisors/):
 
-```
+```py
 class Solution:
     def isThree(self, n: int) -> bool:
         divisors = []
@@ -4492,7 +4492,7 @@ class Solution:
 
 - <time>Dec 18, 2021</time> Finished [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) with a one-liner. I thought my solution was cool so [I made a post about it](https://leetcode.com/problems/sum-of-unique-elements/discuss/1633544/Python3-One-line-solution):
 
-```
+```py
 class Solution:
     def sumOfUnique(self, nums: List[int]) -> int:
         return sum(i for i in nums if nums.count(i) == 1)
@@ -4500,7 +4500,7 @@ class Solution:
 
 - <time>Dec 17, 2021</time> Finished [Valid Anagram](https://leetcode.com/problems/valid-anagram/), though I had to look at the solution:
 
-```
+```py
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         s_dict = Counter(s)
@@ -4511,7 +4511,7 @@ class Solution:
 
 - <time>Dec 16, 2021</time> Finished [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/), though I had to look at the solution:
 
-```
+```py
 class Solution:
     def checkIfPangram(self, sentence: str) -> bool:
          return len(set(sentence)) == 26
@@ -4519,7 +4519,7 @@ class Solution:
 
 - <time>Dec 15, 2021</time> Finished [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/submissions/):
 
-```
+```py
 class Solution:
     def addToArrayForm(self, num: List[int], k: int) -> List[int]:
         str_nums = [str(int) for int in num]
@@ -4530,7 +4530,7 @@ class Solution:
 
 - <time>Dec 14, 2021</time> Finished [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) (what a mouthful), and my solution was faster than 99.8% of all Python submissions, [so I made a post about it](<https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/discuss/1628278/Simple-Python-solution-faster-than-99.8-(involves-re)>):
 
-```
+```py
 class Solution:
     def isPrefixOfWord(self, sentence: str, searchWord: str) -> int:
         import re
@@ -4545,7 +4545,7 @@ class Solution:
 
 - <time>Dec 13, 2021</time> Finished [Add Binary](https://leetcode.com/problems/add-binary/), my solution is faster than 99.66% of all submissions, so [I created a post about it](https://leetcode.com/problems/add-binary/discuss/1626450/99.66-faster-Python-one-line-solution):
 
-```
+```py
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
         return bin(int(a, 2) + int(b, 2))[2:]
@@ -4553,7 +4553,7 @@ class Solution:
 
 - <time>Dec 12, 2021</time> Finished [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/), pretty proud of my solution, even though it involves an import:
 
-```
+```py
 class Solution:
     def reversePrefix(self, word: str, ch: str) -> str:
         import re
@@ -4572,7 +4572,7 @@ class Solution:
 
 - <time>Dec 11, 2021</time> Finished [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) though I had to look at the solution:
 
-```
+```py
 class Solution:
     def reverseOnlyLetters(self, s: str) -> str:
         temp_arr = [i for i in s[::-1] if i.isalpha()]
@@ -4589,7 +4589,7 @@ class Solution:
 
 - <time>Dec 10, 2021</time> Finished [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/), a fun problem!:
 
-```
+```py
 class Solution:
     def findSpecialInteger(self, arr: List[int]) -> int:
         number_count = { k:arr.count(k) for k in set(arr) }
@@ -4602,7 +4602,7 @@ class Solution:
 
 - <time>Dec 09, 2021</time> Man, I was so close to having my solution accepted, but some long test case tripped me up. Anyways, finished [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type) but had to look at the solution:
 
-```
+```py
 class Solution:
     def canBeTypedWords(self, text: str, brokenLetters: str) -> int:
         letter_set = set(brokenLetters)
@@ -4621,7 +4621,7 @@ class Solution:
 
 - <time>Dec 08, 2021</time> Finished [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) with a one-liner, thought it was pretty cool so [I made a post about it](https://leetcode.com/problems/rearrange-words-in-a-sentence/discuss/1617816/Python%3A-Easy-one-line-solution):
 
-```
+```py
 class Solution:
     def arrangeWords(self, text: str) -> str:
         return ' '.join(sorted(text.split(), key=len)).capitalize()
@@ -4629,7 +4629,7 @@ class Solution:
 
 - <time>Dec 07, 2021</time> Finished [Add Digits](https://leetcode.com/problems/add-digits/), though I had to look at the solution (this problem should be medium anyways):
 
-```
+```py
 class Solution:
     def addDigits(self, num: int) -> int:
         res = 0
@@ -4647,7 +4647,7 @@ class Solution:
 
 - <time>Dec 06, 2021</time> Finished [Add Strings](https://leetcode.com/problems/add-strings/):
 
-```
+```py
 class Solution:
     def addStrings(self, num1: str, num2: str) -> str:
         return str(int(num1) + int(num2))
@@ -4655,7 +4655,7 @@ class Solution:
 
 - <time>Dec 05, 2021</time> Finished [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/), though I had to look at the solution:
 
-```
+```py
 class Solution:
     def tribonacci(self, n: int) -> int:
         if n == 0:
@@ -4680,7 +4680,7 @@ class Solution:
 
 - <time>Dec 04, 2021</time> Finished [Find the Difference](https://leetcode.com/problems/find-the-difference/submissions/), though I had to look at the solution:
 
-```
+```py
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
         for i in t:
@@ -4690,7 +4690,7 @@ class Solution:
 
 - <time>Dec 03, 2021</time> Finished [Single Number](https://leetcode.com/problems/single-number):
 
-```
+```py
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
           return [el for el, cnt in Counter(nums).items() if cnt==1].pop()
@@ -4698,7 +4698,7 @@ class Solution:
 
 - <time>Dec 02, 2021</time> Finished my first medium problem, [Pow(x, n)](https://leetcode.com/problems/powx-n/):
 
-```
+```py
 class Solution:
     def myPow(self, x: float, n: int) -> float:
         return x ** n
@@ -4706,7 +4706,7 @@ class Solution:
 
 - <time>Dec 01, 2021</time> Finished Remove Element, though I had to look at the solution:
 
-```
+```py
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
         j = 0
@@ -4721,7 +4721,7 @@ class Solution:
 
 - <time>Nov 29, 2021</time> Completed [Move Zeros](https://leetcode.com/problems/move-zeroes), this took a lot longer than expected:
 
-```
+```py
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
         """
@@ -4742,7 +4742,7 @@ class Solution:
 
 - <time>Nov 28, 2021</time> Completed [Height Checker](https://leetcode.com/problems/height-checker):
 
-```
+```py
 class Solution:
     def heightChecker(self, heights: List[int]) -> int:
         expected = sorted(heights)
@@ -4760,7 +4760,7 @@ class Solution:
 
 - <time>Nov 27, 2021</time> Completed [Power of Three](https://leetcode.com/problems/power-of-three/), thus ending the power saga (though I had to look at the solution as I didn't know I needed to use `np.log10()` instead of `np.log()`) I also got another response for my post.
 
-```
+```py
 class Solution:
     def isPowerOfThree(self, n: int) -> bool:
         import numpy as np
@@ -4773,7 +4773,7 @@ class Solution:
 
 - <time>Nov 26, 2021</time> Completed [Power of Four](https://leetcode.com/problems/power-of-four/) with numpy. (I also got a response on my post from yesterday):
 
-```
+```py
 class Solution:
     def isPowerOfFour(self, n: int) -> bool:
         import numpy as np
@@ -4786,7 +4786,7 @@ class Solution:
 
 - <time>Nov 25, 2021</time> Completed [Power of Two](https://leetcode.com/problems/power-of-two/), though I had to use [numpy](https://numpy.org/) so I don't think my solution really counts, but here's the solution anyways:
 
-```
+```py
 class Solution:
     def isPowerOfTwo(self, n: int) -> bool:
         import numpy as np
@@ -4799,7 +4799,7 @@ class Solution:
 
 - <time>Nov 24, 2021</time> Finished Concatenation of Array, my solution was literally just one line of code (excluding the boilerplate):
 
-```
+```py
 class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
         return nums + nums
