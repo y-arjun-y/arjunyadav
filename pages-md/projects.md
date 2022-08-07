@@ -1012,7 +1012,7 @@ class Solution:
 
 - <time>Jul 31, 2022</time> As a finale for this month, finished [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/):
 
-```
+```py
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
