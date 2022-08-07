@@ -128,7 +128,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 07, 2022</time> Got started with migration (nearly done?).
+- <time>Aug 07, 2022</time> Got started with migration (nearly done?)
 
 - <time>Aug 06, 2022</time> Got started with a calendar event generator.
 
@@ -526,6 +526,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 07, 2022</time> ~11 minutes for all correct.
 
 - <time>Aug 06, 2022</time> For some reason, I just couldn't do today's weekly challenge. I guess I was too distracted. I'll try again tomorrow.
 
@@ -5202,6 +5204,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Aug 07, 2022</time> Continued with Scientific Computing with Python.
 
 - <time>Aug 06, 2022</time> Contunued with Scientific Computing with Python. Nearly done with the videos.
 
