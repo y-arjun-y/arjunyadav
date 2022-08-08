@@ -131,6 +131,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 08, 2022</time> Nearly done with migration (and the booking project)
+
 - <time>Aug 07, 2022</time> Got started with migration (nearly done?)
 
 - <time>Aug 06, 2022</time> Got started with a calendar event generator.
