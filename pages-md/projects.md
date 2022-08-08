@@ -532,6 +532,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 08, 2022</time> ~13 minutes for all correct.
+
 - <time>Aug 07, 2022</time> ~11 minutes for all correct.
 
 - <time>Aug 06, 2022</time> For some reason, I just couldn't do today's weekly challenge. I guess I was too distracted. I'll try again tomorrow.
