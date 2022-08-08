@@ -81,6 +81,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 07, 2022</time> Tested a [Zapier](https://zapier.com/) integration to not much avail. I'll try another integration tomorrow.
+
 - <time>Aug 06, 2022</time> Wrote-up and sent my findings on an organisational discount.
 
 - <time>Aug 05, 2022</time> Wrote-up and sent my findings on apps for different scenarios.
