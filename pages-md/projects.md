@@ -5212,6 +5212,8 @@ class Solution:
 
 #### Log
 
+- <time>Aug 08, 2022</time> Continued with Responsive Web Design.
+
 - <time>Aug 07, 2022</time> Continued with Scientific Computing with Python.
 
 - <time>Aug 06, 2022</time> Contunued with Scientific Computing with Python. Nearly done with the videos.
