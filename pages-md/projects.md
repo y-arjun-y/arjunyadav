@@ -175,6 +175,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 08, 2022</time> "Continued" with Week 3.
+
 - <time>Aug 07, 2022</time> Continued with Week 3.
 
 - <time>Aug 06, 2022</time> Continued with Week 3.
@@ -240,6 +242,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 08, 2022</time> Got started with the final assessment for linear algebra.
 
 - <time>Aug 07, 2022</time> Finished the last programming assignment for Week 5 and continued with Week 1 (Calculus), going to finish the linear algebra course tomorrow!
 
