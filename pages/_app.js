@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Navbar from "./components/Navbar";
+import Navbar from "/components/Navbar";
 import "highlight.js/styles/monokai-sublime.css";
 
 function ArjunYadav({ Component, pageProps }) {
