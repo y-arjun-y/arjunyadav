@@ -30,6 +30,7 @@ meta_description: Check out my project logs here!
 
 ### Done
 
+- <a href="#bearblogreplacementtemplate">Bear Blog Replacement Template</a>
 - <a href="#gallpeters">gallpeters</a>
 - <a href="#eadata">Effective Altruism Data</a>
 - <a href="#bettermailto">bettermailto</a>
@@ -7673,6 +7674,20 @@ class Solution:
 
 ## Done
 
+<hr />
+
+## <span id="bearblogreplacementtemplate">[Bear Blog Replacement Template](https://bear-blog-replacement-template.vercel.app/)</span>
+
+<small>Aug 08, 2022-Aug 08, 2022</small>  
+<small>I was getting increasingly dissatisfied with [Bear Blog](https://bearblog.dev) (where this website was formerly). So I decided to migrate to Next.js and [I made a template](https://github.com/y-arjun-y/bear-blog-replacement-template) that [I posted on Show HN](https://news.ycombinator.com/item?id=32382716).</small>
+
+<hr />
+<small>Bear Blog Replacement Template's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Aug 08, 2022</time> Posted the template on [Show HN](https://news.ycombinator.com/item?id=32382716) and I think I'm quite happy with the final product!
 <hr />
 
 ## <span id="gallpeters">[gallpeters](https://gallpeters.vercel.app)</span>
