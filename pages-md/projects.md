@@ -125,11 +125,13 @@ Confused? See the <a href="#note">note</a> down below.
 ## <span id="eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</span>
 
 <small>Jul 08, 2022-present</small>  
-<small>Trying to make EA Bristol's website the best EA group website out there. The latter project mentioned is entangled with the former and I will be vague when describing the latter project in the logs.</small>
+<small>Trying to make EA Bristol's website the best EA group website out there. The latter project (which ended on Aug 09, 2022) mentioned was entangled with the former and I will be vague when describing the latter project in the logs.</small>
 
 <hr />
 
 #### Log
+
+- <time>Aug 09, 2022</time> There may be a few more developments, but I consider the booking project done!
 
 - <time>Aug 08, 2022</time> Nearly done with migration (and the booking project)
 
