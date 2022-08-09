@@ -271,7 +271,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 07, 2022</time> Got started with [https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/best-worst-average/](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/best-worst-average/)
+- <time>Aug 09, 2022</time> Continued with [Best, Worst and Average Case
+
+- <time>Aug 07, 2022</time> Got started with [Best, Worst and Average Case](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/best-worst-average/)
 
 - <time>Aug 06, 2022</time> Finished [Counting Operations](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/counting-operations/).
 
@@ -5180,6 +5182,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Aug 09, 2022</time> Continued with Scientific Computing with Python.
 
 - <time>Aug 08, 2022</time> Continued with Responsive Web Design.
 
