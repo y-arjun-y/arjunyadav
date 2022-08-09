@@ -888,6 +888,13 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 09, 2022</time> Finished [Sales Person](https://leetcode.com/problems/sales-person/):
+
+```sql
+# Write your MySQL query statement below
+SELECT name FROM SalesPerson WHERE SalesPerson.sales_id NOT IN (SELECT sales_id FROM Orders WHERE Orders.com_id IN (SELECT com_id FROM Company WHERE Company.name = 'RED'))
+```
+
 - <time>Aug 07, 2022</time> Finished [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/):
 
 ```py
