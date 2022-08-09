@@ -9,7 +9,6 @@ meta_description: Check out my project logs here!
 
 - <a href="#drums">Drums</a>
 - <a href="#landingpage">Landing Page Project + App Integration</a>
-- <a href="#solaris">SOLARIS</a>
 - <a href="#introml">Introduction to Machine Learning</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
 - <a href="#brilliant">Brilliant</a>
@@ -31,6 +30,7 @@ meta_description: Check out my project logs here!
 
 - <a href="#eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</a>
 - <a href="#bearblogreplacementtemplate">Bear Blog Replacement Template</a>
+- <a href="#solaris">SOLARIS (First Edition)</a>
 - <a href="#gallpeters">gallpeters</a>
 - <a href="#eadata">Effective Altruism Data</a>
 - <a href="#bettermailto">bettermailto</a>
@@ -98,28 +98,6 @@ Confused? See the <a href="#note">note</a> down below.
 - <time>Jul 30, 2022</time> Finished (?) with the third draft of the first section.
 
 - <time>Jul 29, 2022</time> Had a productive meeting and got started with the third draft of the first section.
-<hr />
-
-## <span id="solaris">SOLARIS</span>
-
-<small>Jul 10, 2022-present</small>  
-<small>Trying to co-lead a rationality club in my school.</small>
-
-<hr />
-
-#### Log
-
-- <time>Aug 06, 2022</time> Finished the feedback form for tomorrow.
-
-- <time>Jul 31, 2022</time> Fourth meeting happened with much better attendance and overall a pretty fruitful discussion! I'm happy to have had that with the most important week.
-
-- <time>Jul 25, 2022</time> Third meeting happened without much fanfare. Hopefully attendance is higher next meeting.
-
-- <time>Jul 23, 2022</time> Worked on next meeting's presentation.
-
-- <time>Jul 18, 2022</time> Second meeting happened yesterday: Attendance improved a lot and it was a bummer that I couldn't attend fully.
-
-- <time>Jul 12, 2022</time> First meeting happened day before yesterday: even though it was a fair amount of fun, I messed up the recording and we unfortunately had low attendance.
 <hr />
 
 ## <span id="introml">[Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning-duke/)</span>
@@ -7723,6 +7701,30 @@ class Solution:
 #### Log
 
 - <time>Aug 08, 2022</time> Posted the template on [Show HN](https://news.ycombinator.com/item?id=32382716) and I think I'm quite happy with the final product!
+<hr />
+
+## <span id="solaris">SOLARIS</span>
+
+<small>Jul 10, 2022-Aug 07, 2022</small>  
+<small>Trying to co-lead a rationality club in my school. We've finished the first edition of SOLARIS!</small>
+
+<hr />
+
+#### Log
+
+- <time>Aug 07, 2022</time> Fifth meeting happened, which means the first edition of SOLARIS is complete! While there have been a few hiccups en route, it was generally a good time. I hope more people come for the second edition!
+
+- <time>Aug 06, 2022</time> Finished the feedback form for tomorrow.
+
+- <time>Jul 31, 2022</time> Fourth meeting happened with much better attendance and overall a pretty fruitful discussion! I'm happy to have had that with the most important week.
+
+- <time>Jul 25, 2022</time> Third meeting happened without much fanfare. Hopefully attendance is higher next meeting.
+
+- <time>Jul 23, 2022</time> Worked on next meeting's presentation.
+
+- <time>Jul 18, 2022</time> Second meeting happened yesterday: Attendance improved a lot and it was a bummer that I couldn't attend fully.
+
+- <time>Jul 12, 2022</time> First meeting happened day before yesterday: even though it was a fair amount of fun, I messed up the recording and we unfortunately had low attendance.
 <hr />
 
 ## <span id="gallpeters">[gallpeters](https://gallpeters.vercel.app)</span>
