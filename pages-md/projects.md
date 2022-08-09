@@ -7649,13 +7649,13 @@ class Solution:
 ## <span id="eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</span>
 
 <small>Jul 08, 2022-Aug 09, 2022</small>  
-<small>Tried to make EA Bristol's website the best EA group website out there. The latter project mentioned (which ended on Aug 09, 2022)  was entangled with the former and I will be vague when describing the latter project in the logs.</small>
+<small>Tried to make EA Bristol's website the best EA group website out there. The latter project mentioned (which ended on Aug 09, 2022) was entangled with the former and I will be vague when describing the latter project in the logs.</small>
 
 <hr />
 
 #### Log
 
-- <time>Aug 09, 2022</time> There may be a few more developments, but I consider the booking project done! Also, the EA Bristol project has been dropped, so this project is done.
+- <time>Aug 09, 2022</time> There may be a few more developments, but I consider the booking project done! Also, the EA Bristol project has been dropped, so this project as a whole is done.
 
 - <time>Aug 08, 2022</time> Nearly done with migration (and the booking project)
 
