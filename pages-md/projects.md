@@ -199,6 +199,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 09, 2022</time> Finished and earned my certificate for the Linear Algebra course!
+
 - <time>Aug 08, 2022</time> Got started with the final assessment for linear algebra.
 
 - <time>Aug 07, 2022</time> Finished the last programming assignment for Week 5 and continued with Week 1 (Calculus), going to finish the linear algebra course tomorrow!
