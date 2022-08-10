@@ -892,6 +892,14 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 10, 2022</time> Finished [Shuffle String](https://leetcode.com/problems/shuffle-string/):
+
+```py
+class Solution:
+    def restoreString(self, s: str, indices: List[int]) -> str:
+        return "".join([i for i, j in sorted(zip(s, indices), key=lambda x: x[1])])
+```
+
 - <time>Aug 09, 2022</time> Finished [Sales Person](https://leetcode.com/problems/sales-person/):
 
 ```sql
