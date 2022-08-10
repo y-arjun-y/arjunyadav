@@ -129,6 +129,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 10, 2022</time> Continued with Week 3, nearly done.
+
 - <time>Aug 08, 2022</time> "Continued" with Week 3.
 
 - <time>Aug 07, 2022</time> Continued with Week 3.
@@ -196,6 +198,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 10, 2022</time> Continued with with Week 1.
 
 - <time>Aug 09, 2022</time> Finished and earned my certificate for the Linear Algebra course!
 
