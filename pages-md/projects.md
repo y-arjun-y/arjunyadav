@@ -61,11 +61,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 06, 2022</time> Finished learning Back in Black by AC/DC. The snare-kick-hi-hat pattern was the only thing I had to get down.
-
-- <time>Aug 04, 2022</time> Played [Back in Black by AC/DC](https://www.youtube.com/watch?v=pAgnJDJN4VA).
-
-- <time>Aug 02, 2022</time> Played [Yellow by Coldplay](https://www.youtube.com/watch?v=fviwj5P1FCc).
+- <time>Aug 10, 2022</time> Got started with the paper, will have to finish some reading tomorrow before continuing with the introduction. I hope to finish writing in about 3 months (and then get some feedback).
 
 <hr />
 
