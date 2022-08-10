@@ -2,6 +2,7 @@
 title: Interesting Reads
 publish_date: 31 Jul, 2022
 meta_description: I log everything I read in Notion, and every month, I publish some of the more interesting things I've read. Here are all of those posts.
+meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
 I log everything I read[^1] in Notion, and every month, I publish some of the more interesting things I've read. Here are all of those posts.

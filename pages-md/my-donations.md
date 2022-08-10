@@ -2,6 +2,7 @@
 title: My Donations
 publish_date: Jan 9, 2022
 meta_description: These are all my donations to effective charities, guided by GiveWell.
+meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
 ## My donations

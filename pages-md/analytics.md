@@ -1,6 +1,8 @@
 ---
 title: Analytics
 publish_date: May 18, 2022
+meta_description: Welcome to the analytics behind arjunyadav.net!
+meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
 ### Countries where this website has been accessed

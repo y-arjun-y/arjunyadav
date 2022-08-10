@@ -1,12 +1,15 @@
 ---
 title: Projects
+publish_date: Aug 10, 2022
 meta_description: Check out my project logs here!
+meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
 ## Table of Contents
 
 ### Ongoing
 
+- <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#drums">Drums</a>
 - <a href="#landingpage">Landing Page Project + App Integration</a>
 - <a href="#introml">Introduction to Machine Learning</a>
@@ -51,6 +54,21 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="openresearchpaper">Maintaining the benefits of open research in AI</span>
+
+<small>Aug 10, 2022-present</small>  
+<small>Trying to create a paper which presents a framework that protects the benefits of open research in AI. Inspired by [Toby Shevlane and Allan Dafoe's work](https://www.fhi.ox.ac.uk/wp-content/uploads/The-Offense-Defense-Balance-of-Scientific-Knowledge.pdf#page=7&zoom=100,72,192) as well as [Nick Bostrom's work](https://ora.ox.ac.uk/objects/uuid:83ea712f-aba3-4176-957a-3bb4af0209d6).</small>
+
+#### Log
+
+- <time>Aug 06, 2022</time> Finished learning Back in Black by AC/DC. The snare-kick-hi-hat pattern was the only thing I had to get down.
+
+- <time>Aug 04, 2022</time> Played [Back in Black by AC/DC](https://www.youtube.com/watch?v=pAgnJDJN4VA).
+
+- <time>Aug 02, 2022</time> Played [Yellow by Coldplay](https://www.youtube.com/watch?v=fviwj5P1FCc).
+
+<hr />
+
 ## <span id="drums">Drums</span>
 
 <small>Aug 02, 2022-present</small>  
@@ -81,7 +99,13 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 07, 2022</time> Tested a [Zapier](https://zapier.com/) integration to not much avail. I'll try another integration tomorrow.
+- <time>Aug 10, 2022</time> Had a really productive meeting, which helped to solve some of standing technical/integration enquires.
+
+- <time>Aug 09, 2022</time> Tested a [Make](https://make.com/) integration to not much avail again.
+
+- <time>Aug 08, 2022</time> Tested a [Zapier](https://zapier.com/) integration to not much avail. I'll try another integration tomorrow.
+
+- <time>Aug 07, 2022</time> Had a productive meeting.
 
 - <time>Aug 06, 2022</time> Wrote-up and sent my findings on an organisational discount.
 
