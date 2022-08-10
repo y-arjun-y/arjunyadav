@@ -271,6 +271,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 10, 2022</time> Continued with Best, Worst and Average Case.
+
 - <time>Aug 09, 2022</time> Continued with Best, Worst and Average Case.
 
 - <time>Aug 07, 2022</time> Got started with [Best, Worst and Average Case](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/best-worst-average/)
@@ -5192,6 +5194,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Aug 10, 2022</time> Continued with Scientific Computing with Python.
 
 - <time>Aug 09, 2022</time> Continued with Scientific Computing with Python.
 
