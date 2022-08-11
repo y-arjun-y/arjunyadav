@@ -902,6 +902,19 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 11, 2022</time> Finished [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/):
+
+```py
+class Solution:
+    def arrayRankTransform(self, arr: List[int]) -> List[int]:
+        dic = dict()
+        rank = 1
+        for i in sorted(list(set(arr))):
+            dic[i] = rank
+            rank += 1
+        return [dic[i] for i in arr]
+```
+
 - <time>Aug 10, 2022</time> Finished [Shuffle String](https://leetcode.com/problems/shuffle-string/):
 
 ```py
