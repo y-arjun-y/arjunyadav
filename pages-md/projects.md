@@ -61,6 +61,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 11, 2022</time> Got started with reading a paper.
+
 - <time>Aug 10, 2022</time> Got started with the paper, will have to finish some reading tomorrow before continuing with the introduction. I hope to finish writing in about 3 months (and then get some feedback).
 
 <hr />
