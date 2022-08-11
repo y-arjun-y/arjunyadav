@@ -6858,6 +6858,8 @@ class Solution:
 
 #### Log
 
+- <time>Aug 11, 2022</time> At least I learnt the one-handed version of the H perm! 18.599, 4.864, 38.965 and 11.771.
+
 - <time>Aug 10, 2022</time> 20.353, 5.457, 39.861 and 11.311.
 
 - <time>Aug 09, 2022</time> 19.965, 5.536, 35.159 and 9.446.
