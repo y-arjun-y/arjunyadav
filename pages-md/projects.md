@@ -95,6 +95,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 11, 2022</time> Got started with some research.
+
 - <time>Aug 10, 2022</time> Had a really productive meeting, which helped to solve some of standing technical/integration enquires.
 
 - <time>Aug 09, 2022</time> Tested a [Make](https://make.com/) integration to not much avail again.
