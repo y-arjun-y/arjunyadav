@@ -502,6 +502,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 11, 2022</time> ~9 minutes for 5/6.
+
 - <time>Aug 10, 2022</time> Solved a 7x7 for fun!
 
 - <time>Aug 09, 2022</time> Sigh, ~14 minutes for 5/6.
