@@ -277,6 +277,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 11, 2022</time> Finished with Best, Worst and Average Case.
+
 - <time>Aug 10, 2022</time> Continued with Best, Worst and Average Case.
 
 - <time>Aug 09, 2022</time> Continued with Best, Worst and Average Case.
@@ -5216,6 +5218,8 @@ class Solution:
 
 #### Log
 
+- <time>Aug 11, 2022</time> Continued with Scientific Computing with Python.
+
 - <time>Aug 10, 2022</time> Continued with Scientific Computing with Python.
 
 - <time>Aug 09, 2022</time> Continued with Scientific Computing with Python.
@@ -5806,6 +5810,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Aug 11, 2022</time> Hit a 348-day streak.
 
 - <time>Aug 10, 2022</time> Hit a 347-day streak.
 
