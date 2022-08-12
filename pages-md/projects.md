@@ -514,6 +514,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 12, 2022</time> 4 checks for two hard 6x6s.
+
 - <time>Aug 11, 2022</time> ~9 minutes for 5/6.
 
 - <time>Aug 10, 2022</time> Solved a 7x7 for fun!
