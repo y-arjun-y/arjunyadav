@@ -7,7 +7,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Ongoing
+### Ongoing (14)
 
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#drums">Drums</a>
@@ -24,12 +24,12 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a> (F&S)
 - <a href="#cubing">Cubing</a>
 
-### Inactive/Paused
+### Inactive/Paused (2)
 
 - <a href="#fastai">fast.ai</a>
 - <a href="#sudoku">Sudoku</a>
 
-### Done
+### Done (12)
 
 - <a href="#eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</a>
 - <a href="#bearblogreplacementtemplate">Bear Blog Replacement Template</a>
@@ -61,7 +61,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 11, 2022</time> Got started with reading a paper.
+- <time>Aug 11, 2022</time> Got started with some reading.
 
 - <time>Aug 10, 2022</time> Got started with the paper, will have to finish some reading tomorrow before continuing with the introduction. I hope to finish writing in about 3 months (and then get some feedback).
 
@@ -77,6 +77,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 12, 2022</time> Played [I Want to Break Free by Queen](https://www.youtube.com/watch?v=wIqa9uVnXCQ)
 
 - <time>Aug 06, 2022</time> Finished learning Back in Black by AC/DC. The snare-kick-hi-hat pattern was the only thing I had to get down.
 
@@ -96,6 +98,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 12, 2022</time> Continued with some research.
 
 - <time>Aug 11, 2022</time> Got started with some research.
 
@@ -6871,6 +6875,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Aug 12, 2022</time> 19.545, 5.173, 37.692 and 9.840.
 
 - <time>Aug 11, 2022</time> At least I learnt the one-handed version of the H perm! 18.599, 4.864, 38.965 and 11.771.
 
