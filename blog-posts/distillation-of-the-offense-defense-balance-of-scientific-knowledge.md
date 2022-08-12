@@ -7,7 +7,9 @@ meta_image: https://lh3.google.com/u/0/d/1mVA8hj6rKTIKI652HtcSz0XM_akvjsj_=w2880
 
 ![Goldilocks Zone](https://lh3.google.com/u/0/d/1mVA8hj6rKTIKI652HtcSz0XM_akvjsj_=w2880-h1528-iv1)
 
-[Link to the paper](https://www.fhi.ox.ac.uk/wp-content/uploads/The-Offense-Defense-Balance-of-Scientific-Knowledge.pdf).
+[Link to the paper](https://www.fhi.ox.ac.uk/wp-content/uploads/The-Offense-Defense-Balance-of-Scientific-Knowledge.pdf) (also serves as credit for the image above).
+
+<small>Note: This post is a [replacement post for July 2022](/replacement-posts/).</small>
 
 ## Introduction
 

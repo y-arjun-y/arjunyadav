@@ -11,6 +11,7 @@ export default function Navbar() {
           <a href="/projects/">Projects</a>
           <a href="/analytics/">Analytics</a>
           <a href="/interesting-reads/">Interesting Reads</a>
+          <a href="/replacement-posts/">Replacement Posts</a>
           <a href="/my-donations/">My Donations</a>
         </p>
       </nav>
