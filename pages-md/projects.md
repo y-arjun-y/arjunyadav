@@ -5253,6 +5253,8 @@ class Solution:
 
 #### Log
 
+- <time>Aug 12, 2022</time> Continued with Responsive Web Design.
+
 - <time>Aug 11, 2022</time> Continued with Scientific Computing with Python.
 
 - <time>Aug 10, 2022</time> Continued with Scientific Computing with Python.
