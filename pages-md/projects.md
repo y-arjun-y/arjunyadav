@@ -916,6 +916,27 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 12, 2022</time> Finished [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/):
+
+```py
+class ProductOfNumbers:
+
+    def __init__(self):
+        self.nums = []
+
+    def add(self, num: int) -> None:
+        self.nums.append(num)
+
+    def getProduct(self, k: int) -> int:
+        return prod(self.nums[len(self.nums)-k:])
+
+
+# Your ProductOfNumbers object will be instantiated and called as such:
+# obj = ProductOfNumbers()
+# obj.add(num)
+# param_2 = obj.getProduct(k)
+```
+
 - <time>Aug 11, 2022</time> Finished [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/):
 
 ```py
