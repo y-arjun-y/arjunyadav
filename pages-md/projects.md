@@ -61,6 +61,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 13, 2022</time> Continued with reading.
+
 - <time>Aug 12, 2022</time> Continued with reading.
 
 - <time>Aug 11, 2022</time> Got started with some reading.
@@ -102,6 +104,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 13, 2022</time> Continued with some research.
 
 - <time>Aug 12, 2022</time> Continued with some research.
 
