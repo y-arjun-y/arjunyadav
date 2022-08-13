@@ -80,6 +80,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 13, 2022</time> Played [Fever by The Black Keys](https://www.youtube.com/watch?v=tk5m_TAD_AM).
+
 - <time>Aug 12, 2022</time> Played [I Want to Break Free by Queen](https://www.youtube.com/watch?v=wIqa9uVnXCQ).
 
 - <time>Aug 06, 2022</time> Finished learning Back in Black by AC/DC. The snare-kick-hi-hat pattern was the only thing I had to get down.
