@@ -928,6 +928,15 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 13, 2022</time> Finished [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/):
+
+```py
+class Solution:
+    def minimumSum(self, num: int) -> int:
+        num_list = sorted(str(num))
+        return int(num_list[0]) * 10 + int(num_list[2]) + int(num_list[1]) * 10 + int(num_list[3])
+```
+
 - <time>Aug 12, 2022</time> Finished [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/):
 
 ```py
