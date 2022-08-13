@@ -141,6 +141,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 13, 2022</time> Continued with the final assignment for Week 3 (went throught the pre-requisite notebook).
+
 - <time>Aug 12, 2022</time> Got started with the final assignment for Week 3.
 
 - <time>Aug 11, 2022</time> Continued with Week 3, nearly done.
