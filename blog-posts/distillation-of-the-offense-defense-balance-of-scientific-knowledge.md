@@ -9,11 +9,11 @@ meta_image: https://lh3.google.com/u/0/d/1mVA8hj6rKTIKI652HtcSz0XM_akvjsj_=w2880
 
 [Link to the paper](https://www.fhi.ox.ac.uk/wp-content/uploads/The-Offense-Defense-Balance-of-Scientific-Knowledge.pdf) (also serves as credit for the image above).
 
-<small>Note: This post is a [replacement post for July 2022](/replacement-posts/).</small>
+<small>Note: This post is a [replacement post for July 2022](/replacement-posts/) and was last edited on Aug 14, 2022.</small>
 
 ## Introduction
 
-This paper discusses the balance between AI research contributing to misuse and protections against such misuse. AI research is permeated with discussions over disclosure norms and researchers are concerned about the potential misuse their research could hold, and, by taking the example of vulnerability disclosure in computer security, this paper aims to draw helpful analogies between the two fields.
+This paper discusses the balance between AI research contributing to misuse and protections against such misuse. AI research is permeated with discussions over disclosure norms and researchers are concerned about the potential misuse their research could hold. By taking the example of vulnerability disclosure in computer security, this paper aims to draw helpful analogies between the two fields.
 
 ## Computer Security Analogy
 
@@ -52,17 +52,9 @@ If limited knowledge is required to implement or exploit the research, the Goldi
 
 ### Social Disruption
 
-AI misuse (for now) is mainly linked to social disruption. [Take deepfakes being used to trick companies](https://www.theverge.com/2019/9/5/20851248/deepfakes-ai-fake-audio-phone-calls-thieves-trick-companies-stealing-money#:~:text=According%20to%20the%20Post%2C%20cybersecurity,money%20to%20a%20fraudulent%20account.):
+AI misuse (for now) is mainly linked to social disruption ([take deepfakes being used to trick companies](https://www.theverge.com/2019/9/5/20851248/deepfakes-ai-fake-audio-phone-calls-thieves-trick-companies-stealing-money#:~:text=According%20to%20the%20Post%2C%20cybersecurity,money%20to%20a%20fraudulent%20account.) and, at a wide scale, it is costly to fix. And often, intervention is needed with pre-existing research for defense. This means that, in this limited scenario, **AI publications could have more limited defensive benefits as time goes on**.
 
-> According to the *Post*, cybersecurity firm Symantec says it has come across at least three cases of deepfake voice fraud used to trick companies into sending money to a fraudulent account.
-
-And social disruption at a wide scale is costly to fix and often intervention is needed with pre-existing research for defense. This means that, in this limited scenario, **AI publications could have more limited defensive benefits as time goes on.**
-
-Computer security mainly deals with digital issues that, while can cause wide-scale disruption (Y2K, the Morris Worm), are generally more "receptible" to repairs.
-
-To expand on the Morris worm (which rendered 6000 machines inoperable):
-
-> It's also worth noting that the spread of the Morris worm was halted the day after it was first spotted due to **software patching**, which mitigated against the vulnerabilities harnessed by the malware to gain control.
+Computer security mainly deals with digital issues that, while can cause wide-scale disruption (Y2K, the Morris Worm), are generally more "receptible" to repairs. The Morris worm (which rendered 6000 machines inoperable) was halted the day after it was detected thanks to software patching.
 
 To summarize:
 
@@ -76,11 +68,9 @@ To summarize:
 
 Say we had an AI system that could detect AI misuse. What would happen to the defensive benefit of AI research then?
 
-If research is published on AI misuse detection, **AI systems could simply be trained against such detection systems**.
+If research is published on AI misuse detection, **AI systems could simply be trained against such detection systems**. Thus, the value of such research will depend on the limits of the detection systems.
 
 Further, it may not be feasible to deploy such AI systems that can detect misuse due to cost or privacy concerns.
-
-> In sum, the security value of publication, if reliant on improving detection systems, will depend on the practical limits of those detection systems.
 
 ### Counterfactual possession of AI Knowledge
 
