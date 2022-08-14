@@ -58,7 +58,7 @@ export default function Post({ frontmatter, content }) {
       </Head>
       <div>
         <h1>{frontmatter.title}</h1>
-        <p>{frontmatter.publish_date}</p>
+        <p>{frontmatter.publish_date.substring(0, 12)}</p>
         <div dangerouslySetInnerHTML={{ __html: md.render(content) }} />
       </div>
     </>
