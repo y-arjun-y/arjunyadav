@@ -942,6 +942,37 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 14, 2022</time> Finished [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/). Super proud of this one:
+
+```py
+class Solution:
+    def complexNumberMultiply(self, num1: str, num2: str) -> str:
+        real_num1 = num1.split("+")[0]
+        complex_num1 = num1.split("+")[1]
+        real_num2 = num2.split("+")[0]
+        complex_num2 = num2.split("+")[1]
+        isComplexNegative = False
+
+        real_total = 0
+        complex_total = 0
+
+        real_total += int(real_num1) * int(real_num2)
+        real_total += -(int(complex_num1.split("i")[0]) * int(complex_num2.split("i")[0]))
+
+        if (int(real_num1) * int(complex_num2.split("i")[0])) + (int(real_num2) * int(complex_num1.split("i")[0])) < 0:
+            isComplexNegative = True
+
+        print(real_num1, complex_num2.split("i")[0], real_num2, complex_num1.split("i")[0])
+
+        complex_total += abs((int(real_num1) * int(complex_num2.split("i")[0])) + (int(real_num2) * int(complex_num1.split("i")[0])))
+
+        print(real_total, complex_total, isComplexNegative)
+
+        if isComplexNegative and complex_total != 0:
+            return f'{real_total}+-{complex_total}i'
+        return f'{real_total}+{complex_total}i'
+```
+
 - <time>Aug 13, 2022</time> Finished [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/):
 
 ```py
