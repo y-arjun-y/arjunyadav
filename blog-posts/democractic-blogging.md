@@ -9,7 +9,7 @@ meta_image: https://images.unsplash.com/photo-1578924824426-d1b88f85e8ce?ixid=Mn
 
 [Credit for the image above](https://unsplash.com/photos/KGtLNrljpyY).
 
-<small>Note: This post was last edited on 10 Apr, 2022.</small>
+<small>Note: This post was last edited on Apr 10, 2022.</small>
 
 ## An Analogy
 

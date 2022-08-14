@@ -9,7 +9,7 @@ meta_image: https://images.unsplash.com/photo-1574087275005-08b0735d8d13?ixlib=r
 
 [Credit for the image above](https://unsplash.com/photos/wrzA9IIkCrQ).
 
-<small>Note: This post was last edited on 31 Mar, 2022.</small>
+<small>Note: This post was last edited on Mar 31, 2022.</small>
 
 I've unsubscribed from [The Slice](https://theslice.co/) after a little less than half a year of reading. The newsletter has not been the same since [Nic Getkate](https://nicgetkate.com/) (the original author) left and [Jonas](https://twitter.com/jonasslice) took his place.[^1]
 

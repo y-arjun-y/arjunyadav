@@ -8,7 +8,7 @@ meta_image: https://images.unsplash.com/photo-1625043094457-c0e5bb443278?ixid=Mn
 ![Birds - British Library](https://images.unsplash.com/photo-1625043094457-c0e5bb443278?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1808&q=80)
 [Credit for the image above](https://unsplash.com/photos/1G9oXcPCAec).
 
-<small>Note: This post was last edited on 31 Mar, 2022.</small>
+<small>Note: This post was last edited on Mar 31, 2022.</small>
 
 ## Introduction: Becoming a doctor
 

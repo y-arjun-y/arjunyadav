@@ -9,7 +9,7 @@ meta_image: https://images.unsplash.com/photo-1578305871793-d1e7a0942c97?ixlib=r
 
 [Credit for the image above](https://unsplash.com/photos/k6Fz2Q1h0ww).
 
-<small>Note: This post was last edited on 31 Mar, 2022.</small>
+<small>Note: This post was last edited on Mar 31, 2022.</small>
 
 **2021 was and will always be an important year for me**, why? There are two reasons that I want to write about deeply here. I'll also have a reflection on what I accomplished this year and some aspirations for 2022.
 

@@ -9,7 +9,7 @@ meta_image: https://lh3.google.com/u/0/d/1VFzToFHGICTdPCHcp79nR_8UQUrAXCm0=w2880
 
 [Credit for the image above](https://unsplash.com/photos/l2kOjWEs_fU).
 
-<small>Note: This post was last edited on 10 Apr, 2022.</small>
+<small>Note: This post was last edited on Apr 10, 2022.</small>
 
 [KENKEN](https://www.kenken.com) is a Japanese math puzzle that combines sudoku with arithmetic operations (as if sudoku wasn't hard enough!)
 

@@ -9,7 +9,7 @@ meta_image: https://images.unsplash.com/photo-1578924825184-5d9d229b2b01?ixid=Mn
 
 [Credit for the image above](https://images.unsplash.com/photo-1578924825184-5d9d229b2b01?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1592&q=80).
 
-<small>Note: This post was last edited on 19 May, 2022.</small>
+<small>Note: This post was last edited on May 19, 2022.</small>
 
 <small>Disclaimer: This post was not sponsored by Focusmate, all of these thoughts are my own.</small>
 

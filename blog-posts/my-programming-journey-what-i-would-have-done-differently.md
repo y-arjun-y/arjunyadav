@@ -9,7 +9,7 @@ meta_image: https://images.unsplash.com/photo-1579539447460-f80d2bf45be0?ixlib=r
 
 [Credit for the image above](https://unsplash.com/photos/MPecMEHO6xw).
 
-<small>Note: This post was last edited on 31 Mar, 2022.</small>
+<small>Note: This post was last edited on Mar 31, 2022.</small>
 
 Last month or so, a brilliant classmate of mine brought up the idea of coding tuitions after I explained my [research](/projects#millerrabin) to him. That got me thinking, **how the heck did I get to this point in my programming journey?**
 

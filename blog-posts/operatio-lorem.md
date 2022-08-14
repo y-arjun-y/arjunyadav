@@ -9,7 +9,7 @@ meta_image: https://images.unsplash.com/photo-1592725220707-26006819c3ef?ixid=Mn
 
 [Credit for the image above](https://unsplash.com/photos/wneuvEXGGJg).
 
-<small>Note: This post was last edited on 31 Mar, 2022.</small>
+<small>Note: This post was last edited on Mar 31, 2022.</small>
 
 ## Background
 

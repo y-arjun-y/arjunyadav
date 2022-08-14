@@ -9,7 +9,7 @@ meta_image: https://images.unsplash.com/photo-1584441405886-bc91be61e56a?ixlib=r
 
 [Credit for the image above](https://unsplash.com/photos/gTV2osuOsJc).
 
-<small>Note: This post was last edited on 01 May, 2022.</small>
+<small>Note: This post was last edited on May 01, 2022.</small>
 
 I log everything I read in Notion. This month I read 2 books, 47 newsletters and 21 articles.
 

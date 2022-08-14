@@ -9,7 +9,7 @@ meta_image: https://upload.wikimedia.org/wikipedia/commons/e/e9/Walking_Stewart.
 
 [Credit for the image above](https://en.wikipedia.org/wiki/Walking_Stewart).
 
-<small>Note: This post was last edited on 31 Mar, 2022.</small>
+<small>Note: This post was last edited on Mar 31, 2022.</small>
 
 ## Background
 
