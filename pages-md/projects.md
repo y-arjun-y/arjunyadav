@@ -105,6 +105,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 14, 2022</time> Continued with some research.
+
 - <time>Aug 13, 2022</time> Continued with some research.
 
 - <time>Aug 12, 2022</time> Continued with some research.
