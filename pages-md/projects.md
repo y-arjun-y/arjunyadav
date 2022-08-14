@@ -305,7 +305,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 12, 2022</time> Got started with [Understanding Big O](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/more-big-o/).
+- <time>Aug 14, 2022</time> Got started with Understanding Big O.
+
+- <time>Aug 13, 2022</time> Got started with [Understanding Big O](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/more-big-o/).
 
 - <time>Aug 12, 2022</time> Finished [Comparing Algorithms](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/comparing-algos/).
 
