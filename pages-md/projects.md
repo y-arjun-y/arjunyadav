@@ -229,6 +229,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 15, 2022</time> Finished with Week 1 and got 100% on the final quiz!
+
 - <time>Aug 14, 2022</time> Continued with Week 1. Nearly (nearly) done.
 
 - <time>Aug 13, 2022</time> Continued with Week 1. Nearly done.
