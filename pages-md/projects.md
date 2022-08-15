@@ -544,6 +544,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 15, 2022</time> ~11 minutes for all correct.
+
 - <time>Aug 14, 2022</time> Did not have too much time left in the day for KENKEN, so I just did two hard 6x6s with unlimited checks.
 
 - <time>Aug 13, 2022</time> ~11 minutes for all correct.
@@ -953,14 +955,15 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 #### Log
 
 - <time>Aug 15, 2022</time> Finished [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/):
+
 ```py
 class Solution:
     def check(self, nums: List[int]) -> bool:
         rotations = []
-        
+
         for i in range(len(nums)):
             rotations.append([nums[(j+i) % len(nums)] for j in range(len(nums))])
-            
+
         return sorted(nums) in rotations
 ```
 
