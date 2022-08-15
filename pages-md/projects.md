@@ -149,6 +149,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 15, 2022</time> Could not finish the final assignment for Week 3 but on to Week 4 anyways (the assignment is technically optional).
+
 - <time>Aug 14, 2022</time> Continued with the final assignment for Week 3.
 
 - <time>Aug 13, 2022</time> Continued with the final assignment for Week 3 (went throught the pre-requisite notebook).
