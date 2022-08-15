@@ -9,6 +9,8 @@ meta_image: https://lh3.google.com/u/0/d/1sKV4CjiKQmDxb71iJZJghdjoKyYqC9Bf=w2880
 
 [Credit for the image above](https://distill.pub/2020/circuits/zoom-in/#:~:text=editing%20the%20weights.-,Circuit%203%3A%20Cars%20in%20Superposition,-In%20mixed4c%2C%20a).
 
+<small>Note: This post was last edited on Aug 15, 2022.</small>
+
 ## Prerequisites and Introduction
 
 This post assumes you know Python decently well (though I do explain a good chunk of the code, so it shouldn't be a big issue if you don't) and that you know how neural networks work.
@@ -39,7 +41,7 @@ We'll be using the [fastbook](https://github.com/fastai/fastbook) package (since
 !yes | pip install tornado==5.1.0
 ```
 
-```
+```py
 from fastbook import *
 from fastai.vision.widgets import *
 ```
@@ -52,20 +54,20 @@ For this example, **we're going to train our neural network to classify three ty
 
 We provide our API key:
 
-```
+```py
 key = os.environ.get('AZURE_SEARCH_KEY', 'ENTER_THE_API_KEY_HERE')
 ```
 
 And set the types and the path name (where the images and their folders will be):
 
-```
+```py
 bear_types = 'grizzly', 'black', 'teddy'
 path = Path('bears')
 ```
 
 Here's the main loop to get the images from Bing, which checks if the directory at the path we supplied exists (if not, it creates it) and, for each type, it creates a folder with about 150 results from Bing Images:
 
-```
+```py
 if not path.exists():
     path.mkdir()
     for o in bear_types:
@@ -77,7 +79,7 @@ if not path.exists():
 
 We now have our dataset organized into folders, **however, there is a reasonable chance that some of the downloads failed**, so we do a bit of data cleaning by unlinking any images that failed the `verify_images` test provided by fastai.
 
-```
+```py
 failed = verify_images(get_image_files(path))
 failed.map(Path.unlink)
 ```
@@ -86,7 +88,7 @@ failed.map(Path.unlink)
 
 To get our data into the neural network, we use fast.ai's DataBlock and DataLoaders classes that **enable us to split the images into two branches, the training set** (which will be used to actually train the neural network) **and the validation set** (where `valid_pct` of the images will not be shown for training and will instead be used to prevent overfitting by showing it images it's never seen during training)
 
-```
+```py
 bears = DataBlock(
     blocks=(ImageBlock, CategoryBlock),
     get_items=get_image_files,
@@ -96,7 +98,7 @@ bears = DataBlock(
 )
 ```
 
-```
+```py
 bears = bears.new(
     item_tfms=RandomResizedCrop(224, min_scale=0.5),
     batch_tfms=aug_transforms()
@@ -119,7 +121,7 @@ learn.fine_tune(1)
 
 We export our model to a [pickle file](https://pythonnumericalmethods.berkeley.edu/notebooks/chapter11.03-Pickle-Files.html#:~:text=Pickle%20can%20be%20used%20to,back%20to%20a%20Python%20object.):
 
-```
+```py
 learn.export()
 
 path = Path()
@@ -128,36 +130,36 @@ path.ls(file_exts='.pkl')
 
 With this, we can more easily create an "inference" variable that is referenced any time we want to call the model to make a prediction for a new image that it hasn't seen before (called an inference):
 
-```
+```py
 learn_inf = load_learner(path/'export.pkl')
 ```
 
 With widgets, we can supply our image by creating a simple upload button with its own state:
 
-```
+```py
 btn_upload = widgets.FileUpload()
 btn_upload
 ```
 
 We save the image uploaded to a variable:
 
-```
+```py
 img = PILImage.create(btn_upload.data[-1])
 ```
 
-```
+```py
 out_pl = widgets.Output()
 ```
 
 And we get our prediction and probability from the inference variable we created earlier:
 
-```
+```py
 pred, pred_idx, probs = learn_inf.predict(img)
 ```
 
 Finally, we print out the last cell and get our prediction!:
 
-```
+```py
 lbl_pred = widgets.Label()
 lbl_pred.value = f'Prediction: {pred}; Probability: {probs[pred_idx]:.04f}'
 lbl_pred

@@ -43,13 +43,13 @@ John earned a handsome sum for his work with the Nabob, and with this money, he 
 
 ## Cold feet and the Death of John Stewart
 
-He travelled all the way from India to England on foot, rarely using a horse or a caravan. He (miraculously)¹ made it to England in one piece.
+He travelled all the way from India to England on foot, rarely using a horse or a caravan. He (miraculously)[^1] made it to England in one piece.
 
 After returning home, John became a full-time philosopher and, strangely enough, became an eccentric.
 
 The life of such an interesting man came to an end the morning after his seventy-fifth birthday. His relative, who wrote the main source for this whole post, says it best.
 
-> On Ash Wednesday morn, this good and amiable man died, without a pang, at his residence in Northumberland street. From the suddenness with which this lamented circumstance took place, the members of his family, and his faithful friends, had scarcely time to arrive: the few who were present could not but observe the smile that remained on his face, even after death.²
+> On Ash Wednesday morn, this good and amiable man died, without a pang, at his residence in Northumberland street. From the suddenness with which this lamented circumstance took place, the members of his family, and his faithful friends, had scarcely time to arrive: the few who were present could not but observe the smile that remained on his face, even after death.[^2]
 
 ## Afterword
 
@@ -74,12 +74,10 @@ Below are all my sources, footnotes and some further reading.
 - [The life and adventures of the celebrated Walking Stewart](https://babel.hathitrust.org/cgi/pt?id=hvd.hn5qre&view=1up&seq=4&skin=2021)
 - [English eccentrics and eccentricities](https://babel.hathitrust.org/cgi/pt?id=uc1.b3271764&view=1up&seq=324&skin=2021)
 
-## Footnotes
-
-1. John just escaped an assassination attempt from one of the most powerful person in Asia at the time. Excluding that, the very trip must have been exhausting, he could have easily died of starvation, disease or dehydration among many other things.
-2. This is both heartwarming and very creepy.
-
 ## Further reading
 
 - [John ‘Walking’ Stewart, an extreme pedestrian](https://gwallter.com/travel/john-walking-stewart-an-extreme-pedestrian.html)
 - [Walking Stewart (a sketch of an eccentric pedestrian)](https://www.henrysalt.co.uk/library/essay/walking-stewart/)
+
+[^1]: John just escaped an assassination attempt from one of the most powerful person in Asia at the time. Excluding that, the very trip must have been exhausting, he could have easily died of starvation, disease or dehydration among many other things.
+[^2]: This is both heartwarming and very creepy.
