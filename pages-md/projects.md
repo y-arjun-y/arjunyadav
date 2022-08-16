@@ -5951,7 +5951,13 @@ class Solution:
 
 #### Log
 
-- <time>Aug 12, 2022</time> Hit a 350-day streak. I'll try to get to legendary in all the non-legendary Hindi skills in the next two days.
+- <time>Aug 16, 2022</time> Hit a 353-day streak. I didn't reach legendary in every skill but that's alright.
+
+- <time>Aug 15, 2022</time> Hit a 352-day streak.
+
+- <time>Aug 14, 2022</time> Hit a 351-day streak.
+
+- <time>Aug 13, 2022</time> Hit a 350-day streak. I'll try to get to legendary in all the non-legendary Hindi skills in the next two days.
 
 - <time>Aug 12, 2022</time> Hit a 349-day streak.
 
