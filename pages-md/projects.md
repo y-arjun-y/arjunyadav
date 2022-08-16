@@ -552,6 +552,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 16, 2022</time> ~9.5 minutes for all correct.
+
 - <time>Aug 15, 2022</time> ~11 minutes for all correct.
 
 - <time>Aug 14, 2022</time> Did not have too much time left in the day for KENKEN, so I just did two hard 6x6s with unlimited checks.
