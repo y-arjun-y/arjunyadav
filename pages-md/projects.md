@@ -966,6 +966,14 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 16, 2022</time> Finished [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) (note: I already completed this problem earlier, but they seemed to have lower the time limit when they made it a daily challenge so I decided to re-do and count it):
+
+```py
+class Solution:
+    def firstUniqChar(self, s: str) -> int:
+        return s.index([i for i in list(dict.fromkeys(s)) if s.count(i) == 1][0]) if len([i for i in list(dict.fromkeys(s)) if s.count(i) == 1]) > 0 else -1
+```
+
 - <time>Aug 15, 2022</time> Finished [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/):
 
 ```py
