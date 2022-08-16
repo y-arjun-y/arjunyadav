@@ -151,6 +151,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 16, 2022</time> Got started with Week 4.
+
 - <time>Aug 15, 2022</time> Could not finish the final assignment for Week 3 but on to Week 4 anyways (the assignment is technically optional).
 
 - <time>Aug 14, 2022</time> Continued with the final assignment for Week 3.
@@ -230,6 +232,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 16, 2022</time> Got started with Week 2.
 
 - <time>Aug 15, 2022</time> Finished with Week 1 and got 100% on the final quiz!
 
