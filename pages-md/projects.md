@@ -63,6 +63,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 - <time>Aug 14, 2022</time> Continued writing the introduction.
 
+- <time>Aug 14, 2022</time> Continued writing the introduction.
+
 - <time>Aug 13, 2022</time> Continued with reading.
 
 - <time>Aug 12, 2022</time> Continued with reading.
