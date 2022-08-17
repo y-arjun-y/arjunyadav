@@ -5443,6 +5443,8 @@ class Solution:
 
 #### Log
 
+- <time>Aug 17, 2022</time> Continued with Scientific Computing with Python.
+
 - <time>Aug 16, 2022</time> Continued with Responsive Web Design.
 
 - <time>Aug 15, 2022</time> Continued with Responsive Web Design.
