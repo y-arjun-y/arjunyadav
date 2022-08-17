@@ -7,10 +7,11 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Ongoing (14)
+### Ongoing (15)
 
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#drums">Drums</a>
+- <a href="#eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</a>
 - <a href="#landingpage">Landing Page Project + App Integration</a>
 - <a href="#introml">Introduction to Machine Learning</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
@@ -29,9 +30,8 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#fastai">fast.ai</a>
 - <a href="#sudoku">Sudoku</a>
 
-### Done (12)
+### Done (11)
 
-- <a href="#eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</a>
 - <a href="#bearblogreplacementtemplate">Bear Blog Replacement Template</a>
 - <a href="#solaris">SOLARIS (First Edition)</a>
 - <a href="#gallpeters">gallpeters</a>
@@ -150,6 +150,54 @@ Confused? See the <a href="#note">note</a> down below.
 - <time>Jul 30, 2022</time> Finished (?) with the third draft of the first section.
 
 - <time>Jul 29, 2022</time> Had a productive meeting and got started with the third draft of the first section.
+<hr />
+
+## <span id="eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</span>
+
+<small>Jul 08, 2022-present</small>  
+<small>Trying to make EA Bristol's website the best EA group website out there. The latter project mentioned (which ended on Aug 09, 2022) was entangled with the former and I will be vague when describing the latter project in the logs.</small>
+
+<hr />
+
+#### Log
+
+- <time>Aug 17, 2022</time> I think this project is back from the dead?
+
+- <time>Aug 09, 2022</time> There may be a few more developments, but I consider the booking project done! Also, the EA Bristol project has been dropped, so this project as a whole is done.
+
+- <time>Aug 08, 2022</time> Nearly done with migration (and the booking project)
+
+- <time>Aug 07, 2022</time> Got started with migration (nearly done?)
+
+- <time>Aug 06, 2022</time> Got started with a calendar event generator.
+
+- <time>Aug 05, 2022</time> Added organisation pictures for the booking project and the ability to review your booking.
+
+- <time>Aug 04, 2022</time> Sent the booking project.
+
+- <time>Aug 03, 2022</time> Finished with authentication.
+
+- <time>Aug 02, 2022</time> Nearly done with authentication!
+
+- <time>Aug 01, 2022</time> Continued with authentication, need to start from scratch with authentication from tomorrow as I'm making very little progress.
+
+- <time>Jul 31, 2022</time> Continued with authentication.
+
+- <time>Jul 30, 2022</time> Alright, a small hiccup but another project has been entangled with this project. All (?) gaps can be explained as me working on the latter project.
+
+  Anyways, continued with authentication.
+
+- <time>Jul 25, 2022</time> Finished (?) with the hero section and finished the first draft of the about us page.
+
+- <time>Jul 12, 2022</time> Toyed around with mosaics.
+
+- <time>Jul 11, 2022</time> Finished with the third draft of the "hero section" and got some feedback and also got started with the about us section.
+
+- <time>Jul 10, 2022</time> Finished with the second draft of the "hero section" and got feedback.
+
+- <time>Jul 09, 2022</time> Finished with the first draft of the "hero section" and got feedback.
+
+- <time>Jul 08, 2022</time> Got started with a component.
 <hr />
 
 ## <span id="introml">[Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning-duke/)</span>
@@ -7898,52 +7946,6 @@ class Solution:
 
 ## Done
 
-<hr />
-
-## <span id="eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</span>
-
-<small>Jul 08, 2022-Aug 09, 2022</small>  
-<small>Tried to make EA Bristol's website the best EA group website out there. The latter project mentioned (which ended on Aug 09, 2022) was entangled with the former and I will be vague when describing the latter project in the logs.</small>
-
-<hr />
-
-#### Log
-
-- <time>Aug 09, 2022</time> There may be a few more developments, but I consider the booking project done! Also, the EA Bristol project has been dropped, so this project as a whole is done.
-
-- <time>Aug 08, 2022</time> Nearly done with migration (and the booking project)
-
-- <time>Aug 07, 2022</time> Got started with migration (nearly done?)
-
-- <time>Aug 06, 2022</time> Got started with a calendar event generator.
-
-- <time>Aug 05, 2022</time> Added organisation pictures for the booking project and the ability to review your booking.
-
-- <time>Aug 04, 2022</time> Sent the booking project.
-
-- <time>Aug 03, 2022</time> Finished with authentication.
-
-- <time>Aug 02, 2022</time> Nearly done with authentication!
-
-- <time>Aug 01, 2022</time> Continued with authentication, need to start from scratch with authentication from tomorrow as I'm making very little progress.
-
-- <time>Jul 31, 2022</time> Continued with authentication.
-
-- <time>Jul 30, 2022</time> Alright, a small hiccup but another project has been entangled with this project. All (?) gaps can be explained as me working on the latter project.
-
-  Anyways, continued with authentication.
-
-- <time>Jul 25, 2022</time> Finished (?) with the hero section and finished the first draft of the about us page.
-
-- <time>Jul 12, 2022</time> Toyed around with mosaics.
-
-- <time>Jul 11, 2022</time> Finished with the third draft of the "hero section" and got some feedback and also got started with the about us section.
-
-- <time>Jul 10, 2022</time> Finished with the second draft of the "hero section" and got feedback.
-
-- <time>Jul 09, 2022</time> Finished with the first draft of the "hero section" and got feedback.
-
-- <time>Jul 08, 2022</time> Got started with a component.
 <hr />
 
 ## <span id="bearblogreplacementtemplate">[Bear Blog Replacement Template](https://bear-blog-replacement-template.vercel.app/)</span>
