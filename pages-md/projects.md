@@ -379,6 +379,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 17, 2022</time> Continued with The Mathematics of Big O.
+
 - <time>Aug 16, 2022</time> Got started with [The Mathematics of Big O](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/big-o-formally/).
 
 - <time>Aug 15, 2022</time> Finished with Understanding Big O.
