@@ -209,6 +209,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 17, 2022</time> Continued with Week 4 and learnt about [Word2Vec](https://www.tensorflow.org/tutorials/text/word2vec).
+
 - <time>Aug 16, 2022</time> Got started with Week 4.
 
 - <time>Aug 15, 2022</time> Could not finish the final assignment for Week 3 but on to Week 4 anyways (the assignment is technically optional).
