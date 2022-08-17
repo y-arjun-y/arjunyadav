@@ -618,6 +618,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 17, 2022</time> ~8 minutes for all correct.
+
 - <time>Aug 16, 2022</time> ~9.5 minutes for all correct.
 
 - <time>Aug 15, 2022</time> ~11 minutes for all correct.
