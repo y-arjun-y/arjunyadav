@@ -291,6 +291,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 17, 2022</time> Continued with Week 2 and learnt about [the Jacobian](https://mathworld.wolfram.com/Jacobian.html).
+
 - <time>Aug 16, 2022</time> Got started with Week 2.
 
 - <time>Aug 15, 2022</time> Finished with Week 1 and got 100% on the final quiz!
