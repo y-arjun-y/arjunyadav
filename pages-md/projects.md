@@ -1028,6 +1028,23 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 17, 2022</time> Finished [Find Common Characters](https://leetcode.com/problems/find-common-characters/) but I had to look at the solution:
+
+```py
+class Solution:
+    def commonChars(self, words: List[str]) -> List[str]:
+        res = []
+
+        for i in words.pop():
+            for j in range(len(words)):
+                if i not in words[j]:
+                    break
+                words[j] = words[j].replace(i, "", 1)
+            else:
+                res.append(i)
+        return res
+```
+
 - <time>Aug 16, 2022</time> Finished [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) (note: I already completed this problem earlier, but they seemed to have lower the time limit when they made it a daily challenge so I decided to re-do and count it):
 
 ```py
