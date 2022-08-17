@@ -5039,6 +5039,8 @@ class Solution:
 
 #### Log
 
+- <time>Aug 17, 2022</time> Freestyled to ease back in.
+
 - <time>Aug 03, 2022</time> Continued with Module 4 practice.
 
 - <time>Aug 01, 2022</time> "Learnt" [the intro to Chop Suey!](https://www.youtube.com/watch?v=EjQxA7ulTdM) Drop C tuning is awesome.
