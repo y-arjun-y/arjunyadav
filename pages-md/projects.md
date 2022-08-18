@@ -295,6 +295,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 18, 2022</time> Continued with Week 2 and got 100% on the practice quiz!
+
 - <time>Aug 17, 2022</time> Continued with Week 2 and learnt about [the Jacobian](https://mathworld.wolfram.com/Jacobian.html).
 
 - <time>Aug 16, 2022</time> Got started with Week 2.
@@ -384,6 +386,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 18, 2022</time> Finished with The Mathematics of Big O.
 
 - <time>Aug 17, 2022</time> Continued with The Mathematics of Big O.
 
@@ -623,6 +627,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 18, 2022</time> ~18 minutes for all correct.
 
 - <time>Aug 17, 2022</time> ~8 minutes for all correct.
 
@@ -5459,6 +5465,8 @@ class Solution:
 
 #### Log
 
+- <time>Aug 18, 2022</time> Continued with Responsive Web Design.
+
 - <time>Aug 17, 2022</time> Continued with Scientific Computing with Python.
 
 - <time>Aug 16, 2022</time> Continued with Responsive Web Design.
@@ -6063,6 +6071,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Aug 18, 2022</time> Hit a 355-day streak. 10 more days.
 
 - <time>Aug 17, 2022</time> Hit a 354-day streak.
 
