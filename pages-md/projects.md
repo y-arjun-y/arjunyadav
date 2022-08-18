@@ -61,7 +61,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 18, 2022</time> Continued writing the introduction, nearly done (sort of). 
+- <time>Aug 18, 2022</time> Continued writing the introduction, nearly done (sort of).
 
 - <time>Aug 17, 2022</time> Didn't do much writing but that's alright.
 
@@ -1037,6 +1037,14 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 <hr />
 
 #### Log
+
+- <time>Aug 18, 2022</time> Finished [Arranging Coins](https://leetcode.com/problems/arranging-coins/) but I had to look at the solution:
+
+```py
+class Solution:
+    def arrangeCoins(self, n: int) -> int:
+        return int((2 * n + 0.25) ** 0.5 - 0.5)
+```
 
 - <time>Aug 17, 2022</time> Finished [Find Common Characters](https://leetcode.com/problems/find-common-characters/) but I had to look at the solution:
 
