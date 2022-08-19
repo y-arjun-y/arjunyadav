@@ -169,6 +169,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 19, 2022</time> Yep, it is. Finished a draft of the last (?) page.
+
 - <time>Aug 17, 2022</time> I think this project is back from the dead?
 
 - <time>Aug 09, 2022</time> There may be a few more developments, but I consider the booking project done! Also, the EA Bristol project has been dropped, so this project as a whole is done.
