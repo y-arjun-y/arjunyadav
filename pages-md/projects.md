@@ -1052,6 +1052,22 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 19, 2022</time> Finished [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/):
+
+```py
+class Solution:
+    def kthFactor(self, n: int, k: int) -> int:
+        factors = []
+
+        for i in range(1, n + 1):
+            if n % i == 0:
+                factors.append(i)
+
+        if len(factors) < k:
+            return -1
+        return factors[k - 1]
+```
+
 - <time>Aug 18, 2022</time> Finished [Arranging Coins](https://leetcode.com/problems/arranging-coins/) but I had to look at the solution:
 
 ```py
