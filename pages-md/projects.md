@@ -303,6 +303,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 19, 2022</time> Continued with Week 2.
+
 - <time>Aug 18, 2022</time> Continued with Week 2 and got 100% on the practice quiz!
 
 - <time>Aug 17, 2022</time> Continued with Week 2 and learnt about [the Jacobian](https://mathworld.wolfram.com/Jacobian.html).
@@ -394,6 +396,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 19, 2022</time> Got started with [The Stable Matching Problem](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/stable-matching).
 
 - <time>Aug 18, 2022</time> Finished with The Mathematics of Big O.
 
@@ -5489,6 +5493,8 @@ class Solution:
 
 #### Log
 
+- <time>Aug 19, 2022</time> Continued with Responsive Web Design.
+
 - <time>Aug 18, 2022</time> Continued with Responsive Web Design.
 
 - <time>Aug 17, 2022</time> Continued with Scientific Computing with Python.
@@ -6095,6 +6101,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Aug 19, 2022</time> Hit a 356-day streak.
 
 - <time>Aug 18, 2022</time> Hit a 355-day streak. 10 more days.
 
