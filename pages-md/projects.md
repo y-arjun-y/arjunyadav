@@ -1062,6 +1062,33 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 20, 2022</time> Finished [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) but I had to look at the solution:
+
+```py
+class Solution:
+    def maximumTime(self, time: str) -> str:
+        digits = list(time)
+
+        for i in range(len(digits)):
+            if digits[i] == "?":
+                if i == 0:
+                    if digits[i + 1] in ["0", "1", "2", "3", "?"]:
+                        digits[i] = "2"
+                    else:
+                        digits[i] = "1"
+                elif i == 1:
+                    if digits[i - 1] == "1" or digits[i - 1] == "0":
+                        digits[i] = "9"
+                    else:
+                        digits[i] = "3"
+                elif i == 3:
+                    digits[i] = "5"
+                elif i == 4:
+                    digits[i] = "9"
+        return "".join(digits)
+
+```
+
 - <time>Aug 19, 2022</time> Finished [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/):
 
 ```py
