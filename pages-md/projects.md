@@ -309,6 +309,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 20, 2022</time> Continued with Week 2.
+
 - <time>Aug 19, 2022</time> Continued with Week 2.
 
 - <time>Aug 18, 2022</time> Continued with Week 2 and got 100% on the practice quiz!
