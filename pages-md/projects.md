@@ -7210,7 +7210,7 @@ class Solution:
 
 #### Log
 
-- <time>Aug 20, 2022</time> 3x3 AO5 PB! 15.708 (!), 8.368, 35.560 and 7.586
+- <time>Aug 20, 2022</time> 3x3 AO5 PB! (by a couple milliseconds lol): 15.708 (!), 8.368, 35.560 and 7.586
 
 - <time>Aug 19, 2022</time> 20.416, 5.227, 37.444 and 8.829.
 
