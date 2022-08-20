@@ -403,6 +403,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 20, 2022</time> Continued with The Stable Matching Problem.
+
 - <time>Aug 19, 2022</time> Got started with [The Stable Matching Problem](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/stable-matching).
 
 - <time>Aug 18, 2022</time> Finished with The Mathematics of Big O.
