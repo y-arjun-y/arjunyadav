@@ -61,6 +61,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 20, 2022</time> Continued writing the introduction.
+
 - <time>Aug 19, 2022</time> Continued writing the introduction, will take some more time.
 
 - <time>Aug 18, 2022</time> Continued writing the introduction, nearly done (sort of).
