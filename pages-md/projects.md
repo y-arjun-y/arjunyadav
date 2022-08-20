@@ -646,6 +646,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 20, 2022</time> ~9 minutes for all correct.
+
+- <time>Aug 19, 2022</time> I think daily puzzles went alright?
+
 - <time>Aug 18, 2022</time> ~18 minutes for all correct.
 
 - <time>Aug 17, 2022</time> ~8 minutes for all correct.
