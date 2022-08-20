@@ -173,6 +173,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 20, 2022</time> Sent over an overall draft and worked on slightly overhauling one of the pages.
+
 - <time>Aug 19, 2022</time> Yep, it is. Finished a draft of the last (?) page.
 
 - <time>Aug 17, 2022</time> I think this project is back from the dead?
