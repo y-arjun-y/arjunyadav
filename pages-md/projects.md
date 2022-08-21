@@ -409,6 +409,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 21, 2022</time> Continued with The Stable Matching Problem.
+
 - <time>Aug 20, 2022</time> Continued with The Stable Matching Problem.
 
 - <time>Aug 19, 2022</time> Got started with [The Stable Matching Problem](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/stable-matching).
@@ -653,6 +655,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 21, 2022</time> Daily puzzles went okay.
 
 - <time>Aug 20, 2022</time> ~9 minutes for all correct.
 
@@ -1073,6 +1077,8 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 <hr />
 
 #### Log
+
+- <time>Aug 21, 2022</time> Sort of mucked around, got really close for [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) but I'll have to continue it tomorrow.
 
 - <time>Aug 20, 2022</time> Finished [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) but I had to look at the solution:
 
@@ -5538,6 +5544,8 @@ class Solution:
 
 #### Log
 
+- <time>Aug 21, 2022</time> Continued with Responsive Web Design.
+
 - <time>Aug 20, 2022</time> Continued with Responsive Web Design.
 
 - <time>Aug 19, 2022</time> Continued with Responsive Web Design.
@@ -6148,6 +6156,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Aug 21, 2022</time> Hit a 358-day streak.
 
 - <time>Aug 20, 2022</time> Hit a 357-day streak.
 
