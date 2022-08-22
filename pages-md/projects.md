@@ -5582,6 +5582,8 @@ class Solution:
 
 #### Log
 
+- <time>Aug 22, 2022</time> Finished with the Scientific Computing with Python lectures. On to the projects!
+
 - <time>Aug 21, 2022</time> Continued with Responsive Web Design.
 
 - <time>Aug 20, 2022</time> Continued with Responsive Web Design.
