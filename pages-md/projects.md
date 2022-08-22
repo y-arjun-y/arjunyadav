@@ -59,6 +59,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Aug 10, 2022-present</small>  
 <small>Trying to create a paper which presents a framework that protects the benefits of open research in AI. Inspired by [Toby Shevlane and Allan Dafoe's work](https://www.fhi.ox.ac.uk/wp-content/uploads/The-Offense-Defense-Balance-of-Scientific-Knowledge.pdf#page=7&zoom=100,72,192) as well as [Nick Bostrom's work](https://ora.ox.ac.uk/objects/uuid:83ea712f-aba3-4176-957a-3bb4af0209d6).</small>
 
+<hr />
+
 #### Log
 
 - <time>Aug 21, 2022</time> Added some citations.
@@ -7280,7 +7282,7 @@ class Solution:
 
 #### Log
 
-- <time>Aug 21, 2022</time> I think I've learnt the Ja perm for 3x3 OH?: 20.030, 5.016, 37.032 and 9.073.
+- <time>Aug 21, 2022</time> I think I've learnt the Ja perm for 3x3 OH? 20.030, 5.016, 37.032 and 9.073.
 
 - <time>Aug 20, 2022</time> 3x3 AO5 PB! (by a couple milliseconds lol): 15.708 (!), 8.368, 35.560 and 7.586
 
@@ -7527,7 +7529,7 @@ class Solution:
 
 - <time>Apr 14, 2022</time> Barely passable: 19.618, 6.006, 36.972 and 8.722.
 
-- <time>Apr 13, 2022</time> Never mind?: 17.598 (!), 5.175, 33.667 an 10.520. I hate how turbulent my times are. I guess that's cubing in a nutshell.
+- <time>Apr 13, 2022</time> Never mind? 17.598 (!), 5.175, 33.667 an 10.520. I hate how turbulent my times are. I guess that's cubing in a nutshell.
 
 - <time>Apr 12, 2022</time> Welp, I think we'll be in this time slump for a bit. At least I got a successful 3x3 BLD solve: 20.569, 6.222, 39.119 and 9.908 (Also, I think the change in solving order didn't do much, so I'm back to the original order).
 
