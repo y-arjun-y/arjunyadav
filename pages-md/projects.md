@@ -1078,7 +1078,43 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
-- <time>Aug 21, 2022</time> Sort of mucked around, got really close for [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) but I'll have to continue it tomorrow.
+- <time>Aug 22, 2022</time> Finished [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/):
+
+```py
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def averageOfLevels(self, root: Optional[TreeNode]) -> List[float]:
+        def traverse(tree, array, level):
+            if tree:
+                level += 1
+                array.append((tree.val, level))
+                traverse(tree.left, array, level)
+                traverse(tree.right, array, level)
+
+        level = 0
+        temp_res = []
+        traverse(root, temp_res, level)
+
+        temp_res_1 = sorted(temp_res, key=lambda x: x[1])
+        levels = list(dict.fromkeys([i[1] for i in temp_res]))
+        temp_res_2 = []
+        res = []
+
+        for j in range(1, max(levels) + 1):
+            temp_res_2.append([i[0] for i in temp_res_1 if i[1] == j])
+
+        for k in temp_res_2:
+            res.append(sum(k) / len(k))
+
+        return res
+```
+
+- <time>Aug 21, 2022</time> Got pretty close to a solution for [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) but I'll have to continue it tomorrow.
 
 - <time>Aug 20, 2022</time> Finished [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) but I had to look at the solution:
 
