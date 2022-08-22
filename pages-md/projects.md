@@ -409,6 +409,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 22, 2022</time> Finished with The Stable Matching Problem.
+
 - <time>Aug 21, 2022</time> Continued with The Stable Matching Problem.
 
 - <time>Aug 20, 2022</time> Continued with The Stable Matching Problem.
@@ -6196,6 +6198,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Aug 22, 2022</time> Hit a 359-day streak.
 
 - <time>Aug 21, 2022</time> Hit a 358-day streak.
 
