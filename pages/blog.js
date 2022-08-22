@@ -3,7 +3,11 @@ import matter from "gray-matter";
 import Head from "next/head";
 
 export async function getStaticProps() {
-  const files = fs.readdirSync("./blog-posts");
+  let files = fs.readdirSync("./blog-posts");
+
+  files = files.filter(function (item) {
+    return item !== "drafts";
+  });
 
   const posts = files.map((fileName) => {
     const slug = fileName.replace(".md", "");

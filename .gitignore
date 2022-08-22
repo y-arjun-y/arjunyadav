@@ -30,3 +30,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# drafts
+/blog-posts/drafts
+/public/drafts
