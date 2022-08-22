@@ -181,8 +181,6 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 22, 2022</time> Collected everything. I'll get started with programming tomorrow.
-
 - <time>Aug 21, 2022</time> Overhaul for one of the pages is done (?), will collect everything tomorrow for a second overall draft.
 
 - <time>Aug 20, 2022</time> Sent over an overall draft and worked on slightly overhauling one of the pages.
