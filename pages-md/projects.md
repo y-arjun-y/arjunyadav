@@ -1094,6 +1094,27 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 23, 2022</time> Finished [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/):
+
+```py
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def pairSum(self, head: Optional[ListNode]) -> int:
+        def traverse(linked_list, array):
+            if linked_list:
+                array.append(linked_list.val)
+                traverse(linked_list.next, array)
+
+        array = []
+        traverse(head, array)
+
+        return max([array[i] + array[len(array) - 1 - i] for i in range(len(array))])
+```
+
 - <time>Aug 22, 2022</time> Finished [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/):
 
 ```py
