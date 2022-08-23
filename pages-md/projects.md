@@ -185,6 +185,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 23, 2022</time> "Got started" with programming.
+
+- <time>Aug 22, 2022</time> Continued with the design, will start programming tomorrow.
+
 - <time>Aug 21, 2022</time> Overhaul for one of the pages is done (?), will collect everything tomorrow for a second overall draft.
 
 - <time>Aug 20, 2022</time> Sent over an overall draft and worked on slightly overhauling one of the pages.
