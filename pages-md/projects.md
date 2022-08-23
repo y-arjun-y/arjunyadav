@@ -1085,7 +1085,7 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 - <time>Jan 20, 2022</time> Got accepted (!) and finished proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/future-proof-ethics/) when it's done (for privacy reasons).
 <hr />
 
-## <span id="leetcode">[LeetCode](https://leetcode.com/arjyadav7)</span>
+## <span id="leetcode">[LeetCode](https://leetcode.com/y-arjun-y/)</span>
 
 <small>Nov 13, 2021-present</small>  
 <small>Trying to do a problem every day. All of the general problems are done in [Python](https://python.org).</small>
