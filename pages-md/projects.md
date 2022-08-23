@@ -421,6 +421,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 23, 2022</time> Got started with [Using Greediness](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/greedy-matching/)
+
 - <time>Aug 22, 2022</time> Finished with The Stable Matching Problem.
 
 - <time>Aug 21, 2022</time> Continued with The Stable Matching Problem.
