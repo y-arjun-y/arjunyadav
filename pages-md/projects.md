@@ -1118,7 +1118,7 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
-- <time>Aug 24, 2022</time> Finished [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/);
+- <time>Aug 24, 2022</time> Finished [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/):
 
 ```py
 # Definition for singly-linked list.
