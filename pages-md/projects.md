@@ -1108,6 +1108,38 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 24, 2022</time> Finished [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/);
+
+```py
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        def traverse(linked_list, array):
+            if linked_list:
+                array.append(linked_list.val)
+                traverse(linked_list.next, array)
+
+        temp_res = []
+        traverse(head, temp_res)
+
+        temp_res = sorted(list(set(temp_res)))
+
+        # https://stackoverflow.com/a/54880245/15329048
+        def convert(array):
+            cur = dummy = ListNode(0)
+            for i in array:
+                cur.next = ListNode(i)
+                cur = cur.next
+            return dummy.next
+
+        return convert(temp_res)
+
+```
+
 - <time>Aug 23, 2022</time> Finished [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/):
 
 ```py
@@ -1880,7 +1912,7 @@ class Solution:
         return res
 ```
 
-- <time>Jul 07, 2022</time> Finished [Super Pow](https://leetcode.com/problems/super-pow/submissions/) (though I basically looked at the solution, at least I learnt about [a cool piece of maths](https://brilliant.org/wiki/eulers-totient-function/)):
+- <time>Jul 07, 2022</time> Finished [Super Pow](https://leetcode.com/problems/super-pow/) (though I basically looked at the solution, at least I learnt about [a cool piece of maths](https://brilliant.org/wiki/eulers-totient-function/)):
 
 ```py
 class Solution:
@@ -1971,7 +2003,7 @@ class Solution:
         return score
 ```
 
-- <time>Jul 01, 2022</time> Trying to solve more medium problems, so [here we are](https://leetcode.com/problems/simple-bank-system/submissions/):
+- <time>Jul 01, 2022</time> Trying to solve more medium problems, so [here we are](https://leetcode.com/problems/simple-bank-system/):
 
 ```py
 class Bank:
@@ -2125,7 +2157,7 @@ class Solution:
         return res[0]
 ```
 
-- <time>Jun 22, 2022</time> Nice. Finished [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/submissions/) in one submit. I'll try to tackle [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) tomorrow:
+- <time>Jun 22, 2022</time> Nice. Finished [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) in one submit. I'll try to tackle [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) tomorrow:
 
 ```py
 class Solution:
@@ -2696,7 +2728,7 @@ class Solution:
         return sorted(res)[k - 1]
 ```
 
-- <time>May 24, 2022</time> Finished [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/submissions/):
+- <time>May 24, 2022</time> Finished [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/):
 
 ```py
 # Definition for a binary tree node.
@@ -3505,7 +3537,7 @@ class Solution:
         return ' '.join(res)
 ```
 
-- <time>Apr 06, 2022</time> Finished [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/submissions/):
+- <time>Apr 06, 2022</time> Finished [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/):
 
 ```py
 class Solution:
@@ -3622,7 +3654,7 @@ class Solution:
             return temp_rev
 ```
 
-- <time>Mar 28, 2022</time> Finished [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/1):
+- <time>Mar 28, 2022</time> Finished [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/1):
 
 ```py
 class Solution:
@@ -3680,7 +3712,7 @@ class Solution:
         return -1
 ```
 
-- <time>Mar 23, 2022</time> Finished [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) though I sort of looked at [the solution](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/submissions/), manually counting all the odd numbers was too slow:
+- <time>Mar 23, 2022</time> Finished [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) though I sort of looked at [the solution](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/), manually counting all the odd numbers was too slow:
 
 ```py
 class Solution:
@@ -4351,7 +4383,7 @@ class Solution:
         return " ".join([i for i in s[::-1].split()][::-1])
 ```
 
-- <time>Jan 28, 2022</time> Finished both [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/) and [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/):
+- <time>Jan 28, 2022</time> Finished both [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) and [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/):
 
 ```py
 class Solution:
@@ -4449,7 +4481,7 @@ class Solution:
             return -1
 ```
 
-- <time>Jan 19, 2022</time> Solved both [Sort an Array](https://leetcode.com/problems/sort-an-array/submissions/) (my solution doesn't really count, I just did for the lols) and [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/):
+- <time>Jan 19, 2022</time> Solved both [Sort an Array](https://leetcode.com/problems/sort-an-array/) (my solution doesn't really count, I just did for the lols) and [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/):
 
 ```py
 class Solution:
@@ -4584,7 +4616,7 @@ class Solution:
         return str(num1_int * num2_int)
 ```
 
-- <time>Jan 09, 2022</time> Finished [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/submissions/), was about to make a post about my Python one-liner, but someone already did >:(
+- <time>Jan 09, 2022</time> Finished [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/), was about to make a post about my Python one-liner, but someone already did >:(
 
 ```py
 class Solution:
@@ -4611,7 +4643,7 @@ class Solution:
 
 ```
 
-- <time>Jan 07, 2022</time> This took so long, but I finally solved [Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/) with a crappy solution (but at least it worked):
+- <time>Jan 07, 2022</time> This took so long, but I finally solved [Search Insert Position](https://leetcode.com/problems/search-insert-position/) with a crappy solution (but at least it worked):
 
 ```py
 class Solution:
@@ -4721,7 +4753,7 @@ class Solution:
             return False
 ```
 
-- <time>Dec 31, 2021</time> So close, finished [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/submissions/) though I had to make an exception for one test case. I want to transition to medium problems in 2022.
+- <time>Dec 31, 2021</time> So close, finished [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) though I had to make an exception for one test case. I want to transition to medium problems in 2022.
 
 ```py
 class Solution:
@@ -4765,7 +4797,7 @@ class Solution:
         return "".join(s)
 ```
 
-- <time>Dec 29, 2021</time> Finished my first hard problem, [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/submissions/) though I had to look at the solution:
+- <time>Dec 29, 2021</time> Finished my first hard problem, [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) though I had to look at the solution:
 
 ```py
 class Solution:
@@ -4880,7 +4912,7 @@ class Solution:
         return '{:,}'.format(n).replace(',', '.')
 ```
 
-- <time>Dec 22, 2021</time> Finished [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/submissions/), thought it would be easy but I had to look at the solution:
+- <time>Dec 22, 2021</time> Finished [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/), thought it would be easy but I had to look at the solution:
 
 ```py
 class Solution:
@@ -4970,7 +5002,7 @@ class Solution:
          return len(set(sentence)) == 26
 ```
 
-- <time>Dec 15, 2021</time> Finished [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/submissions/):
+- <time>Dec 15, 2021</time> Finished [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/):
 
 ```py
 class Solution:
@@ -5131,7 +5163,7 @@ class Solution:
         return c
 ```
 
-- <time>Dec 04, 2021</time> Finished [Find the Difference](https://leetcode.com/problems/find-the-difference/submissions/), though I had to look at the solution:
+- <time>Dec 04, 2021</time> Finished [Find the Difference](https://leetcode.com/problems/find-the-difference/), though I had to look at the solution:
 
 ```py
 class Solution:
@@ -5266,7 +5298,7 @@ class Solution:
 
 - <time>Nov 21, 2021</time> Completed [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 
-- <time>Nov 20, 2021</time> Completed [Length of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/).
+- <time>Nov 20, 2021</time> Completed [Length of Last Word](https://leetcode.com/problems/length-of-last-word/).
 
 - <time>Nov 19, 2021</time> Completed [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/).
 
