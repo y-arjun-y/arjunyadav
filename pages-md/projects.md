@@ -5671,6 +5671,8 @@ class Solution:
 
 #### Log
 
+- <time>Aug 24, 2022</time> Continued with Responsive Web Design.
+
 - <time>Aug 23, 2022</time> Finished with error handling (?) for the [Arithmetic Formatter project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter) and continued with Responsive Web Design.
 
 - <time>Aug 22, 2022</time> Finished with the Scientific Computing with Python lectures. On to the projects!
