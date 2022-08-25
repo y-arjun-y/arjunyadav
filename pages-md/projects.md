@@ -437,6 +437,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 25, 2022</time> Finished with Using Greediness.
+
 - <time>Aug 24, 2022</time> Continued with Using Greediness.
 
 - <time>Aug 23, 2022</time> Got started with [Using Greediness](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/greedy-matching/).
@@ -5697,6 +5699,8 @@ class Solution:
 
 #### Log
 
+- <time>Aug 25, 2022</time> Finished with the Arithmetic Formatter project and continued with Responsive Web Design.
+
 - <time>Aug 24, 2022</time> Continued with Responsive Web Design.
 
 - <time>Aug 23, 2022</time> Finished with error handling (?) for the [Arithmetic Formatter project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter) and continued with Responsive Web Design.
@@ -6315,6 +6319,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Aug 25, 2022</time> Hit a 362-day streak.
 
 - <time>Aug 24, 2022</time> Hit a 361-day streak.
 
