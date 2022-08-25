@@ -57,7 +57,7 @@ Confused? See the <a href="#note">note</a> down below.
 ## <span id="openresearchpaper">Maintaining the benefits of open research in AI</span>
 
 <small>Aug 10, 2022-present</small>  
-<small>Trying to create a paper which presents a framework that protects the benefits of open research in AI. Inspired by [Toby Shevlane and Allan Dafoe's work](https://www.fhi.ox.ac.uk/wp-content/uploads/The-Offense-Defense-Balance-of-Scientific-Knowledge.pdf#page=7&zoom=100,72,192) as well as [Nick Bostrom's work](https://ora.ox.ac.uk/objects/uuid:83ea712f-aba3-4176-957a-3bb4af0209d6).</small>
+<small>Trying to create a paper which presents a framework that protects the benefits of open research in AI. Inspired by [Toby Shevlane and Allan Dafoe's work](https://www.fhi.ox.ac.uk/wp-content/uploads/The-Offense-Defense-Balance-of-Scientific-Knowledge.pdf) as well as [Nick Bostrom's work](https://ora.ox.ac.uk/objects/uuid:83ea712f-aba3-4176-957a-3bb4af0209d6).</small>
 
 <hr />
 
