@@ -1120,6 +1120,28 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 25, 2022</time> Finished [this LeetCode problem](https://leetcode.com/problems/ransom-note/) (finally!):
+
+```py
+class Solution:
+    def canConstruct(self, ransomNote: str, magazine: str) -> bool:
+        magazine_in_ransom = [i for i in magazine if i in ransomNote]
+
+        if len(magazine_in_ransom) < len(ransomNote):
+            return False
+
+        magazine_count = {i: magazine_in_ransom.count(i) for i in sorted(set(magazine_in_ransom))}
+        ransom_count = {i: ransomNote.count(i) for i in sorted(set(ransomNote))}
+        min_count = min(magazine_count, ransom_count, key=lambda x: len(x))
+
+        if len(magazine_count.keys()) < len(ransom_count.keys()):
+            return False
+
+        if False in [ransom_count[i] <= magazine_count[i] for i in ransomNote]:
+            return False
+        return True
+```
+
 - <time>Aug 24, 2022</time> Finished [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/):
 
 ```py
