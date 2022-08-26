@@ -1134,6 +1134,19 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 26, 2022</time> Finished [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/):
+
+```py
+class Solution:
+    def repeatedCharacter(self, s: str) -> str:
+        candidates = [(i, [j for j in range(len(s)) if s[j] == i][1]) for i in set(s) if s.count(i) >= 2]
+
+        if len(candidates) == 1:
+            return candidates[0][0]
+
+        return min(candidates, key=lambda x: x[1])[0]
+```
+
 - <time>Aug 25, 2022</time> Finished [this LeetCode problem](https://leetcode.com/problems/ransom-note/) (finally!):
 
 ```py
