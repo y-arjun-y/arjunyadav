@@ -10,7 +10,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 ### Ongoing (15)
 
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
-- <a href="#drums">Drums</a>
+- <a href="#drums">Drums</a> (S)
 - <a href="#eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</a>
 - <a href="#landingpage">Landing Page Project + App Integration</a>
 - <a href="#introml">Introduction to Machine Learning</a>
@@ -19,10 +19,10 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#kenken">KENKEN</a>
 - <a href="#coldtakesbetareading">Cold Takes Beta-Reading</a> (O)
 - <a href="#leetcode">LeetCode</a>
-- <a href="#guitar">Guitar</a>
+- <a href="#guitar">Guitar</a> (S)
 - <a href="#freecodecamp">freeCodeCamp</a>
 - <a href="#duolingo">Duolingo</a>
-- <a href="#chess">Chess</a> (F&S)
+- <a href="#chess">Chess</a> (S)
 - <a href="#cubing">Cubing</a>
 
 ### Inactive/Paused (2)
@@ -44,7 +44,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#eaindepth">Effective Altruism In-Depth Fellowship</a>
 - <a href="#eaglobal2021">EA Global: London 2021</a>
 
-F&S - Friday & Sunday, O - Occasional
+S - Sunday, O - Occasional
 
 <hr />
 Confused? See the <a href="#note">note</a> down below.
