@@ -50,10 +50,13 @@ export default function Post({ frontmatter, content }) {
   return (
     <>
       <Head>
-        <meta property="og:title" content={frontmatter.meta_description} />
+        <meta property="og:title" content={frontmatter.title} />
         <meta property="og:image" content={frontmatter.meta_image} />
+        <meta
+          property="og:description"
+          content={frontmatter.meta_description}
+        />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={frontmatter.meta_description} />
         <title>{frontmatter.title}</title>
       </Head>
       <div>

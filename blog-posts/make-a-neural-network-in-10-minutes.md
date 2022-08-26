@@ -5,11 +5,11 @@ meta_description: For this post, we're going to create a neural network to class
 meta_image: https://lh3.google.com/u/0/d/1sKV4CjiKQmDxb71iJZJghdjoKyYqC9Bf=w2880-h1528-iv1
 ---
 
-![Neural Network - Chris Olah](https://lh3.google.com/u/0/d/1sKV4CjiKQmDxb71iJZJghdjoKyYqC9Bf=w2880-h1528-iv1)
+![Neural Network - Chris Olah](/neuralnetwork.png)
 
 [Credit for the image above](https://distill.pub/2020/circuits/zoom-in/#:~:text=editing%20the%20weights.-,Circuit%203%3A%20Cars%20in%20Superposition,-In%20mixed4c%2C%20a).
 
-<small>Note: This post was last edited on Aug 15, 2022.</small>
+<small>Note: This post was last edited on Aug 26, 2022.</small>
 
 ## Prerequisites and Introduction
 

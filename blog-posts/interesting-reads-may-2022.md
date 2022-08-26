@@ -5,9 +5,11 @@ meta_description: I log everything I read in Notion. This month I read 48 newsle
 meta_image: https://lh3.google.com/u/0/d/1TYjt-xFf9079Fa7993ODqDU3-r1Ei_3T=w2880-h1528-iv1
 ---
 
-![Gato - DeepMind](https://lh3.google.com/u/0/d/1TYjt-xFf9079Fa7993ODqDU3-r1Ei_3T=w2880-h1528-iv1)
+![Gato - DeepMind](/Gato.png)
 
 [Credit for the image above](https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf).
+
+<small>Note: This post was last edited on Aug 26, 2022.</small>
 
 I log everything I read in Notion. This month I read 48 newsletters and 17 articles.
 

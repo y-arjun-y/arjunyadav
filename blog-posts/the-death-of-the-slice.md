@@ -9,7 +9,7 @@ meta_image: https://images.unsplash.com/photo-1574087275005-08b0735d8d13?ixlib=r
 
 [Credit for the image above](https://unsplash.com/photos/wrzA9IIkCrQ).
 
-<small>Note: This post was last edited on Mar 31, 2022.</small>
+<small>Note: This post was last edited on Aug 26, 2022.</small>
 
 I've unsubscribed from [The Slice](https://theslice.co/) after a little less than half a year of reading. The newsletter has not been the same since [Nic Getkate](https://nicgetkate.com/) (the original author) left and [Jonas](https://twitter.com/jonasslice) took his place.[^1]
 
@@ -25,7 +25,7 @@ Curator newsletters are nothing special, what was special was the writing before
 
 ## What happened to The Slice?
 
-[Nic announced his departure in November 2021](https://eomail7.com/web-version?p=211f13a5-3d4f-11ec-96e5-06b4694bee2a&pt=campaign&t=1636036542&s=3f5be81bcffc9495333120b2b14281074c5c770d86799117c895de288f9abb8f) with Jonas becoming the author. I was initially quite optimistic, [but the last issue I read before unsubscribing](https://drive.google.com/file/d/13YbDHpqBpZSmb6flGWW6g6f-1H-g4sMM/view?usp=sharing) shows why the optimism died off.
+[Nic announced his departure in November 2021](https://eomail7.com/web-version?p=211f13a5-3d4f-11ec-96e5-06b4694bee2a&pt=campaign&t=1636036542&s=3f5be81bcffc9495333120b2b14281074c5c770d86799117c895de288f9abb8f) with Jonas becoming the author. I was initially quite optimistic, [but the last issue I read before unsubscribing](/Money,-Happiness,-and-Productivity-as-a-Solo-Founder-The-Slice.pdf) shows why the optimism died off.
 
 On comparing the last issue I read and Issue #062, we see that the introspective writing has disappeared entirely. Instead, we get a small life update, which already removes 90% of the uniqueness.
 

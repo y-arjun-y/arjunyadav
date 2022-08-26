@@ -998,13 +998,13 @@ Confused? See the <a href="#note">note</a> down below.
 
 - <time>Mar 17, 2022</time> Found something interesting in my weekly challenge (which went meh) and my daily puzzles: Notice the below image and the "108x" cage:
 
-<img src="https://lh3.google.com/u/0/d/1NnNAOwDkxMjjnZfwQn20J8Bn-TQOB-t9=w2880-h1528-iv1" alt="Half of an interesting 6x6 KENKEN puzzle" height="350px" />
+<img src="/interesting-kenken.png" alt="Half of an interesting 6x6 KENKEN puzzle" height="350px" />
 
 Now, there is only one possibility which is "3 x 6 x 6 x 1", but what about the position? We can use the fact that 1 has to be on the top row of the cage to our advantage and see that that there are only two possibilities left:
 
-<img src="https://lh3.google.com/u/0/d/1iSXmfItYBpjfRPNXsnpX0-di4ab61PAd=w2880-h1528-iv1" alt="Half of an interesting 6x6 KENKEN puzzle" height="350px" />
+<img src="/interesting-kenken-1.png" alt="Half of an interesting 6x6 KENKEN puzzle" height="350px" />
 
-<img src="https://lh3.google.com/u/0/d/1NBRl6CIkWZxRkxGHhXhG3suz_wwN6Iuv=w2880-h1528-iv1" alt="Half of an interesting 6x6 KENKEN puzzle" height="350px" />
+<img src="/interesting-kenken-2.png" alt="Half of an interesting 6x6 KENKEN puzzle" height="350px" />
 
 But regardless of which possibility is correct, **3 and 6 are always in the bottom row!** So, that leaves 4 in the "9+" cage. Thought it was interesting.
 
@@ -8334,7 +8334,7 @@ class Solution:
 
 - <time>May 17, 2022</time> Added width and height URL queries, [used gallpeters for this very website](/analytics/), updated the repository, opened up [a Show HN post](https://news.ycombinator.com/item?id=31410053) and this project is done!
 
-<img src="https://lh3.google.com/u/0/d/1tSGTvbAqFV2vDoFMhcHXNUFA3VrVdAYb=w2880-h1528-iv1" />
+<img src="/gallpeters.jpg" />
 
 - <time>May 16, 2022</time> `<iframe>`'s now work!
 
@@ -8401,7 +8401,7 @@ class Solution:
 - <time>Apr 14, 2022</time> I was trying to get the Gall Peters projection in D3, and ended up with the Mercator projection lol, for some reason [geoCylindricalEqualArea()](https://github.com/d3/d3-geo-projection) isn't a function.
 
 - <time>Apr 13, 2022</time> The start of something new:
-  ![gallpeters](https://lh3.google.com/u/0/d/1z2t6MxKC0tEnLjP9AiiIckxA_XhxEu32=w2880-h1528-iv1)
+  ![gallpeters](/gallpeters.png)
 
 - <time>Apr 12, 2022</time> I was about to give up with D3 on the server-side until I found [this repository](https://github.com/gregjopa/d3-server-side-demo).
 

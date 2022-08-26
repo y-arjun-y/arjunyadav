@@ -9,7 +9,7 @@ meta_image: https://images.unsplash.com/photo-1578924824426-d1b88f85e8ce?ixid=Mn
 
 [Credit for the image above](https://unsplash.com/photos/KGtLNrljpyY).
 
-<small>Note: This post was last edited on Apr 10, 2022.</small>
+<small>Note: This post was last edited on Aug 26, 2022.</small>
 
 ## An Analogy
 
@@ -33,6 +33,6 @@ So, how do you get these $WRITE coins? You have to enter into their weekly quasi
 
 Is this experiment in democracy working? Well, [one person answered the question with a "¯\_(ツ)\_/¯"](https://mirror.xyz/race?candidate=jzstern) and got 2000+ votes.
 
-![¯_(ツ)_/¯ - Mirror.xyz](https://lh3.googleusercontent.com/fife/AAWUweUkshT2WJXXnzikuLjXG0VZuQyYSNi3H8UfJUYS5L42npwLZThtUUs7L7ua5nwXd27VVLMDjbMh1yq3Vc9L9F9YRiWlfqnhIeGSh_RRZIts1jZnrPX-XsAGxNHKsfXg_tzgmZVsM9OHKe96C4NKuVc2dlXMm2ZCbrOzSybFDv1hYQ251TeHjHeeWSbaPwGeUjOQBWWn-e7jmaNr-9U2pffNn5WK892-shqBtYCjcQwVZdy8L4U4VQFFbHyyxSb-z8Hz2GQHMx4InZWT-ntnD4-V_-i0eO5_a3S43UJvL26C_N3qvCE8UCMDTKdCjJYkLLcr9ARxfpZRV-vvs1zgkw7TPuRjGBSxl9CBuIAv6T6nEL7bxJXw1QEFNS2NHNXqwbZ1eOzlFxmp9oF8AGxaHsb5Up48rLAkBMa7w8mKtEBDTESSqZiq6_3msuCTKShH_f7uCczvZwYtDle5ttdAAUSTSmeuYUJ33NNGC0aZ2Mc6-IszVll9cOB9x_FP5xLSYPmOyw0Pb-BE6uEYNDdeuzk6cYvp8bAIAVKld3_zkJziO8iH-yZyXfjQgpMA5lH1JqlNQkKMf61HbK8QxgNW1aJPkekciMcWZgBXrIDjQu2ylxGnPd2MvS20CtegF9i0802M3qnNHBeq4t0b9YDHKxiVG_RjI75H_NkH_wCDrah4-jNFErcdjZpX9pQbnsoRoDy06DXPkcGDHDHOAuZbhljRdODJ19lytew=w2880-h1414-ft)
+![¯_(ツ)_/¯ - Mirror.xyz](/mirror.png)
 
 Jokes aside, Mirror looks very promising as a merger of blockchain and content and has definitely got me interested in learning about the crazy world of cryptocurrency and blockchain.

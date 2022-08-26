@@ -5,11 +5,11 @@ meta_description:
 meta_image: https://lh3.google.com/u/0/d/1mVA8hj6rKTIKI652HtcSz0XM_akvjsj_=w2880-h1528-iv1
 ---
 
-![Goldilocks Zone](https://lh3.google.com/u/0/d/1mVA8hj6rKTIKI652HtcSz0XM_akvjsj_=w2880-h1528-iv1)
+![Goldilocks Zone](/Goldilock's-Zone-1.png)
 
 [Link to the paper](https://www.fhi.ox.ac.uk/wp-content/uploads/The-Offense-Defense-Balance-of-Scientific-Knowledge.pdf) (also serves as credit for the image above).
 
-<small>Note: This post is a [replacement post for July 2022](/replacement-posts/) and was last edited on Aug 14, 2022.</small>
+<small>Note: This post is a [replacement post for July 2022](/replacement-posts/) and was last edited on Aug 26, 2022.</small>
 
 ## Introduction
 
@@ -38,15 +38,15 @@ And it is based on the following parameters:
 
 Based on these two parameters, we can sketch a graph to highlight a "Goldilocks zone", where we have enough information to apply the knowledge but not enough to independently discover it:
 
-![Goldilock's Zone - 1](https://lh3.google.com/u/0/d/1mVA8hj6rKTIKI652HtcSz0XM_akvjsj_=w2880-h1528-iv1)
+![Goldilock's Zone - 1](/Goldilock's-Zone-1.png)
 
 We note that, if the knowledge needed to implement the research is quite high, the Goldilocks zone is skewed to the left:
 
-![Goldilock's Zone - 2](https://lh3.google.com/u/0/d/1diYFZxeDshMlCryo5PxT9WkwVOFG5XQ6=w2880-h1528-iv1)
+![Goldilock's Zone - 2](/Goldilock's-Zone-2.png)
 
 If limited knowledge is required to implement or exploit the research, the Goldilocks zone skews to the right:
 
-![Goldilock's Zone - 3](https://lh3.google.com/u/0/d/1NgJ8IsPME8p6oSHEtkrG8s4ekMukUFAv=w2880-h1528-iv1)
+![Goldilock's Zone - 3](/Goldilock's-Zone-3.png)
 
 ## Preliminary results from applying this framework to AI research
 
