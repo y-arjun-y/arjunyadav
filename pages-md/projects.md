@@ -193,6 +193,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 26, 2022</time> Got started with the navigation bar.
+
 - <time>Aug 23, 2022</time> "Got started" with programming.
 
 - <time>Aug 22, 2022</time> Continued with the design, will start programming tomorrow.
