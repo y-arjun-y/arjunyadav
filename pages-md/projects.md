@@ -253,6 +253,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 26, 2022</time> Continued with Week 4.
+
 - <time>Aug 25, 2022</time> Continued with Week 4.
 
 - <time>Aug 24, 2022</time> Continued with Week 4.
