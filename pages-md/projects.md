@@ -345,6 +345,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 26, 2022</time> Continued with Week 2 and got 100% on the practice quiz!
+
 - <time>Aug 25, 2022</time> Continued with Week 2 and learnt about [the Hessian](https://machinelearningmastery.com/a-gentle-introduction-to-hessian-matrices/).
 
 - <time>Aug 24, 2022</time> Continued with Week 2.
