@@ -457,6 +457,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 27, 2022</time> Continued with Deferred Acceptance Algorithm.
+
+- <time>Aug 26, 2022</time> Got started with [Deferred Acceptance Algorithm](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/gale-shapley/)
+
 - <time>Aug 25, 2022</time> Finished with Using Greediness.
 
 - <time>Aug 24, 2022</time> Continued with Using Greediness.
@@ -5736,6 +5740,10 @@ class Solution:
 
 #### Log
 
+- <time>Aug 27, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 26, 2022</time> Continued with Responsive Web Design.
+
 - <time>Aug 25, 2022</time> Finished with the Arithmetic Formatter project and continued with Responsive Web Design.
 
 - <time>Aug 24, 2022</time> Continued with Responsive Web Design.
@@ -6356,6 +6364,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Aug 27, 2022</time> Hit a 363-day streak.
 
 - <time>Aug 26, 2022</time> Hit a 362-day streak.
 
