@@ -193,6 +193,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 27, 2022</time> Got started with a triangle for the hero section (it's a lot trickier than it sounds!)
+
 - <time>Aug 26, 2022</time> Got started with the navigation bar.
 
 - <time>Aug 23, 2022</time> "Got started" with programming.
