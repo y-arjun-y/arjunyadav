@@ -1144,6 +1144,8 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 27, 2022</time> Got started with [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)
+
 - <time>Aug 26, 2022</time> Finished [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/):
 
 ```py
