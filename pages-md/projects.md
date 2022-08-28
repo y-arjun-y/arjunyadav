@@ -459,6 +459,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 28, 2022</time> Finished with Deferred Acceptance Algorithm.
+
 - <time>Aug 27, 2022</time> Continued with Deferred Acceptance Algorithm.
 
 - <time>Aug 26, 2022</time> Got started with [Deferred Acceptance Algorithm](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/gale-shapley/)
