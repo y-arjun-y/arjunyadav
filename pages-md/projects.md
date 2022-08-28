@@ -1150,6 +1150,24 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Aug 28, 2022</time> Finished [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) but I had to look at the solution:
+
+```py
+# Credit - https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/discuss/2488377/Python-for-beginners-Nice-question-to-learn-for-sliding-window-algorithm-Commented-solution!!
+
+class Solution:
+    def minimumRecolors(self, blocks: str, k: int) -> int:
+        res = []
+
+        for i in range(0, len(blocks)):
+            count_b = blocks[i:i + k].count("B")
+            if count_b >= k:
+                return 0
+            res.append(k - count_b)
+
+        return min(res)
+```
+
 - <time>Aug 27, 2022</time> Got started with [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)
 
 - <time>Aug 26, 2022</time> Finished [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/):
