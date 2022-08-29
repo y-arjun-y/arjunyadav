@@ -127,6 +127,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 29, 2022</time> Continued with some research.
+
 - <time>Aug 28, 2022</time> Continued with some research.
 
 - <time>Aug 27, 2022</time> Continued with some research.
@@ -459,6 +461,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 29, 2022</time> Got started with [Correctness](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/correctness-stable-matching/).
+
 - <time>Aug 28, 2022</time> Finished with Deferred Acceptance Algorithm.
 
 - <time>Aug 27, 2022</time> Continued with Deferred Acceptance Algorithm.
@@ -719,6 +723,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 29, 2022</time> Daily puzzles went okay.
 
 - <time>Aug 26, 2022</time> Daily puzzles went alright (~3-4 checks).
 
@@ -5762,6 +5768,8 @@ class Solution:
 
 #### Log
 
+- <time>Aug 29, 2022</time> Continued with Responsive Web Design.
+
 - <time>Aug 28, 2022</time> Continued with Responsive Web Design.
 
 - <time>Aug 27, 2022</time> Continued with Responsive Web Design.
@@ -6389,11 +6397,13 @@ class Solution:
 
 #### Log
 
-- <time>Aug 28, 2022</time> Hit a 364-day streak. One more day!
+- <time>Aug 29, 2022</time> Hit a 366-day streak.
 
-- <time>Aug 27, 2022</time> Hit a 363-day streak.
+- <time>Aug 28, 2022</time> Hit a 365-day streak!
 
-- <time>Aug 26, 2022</time> Hit a 362-day streak.
+- <time>Aug 27, 2022</time> Hit a 364-day streak.
+
+- <time>Aug 26, 2022</time> Hit a 363-day streak.
 
 - <time>Aug 25, 2022</time> Hit a 362-day streak.
 
