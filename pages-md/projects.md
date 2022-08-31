@@ -261,6 +261,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 29, 2022</time> Continued with Week 4.
+
 - <time>Aug 26, 2022</time> Continued with Week 4.
 
 - <time>Aug 25, 2022</time> Continued with Week 4.
@@ -460,6 +462,10 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 31, 2022</time> Continued with Correctness.
+
+- <time>Aug 30, 2022</time> Continued with Correctness.
 
 - <time>Aug 29, 2022</time> Got started with [Correctness](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/correctness-stable-matching/).
 
@@ -723,6 +729,10 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 31, 2022</time> Sort of skipped today as well.
+
+- <time>Aug 30, 2022</time> Sort of skipped today.
 
 - <time>Aug 29, 2022</time> Daily puzzles went okay.
 
@@ -1157,6 +1167,51 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 <hr />
 
 #### Log
+
+- <time>Aug 31, 2022</time> Got started with [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/).
+
+- <time>Aug 30, 2022</time> Finished [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) but, for some reason, my solution with a list comprehension (?) timed out but a for loop (from the solution) does not:
+
+```py
+class Solution:
+    def findDuplicate(self, nums: List[int]) -> int:
+        nums.sort()
+        for i in range(1, len(nums)):
+            if nums[i] == nums[i-1]:
+                return nums[i]
+```
+
+- <time>Aug 29, 2022</time> Finished [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/):
+
+```py
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
+        def traverse(llist, array):
+            if llist:
+                array.append(llist.val)
+                traverse(llist.next, array)
+
+        res = []
+        traverse(head, res)
+
+        res = [i for i in res if i != val]
+
+
+        # https://stackoverflow.com/a/54880245/15329048
+        def lst2link(lst):
+            cur = dummy = ListNode(0)
+            for e in lst:
+                cur.next = ListNode(e)
+                cur = cur.next
+            return dummy.next
+
+        return lst2link(res)
+```
 
 - <time>Aug 28, 2022</time> Finished [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) but I had to look at the solution:
 
@@ -5768,6 +5823,10 @@ class Solution:
 
 #### Log
 
+- <time>Aug 31, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 30, 2022</time> Continued with Responsive Web Design.
+
 - <time>Aug 29, 2022</time> Continued with Responsive Web Design.
 
 - <time>Aug 28, 2022</time> Continued with Responsive Web Design.
@@ -6396,6 +6455,10 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Aug 31, 2022</time> Hit a 368-day streak.
+
+- <time>Aug 30, 2022</time> Hit a 367-day streak.
 
 - <time>Aug 29, 2022</time> Hit a 366-day streak.
 
