@@ -1,6 +1,6 @@
 ---
 title: Linear algebra in ~10 minutes
-publish_date: Aug 20, 2022
+publish_date: Aug 31, 2022
 meta_description: I recently finished a linear algebra course, which was targeted towards people wanting to learn the maths behind machine learning. Here's a summary of what I've learnt.
 meta_image: https://lh3.google.com/u/0/d/1hL2cnA77t5QZuyEcZ2auLEB2xQROzcda=w2880-h1528-iv1
 ---
