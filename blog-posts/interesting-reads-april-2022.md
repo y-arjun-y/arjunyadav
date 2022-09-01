@@ -9,7 +9,7 @@ meta_image: https://cdn.openai.com/dall-e-2/assets/dall-e-2.jpg
 
 [Credit for the image above](https://openai.com/dall-e-2/#:~:text=a%20painting%20of%20a%0Afox%20sitting%20in%20a%0Afield%20at%20sunrise%0Ain%20the%20style%20of%0AClaude%20Monet).
 
-<small>Note: This post was created on 01 May, 2022. Apologies for being a day late. I've still kept the date as the end of the month for consistency's sake.</small>
+<small>Note: This post was created on May 01, 2022. Apologies for being a day late. I've still kept the date as the end of the month for consistency's sake.</small>
 
 I log everything I read in Notion. This month I read 1 book, 48 newsletters and 18 articles.
 

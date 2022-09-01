@@ -7,7 +7,9 @@ meta_image: https://lh3.google.com/u/0/d/1hL2cnA77t5QZuyEcZ2auLEB2xQROzcda=w2880
 
 ![Eigenvector](/eigenvector.png)
 
-I recently finished [a linear algebra course](https://www.coursera.org/learn/linear-algebra-machine-learning/), which was targeted towards people wanting to learn the maths behind machine learning. Here's a summary of what I've learnt.
+<small>Note: This post was last edited on Sep 01, 2022.</small>
+
+I recently finished [a linear algebra course](https://www.coursera.org/learn/linear-algebra-machine-learning/), which was targeted toward people wanting to learn the maths behind machine learning. Here's a summary of what I've learned.
 
 ## What is Linear Algebra?
 
@@ -49,7 +51,7 @@ We could, for example, represent the number of votes that each ice cream flavour
 
 ## Matrices
 
-A matrix can be thought of as many column/row vectors merged together to make an \\(m \times n\\) matrix:
+A matrix can be thought of as many column/row vectors merged to make an \\(m \times n\\) matrix:
 
 \\[
 \begin{bmatrix}
@@ -72,7 +74,7 @@ In the above example: **the darker the pixel is, the closer it gets to 1**.
 
 ### Vectors
 
-Adding, subtracting and multiplying vectors by a scalar[^1] are pretty straightforward (so long as all the vectors involved are of the same dimension):
+Adding, subtracting and multiplying vectors by a scalar[^1] is pretty straightforward (so long as all the vectors involved are of the same dimension):
 
 \\[
 \begin{bmatrix}
@@ -188,9 +190,9 @@ a_{21} - b_{21} & a_{22} - b_{22} \\\\
 
 To multiply two matrices, we **take the dot product of all the rows of the first matrix with all the columns of the second matrix**:
 
-- We can only do this if the dimensions are \\(n \times m\\) and \\(m \times p\\), meaning **the number of columns of the first matrix must equal the number of row of the second matrix.**
+- We can only do this if the dimensions are \\(n \times m\\) and \\(m \times p\\), meaning **the number of columns of the first matrix must equal the number of rows of the second matrix.**
 - The result will be a matrix of dimensions \\(n \times p\\).
-- Matrix mutliplication is NOT communtative, which means that \\(A \times B \\) does not always equal \\(B \times A\\).
+- Matrix multiplication is NOT commutative, which means that \\(A \times B \\) does not always equal \\(B \times A\\).
 - Lastly, this process works for matrix and vector multiplication as well.
 
 \\[
@@ -214,11 +216,11 @@ a_{31}b_{11}+a_{32}b_{21}+a_{33}b_{31} & a_{31}b_{12}+a_{32}b_{22}+a_{33}b_{32} 
 \end{bmatrix}
 \\]
 
-## Closer look on vectors
+## Closer look at vectors
 
 ### Geometric depiction and basis vectors
 
-Vectors can also be represented geometrically. To do this, we use two units vectors as our _basis vectors_, these are called \\(i\\) (x-axis) and \\(j\\) (y-axis) in the 2D case.
+Vectors can also be represented geometrically. To do this, we use two unit vectors as our _basis vectors_, these are called \\(i\\) (x-axis) and \\(j\\) (y-axis) in the 2D case.
 
 ![Unit Vectors](/drafts/unit-vectors.svg)
 
@@ -254,7 +256,7 @@ A scalar product means **repeating a vector as many times as the magnitude of th
 
 ![Adding Vectors](/drafts/tip-to-tail.svg)
 
-Finally, subtracting vector is simply adding a negative:
+Finally, subtracting vectors is simply adding a negative:
 
 ![Subtracting Vectors](/drafts/subtracting-vectors.svg)
 
@@ -290,7 +292,7 @@ Now, we can use \\(\vec{r} \cdot \vec{r} = |r|^2\\) to say that
 
 \\[|r-s|^2 = (r-s) \cdot (r-s)\\]
 
-Expanding the right hand side,
+Expanding the right-hand side,
 
 \\[|r-s|^2=|r|^2+|s|^2-2r \cdot s\\]
 
@@ -304,13 +306,13 @@ We call \\(|s|\cos\theta\\) the _projection_, which you can think of as the _sha
 
 \\[\text{Projection} = |s|\cos\theta = \frac{r \cdot s}{|r|}\\]
 
-The problem with the above definition for projection is that it doesn't give us any sense of dirrection. For that, we can say
+The problem with the above definition for projection is that it doesn't give us any sense of direction. For that, we can say
 
 \\[\text{Vector projection} = r\frac{r\cdot s}{r \cdot r} \text{ or } r\frac{r\cdot s}{|r|^2} \\]
 
 Last thing, notice that when \\(\theta = 0^{\circ}\\), \\(r \cdot s = |r||s|\\) (since \\(\cos 0^{\circ} = 1\\)). Similarly, when \\(\theta = 90^{\circ}\\), \\(r \cdot s = 0\\) (since \\(\cos 90^{\circ} = 0\\)) and when \\(\theta = 180^{\circ}\\), \\(r \cdot s = -|r||s|\\) (since \\(\cos 180^{\circ} = -1\\))
 
-## Closer look on matrices
+## Closer look at matrices
 
 ### Transformations and changing basis
 
@@ -334,7 +336,7 @@ y & b \\\\
 \end{bmatrix}
 \\).
 
-With this knowledge, we can get into some common type of transforms:
+With this knowledge, we can get into some common types of transforms:
 
 <!--[insert diagrams for this section]-->
 
@@ -434,9 +436,9 @@ c & f
 
 ### Gaussian elimination and Row echelon form
 
-Let's apply what we've learnt to solve a problem.
+Let's apply what we've learned to solve a problem.
 
-Say we had to solve some simulatenous equations: we know that 5 apples, 6 bananas and 8 coconuts costs us \\(\\$24.77\\), 2 apples, 10 bananas and 7 coconuts costs us \\(\\$20.13\\) and 6 apples, 4 bananas and 10 coconuts costs us \\(\\$29.44\\). How much does each apple (\\(a\\)), banana (\\(b\\)) and coconut cost (\\(c\\))?
+Say we had to solve some simultaneous equations: we know that 5 apples, 6 bananas and 8 coconuts cost us \\(\\$24.77\\), 2 apples, 10 bananas and 7 coconuts cost us \\(\\$20.13\\) and 6 apples, 4 bananas and 10 coconuts cost us \\(\\$29.44\\). How much does each apple (\\(a\\)), banana (\\(b\\)) and coconut cost (\\(c\\))?
 
 We can represent this as matrix times a vector:
 
@@ -458,7 +460,7 @@ c
 \end{bmatrix}
 \\]
 
-To solve this, we have to convert our matrix to row echelon form: **where the numbers below the leading diagonal are 0s**. More specifically, we would also like for the leading diagonal to be 1s (this is called reduced row echelon form). For us, this is a bit of trial-and-error, where we multiply and subtract rows with each other (I used [a calculator](https://www.emathhelp.net/calculators/linear-algebra/reduced-row-echelon-form-rref-calculator/), though this can be easily done without steps with [SymPy](https://www.sympy.org/en/index.html) or [NumPy](https://numpy.org/)):
+To solve this, we have to convert our matrix to row echelon form: **where the numbers below the leading diagonal are 0s**. More specifically, we would also like for the leading diagonal to be 1s (this is called reduced row echelon form). For us, this is a bit of trial-and-error, where we multiply and subtract rows from each other (I used [a calculator](https://www.emathhelp.net/calculators/linear-algebra/reduced-row-echelon-form-rref-calculator/), though this can be easily done without steps with [SymPy](https://www.sympy.org/en/index.html) or [NumPy](https://numpy.org/)):
 
 1. \\(R_1 \leftarrow \frac{R_1}{5}\\):
    \\[
@@ -627,7 +629,7 @@ Thus, \\(a=\\$1.56210519\\), \\(b = \\$0.32342106\\) and \\(c = \\$1.87736846\\)
 
 ### Orthonormal matrices and the Gram-Schmidt process
 
-We like our matrices being _orthonormal_, which is where the constitutent vectors are \\(90^{\circ}\\) to each other since the determinant is \\(±1\\) and \\(A^{T}A=I\\).
+We like our matrices to be _orthonormal_, which is where the constituent vectors are \\(90^{\circ}\\) to each other since the determinant is \\(±1\\) and \\(A^{T}A=I\\).
 
 Assuming the vectors are linearly independent[^4], we can use the Gram-Schmidt process to convert a matrix to an orthonormal one:
 
@@ -643,9 +645,9 @@ Collecting all the \\(e_n\\) gives us our orthonormal matrix!
 
 ## Eigenvectors and Eigenvalues
 
-Eigenvectors are **the vectors that are characteristic to a transform**. Once a transform is applied to a set of vectors, **the eigenvectors are only transformed by a scalar number** (called the _eigenvalue_) **after a transformation matrix is applied**.
+Eigenvectors are **the vectors that are characteristic of a transform**. Once a transform is applied to a set of vectors, **the eigenvectors are only transformed by a scalar number** (called the _eigenvalue_) **after a transformation matrix is applied**.
 
-For example, on applying the tranformation matrix \\(
+For example, on applying the transformation matrix \\(
 \begin{bmatrix}
 2 & 0 \\\\
 0 & 2 \\\\
@@ -675,11 +677,11 @@ c & d \\\\
 
 To tie up what we've learnt in this post, let's look at an application that surprisingly uses eigentheory.
 
-Ranking the webpages on the internet on the basis of how _well connected_ they are is vitally important to search engines, such as Google: who's very own founders developed PageRank.
+Ranking the webpages on the internet based on of how _well connected_ they are is vitally important to search engines, such as Google (whose very own founders developed PageRank)
 
 Say we had five pages connected like this:
 
-We can say that the probablity vector for webpage A being clicked from web pages A, B, C, D and E is:
+We can say that the probability vector for webpage A being clicked from web pages A, B, C, D and E are:
 
 \\[L_A =
 \begin{bmatrix}
@@ -691,7 +693,7 @@ We can say that the probablity vector for webpage A being clicked from web pages
 \end{bmatrix}
 \\]
 
-We construct a probablity square matrix \\(L\\) by joining \\(L_A, L_B, ..., L_E \\):
+We construct a probability square matrix \\(L\\) by joining \\(L_A, L_B, ..., L_E \\):
 
 \\[L =
 \begin{bmatrix}
@@ -715,7 +717,7 @@ To rank these websites, we start with a rank vector that assigns equal probabili
 \end{bmatrix}
 \\]
 
-And we learn the ranks iteratively, where \\(r^{i+1} = Lr^{i}\\). One more thing that we can consider is a _damping factor_, which is the probablity between \\(0\\) and \\(1\\) of a user doing something other than clicking a hyperlink:
+And we learn the ranks iteratively, where \\(r^{i+1} = Lr^{i}\\). One more thing that we can consider is a _damping factor_, which is the probability between \\(0\\) and \\(1\\) of a user doing something other than clicking a hyperlink:
 
 \\[r^{i+1} = d \cdot Lr^{i} + \frac{1-d}{n} \\]
 
