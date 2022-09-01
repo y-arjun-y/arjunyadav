@@ -463,6 +463,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 01, 2022</time> Continued with Correctness.
+
 - <time>Aug 31, 2022</time> Continued with Correctness.
 
 - <time>Aug 30, 2022</time> Continued with Correctness.
@@ -1167,6 +1169,40 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 <hr />
 
 #### Log
+
+- <time>Sep 01, 2022</time> Finished [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/):
+
+```py
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+        def traverse(root, array):
+            if root:
+                array.append(str(root.val))
+                traverse(root.next, array)
+
+        # https://stackoverflow.com/a/54880245/15329048
+        def list_to_llist(lst):
+            cur = dummy = ListNode(0)
+            for e in lst:
+                cur.next = ListNode(e)
+                cur = cur.next
+            return dummy.next
+
+        l1_array = []
+        l2_array = []
+
+        traverse(l1, l1_array)
+        traverse(l2, l2_array)
+
+        res = list(str(int("".join(l1_array)[::-1]) + int("".join(l2_array)[::-1]))[::-1])
+
+        return list_to_llist(res)
+```
 
 - <time>Aug 31, 2022</time> Got started with [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/).
 
@@ -5823,6 +5859,8 @@ class Solution:
 
 #### Log
 
+- <time>Sep 01, 2022</time> Continued with Responsive Web Design.
+
 - <time>Aug 31, 2022</time> Continued with Responsive Web Design.
 
 - <time>Aug 30, 2022</time> Continued with Responsive Web Design.
@@ -6455,6 +6493,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Sep 01, 2022</time> Hit a 369-day streak.
 
 - <time>Aug 31, 2022</time> Hit a 368-day streak.
 
