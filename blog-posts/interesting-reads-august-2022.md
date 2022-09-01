@@ -15,7 +15,7 @@ Here are some of the highlights of this month!
 
 ## Books
 
-- [The Almanack of Naval Ravikant](https://www.goodreads.com/book/show/55359713-the-almanack-of-naval-ravikant) by Eric Jorgenson - I did not particularly enjoy this book: maybe it was the formating of the book, maybe it was the fact that someone other than Naval himself compiled Naval's thoughts and lessons, but this book felt contradictory many times. The first quarter or so was somewhat enjoyable.
+- [The Almanack of Naval Ravikant](https://www.goodreads.com/book/show/55359713-the-almanack-of-naval-ravikant) by Eric Jorgenson - I did not particularly enjoy this book: maybe it was the formatting of the book, maybe it was the fact that someone other than Naval himself compiled Naval's thoughts and lessons, but this book felt contradictory many times. The first quarter or so was somewhat enjoyable.
 - [80,000 Hours](https://www.goodreads.com/book/show/33229792-80-000-hours) - A great condensation of 80,000 Hours' research, though it is starting to show its age. If you want to keep up with their research, [check out their (excellent) website](https://80000hours.org/).
 
 ## Newsletters

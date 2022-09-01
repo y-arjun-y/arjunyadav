@@ -222,7 +222,7 @@ a_{31}b_{11}+a_{32}b_{21}+a_{33}b_{31} & a_{31}b_{12}+a_{32}b_{22}+a_{33}b_{32} 
 
 Vectors can also be represented geometrically. To do this, we use two unit vectors as our _basis vectors_, these are called \\(i\\) (x-axis) and \\(j\\) (y-axis) in the 2D case.
 
-![Unit Vectors](/drafts/unit-vectors.svg)
+![Unit Vectors](/unit-vectors.svg)
 
 Each vector is made up of \\(x\\) and \\(y\\) components. So the \\(i\\) basis vector \\(=
 \begin{bmatrix}
@@ -248,17 +248,17 @@ That means we can represent vectors geometrically in one of two ways:
 
 Both result in the following diagram:
 
-![Example Vector](/drafts/example-vector.svg)
+![Example Vector](/example-vector.svg)
 
 This also means that **we can represent vector operations geometrically**. We add vector _tip-to-tail_:
 
 A scalar product means **repeating a vector as many times as the magnitude of the scalar**. If the scalar is negative, we flip the vector's direction:
 
-![Adding Vectors](/drafts/tip-to-tail.svg)
+![Adding Vectors](/tip-to-tail.svg)
 
 Finally, subtracting vectors is simply adding a negative:
 
-![Subtracting Vectors](/drafts/subtracting-vectors.svg)
+![Subtracting Vectors](/subtracting-vectors.svg)
 
 The last thing to note is the _modulus_ of a vector, which is simply the distance of the vector from the origin. Using the Pythagorean theorem:
 
