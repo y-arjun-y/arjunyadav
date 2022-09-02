@@ -7,8 +7,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Ongoing (15)
+### Ongoing (16)
 
+- <a href="#agisf">AGI Safety Fundamentals: Technical Track</a>
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#drums">Drums</a> (S)
 - <a href="#eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</a>
@@ -51,6 +52,19 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 ## Ongoing
+
+<hr />
+
+## <span id="agisf">AGI Safety Fundamentals: Technical Track</span>
+
+<small>Sep 02, 2022-present</small>  
+<small>Trying to learn as much as I can about AI safety in this fellowship!</small>
+
+<hr />
+
+#### Log
+
+- <time>Sep 02, 2022</time> Had a great first meeting with my cohort and did okay on the exercise questions.
 
 <hr />
 
@@ -462,6 +476,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 02, 2022</time> Continued with Correctness.
 
 - <time>Sep 01, 2022</time> Continued with Correctness.
 
@@ -5859,6 +5875,8 @@ class Solution:
 
 #### Log
 
+- <time>Sep 02, 2022</time> Continued with Responsive Web Design.
+
 - <time>Sep 01, 2022</time> Continued with Responsive Web Design.
 
 - <time>Aug 31, 2022</time> Continued with Responsive Web Design.
@@ -6493,6 +6511,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Sep 02, 2022</time> Hit a 369-day streak.
 
 - <time>Sep 01, 2022</time> Hit a 369-day streak.
 
