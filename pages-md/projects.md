@@ -7,12 +7,11 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Ongoing (16)
+### Ongoing (15)
 
-- <a href="#agisf">AGI Safety Fundamentals: Technical Track</a>
-- <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
+- <a href="#agisf">AGI Safety Fundamentals: Technical Track</a> (F)
+- <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a> (Sa & S)
 - <a href="#drums">Drums</a> (S)
-- <a href="#eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</a>
 - <a href="#landingpage">Landing Page Project + App Integration</a>
 - <a href="#introml">Introduction to Machine Learning</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
@@ -31,8 +30,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#fastai">fast.ai</a>
 - <a href="#sudoku">Sudoku</a>
 
-### Done (11)
+### Done (12)
 
+- <a href="#eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</a>
 - <a href="#bearblogreplacementtemplate">Bear Blog Replacement Template</a>
 - <a href="#solaris">SOLARIS (First Edition)</a>
 - <a href="#gallpeters">gallpeters</a>
@@ -45,7 +45,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#eaindepth">Effective Altruism In-Depth Fellowship</a>
 - <a href="#eaglobal2021">EA Global: London 2021</a>
 
-S - Sunday, O - Occasional
+F - Friday, Sa - Saturday, S - Sunday, O - Occasional
 
 <hr />
 Confused? See the <a href="#note">note</a> down below.
@@ -141,6 +141,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 03, 2022</time> Continued with some research.
+
+- <time>Sep 02, 2022</time> Continued with some research.
+
 - <time>Aug 29, 2022</time> Continued with some research.
 
 - <time>Aug 28, 2022</time> Continued with some research.
@@ -202,68 +206,6 @@ Confused? See the <a href="#note">note</a> down below.
 - <time>Jul 30, 2022</time> Finished (?) with the third draft of the first section.
 
 - <time>Jul 29, 2022</time> Had a productive meeting and got started with the third draft of the first section.
-<hr />
-
-## <span id="eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</span>
-
-<small>Jul 08, 2022-present</small>  
-<small>Trying to make EA Bristol's website the best EA group website out there. The latter project mentioned (which ended on Aug 09, 2022) was entangled with the former and I will be vague when describing the latter project in the logs.</small>
-
-<hr />
-
-#### Log
-
-- <time>Aug 27, 2022</time> Got started with a triangle for the hero section (it's a lot trickier than it sounds!)
-
-- <time>Aug 26, 2022</time> Got started with the navigation bar.
-
-- <time>Aug 23, 2022</time> "Got started" with programming.
-
-- <time>Aug 22, 2022</time> Continued with the design, will start programming tomorrow.
-
-- <time>Aug 21, 2022</time> Overhaul for one of the pages is done (?), will collect everything tomorrow for a second overall draft.
-
-- <time>Aug 20, 2022</time> Sent over an overall draft and worked on slightly overhauling one of the pages.
-
-- <time>Aug 19, 2022</time> Yep, it is. Finished a draft of the last (?) page.
-
-- <time>Aug 17, 2022</time> I think this project is back from the dead?
-
-- <time>Aug 09, 2022</time> There may be a few more developments, but I consider the booking project done! Also, the EA Bristol project has been dropped, so this project as a whole is done.
-
-- <time>Aug 08, 2022</time> Nearly done with migration (and the booking project)
-
-- <time>Aug 07, 2022</time> Got started with migration (nearly done?)
-
-- <time>Aug 06, 2022</time> Got started with a calendar event generator.
-
-- <time>Aug 05, 2022</time> Added organisation pictures for the booking project and the ability to review your booking.
-
-- <time>Aug 04, 2022</time> Sent the booking project.
-
-- <time>Aug 03, 2022</time> Finished with authentication.
-
-- <time>Aug 02, 2022</time> Nearly done with authentication!
-
-- <time>Aug 01, 2022</time> Continued with authentication, need to start from scratch with authentication from tomorrow as I'm making very little progress.
-
-- <time>Jul 31, 2022</time> Continued with authentication.
-
-- <time>Jul 30, 2022</time> Alright, a small hiccup but another project has been entangled with this project. All (?) gaps can be explained as me working on the latter project.
-
-  Anyways, continued with authentication.
-
-- <time>Jul 25, 2022</time> Finished (?) with the hero section and finished the first draft of the about us page.
-
-- <time>Jul 12, 2022</time> Toyed around with mosaics.
-
-- <time>Jul 11, 2022</time> Finished with the third draft of the "hero section" and got some feedback and also got started with the about us section.
-
-- <time>Jul 10, 2022</time> Finished with the second draft of the "hero section" and got feedback.
-
-- <time>Jul 09, 2022</time> Finished with the first draft of the "hero section" and got feedback.
-
-- <time>Jul 08, 2022</time> Got started with a component.
 <hr />
 
 ## <span id="introml">[Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning-duke/)</span>
@@ -476,6 +418,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 03, 2022</time> Continued with Correctness.
 
 - <time>Sep 02, 2022</time> Continued with Correctness.
 
@@ -1162,7 +1106,7 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 ## <span id="coldtakesbetareading">[Cold Takes](https://www.cold-takes.com/) Beta-Reading</span>
 
 <small>20 Jan, 2022-present</small>  
-<small>I got accepted to proof-read Holden Karnofsky's articles for his blog, Cold Takes. Trying to be as useful as I can be! Currently an occasional project.</small>
+<small>I got accepted to proof-read Holden Karnofsky's articles for his blog, Cold Takes. Trying to be as useful as I can be! Note that I only update this log when I fully finish proof-reading and when the post has been published. Currently an occasional project.</small>
 
 <hr />
 
@@ -1185,6 +1129,22 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 <hr />
 
 #### Log
+
+- <time>Sep 03, 2022</time> Finished [Rotate Array](https://leetcode.com/problems/rotate-array/):
+
+```py
+class Solution:
+    def rotate(self, nums: List[int], k: int) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+        if k > len(nums):
+            step = k % len(nums)
+        else:
+            step = k
+
+        nums[:] = nums[len(nums)-step:len(nums)] + nums[:len(nums)-step]
+```
 
 - <time>Sep 01, 2022</time> Finished [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/):
 
@@ -5538,6 +5498,8 @@ class Solution:
 
 #### Log
 
+- <time>Sep 03, 2022</time> (Tried) to learn [Hey You](https://www.youtube.com/watch?v=soL8JK6kALc) by Pink Floyd.
+
 - <time>Aug 17, 2022</time> Freestyled to ease back in.
 
 - <time>Aug 03, 2022</time> Continued with Module 4 practice.
@@ -5874,6 +5836,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Sep 03, 2022</time> Continued with Responsive Web Design.
 
 - <time>Sep 02, 2022</time> Continued with Responsive Web Design.
 
@@ -6512,7 +6476,9 @@ class Solution:
 
 #### Log
 
-- <time>Sep 02, 2022</time> Hit a 369-day streak.
+- <time>Sep 02, 2022</time> Hit a 371-day streak.
+
+- <time>Sep 02, 2022</time> Hit a 370-day streak.
 
 - <time>Sep 01, 2022</time> Hit a 369-day streak.
 
@@ -8487,6 +8453,70 @@ class Solution:
 
 ## Done
 
+<hr />
+
+## <span id="eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</span>
+
+<small>Jul 08, 2022-Sep 03, 2022</small>  
+<small>Re-designed EA Bristol's website. The latter project mentioned (which ended on Aug 09, 2022) was entangled with the former and I will be vague when describing the latter project in the logs.</small>
+
+<hr />
+
+#### Log
+
+- <time>Sep 03, 2022</time> Sent over the design file, which marks the end of this nearly two-month project!
+
+- <time>Aug 27, 2022</time> Got started with a triangle for the hero section (it's a lot trickier than it sounds!)
+
+- <time>Aug 26, 2022</time> Got started with the navigation bar.
+
+- <time>Aug 23, 2022</time> "Got started" with programming.
+
+- <time>Aug 22, 2022</time> Continued with the design, will start programming tomorrow.
+
+- <time>Aug 21, 2022</time> Overhaul for one of the pages is done (?), will collect everything tomorrow for a second overall draft.
+
+- <time>Aug 20, 2022</time> Sent over an overall draft and worked on slightly overhauling one of the pages.
+
+- <time>Aug 19, 2022</time> Yep, it is. Finished a draft of the last (?) page.
+
+- <time>Aug 17, 2022</time> I think this project is back from the dead?
+
+- <time>Aug 09, 2022</time> There may be a few more developments, but I consider the booking project done! Also, the EA Bristol project has been dropped, so this project as a whole is done.
+
+- <time>Aug 08, 2022</time> Nearly done with migration (and the booking project)
+
+- <time>Aug 07, 2022</time> Got started with migration (nearly done?)
+
+- <time>Aug 06, 2022</time> Got started with a calendar event generator.
+
+- <time>Aug 05, 2022</time> Added organisation pictures for the booking project and the ability to review your booking.
+
+- <time>Aug 04, 2022</time> Sent the booking project.
+
+- <time>Aug 03, 2022</time> Finished with authentication.
+
+- <time>Aug 02, 2022</time> Nearly done with authentication!
+
+- <time>Aug 01, 2022</time> Continued with authentication, need to start from scratch with authentication from tomorrow as I'm making very little progress.
+
+- <time>Jul 31, 2022</time> Continued with authentication.
+
+- <time>Jul 30, 2022</time> Alright, a small hiccup but another project has been entangled with this project. All (?) gaps can be explained as me working on the latter project.
+
+  Anyways, continued with authentication.
+
+- <time>Jul 25, 2022</time> Finished (?) with the hero section and finished the first draft of the about us page.
+
+- <time>Jul 12, 2022</time> Toyed around with mosaics.
+
+- <time>Jul 11, 2022</time> Finished with the third draft of the "hero section" and got some feedback and also got started with the about us section.
+
+- <time>Jul 10, 2022</time> Finished with the second draft of the "hero section" and got feedback.
+
+- <time>Jul 09, 2022</time> Finished with the first draft of the "hero section" and got feedback.
+
+- <time>Jul 08, 2022</time> Got started with a component.
 <hr />
 
 ## <span id="bearblogreplacementtemplate">[Bear Blog Replacement Template](https://bear-blog-replacement-template.vercel.app/)</span>
