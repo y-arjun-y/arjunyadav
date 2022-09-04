@@ -1134,6 +1134,46 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Sep 04, 2022</time> Finished [Rotate List](https://leetcode.com/problems/rotate-list/):
+
+```py
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
+        def traverse(llist, array):
+            if llist:
+                array.append(llist.val)
+                traverse(llist.next, array)
+
+        # https://stackoverflow.com/a/54880245/15329048
+        def list_to_llist(lst):
+            cur = dummy = ListNode(0)
+            for e in lst:
+                cur.next = ListNode(e)
+                cur = cur.next
+            return dummy.next
+
+        array = []
+        traverse(head, array)
+
+        if len(array) == 0:
+            return list_to_llist(array)
+
+        if k > len(array):
+            step = k % len(array)
+        else:
+            step = k
+
+        array[:] = array[len(array)-step:len(array)] + array[:len(array)-step]
+
+
+        return list_to_llist(array)
+```
+
 - <time>Sep 03, 2022</time> Finished [Rotate Array](https://leetcode.com/problems/rotate-array/):
 
 ```py
