@@ -423,6 +423,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 04, 2022</time> Finished with Correctness.
+
 - <time>Sep 03, 2022</time> Continued with Correctness.
 
 - <time>Sep 02, 2022</time> Continued with Correctness.
@@ -6522,7 +6524,9 @@ class Solution:
 
 #### Log
 
-- <time>Sep 02, 2022</time> Hit a 371-day streak.
+- <time>Sep 04, 2022</time> Hit a 372-day streak.
+
+- <time>Sep 03, 2022</time> Hit a 371-day streak.
 
 - <time>Sep 02, 2022</time> Hit a 370-day streak.
 
