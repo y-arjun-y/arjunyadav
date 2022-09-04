@@ -5881,6 +5881,8 @@ class Solution:
 
 #### Log
 
+- <time>Sep 04, 2022</time> Continued with Responsive Web Design.
+
 - <time>Sep 03, 2022</time> Continued with Responsive Web Design.
 
 - <time>Sep 02, 2022</time> Continued with Responsive Web Design.
