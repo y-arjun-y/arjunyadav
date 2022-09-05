@@ -7,7 +7,7 @@ meta_image: https://lh3.google.com/u/0/d/1hL2cnA77t5QZuyEcZ2auLEB2xQROzcda=w2880
 
 ![Eigenvector](/eigenvector.png)
 
-<small>Note: This post was last edited on Sep 01, 2022.</small>
+<small>Note: This post was last edited on Sep 05, 2022.</small>
 
 I recently finished [a linear algebra course](https://www.coursera.org/learn/linear-algebra-machine-learning/), which was targeted toward people wanting to learn the maths behind machine learning. Here's a summary of what I've learned.
 
@@ -266,8 +266,6 @@ The last thing to note is the _modulus_ of a vector, which is simply the distanc
 
 ### Dot product generalization
 
-<!--[insert diagrams for this section]-->
-
 What happens if we dot[^2] a vector \\(\vec{r} = \begin{bmatrix}
 a \\\\
 b \\\\
@@ -337,8 +335,6 @@ y & b \\\\
 \\).
 
 With this knowledge, we can get into some common types of transforms:
-
-<!--[insert diagrams for this section]-->
 
 - Identity (an \\(n \times n\\) matrix with 1's on the leading diagonal[^3] and zeros everywhere, it does nothing to a vector/matrix on multiplying, we can also use negatives here for mirrors along the axes):
   \\[
@@ -641,8 +637,6 @@ Assuming the vectors are linearly independent[^4], we can use the Gram-Schmidt p
 
 Collecting all the \\(e_n\\) gives us our orthonormal matrix!
 
-<!--[insert example for this section]-->
-
 ## Eigenvectors and Eigenvalues
 
 Eigenvectors are **the vectors that are characteristic of a transform**. Once a transform is applied to a set of vectors, **the eigenvectors are only transformed by a scalar number** (called the _eigenvalue_) **after a transformation matrix is applied**.
@@ -653,8 +647,6 @@ For example, on applying the transformation matrix \\(
 0 & 2 \\\\
 \end{bmatrix}
 \\) to a set of unit vectors + the diagonal vector in between them, we see that the horizontal and vertical vectors are _characteristic_ to the transformation matrix (with an eigenvalue of 2), while the diagonal vector isn't (since its direction has changed).
-
-[insert diagram here]
 
 Geometrically finding _all_ eigenvectors can become difficult. To overcome this, we use the definition of an eigenvector \\(x\\):
 
@@ -670,8 +662,6 @@ c & d \\\\
 \\):
 
 \\[\lambda^{2}-(a+d)\lambda + ad-bc =0\\]
-
-<!--[insert example for this section]-->
 
 ## PageRank
 
