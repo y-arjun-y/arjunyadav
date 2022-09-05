@@ -423,6 +423,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 05, 2022</time> Got started with [Termination](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/termination-stable-matching/).
+
 - <time>Sep 04, 2022</time> Finished with Correctness.
 
 - <time>Sep 03, 2022</time> Continued with Correctness.
@@ -1135,6 +1137,26 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 <hr />
 
 #### Log
+
+- <time>Sep 05, 2022</time> Finished [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) but I had to look at the solution (almost exactly what I had in mind, just didn't have time to code it up):
+
+```py
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+        i = 0
+        counter = 1
+
+        while i < len(nums) - 1:
+            if nums[i] == nums[i + 1]:
+                counter += 1
+                if counter > 2:
+                    nums.pop(i + 1)
+                else:
+                    i += 1
+            else:
+                counter = 1
+                i += 1
+```
 
 - <time>Sep 04, 2022</time> Finished [Rotate List](https://leetcode.com/problems/rotate-list/):
 
@@ -5883,6 +5905,8 @@ class Solution:
 
 #### Log
 
+- <time>Sep 05, 2022</time> Continued with Responsive Web Design.
+
 - <time>Sep 04, 2022</time> Continued with Responsive Web Design.
 
 - <time>Sep 03, 2022</time> Continued with Responsive Web Design.
@@ -6523,6 +6547,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Sep 05, 2022</time> Hit a 372-day streak.
 
 - <time>Sep 04, 2022</time> Hit a 372-day streak.
 
