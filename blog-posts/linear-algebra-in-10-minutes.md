@@ -13,7 +13,7 @@ I recently finished [a linear algebra course](https://www.coursera.org/learn/lin
 
 ## What is Linear Algebra?
 
-In simple terms, linear algebra is the maths behind _transformations_, _vectors_ and _matrices_. It can be thought of as an extension of the cartesian geometry that we all are (hopefully!) familiar with.
+In simple terms, linear algebra is the maths behind _transformations_, _vectors_ and _matrices_. It can be thought of as an extension of the Cartesian geometry that we all are (hopefully!) familiar with.
 
 However, it's not just about geometry. Linear algebra is a really powerful tool when it comes to analysing and solving problems with data, something we'll be looking at later in this post.
 
@@ -670,6 +670,8 @@ To tie up what we've learnt in this post, let's look at an application that surp
 Ranking the webpages on the internet based on of how _well connected_ they are is vitally important to search engines, such as Google (whose very own founders developed PageRank)
 
 Say we had five pages connected like this:
+
+![PageRank Example](/pagerank.png)
 
 We can say that the probability vector for webpage A being clicked from web pages A, B, C, D and E are:
 
