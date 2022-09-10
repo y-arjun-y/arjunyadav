@@ -7,8 +7,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Ongoing (15)
+### Ongoing (16)
 
+- <a href="#localaiprogram">Local AI Program</a> (Sa)
 - <a href="#agisf">AGI Safety Fundamentals: Technical Track</a> (F)
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a> (Sa & S)
 - <a href="#drums">Drums</a> (S)
@@ -55,6 +56,19 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="localaiprogram">Local AI Program</span>
+
+<small>Sep 10, 2022-present</small>  
+<small>Attending a local AI program. Due to privacy reasons, I'm being incredibly vague.</small>
+
+<hr />
+
+#### Log
+
+- <time>Sep 10, 2022</time> Had a great first pre-requisite class! Excited to be brushing-up on some ML models next week.
+
+<hr />
+
 ## <span id="agisf">AGI Safety Fundamentals: Technical Track</span>
 
 <small>Sep 02, 2022-present</small>  
@@ -63,6 +77,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 09, 2022</time> Another great session with my cohort, though I don't know if I contributed that much to the conversation.
 
 - <time>Sep 02, 2022</time> Had a great first meeting with my cohort and did okay on the exercise questions.
 
@@ -140,6 +156,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 09, 2022</time> Had a productive meeting.
 
 - <time>Sep 04, 2022</time> Continued with some research.
 
@@ -700,6 +718,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 09, 2022</time> Finished ~2 out of the 6 daily puzzles.
+
 - <time>Aug 31, 2022</time> Sort of skipped today as well.
 
 - <time>Aug 30, 2022</time> Sort of skipped today.
@@ -1137,6 +1157,85 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 <hr />
 
 #### Log
+
+- <time>Sep 10, 2022</time> Finished [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) but I had to look at the solution (my solution was too slow, was quite close though!):
+
+```py
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        profit = 0
+
+        localMin = 1e4
+
+        for p in prices:
+            if p > localMin:
+                profit = max(profit, p - localMin)
+            if p < localMin:
+                localMin = p
+
+        return profit
+```
+
+- <time>Sep 09, 2022</time> Finished [Base 7](https://leetcode.com/problems/base-7) but this does not really count as a valid solution?
+
+```py
+class Solution:
+    def convertToBase7(self, num: int) -> str:
+        import numpy
+
+        return numpy.base_repr(num, base=7)
+```
+
+- <time>Sep 08, 2022</time> Finished [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/):
+
+```py
+"""
+# Definition for a Node.
+class Node:
+    def __init__(self, val=None, children=None):
+        self.val = val
+        self.children = children
+"""
+
+class Solution:
+    def postorder(self, root: 'Node') -> List[int]:
+        def traverse(tree, array):
+            if tree:
+                for i in range(len(tree.children)):
+                    traverse(tree.children[i], array)
+                array.append(tree.val)
+
+
+        res = []
+        traverse(root, res)
+
+        return res
+```
+
+- <time>Sep 07, 2022</time> Finished [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/):
+
+```py
+"""
+# Definition for a Node.
+class Node:
+    def __init__(self, val=None, children=None):
+        self.val = val
+        self.children = children
+"""
+
+class Solution:
+    def preorder(self, root: 'Node') -> List[int]:
+        def traverse(tree, array):
+            if tree:
+                array.append(tree.val)
+                for i in range(len(tree.children)):
+                    traverse(tree.children[i], array)
+
+        res = []
+        traverse(root, res)
+
+        return res
+```
 
 - <time>Sep 05, 2022</time> Finished [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) but I had to look at the solution (almost exactly what I had in mind, just didn't have time to code it up):
 
@@ -5905,6 +6004,16 @@ class Solution:
 
 #### Log
 
+- <time>Sep 10, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 09, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 08, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 07, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 06, 2022</time> Continued with Responsive Web Design.
+
 - <time>Sep 05, 2022</time> Continued with Responsive Web Design.
 
 - <time>Sep 04, 2022</time> Continued with Responsive Web Design.
@@ -6548,7 +6657,17 @@ class Solution:
 
 #### Log
 
-- <time>Sep 05, 2022</time> Hit a 372-day streak.
+- <time>Sep 10, 2022</time> Hit a 378-day streak.
+
+- <time>Sep 09, 2022</time> Hit a 377-day streak.
+
+- <time>Sep 08, 2022</time> Hit a 376-day streak.
+
+- <time>Sep 07, 2022</time> Hit a 375-day streak.
+
+- <time>Sep 06, 2022</time> Hit a 374-day streak.
+
+- <time>Sep 05, 2022</time> Hit a 373-day streak.
 
 - <time>Sep 04, 2022</time> Hit a 372-day streak.
 
@@ -7187,6 +7306,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Sep 10, 2022</time> [?](https://lichess.org/zFoqiMsj)
 
 - <time>Aug 22, 2022</time> [Good game](https://lichess.org/wUWnxnr0/)! (I mean, it was barely passable at my end, but it was fun nonetheless)
 
