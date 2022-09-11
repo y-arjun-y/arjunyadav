@@ -1158,6 +1158,25 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Sep 11, 2022</time> Finished [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) but I had to look at the solution:
+
+```py
+class Solution:
+    def relativeSortArray(self, arr1: List[int], arr2: List[int]) -> List[int]:
+        # https://leetcode.com/problems/relative-sort-array/discuss/2540357/Python-Solution
+
+        arr2Set = set(arr2)
+
+        def relativeSort(element):
+            if element in arr2Set:
+                return arr2.index(element)
+            else:
+                return len(arr2) - 1 + element
+
+        arr1.sort(key=relativeSort)
+        return arr1
+```
+
 - <time>Sep 10, 2022</time> Finished [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) but I had to look at the solution (my solution was too slow, was quite close though!):
 
 ```py
@@ -6004,6 +6023,8 @@ class Solution:
 
 #### Log
 
+- <time>Sep 11, 2022</time> Continued with Responsive Web Design.
+
 - <time>Sep 10, 2022</time> Continued with Responsive Web Design.
 
 - <time>Sep 09, 2022</time> Continued with Responsive Web Design.
@@ -6656,6 +6677,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Sep 11, 2022</time> Hit a 379-day streak.
 
 - <time>Sep 10, 2022</time> Hit a 378-day streak.
 
@@ -7779,6 +7802,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Sep 11, 2022</time> Attended [Dubai Summer Open 2022](https://www.worldcubeassociation.org/competitions/DubaiSummerOpen2022) and [got an 18.73 average with a 16.72 best for 3x3!](https://live.worldcubeassociation.org/competitions/1385/rounds/20306) An awesome time overall :)
 
 - <time>Aug 26, 2022</time> 19.907, 5.470, 33.116 and 8.903.
 
