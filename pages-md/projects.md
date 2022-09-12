@@ -157,6 +157,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 12, 2022</time> Had an awesome team meeting! In addition, I compiled a few resources.
+
 - <time>Sep 09, 2022</time> Had a productive meeting.
 
 - <time>Sep 04, 2022</time> Continued with some research.
@@ -1157,6 +1159,34 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 <hr />
 
 #### Log
+
+- <time>Sep 12, 2022</time> Finished [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/):
+
+```py
+"""
+# Definition for a Node.
+class Node:
+    def __init__(self, val=None, children=None):
+        self.val = val
+        self.children = children
+"""
+
+class Solution:
+    def maxDepth(self, root: 'Node') -> int:
+        def traverse(tree, array, count):
+            if tree:
+                array.append(count)
+                for i in range(len(tree.children)):
+                    traverse(tree.children[i], array, count+1)
+
+        res = []
+        traverse(root, res, 1)
+
+        if len(res) == 0:
+            return 0
+
+        return max(res)
+```
 
 - <time>Sep 11, 2022</time> Finished [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) but I had to look at the solution:
 
@@ -6023,6 +6053,8 @@ class Solution:
 
 #### Log
 
+- <time>Sep 12, 2022</time> Continued with Responsive Web Design.
+
 - <time>Sep 11, 2022</time> Continued with Responsive Web Design.
 
 - <time>Sep 10, 2022</time> Continued with Responsive Web Design.
@@ -6677,6 +6709,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Sep 12, 2022</time> Hit a 380-day streak.
 
 - <time>Sep 11, 2022</time> Hit a 379-day streak.
 
