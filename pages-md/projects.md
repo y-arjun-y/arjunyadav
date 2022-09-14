@@ -443,6 +443,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 14, 2022</time> Continued with Termination.
+
 - <time>Sep 05, 2022</time> Got started with [Termination](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/termination-stable-matching/).
 
 - <time>Sep 04, 2022</time> Finished with Correctness.
@@ -719,6 +721,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 14, 2022</time> Daily puzzles went okay.
 
 - <time>Sep 09, 2022</time> Finished ~2 out of the 6 daily puzzles.
 
