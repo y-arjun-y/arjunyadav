@@ -1160,6 +1160,14 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Sep 14, 2022</time> Finished [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/):
+
+```py
+class Solution:
+    def numOfStrings(self, patterns: List[str], word: str) -> int:
+        return len([i for i in patterns if i in word])
+```
+
 - <time>Sep 12, 2022</time> Finished [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/):
 
 ```py
