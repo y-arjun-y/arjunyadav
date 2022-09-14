@@ -157,6 +157,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 14, 2022</time> Added suggestions and ideas.
+
 - <time>Sep 12, 2022</time> Had an awesome team meeting! In addition, I compiled a few resources.
 
 - <time>Sep 09, 2022</time> Had a productive meeting.
