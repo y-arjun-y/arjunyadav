@@ -6061,6 +6061,8 @@ class Solution:
 
 #### Log
 
+- <time>Sep 14, 2022</time> Continued with the Arithmetic Formatter project and continued with Responsive Web Design.
+
 - <time>Sep 13, 2022</time> Continued with Responsive Web Design.
 
 - <time>Sep 12, 2022</time> Continued with Responsive Web Design.
@@ -6099,7 +6101,7 @@ class Solution:
 
 - <time>Aug 26, 2022</time> Continued with Responsive Web Design.
 
-- <time>Aug 25, 2022</time> Finished with the Arithmetic Formatter project and continued with Responsive Web Design.
+- <time>Aug 25, 2022</time> Continued with the Arithmetic Formatter project and continued with Responsive Web Design.
 
 - <time>Aug 24, 2022</time> Continued with Responsive Web Design.
 
