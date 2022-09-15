@@ -1166,6 +1166,27 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Sep 15, 2022</time> Finished []() though I sort of looked at [the solution](https://leetcode.com/problems/relative-sort-array/discuss/2540357/Python-Solution):
+
+```py
+class Solution:
+    def customSortString(self, order: str, s: str) -> str:
+        # https://leetcode.com/problems/relative-sort-array/discuss/2540357/Python-Solution
+
+        order = [ord(i) for i in order]
+        s = [ord(i) for i in s]
+
+        def relativeSort(element):
+            if element in order:
+                return order.index(element)
+            else:
+                return len(order) - 1 + element
+
+        s.sort(key=relativeSort)
+
+        return "".join([chr(i) for i in s])
+```
+
 - <time>Sep 14, 2022</time> Finished [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/):
 
 ```py
