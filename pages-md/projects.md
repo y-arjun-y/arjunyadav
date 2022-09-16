@@ -1170,7 +1170,20 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
-- <time>Sep 15, 2022</time> Finished []() though I sort of looked at [the solution](https://leetcode.com/problems/relative-sort-array/discuss/2540357/Python-Solution):
+- <time>Sep 16, 2022</time> Finished [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/):
+
+```py
+class Solution:
+    def mostFrequentEven(self, nums: List[int]) -> int:
+        even_nums = [(i, nums.count(i)) for i in set(nums) if i % 2 == 0]
+
+        if len(even_nums) == 0:
+            return -1
+
+        return max(sorted(even_nums), key=lambda x: x[1])[0]
+```
+
+- <time>Sep 15, 2022</time> Finished [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) though I sort of looked at [the solution](https://leetcode.com/problems/relative-sort-array/discuss/2540357/Python-Solution):
 
 ```py
 class Solution:
