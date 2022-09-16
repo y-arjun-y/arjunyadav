@@ -5770,6 +5770,8 @@ class Solution:
 
 #### Log
 
+- <time>Sep 16, 2022</time> Learnt [some open 7th chords](https://www.justinguitar.com/guitar-lessons/open-7th-chords-bg-1301).
+
 - <time>Sep 03, 2022</time> (Tried) to learn [Hey You](https://www.youtube.com/watch?v=soL8JK6kALc) by Pink Floyd.
 
 - <time>Aug 17, 2022</time> Freestyled to ease back in.
