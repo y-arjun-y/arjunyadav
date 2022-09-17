@@ -20,7 +20,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#kenken">KENKEN</a>
 - <a href="#coldtakesbetareading">Cold Takes Beta-Reading</a> (O)
 - <a href="#leetcode">LeetCode</a>
-- <a href="#guitar">Guitar</a> (S)
+- <a href="#guitar">Guitar</a> (F)
 - <a href="#freecodecamp">freeCodeCamp</a>
 - <a href="#duolingo">Duolingo</a>
 - <a href="#chess">Chess</a> (S)
@@ -7913,7 +7913,7 @@ class Solution:
 
 #### Log
 
-- <time>Sep 16, 2022</time> \\(40^2\\) solves! 17.936, 5.969, 35.427 and 7.331.
+- <time>Sep 17, 2022</time> \\(40^2\\) solves! 17.936, 5.969, 35.427 and 7.331.
 
 - <time>Sep 16, 2022</time> 19.509, 6.107, 34.105 and 9.909.
 
