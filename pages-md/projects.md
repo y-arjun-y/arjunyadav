@@ -1174,6 +1174,22 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Sep 17, 2022</time> Finished [Array Partition](https://leetcode.com/problems/array-partition/):
+
+```py
+class Solution:
+    def arrayPairSum(self, nums: List[int]) -> int:
+        nums = sorted(nums)
+
+        res = 0
+
+        for i in range(0, len(nums), 2):
+            print(i, nums[i:i+2])
+            res += min(nums[i:i+2])
+
+        return res
+```
+
 - <time>Sep 16, 2022</time> Finished [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/):
 
 ```py
