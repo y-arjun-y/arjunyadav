@@ -6127,6 +6127,8 @@ class Solution:
 
 #### Log
 
+- <time>Sep 17, 2022</time> "Continued" with the Arithmetic Formatter project and continued with Responsive Web Design.
+
 - <time>Sep 16, 2022</time> Continued with the Arithmetic Formatter project and continued with Responsive Web Design.
 
 - <time>Sep 15, 2022</time> Continued with the Arithmetic Formatter project and continued with Responsive Web Design.
