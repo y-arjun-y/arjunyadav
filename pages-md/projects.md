@@ -1178,6 +1178,18 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Sep 18, 2022</time> Finished [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/), my solution was sort of close but I had to look at [the solution](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/discuss/1617534/Python-3-sorting-solution):
+
+```py
+class Solution:
+    def minimumDifference(self, nums: List[int], k: int) -> int:
+        # https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/discuss/1617534/Python-3-sorting-solution
+
+        nums = sorted(nums)
+
+        return min(nums[i] - nums[i - k + 1] for i in range(k - 1, len(nums)))
+```
+
 - <time>Sep 17, 2022</time> Finished [Array Partition](https://leetcode.com/problems/array-partition/):
 
 ```py
