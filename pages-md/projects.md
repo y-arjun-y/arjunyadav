@@ -7482,6 +7482,8 @@ class Solution:
 
 #### Log
 
+- <time>Sep 18, 2022</time> [What a terrible middlegame lol](https://lichess.org/5QgJw2gx).
+
 - <time>Sep 16, 2022</time> [Oops](https://lichess.org/fcnivxJg).
 
 - <time>Sep 10, 2022</time> [?](https://lichess.org/zFoqiMsj)
