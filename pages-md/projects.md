@@ -730,6 +730,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 18, 2022</time> ~7.5 minutes for all correct.
+
 - <time>Sep 17, 2022</time> ~11-12 minutes for 5/6.
 
 - <time>Sep 16, 2022</time> ~12 minutes for all correct.
