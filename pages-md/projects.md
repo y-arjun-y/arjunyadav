@@ -6143,6 +6143,8 @@ class Solution:
 
 #### Log
 
+- <time>Sep 18, 2022</time> Progress! I finally got the problems to print horizontally for the Arithmetic Formatter project. Also continued with Responsive Web Design.
+
 - <time>Sep 17, 2022</time> "Continued" with the Arithmetic Formatter project and continued with Responsive Web Design.
 
 - <time>Sep 16, 2022</time> Continued with the Arithmetic Formatter project and continued with Responsive Web Design.
