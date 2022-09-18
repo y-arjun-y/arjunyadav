@@ -339,7 +339,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Sep 18, 2022</time> Finished with Week 2.
+- <time>Sep 18, 2022</time> Finished with Week 2 and got 100% on the practice quiz!
 
 - <time>Sep 04, 2022</time> Continued with Week 2. Nearly done.
 
