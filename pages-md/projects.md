@@ -445,6 +445,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 18, 2022</time> Finsihed with Termination.
+
 - <time>Sep 17, 2022</time> Continued with Termination.
 
 - <time>Sep 16, 2022</time> Continued with Termination.
