@@ -1186,6 +1186,22 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Sep 19, 2022</time> Finished [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) but I had to look at [the solution](https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/2597192/Python-Simple-and-Clean-using-Counters.) (mine was really close!):
+
+```py
+class Solution:
+    def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        from collections import Counter
+
+        res = []
+        nums1, nums2 = Counter(nums1), Counter(nums2)
+
+        for element in nums1:
+            res += [element] * min(nums1[element], nums2[element])
+
+        return res
+```
+
 - <time>Sep 18, 2022</time> Finished [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/), my solution was sort of close but I had to look at [the solution](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/discuss/1617534/Python-3-sorting-solution):
 
 ```py
