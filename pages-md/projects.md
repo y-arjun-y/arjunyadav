@@ -736,6 +736,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 20, 2022</time> Almost 12 minutes for all correct.
+
 - <time>Sep 19, 2022</time> Sort of skipped today (finished one daily puzzle that I saw the solution to).
 
 - <time>Sep 18, 2022</time> ~7.5 minutes for all correct.
@@ -6180,6 +6182,10 @@ class Solution:
 
 #### Log
 
+- <time>Sep 20, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 19, 2022</time> Continued with Responsive Web Design.
+
 - <time>Sep 18, 2022</time> Progress! I finally got the problems to print horizontally for the Arithmetic Formatter project. Also continued with Responsive Web Design.
 
 - <time>Sep 17, 2022</time> "Continued" with the Arithmetic Formatter project and continued with Responsive Web Design.
@@ -6848,6 +6854,10 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Sep 20, 2022</time> Hit a 388-day streak.
+
+- <time>Sep 19, 2022</time> Hit a 387-day streak.
 
 - <time>Sep 18, 2022</time> Hit a 386-day streak.
 
