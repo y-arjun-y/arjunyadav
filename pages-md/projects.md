@@ -1188,6 +1188,17 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Sep 20, 2022</time> Finished [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/):
+
+```py
+class Solution:
+    def smallestEvenMultiple(self, n: int) -> int:
+        if n % 2 == 0:
+            return n
+        else:
+            return n * 2
+```
+
 - <time>Sep 19, 2022</time> Finished [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) but I had to look at [the solution](https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/2597192/Python-Simple-and-Clean-using-Counters.) (mine was really close!):
 
 ```py
