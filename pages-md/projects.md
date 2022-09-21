@@ -449,6 +449,12 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 21, 2022</time> Continued with Running Time.
+
+- <time>Sep 20, 2022</time> Continued with Running Time.
+
+- <time>Sep 19, 2022</time> Got started with [Running Time](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/speed-stable-matching/).
+
 - <time>Sep 18, 2022</time> Finsihed with Termination.
 
 - <time>Sep 17, 2022</time> Continued with Termination.
@@ -735,6 +741,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 21, 2022</time> Sort of skipped today (finished one daily puzzle).
 
 - <time>Sep 20, 2022</time> Almost 12 minutes for all correct.
 
@@ -1189,6 +1197,22 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 <hr />
 
 #### Log
+
+- <time>Sep 21, 2022</time> My solution timed out for [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/):
+
+```py
+class Solution:
+    def sumEvenAfterQueries(self, nums: List[int], queries: List[List[int]]) -> List[int]:
+        # Time Limit Exceeded
+
+        res = []
+
+        for i in queries:
+            nums[i[1]] += i[0]
+            res.append(sum([j for j in nums if j % 2 == 0]))
+
+        return res
+```
 
 - <time>Sep 20, 2022</time> Finished [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/):
 
@@ -6182,6 +6206,8 @@ class Solution:
 
 #### Log
 
+- <time>Sep 21, 2022</time> Continued with Responsive Web Design.
+
 - <time>Sep 20, 2022</time> Continued with Responsive Web Design.
 
 - <time>Sep 19, 2022</time> Continued with Responsive Web Design.
@@ -6854,6 +6880,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Sep 21, 2022</time> Hit a 389-day streak.
 
 - <time>Sep 20, 2022</time> Hit a 388-day streak.
 
