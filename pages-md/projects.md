@@ -157,6 +157,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 22, 2022</time> Continued (?) with a recording.
+
 - <time>Sep 14, 2022</time> Added suggestions and ideas.
 
 - <time>Sep 12, 2022</time> Had an awesome team meeting! In addition, I compiled a few resources.
@@ -448,6 +450,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 22, 2022</time> Continued with Running Time.
 
 - <time>Sep 21, 2022</time> Continued with Running Time.
 
@@ -741,6 +745,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 22, 2022</time> Sort of skipped today (finished one daily puzzle that I saw the solution to).
 
 - <time>Sep 21, 2022</time> Sort of skipped today (finished one daily puzzle).
 
@@ -6206,6 +6212,8 @@ class Solution:
 
 #### Log
 
+- <time>Sep 22, 2022</time> Continued with Responsive Web Design.
+
 - <time>Sep 21, 2022</time> Continued with Responsive Web Design.
 
 - <time>Sep 20, 2022</time> Continued with Responsive Web Design.
@@ -6880,6 +6888,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Sep 22, 2022</time> Hit a 390-day streak.
 
 - <time>Sep 21, 2022</time> Hit a 389-day streak.
 
