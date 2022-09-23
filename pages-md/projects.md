@@ -157,6 +157,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 23, 2022</time> Continued with a recording.
+
 - <time>Sep 22, 2022</time> Continued (?) with a recording.
 
 - <time>Sep 14, 2022</time> Added suggestions and ideas.
@@ -450,6 +452,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 23, 2022</time> Continued with Running Time.
 
 - <time>Sep 22, 2022</time> Continued with Running Time.
 
@@ -1203,6 +1207,19 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 <hr />
 
 #### Log
+
+- <time>Sep 23, 2022</time> Finished [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/):
+
+```py
+class Solution:
+    def concatenatedBinary(self, n: int) -> int:
+        string = ""
+
+        for i in range(1, n+1):
+            string += bin(i)[2:]
+
+        return int(string, 2) % (10**9 + 7)
+```
 
 - <time>Sep 21, 2022</time> My solution timed out for [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/):
 
@@ -6212,6 +6229,8 @@ class Solution:
 
 #### Log
 
+- <time>Sep 23, 2022</time> Continued with Responsive Web Design.
+
 - <time>Sep 22, 2022</time> Continued with Responsive Web Design.
 
 - <time>Sep 21, 2022</time> Continued with Responsive Web Design.
@@ -6888,6 +6907,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Sep 23, 2022</time> Hit a 391-day streak.
 
 - <time>Sep 22, 2022</time> Hit a 390-day streak.
 
