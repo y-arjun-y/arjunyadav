@@ -183,6 +183,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 25, 2022</time> Continued with Week 4.
+
 - <time>Sep 18, 2022</time> Continued with Week 4.
 
 - <time>Aug 29, 2022</time> Continued with Week 4.
@@ -280,6 +282,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 25, 2022</time> Got started with Week 3.
 
 - <time>Sep 18, 2022</time> Finished with Week 2 and got 100% on the practice quiz!
 
@@ -390,6 +394,10 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 25, 2022</time> Finished with Running Time.
+
+- <time>Sep 24, 2022</time> Continued with Running Time.
 
 - <time>Sep 23, 2022</time> Continued with Running Time.
 
@@ -687,6 +695,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 25, 2022</time> Daily puzzles went okay.
 
 - <time>Sep 22, 2022</time> Sort of skipped today (finished one daily puzzle that I saw the solution to).
 
@@ -6564,6 +6574,10 @@ class Solution:
 
 #### Log
 
+- <time>Sep 23, 2022</time> Hit a 393-day streak and reached legendary for "Home" in Hindi.
+
+- <time>Sep 23, 2022</time> Hit a 392-day streak.
+
 - <time>Sep 23, 2022</time> Hit a 391-day streak.
 
 - <time>Sep 22, 2022</time> Hit a 390-day streak.
@@ -7239,6 +7253,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Sep 25, 2022</time> [Why didn't I see the knight for move 18](https://lichess.org/YkihwvUv75yf)?
 
 - <time>Sep 18, 2022</time> [What a terrible middlegame lol](https://lichess.org/5QgJw2gx).
 
