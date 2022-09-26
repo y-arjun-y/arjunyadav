@@ -183,6 +183,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 26, 2022</time> Continued with Week 4.
+
 - <time>Sep 25, 2022</time> Continued with Week 4.
 
 - <time>Sep 18, 2022</time> Continued with Week 4.
@@ -282,6 +284,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 26, 2022</time> Continued with Week 3.
 
 - <time>Sep 25, 2022</time> Got started with Week 3.
 
