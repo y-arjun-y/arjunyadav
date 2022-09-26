@@ -1156,6 +1156,22 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Sep 26, 2022</time> Finished [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) but I had to look at [the solution](https://leetcode.com/problems/check-if-it-is-a-straight-line/discuss/2483779/Python-oror-Using-For-Loop-ororEasy-Undestanding):
+
+```py
+class Solution:
+    def checkStraightLine(self, coordinates: List[List[int]]) -> bool:
+        # https://leetcode.com/problems/check-if-it-is-a-straight-line/discuss/2483779/Python-oror-Using-For-Loop-ororEasy-Undestanding
+        (x0, y0), (x1, y1) = coordinates[0], coordinates[1]
+
+        for i in range(2, len(coordinates)):
+            x, y = coordinates[i]
+            if (x0 - x1) * (y1 - y) != (x1 - x) * (y0 - y1):
+                return False
+        return True
+
+```
+
 - <time>Sep 25, 2022</time> Finished [Design HashMap](https://leetcode.com/problems/design-hashmap/):
 
 ```py
@@ -5891,7 +5907,9 @@ class Solution:
 
 #### Log
 
-- <time>Sep 24, 2022</time> Continued (?) with the Arithmetic Formatter project and continued with Responsive Web Design.
+- <time>Sep 26, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 25, 2022</time> Continued (?) with the Arithmetic Formatter project and continued with Responsive Web Design.
 
 - <time>Sep 24, 2022</time> Continued with Responsive Web Design.
 
@@ -6574,9 +6592,11 @@ class Solution:
 
 #### Log
 
-- <time>Sep 23, 2022</time> Hit a 393-day streak and reached legendary for "Home" in Hindi.
+- <time>Sep 26, 2022</time> Hit a 394-day streak.
 
-- <time>Sep 23, 2022</time> Hit a 392-day streak.
+- <time>Sep 25, 2022</time> Hit a 393-day streak and reached legendary for "Home" in Hindi.
+
+- <time>Sep 24, 2022</time> Hit a 392-day streak.
 
 - <time>Sep 23, 2022</time> Hit a 391-day streak.
 
