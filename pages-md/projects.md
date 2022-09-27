@@ -5915,6 +5915,8 @@ class Solution:
 
 #### Log
 
+- <time>Sep 27, 2022</time> Got started with [Relational Database](https://www.freecodecamp.org/learn/relational-database/).
+
 - <time>Sep 26, 2022</time> Continued with Responsive Web Design.
 
 - <time>Sep 25, 2022</time> Continued (?) with the Arithmetic Formatter project and continued with Responsive Web Design.
