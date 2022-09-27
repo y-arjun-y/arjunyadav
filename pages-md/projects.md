@@ -401,6 +401,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 27, 2022</time> Continued with Variants.
+
+- <time>Sep 26, 2022</time> Got started with [Variants](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/stable-matching-variants/).
+
 - <time>Sep 25, 2022</time> Finished with Running Time.
 
 - <time>Sep 24, 2022</time> Continued with Running Time.
