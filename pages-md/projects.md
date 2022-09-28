@@ -1168,6 +1168,36 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Sep 28, 2022</time> Finished [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/):
+
+```py
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+        def traverse(llist, array):
+            if llist:
+                array.append(llist.val)
+                traverse(llist.next, array)
+
+        array = []
+        traverse(head, array)
+        array.pop(len(array) - n)
+
+        # https://stackoverflow.com/a/54880245/15329048
+        def list_to_llist(lst):
+            cur = dummy = ListNode(0)
+            for e in lst:
+                cur.next = ListNode(e)
+                cur = cur.next
+            return dummy.next
+
+        return list_to_llist(array)
+```
+
 - <time>Sep 26, 2022</time> Finished [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) but I had to look at [the solution](https://leetcode.com/problems/check-if-it-is-a-straight-line/discuss/2483779/Python-oror-Using-For-Loop-ororEasy-Undestanding):
 
 ```py
