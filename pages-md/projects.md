@@ -401,6 +401,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 28, 2022</time> Continued with Variants.
+
 - <time>Sep 27, 2022</time> Continued with Variants.
 
 - <time>Sep 26, 2022</time> Got started with [Variants](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/stable-matching-variants/).
@@ -705,6 +707,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 28, 2022</time> Daily _puzzle_ went alright (saw the solution for the other one).
 
 - <time>Sep 26, 2022</time> Daily _puzzle_ went alright.
 
