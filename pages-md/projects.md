@@ -23,7 +23,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a> (S)
 - <a href="#cubing">Cubing</a>
 
-### Inactive/Paused (5)
+### Inactive/Paused (4)
 
 - <a href="#guitar">Guitar</a>
 - <a href="#drums">Drums</a>
