@@ -1172,6 +1172,16 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Sep 29, 2022</time> Finished [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/):
+
+```py
+class Solution:
+    def findClosestElements(self, arr: List[int], k: int, x: int) -> List[int]:
+        temp_res = sorted([(i, abs(i - x)) for i in arr], key=lambda x: x[1])
+
+        return sorted([i[0] for i in temp_res][:k])
+```
+
 - <time>Sep 28, 2022</time> Finished [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/):
 
 ```py
