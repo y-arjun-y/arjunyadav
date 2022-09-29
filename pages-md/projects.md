@@ -401,6 +401,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 29, 2022</time> Finished with Variants.
+
 - <time>Sep 28, 2022</time> Continued with Variants.
 
 - <time>Sep 27, 2022</time> Continued with Variants.
