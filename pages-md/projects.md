@@ -285,7 +285,11 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Sep 27, 2022</time> "Continued" with Week 3.
+- <time>Sep 29, 2022</time> Continued with Week 3 and got 100% on the practice quiz!
+
+- <time>Sep 28, 2022</time> Continued (?) with Week 3.
+
+- <time>Sep 27, 2022</time> Continued (?) with Week 3.
 
 - <time>Sep 26, 2022</time> Continued with Week 3.
 
