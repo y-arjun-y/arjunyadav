@@ -708,6 +708,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 29, 2022</time> Daily puzzles went well.
+
 - <time>Sep 28, 2022</time> Daily _puzzle_ went alright (saw the solution for the other one).
 
 - <time>Sep 26, 2022</time> Daily _puzzle_ went alright.
