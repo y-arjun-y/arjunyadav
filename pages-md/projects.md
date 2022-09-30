@@ -405,6 +405,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 30, 2022</time> Got started with [Who Benefits?](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/who-benefits/)
+
 - <time>Sep 29, 2022</time> Finished with Variants.
 
 - <time>Sep 28, 2022</time> Continued with Variants.
