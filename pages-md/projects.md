@@ -714,6 +714,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 30, 2022</time> Finished the August 2022 weekly challenges: ~10 minutes and ~8 minutes, all correct for both.
+
 - <time>Sep 29, 2022</time> Daily puzzles went well.
 
 - <time>Sep 28, 2022</time> Daily _puzzle_ went alright (saw the solution for the other one).
