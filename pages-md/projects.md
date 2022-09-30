@@ -5981,6 +5981,10 @@ class Solution:
 
 #### Log
 
+- <time>Sep 30, 2022</time> "Continued" with the Arithmetic Formatter project.
+
+- <time>Sep 29, 2022</time> Continued with the Arithmetic Formatter project.
+
 - <time>Sep 28, 2022</time> Continued with the Arithmetic Formatter project.
 
 - <time>Sep 27, 2022</time> Got started with [Relational Database](https://www.freecodecamp.org/learn/relational-database/).
