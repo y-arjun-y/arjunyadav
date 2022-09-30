@@ -7364,6 +7364,8 @@ class Solution:
 
 #### Log
 
+- <time>Sep 30, 2022</time> [Interesting queen sacrifice](https://lichess.org/3pQlaLpP)?
+
 - <time>Sep 25, 2022</time> [Why didn't I see the knight for move 18](https://lichess.org/YkihwvUv75yf)?
 
 - <time>Sep 18, 2022</time> [What a terrible middlegame lol](https://lichess.org/5QgJw2gx).
