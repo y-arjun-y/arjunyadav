@@ -1180,6 +1180,16 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Sep 30, 2022</time> Finished [Hamming Distance](https://leetcode.com/problems/hamming-distance/):
+
+```py
+class Solution:
+    def hammingDistance(self, x: int, y: int) -> int:
+        # https://leetcode.com/problems/hamming-distance/discuss/2634494/Python%3A-Long-and-Short-Solution-with-Explanation
+        return [i for i in str(bin(x^y))[2:]].count('1')
+
+```
+
 - <time>Sep 29, 2022</time> Finished [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/):
 
 ```py
