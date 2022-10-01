@@ -602,6 +602,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 01, 2022</time> Had my "state"-level exam which went well.
+
 - <time>Sep 30, 2022</time> Finished the August 2022 weekly challenges: ~10 minutes and ~8 minutes, all correct for both.
 
 - <time>Sep 29, 2022</time> Daily puzzles went well.
@@ -934,7 +936,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 - <time>Mar 20, 2022</time> Finished with the weekly challenge and the daily puzzles, will complete the bonus challenge tomorrow.
 
-- <time>Mar 19, 2022</time> Had my school-level exam. It went pretty terribly (most likely all correct in about 10 minutes) but it's very likely I go to the next level. Also finished weekly challenge and daily puzzles.
+- <time>Mar 19, 2022</time> Had my school-level exam. It went pretty terribly (most likely all correct in about 10 minutes) but it's very likely I proceed to the next level. Also finished weekly challenge and daily puzzles.
 
 - <time>Mar 18, 2022</time> Finished with the daily puzzles, went really well.
 
