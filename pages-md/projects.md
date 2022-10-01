@@ -1186,6 +1186,8 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Oct 01, 2022</time> I'm close to a solution for [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/).
+
 - <time>Sep 30, 2022</time> Finished [Hamming Distance](https://leetcode.com/problems/hamming-distance/):
 
 ```py
@@ -5987,6 +5989,8 @@ class Solution:
 
 #### Log
 
+- <time>Oct 01, 2022</time> Continued with the Arithmetic Formatter project.
+
 - <time>Sep 30, 2022</time> "Continued" with the Arithmetic Formatter project.
 
 - <time>Sep 29, 2022</time> Continued with the Arithmetic Formatter project.
@@ -7848,6 +7852,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Oct 01, 2022</time> 20.185, 6.254, 33.995 and 8.724.
 
 - <time>Sep 30, 2022</time> 19.371, 6.298, 36.396 and 10.548.
 
