@@ -7,11 +7,8 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Ongoing (13)
+### Ongoing (10)
 
-- <a href="#localaiprogram">Local AI Program</a> (Sa)
-- <a href="#agisf">AGI Safety Fundamentals: Technical Track</a> (F)
-- <a href="#landingpage">Landing Page Project + App Integration</a>
 - <a href="#introml">Introduction to Machine Learning</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
 - <a href="#brilliant">Brilliant</a>
@@ -23,19 +20,22 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a> (S)
 - <a href="#cubing">Cubing</a>
 
-### Inactive/Paused (4)
+### Inactive/Paused (6)
 
+- <a href="#landingpage">Landing Page Project + App Integration</a>
+- <a href="#agisf">AGI Safety Fundamentals: Technical Track</a> (F)
 - <a href="#guitar">Guitar</a>
 - <a href="#drums">Drums</a>
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
 
-### Done (13)
+### Done (14)
 
-- <a href="#sudoku">Sudoku</a>
+- <a href="#localaiprogram">Local AI Program</a> (Sa)
 - <a href="#eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</a>
 - <a href="#bearblogreplacementtemplate">Bear Blog Replacement Template</a>
 - <a href="#solaris">SOLARIS (First Edition)</a>
+- <a href="#sudoku">Sudoku</a>
 - <a href="#gallpeters">gallpeters</a>
 - <a href="#eadata">Effective Altruism Data</a>
 - <a href="#bettermailto">bettermailto</a>
@@ -54,124 +54,6 @@ Confused? See the <a href="#note">note</a> down below.
 
 ## Ongoing
 
-<hr />
-
-## <span id="localaiprogram">Local AI Program</span>
-
-<small>Sep 10, 2022-present</small>  
-<small>Attending a local AI program. Due to privacy reasons, I'm being incredibly vague.</small>
-
-<hr />
-
-#### Log
-
-- <time>Sep 10, 2022</time> Had a great first pre-requisite class! Excited to be brushing-up on some ML models next week.
-
-<hr />
-
-## <span id="agisf">AGI Safety Fundamentals: Technical Track</span>
-
-<small>Sep 02, 2022-present</small>  
-<small>Trying to learn as much as I can about AI safety in this fellowship!</small>
-
-<hr />
-
-#### Log
-
-- <time>Sep 09, 2022</time> Another great session with my cohort, though I don't know if I contributed that much to the conversation.
-
-- <time>Sep 02, 2022</time> Had a great first meeting with my cohort and did okay on the exercise questions.
-
-<hr />
-
-## <span id="landingpage">Landing Page Project + App Integration</span>
-
-<small>Jul 29, 2022-present</small>  
-<small>Designing a landing page for a project I've been accepted to. In addition, I'm helping with app integrations. Note that, due to organizational requirements, I'm being incredibly vague.</small>
-
-<hr />
-<small>Landing Page Project's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Sep 23, 2022</time> Continued with a recording.
-
-- <time>Sep 22, 2022</time> Continued (?) with a recording.
-
-- <time>Sep 14, 2022</time> Added suggestions and ideas.
-
-- <time>Sep 12, 2022</time> Had an awesome team meeting! In addition, I compiled a few resources.
-
-- <time>Sep 09, 2022</time> Had a productive meeting.
-
-- <time>Sep 04, 2022</time> Continued with some research.
-
-- <time>Sep 03, 2022</time> Continued with some research.
-
-- <time>Sep 02, 2022</time> Continued with some research.
-
-- <time>Aug 29, 2022</time> Continued with some research.
-
-- <time>Aug 28, 2022</time> Continued with some research.
-
-- <time>Aug 27, 2022</time> Continued with some research.
-
-- <time>Aug 26, 2022</time> Had a productive meeting and continued with some research.
-
-- <time>Aug 25, 2022</time> Continued with some research.
-
-- <time>Aug 24, 2022</time> Continued with some research.
-
-- <time>Aug 23, 2022</time> Continued with some research.
-
-- <time>Aug 22, 2022</time> Continued with some research.
-
-- <time>Aug 21, 2022</time> Continued with some research.
-
-- <time>Aug 20, 2022</time> Continued with some research.
-
-- <time>Aug 19, 2022</time> Continued with some research.
-
-- <time>Aug 18, 2022</time> Continued with some research.
-
-- <time>Aug 17, 2022</time> Continued with some research.
-
-- <time>Aug 16, 2022</time> Continued with some research.
-
-- <time>Aug 15, 2022</time> Continued with some research.
-
-- <time>Aug 14, 2022</time> Continued with some research.
-
-- <time>Aug 13, 2022</time> Continued with some research.
-
-- <time>Aug 12, 2022</time> Continued with some research.
-
-- <time>Aug 11, 2022</time> Got started with some research.
-
-- <time>Aug 10, 2022</time> Had a really productive meeting, which helped to solve some of standing technical/integration enquires.
-
-- <time>Aug 09, 2022</time> Tested a [Make](https://make.com/) integration to not much avail again.
-
-- <time>Aug 08, 2022</time> Tested a [Zapier](https://zapier.com/) integration to not much avail. I'll try another integration tomorrow.
-
-- <time>Aug 07, 2022</time> Had a productive meeting.
-
-- <time>Aug 06, 2022</time> Wrote-up and sent my findings on an organisational discount.
-
-- <time>Aug 05, 2022</time> Wrote-up and sent my findings on apps for different scenarios.
-
-- <time>Aug 04, 2022</time> Wrote-up and sent my findings on an app integration and pricing.
-
-- <time>Aug 02, 2022</time> Finished with the sixth draft of the first section.
-
-- <time>Aug 01, 2022</time> Had a productive meeting and finished with the fifth draft of the first section.
-
-- <time>Jul 31, 2022</time> Finished with the fourth draft of the first section.
-
-- <time>Jul 30, 2022</time> Finished (?) with the third draft of the first section.
-
-- <time>Jul 29, 2022</time> Had a productive meeting and got started with the third draft of the first section.
 <hr />
 
 ## <span id="introml">[Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning-duke/)</span>
@@ -406,6 +288,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 01, 2022</time> Finished with Who Benefits?
 
 - <time>Sep 30, 2022</time> Got started with [Who Benefits?](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/who-benefits/)
 
@@ -6684,6 +6568,10 @@ class Solution:
 
 #### Log
 
+- <time>Oct 01, 2022</time> Hit a 399-day streak. Will finish this project this month.
+
+- <time>Sep 30, 2022</time> Hit a 398-day streak.
+
 - <time>Sep 29, 2022</time> Hit a 397-day streak.
 
 - <time>Sep 28, 2022</time> Hit a 396-day streak.
@@ -8473,6 +8361,111 @@ class Solution:
 
 <hr />
 
+## <span id="landingpage">Landing Page Project + App Integration</span>
+
+<small>Jul 29, 2022-present</small>  
+<small>Designing a landing page for a project I've been accepted to. In addition, I'm helping with app integrations. Note that, due to organizational requirements, I'm being incredibly vague. Currently paused.</small>
+
+<hr />
+<small>Landing Page Project's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Sep 23, 2022</time> Continued with a recording.
+
+- <time>Sep 22, 2022</time> Continued (?) with a recording.
+
+- <time>Sep 14, 2022</time> Added suggestions and ideas.
+
+- <time>Sep 12, 2022</time> Had an awesome team meeting! In addition, I compiled a few resources.
+
+- <time>Sep 09, 2022</time> Had a productive meeting.
+
+- <time>Sep 04, 2022</time> Continued with some research.
+
+- <time>Sep 03, 2022</time> Continued with some research.
+
+- <time>Sep 02, 2022</time> Continued with some research.
+
+- <time>Aug 29, 2022</time> Continued with some research.
+
+- <time>Aug 28, 2022</time> Continued with some research.
+
+- <time>Aug 27, 2022</time> Continued with some research.
+
+- <time>Aug 26, 2022</time> Had a productive meeting and continued with some research.
+
+- <time>Aug 25, 2022</time> Continued with some research.
+
+- <time>Aug 24, 2022</time> Continued with some research.
+
+- <time>Aug 23, 2022</time> Continued with some research.
+
+- <time>Aug 22, 2022</time> Continued with some research.
+
+- <time>Aug 21, 2022</time> Continued with some research.
+
+- <time>Aug 20, 2022</time> Continued with some research.
+
+- <time>Aug 19, 2022</time> Continued with some research.
+
+- <time>Aug 18, 2022</time> Continued with some research.
+
+- <time>Aug 17, 2022</time> Continued with some research.
+
+- <time>Aug 16, 2022</time> Continued with some research.
+
+- <time>Aug 15, 2022</time> Continued with some research.
+
+- <time>Aug 14, 2022</time> Continued with some research.
+
+- <time>Aug 13, 2022</time> Continued with some research.
+
+- <time>Aug 12, 2022</time> Continued with some research.
+
+- <time>Aug 11, 2022</time> Got started with some research.
+
+- <time>Aug 10, 2022</time> Had a really productive meeting, which helped to solve some of standing technical/integration enquires.
+
+- <time>Aug 09, 2022</time> Tested a [Make](https://make.com/) integration to not much avail again.
+
+- <time>Aug 08, 2022</time> Tested a [Zapier](https://zapier.com/) integration to not much avail. I'll try another integration tomorrow.
+
+- <time>Aug 07, 2022</time> Had a productive meeting.
+
+- <time>Aug 06, 2022</time> Wrote-up and sent my findings on an organisational discount.
+
+- <time>Aug 05, 2022</time> Wrote-up and sent my findings on apps for different scenarios.
+
+- <time>Aug 04, 2022</time> Wrote-up and sent my findings on an app integration and pricing.
+
+- <time>Aug 02, 2022</time> Finished with the sixth draft of the first section.
+
+- <time>Aug 01, 2022</time> Had a productive meeting and finished with the fifth draft of the first section.
+
+- <time>Jul 31, 2022</time> Finished with the fourth draft of the first section.
+
+- <time>Jul 30, 2022</time> Finished (?) with the third draft of the first section.
+
+- <time>Jul 29, 2022</time> Had a productive meeting and got started with the third draft of the first section.
+<hr />
+
+## <span id="agisf">AGI Safety Fundamentals: Technical Track</span>
+
+<small>Sep 02, 2022-present</small>  
+<small>Trying to learn as much as I can about AI safety in this fellowship! Currently paused (will try to attend an active cohort in late 2022/early 2023)</small>
+
+<hr />
+
+#### Log
+
+- <time>Sep 09, 2022</time> Another great session with my cohort, though I don't know if I contributed that much to the conversation.
+
+- <time>Sep 02, 2022</time> Had a great first meeting with my cohort and did okay on the exercise questions.
+
+<hr />
+
 ## <span id="guitar">Guitar</span>
 
 <small>Oct 29, 2021-present</small>  
@@ -9061,6 +9054,21 @@ class Solution:
 <hr />
 
 ## Done
+
+<hr />
+
+## <span id="localaiprogram">Local AI Program</span>
+
+<small>Sep 10, 2022-Oct 01, 2022</small>  
+<small>Attended a local AI program. Due to privacy reasons, I was being incredibly vague.</small>
+
+<hr />
+
+#### Log
+
+- <time>Oct 01, 2022</time> Welp, the program got cancelled. I'll see if I can attend it next year.
+
+- <time>Sep 10, 2022</time> Had a great first pre-requisite class! Excited to be brushing-up on some ML models next week.
 
 <hr />
 
