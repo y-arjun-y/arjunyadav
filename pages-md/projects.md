@@ -289,6 +289,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 02, 2022</time> Got started with [Spellcheck](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/autocorrect/)
+
 - <time>Oct 01, 2022</time> Finished with Who Benefits?
 
 - <time>Sep 30, 2022</time> Got started with [Who Benefits?](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/who-benefits/)
