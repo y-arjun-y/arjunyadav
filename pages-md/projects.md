@@ -1072,6 +1072,8 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Oct 02, 2022</time> Still getting there.
+
 - <time>Oct 01, 2022</time> I'm close to a solution for [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/).
 
 - <time>Sep 30, 2022</time> Finished [Hamming Distance](https://leetcode.com/problems/hamming-distance/):
@@ -5874,6 +5876,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Oct 02, 2022</time> Continued with the Arithmetic Formatter project.
 
 - <time>Oct 01, 2022</time> Continued with the Arithmetic Formatter project.
 
