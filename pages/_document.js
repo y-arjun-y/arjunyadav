@@ -10,7 +10,7 @@ export default function Document() {
         ></link>
         <link
           rel="stylesheet"
-          href="https://unpkg.com/beech.css@1.0.9/style.css"
+          href="https://unpkg.com/beech.css@1.0.10/style.css"
           type="text/css"
         />
         <link

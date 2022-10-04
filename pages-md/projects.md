@@ -7,7 +7,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Ongoing (10)
+### Ongoing (9)
 
 - <a href="#introml">Introduction to Machine Learning</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
@@ -17,11 +17,11 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#leetcode">LeetCode</a>
 - <a href="#freecodecamp">freeCodeCamp</a>
 - <a href="#duolingo">Duolingo</a>
-- <a href="#chess">Chess</a> (S)
 - <a href="#cubing">Cubing</a>
 
-### Inactive/Paused (6)
+### Inactive/Paused (7)
 
+- <a href="#chess">Chess</a> (S)
 - <a href="#landingpage">Landing Page Project + App Integration</a>
 - <a href="#agisf">AGI Safety Fundamentals: Technical Track</a> (F)
 - <a href="#guitar">Guitar</a>
@@ -47,6 +47,11 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#eaglobal2021">EA Global: London 2021</a>
 
 F - Friday, Sa - Saturday, S - Sunday, O - Occasional
+
+#### Navigation Tips
+
+- Press <kbd>Ctrl/Cmd + ↑</kbd> to return back to the table of contents/navigation bar.
+- Use <kbd>Ctrl/Cmd + F</kbd> to search for any keyword/date.
 
 <hr />
 Confused? See the <a href="#note">note</a> down below.
@@ -288,6 +293,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 03, 2022</time> Continued with [Spellcheck](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/autocorrect/)
 
 - <time>Oct 02, 2022</time> Got started with [Spellcheck](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/autocorrect/)
 
@@ -6576,7 +6583,9 @@ class Solution:
 
 #### Log
 
-- <time>Sep 30, 2022</time> Hit a 400-day streak and reached legendary for Activity in Hindi. I'll finish this project tomorrow.
+- <time>Oct 03, 2022</time> Hit a 401-day streak.
+
+- <time>Oct 02, 2022</time> Hit a 400-day streak and reached legendary for Activity in Hindi. I'll (try to) finish this project tomorrow.
 
 - <time>Oct 01, 2022</time> Hit a 399-day streak. Will finish this project this month.
 
@@ -7262,7 +7271,7 @@ class Solution:
 ## <span id="chess">[Chess](https://lichess.org/@/y_arjun_y)</span>
 
 <small>Oct 28, 2021-present</small>  
-<small>Trying to get better at chess via practicing on [lichess](https://lichess.org). You can see all my games that I refer to [here](https://lichess.org/@/y_arjun_y/all). Previously, I practiced on [chess.com](https://chess.com). Currently a Friday & Sunday project.</small>
+<small>Trying to get better at chess via practicing on [lichess](https://lichess.org). You can see all my games that I refer to [here](https://lichess.org/@/y_arjun_y/all). Previously, I practiced on [chess.com](https://chess.com). Currently paused due to exams.</small>
 
 <hr />
 <small>Chess's start date is the date I started logging, not the date when the project started.</small>
@@ -8466,7 +8475,7 @@ class Solution:
 ## <span id="agisf">AGI Safety Fundamentals: Technical Track</span>
 
 <small>Sep 02, 2022-present</small>  
-<small>Trying to learn as much as I can about AI safety in this fellowship! Currently paused (will try to attend an active cohort in late 2022/early 2023)</small>
+<small>Trying to learn as much as I can about AI safety in this fellowship! Currently paused (will try to attend a cohort in late 2022/early 2023)</small>
 
 <hr />
 
@@ -10168,9 +10177,9 @@ category=android.intent.category.DEFAULT
 
 ### <span id="note">Note</span>
 
-I define a project as anything I am actively building, creating or participating in. I don't count my content, schoolwork and talks with people as projects. One-off tasks (such as updating documentation or fixing a small glitch for a previous project) also don't count.
+I define a project as anything I am actively building, creating or participating in. I don't count my content and schoolwork as projects. One-off tasks (such as updating documentation or fixing a small glitch for a previous project) also don't count.
 
-Any gaps between logs do not mean that I worked on the project in between, any work done for the project will be logged (unless any special circumstance occurs).
+Any gaps between logs does not mean that I worked on the project in between, any work done for the project will be logged (unless any special circumstance occurs).
 
 I put links to jargon, tools I use, or anything I think would be cool to read more about! But please note that, unless explicitly stated, I was never paid to mention the link.
 
