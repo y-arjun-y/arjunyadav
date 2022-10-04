@@ -611,6 +611,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 04, 2022</time> All correct in ~8-9 minutes.
+
 - <time>Oct 01, 2022</time> Had my "state"-level exam which went well.
 
 - <time>Sep 30, 2022</time> Finished the August 2022 weekly challenges: ~10 minutes and ~8 minutes, all correct for both.
