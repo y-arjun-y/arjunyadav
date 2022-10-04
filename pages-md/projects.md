@@ -298,7 +298,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 03, 2022</time> Continued with [Spellcheck](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/autocorrect/)
+- <time>Oct 04, 2022</time> Finished with Spellcheck. [Today's daily challenge is literally a 5x5 KENKEN!](https://brilliant.org/daily-problems/calcdoku-19/)
+
+- <time>Oct 03, 2022</time> Continued with Spellcheck.
 
 - <time>Oct 02, 2022</time> Got started with [Spellcheck](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/autocorrect/)
 
