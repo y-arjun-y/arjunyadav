@@ -7,7 +7,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Ongoing (9)
+### Ongoing (8)
 
 - <a href="#introml">Introduction to Machine Learning</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
@@ -16,7 +16,6 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#coldtakesbetareading">Cold Takes Beta-Reading</a> (O)
 - <a href="#leetcode">LeetCode</a>
 - <a href="#freecodecamp">freeCodeCamp</a>
-- <a href="#duolingo">Duolingo</a>
 - <a href="#cubing">Cubing</a>
 
 ### Inactive/Paused (7)
@@ -29,8 +28,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
 
-### Done (14)
+### Done (15)
 
+- <a href="#duolingo">Duolingo</a>
 - <a href="#localaiprogram">Local AI Program</a> (Sa)
 - <a href="#eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</a>
 - <a href="#bearblogreplacementtemplate">Bear Blog Replacement Template</a>
@@ -6574,1183 +6574,6 @@ class Solution:
 - <time>Oct 28, 2021</time> Continued [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) and [Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging), and also opened up an [issue about possible duplication](https://github.com/freeCodeCamp/freeCodeCamp/issues/44051).
 <hr />
 
-## <span id="duolingo">[Duolingo](https://duolingo.com)</span>
-
-<small>Oct 28, 2021-present</small>  
-<small>Trying to learn [Hindi](https://www.duolingo.com/enroll/hi/en/Learn-Hindi) and [French](https://www.duolingo.com/enroll/fr/en/Learn-French) with [Duolingo](https://duolingo.com), currently at a Level 5 Trophy for Hindi.</small>
-
-<hr />
-<small>Duolingo's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Oct 03, 2022</time> Hit a 401-day streak.
-
-- <time>Oct 02, 2022</time> Hit a 400-day streak and reached legendary for Activity in Hindi. I'll (try to) finish this project tomorrow.
-
-- <time>Oct 01, 2022</time> Hit a 399-day streak. Will finish this project this month.
-
-- <time>Sep 30, 2022</time> Hit a 398-day streak.
-
-- <time>Sep 29, 2022</time> Hit a 397-day streak.
-
-- <time>Sep 28, 2022</time> Hit a 396-day streak.
-
-- <time>Sep 27, 2022</time> Hit a 395-day streak.
-
-- <time>Sep 26, 2022</time> Hit a 394-day streak.
-
-- <time>Sep 25, 2022</time> Hit a 393-day streak and reached legendary for "Home" in Hindi.
-
-- <time>Sep 24, 2022</time> Hit a 392-day streak.
-
-- <time>Sep 23, 2022</time> Hit a 391-day streak.
-
-- <time>Sep 22, 2022</time> Hit a 390-day streak.
-
-- <time>Sep 21, 2022</time> Hit a 389-day streak.
-
-- <time>Sep 20, 2022</time> Hit a 388-day streak.
-
-- <time>Sep 19, 2022</time> Hit a 387-day streak.
-
-- <time>Sep 18, 2022</time> Hit a 386-day streak.
-
-- <time>Sep 17, 2022</time> Hit a 385-day streak and reached legendary in Adjectives in Hindi.
-
-- <time>Sep 16, 2022</time> Hit a 384-day streak.
-
-- <time>Sep 15, 2022</time> Hit a 383-day streak.
-
-- <time>Sep 14, 2022</time> Hit a 382-day streak.
-
-- <time>Sep 13, 2022</time> Hit a 381-day streak.
-
-- <time>Sep 12, 2022</time> Hit a 380-day streak.
-
-- <time>Sep 11, 2022</time> Hit a 379-day streak.
-
-- <time>Sep 10, 2022</time> Hit a 378-day streak.
-
-- <time>Sep 09, 2022</time> Hit a 377-day streak.
-
-- <time>Sep 08, 2022</time> Hit a 376-day streak.
-
-- <time>Sep 07, 2022</time> Hit a 375-day streak.
-
-- <time>Sep 06, 2022</time> Hit a 374-day streak.
-
-- <time>Sep 05, 2022</time> Hit a 373-day streak.
-
-- <time>Sep 04, 2022</time> Hit a 372-day streak.
-
-- <time>Sep 03, 2022</time> Hit a 371-day streak.
-
-- <time>Sep 02, 2022</time> Hit a 370-day streak.
-
-- <time>Sep 01, 2022</time> Hit a 369-day streak.
-
-- <time>Aug 31, 2022</time> Hit a 368-day streak.
-
-- <time>Aug 30, 2022</time> Hit a 367-day streak.
-
-- <time>Aug 29, 2022</time> Hit a 366-day streak.
-
-- <time>Aug 28, 2022</time> Hit a 365-day streak!
-
-- <time>Aug 27, 2022</time> Hit a 364-day streak.
-
-- <time>Aug 26, 2022</time> Hit a 363-day streak.
-
-- <time>Aug 25, 2022</time> Hit a 362-day streak.
-
-- <time>Aug 24, 2022</time> Hit a 361-day streak.
-
-- <time>Aug 23, 2022</time> Hit a 360-day streak. 5 more days.
-
-- <time>Aug 22, 2022</time> Hit a 359-day streak.
-
-- <time>Aug 21, 2022</time> Hit a 358-day streak.
-
-- <time>Aug 20, 2022</time> Hit a 357-day streak.
-
-- <time>Aug 19, 2022</time> Hit a 356-day streak.
-
-- <time>Aug 18, 2022</time> Hit a 355-day streak. 10 more days.
-
-- <time>Aug 17, 2022</time> Hit a 354-day streak.
-
-- <time>Aug 16, 2022</time> Hit a 353-day streak. I didn't reach legendary in every skill but that's alright.
-
-- <time>Aug 15, 2022</time> Hit a 352-day streak.
-
-- <time>Aug 14, 2022</time> Hit a 351-day streak.
-
-- <time>Aug 13, 2022</time> Hit a 350-day streak. I'll try to get to legendary in all the non-legendary Hindi skills in the next two days.
-
-- <time>Aug 12, 2022</time> Hit a 349-day streak.
-
-- <time>Aug 11, 2022</time> Hit a 348-day streak.
-
-- <time>Aug 10, 2022</time> Hit a 347-day streak.
-
-- <time>Aug 09, 2022</time> Hit a 346-day streak.
-
-- <time>Aug 08, 2022</time> Hit a 345-day streak. 20 more days.
-
-- <time>Aug 07, 2022</time> Hit a 344-day streak.
-
-- <time>Aug 06, 2022</time> Hit a 343-day streak.
-
-- <time>Aug 05, 2022</time> Hit a 342-day streak.
-
-- <time>Aug 04, 2022</time> Hit a 341-day streak.
-
-- <time>Aug 03, 2022</time> Hit a 340-day streak.
-
-- <time>Aug 02, 2022</time> Hit a 339-day streak.
-
-- <time>Aug 01, 2022</time> Hit a 338-day streak.
-
-- <time>Jul 31, 2022</time> Hit a 337-day streak.
-
-- <time>Jul 30, 2022</time> Hit a 336-day streak.
-
-- <time>Jul 29, 2022</time> Hit a 335-day streak. 30 more days.
-
-- <time>Jul 28, 2022</time> Hit a 334-day streak.
-
-- <time>Jul 27, 2022</time> Hit a 333-day streak.
-
-- <time>Jul 26, 2022</time> Hit a 332-day streak.
-
-- <time>Jul 25, 2022</time> Hit a 331-day streak and got legendary on Work in Hindi!
-
-- <time>Jul 24, 2022</time> Hit a 330-day streak. 35 more days.
-
-- <time>Jul 23, 2022</time> Hit a 329-day streak.
-
-- <time>Jul 22, 2022</time> Hit a 328-day streak.
-
-- <time>Jul 21, 2022</time> Hit a 327-day streak.
-
-- <time>Jul 20, 2022</time> Hit a 326-day streak.
-
-- <time>Jul 19, 2022</time> Hit a 325-day streak.
-
-- <time>Jul 18, 2022</time> Hit a 324-day streak.
-
-- <time>Jul 17, 2022</time> Hit a 323-day streak.
-
-- <time>Jul 16, 2022</time> Hit a 322-day streak.
-
-- <time>Jul 15, 2022</time> Hit a 321-day streak.
-
-- <time>Jul 14, 2022</time> Hit a 320-day streak.
-
-- <time>Jul 13, 2022</time> Hit a 319-day streak.
-
-- <time>Jul 12, 2022</time> Hit a 318-day streak.
-
-- <time>Jul 11, 2022</time> Hit a 317-day streak (and actually hit my daily goal this time).
-
-- <time>Jul 10, 2022</time> Hit a 316-day streak.
-
-- <time>Jul 09, 2022</time> Hit a 315-day streak. 50 more days.
-
-- <time>Jul 08, 2022</time> Hit a 314-day streak.
-
-- <time>Jul 07, 2022</time> Hit a 313-day streak.
-
-- <time>Jul 06, 2022</time> Hit a 312-day streak.
-
-- <time>Jul 05, 2022</time> Hit a 311-day streak and reached legendary in Family.
-
-- <time>Jul 04, 2022</time> Hit a 310-day streak.
-
-- <time>Jul 03, 2022</time> Hit a 309-day streak.
-
-- <time>Jul 02, 2022</time> Hit a 308-day streak.
-
-- <time>Jul 01, 2022</time> Hit a 307-day streak.
-
-- <time>Jun 30, 2022</time> Hit a 306-day streak.
-
-- <time>Jun 29, 2022</time> Hit a 305-day streak.
-
-- <time>Jun 28, 2022</time> Hit a 304-day streak.
-
-- <time>Jun 27, 2022</time> Hit a 303-day streak.
-
-- <time>Jun 26, 2022</time> Hit a 302-day streak.
-
-- <time>Jun 25, 2022</time> Hit a 301-day streak.
-
-- <time>Jun 24, 2022</time> Hit a 300-day streak. ~2 more months to go!
-
-- <time>Jun 23, 2022</time> Hit a 299-day streak.
-
-- <time>Jun 22, 2022</time> Hit a 298-day streak. 13 more skills left for legendary in Hindi.
-
-- <time>Jun 21, 2022</time> Hit a 297-day streak.
-
-- <time>Jun 20, 2022</time> Hit a 296-day streak.
-
-- <time>Jun 19, 2022</time> Hit a 295-day streak.
-
-- <time>Jun 18, 2022</time> Hit a 294-day streak.
-
-- <time>Jun 17, 2022</time> Hit a 293-day streak.
-
-- <time>Jun 16, 2022</time> Hit a 292-day streak.
-
-- <time>Jun 15, 2022</time> Hit a 291-day streak.
-
-- <time>Jun 14, 2022</time> Hit a 290-day streak.
-
-- <time>Jun 13, 2022</time> Hit a 289-day streak.
-
-- <time>Jun 12, 2022</time> Hit a 288-day streak.
-
-- <time>Jun 11, 2022</time> Hit a 287-day streak.
-
-- <time>Jun 10, 2022</time> Hit a 286-day streak.
-
-- <time>Jun 09, 2022</time> Hit a 285-day streak.
-
-- <time>Jun 08, 2022</time> Hit a 284-day streak and reached legendary in Food in Hindi!
-
-- <time>Jun 07, 2022</time> Hit a 283-day streak.
-
-- <time>Jun 06, 2022</time> Hit a 282-day streak.
-
-- <time>Jun 05, 2022</time> Hit a 281-day streak. Incroyable!
-
-- <time>Jun 04, 2022</time> Hit a 280-day streak.
-
-- <time>Jun 03, 2022</time> Hit a 279-day streak. Why bother with inversion when Est-ce que/qu' seems to work everywhere in French when asking a question? Inversion to me is comparatively much harder.
-
-- <time>Jun 02, 2022</time> Hit a 278-day streak.
-
-- <time>Jun 01, 2022</time> Hit a 277-day streak.
-
-- <time>May 31, 2022</time> Hit a 276-day streak.
-
-- <time>May 30, 2022</time> Hit a 275-day streak.
-
-- <time>May 29, 2022</time> Hit a 274-day streak and reached legendary on Nature in Hindi!
-
-- <time>May 28, 2022</time> Hit a 273-day streak.
-
-- <time>May 27, 2022</time> Hit a 272-day streak.
-
-- <time>May 26, 2022</time> Hit a 271-day streak. [Seven euros for a cappuccino](https://www.duolingo.com/stories/fr-en-c-est-tout-un-art?mode=conversation)?!
-
-- <time>May 25, 2022</time> Hit a 270-day streak.
-
-- <time>May 24, 2022</time> Hit a 269-day streak.
-
-- <time>May 23, 2022</time> Hit a 268-day streak.
-
-- <time>May 22, 2022</time> Hit a 267-day streak.
-
-- <time>May 21, 2022</time> Hit a 266-day streak.
-
-- <time>May 20, 2022</time> Hit a 265-day streak and unlocked the next set of stories!
-
-- <time>May 19, 2022</time> Hit a 264-day streak. Why do we have grammatical gender?
-
-- <time>May 18, 2022</time> Hit a 263-day streak.
-
-- <time>May 17, 2022</time> Hit a 262-day streak.
-
-- <time>May 16, 2022</time> Hit a 261-day streak and got to legendary for Food 2 in Hindi!
-
-- <time>May 15, 2022</time> Hit a 260-day streak.
-
-- <time>May 14, 2022</time> Hit a 259-day streak.
-
-- <time>May 13, 2022</time> Hit a 258-day streak.
-
-- <time>May 12, 2022</time> Hit a 257-day streak.
-
-- <time>May 11, 2022</time> Hit a 256-day streak.
-
-- <time>May 10, 2022</time> Hit a 255-day streak.
-
-- <time>May 09, 2022</time> Hit a 254-day streak.
-
-- <time>May 08, 2022</time> Hit a 253-day streak.
-
-- <time>May 07, 2022</time> Hit a 252-day streak and got to legendary for Day/Month in Hindi!
-
-- <time>May 06, 2022</time> Hit a 251-day streak.
-
-- <time>May 05, 2022</time> Hit a 250-day streak! Back to some legendary progress for Hindi.
-
-- <time>May 04, 2022</time> Hit a 249-day streak. One more day!
-
-- <time>May 03, 2022</time> Hit a 248-day streak. Two more days!
-
-- <time>May 02, 2022</time> Hit a 247-day streak. Three more days!
-
-- <time>May 01, 2022</time> Hit a 246-day streak. Four more days!
-
-- <time>Apr 30, 2022</time> Hit a 245-day streak. I feel like my reading/listening in French has improved quite a bit with the stories.
-
-- <time>Apr 29, 2022</time> Hit a 244-day streak.
-
-- <time>Apr 28, 2022</time> Hit a 243-day streak.
-
-- <time>Apr 27, 2022</time> Hit a 242-day streak.
-
-- <time>Apr 26, 2022</time> Hit a 241-day streak and wasted a legendary attempt :(
-
-- <time>Apr 25, 2022</time> Hit a 240-day streak and got to legendary for Numbers (Hindi).
-
-- <time>Apr 24, 2022</time> Hit a 239-day streak.
-
-- <time>Apr 23, 2022</time> Hit a 238-day streak.
-
-- <time>Apr 22, 2022</time> Hit a 237-day streak.
-
-- <time>Apr 21, 2022</time> Hit a 236-day streak.
-
-- <time>Apr 20, 2022</time> Hit a 235-day streak.
-
-- <time>Apr 19, 2022</time> Hit a 234-day streak.
-
-- <time>Apr 18, 2022</time> Hit a 233-day streak and tested out of a bunch of skills lol.
-
-- <time>Apr 17, 2022</time> Hit a 232-day streak.
-
-- <time>Apr 16, 2022</time> Hit a 231-day streak and practiced speaking French with my Focusmate!
-
-- <time>Apr 15, 2022</time> Hit a 230-day streak.
-
-- <time>Apr 14, 2022</time> Hit a 229-day streak.
-
-- <time>Apr 13, 2022</time> Hit a 228-day streak.
-
-- <time>Apr 12, 2022</time> Hit a 227-day streak.
-
-- <time>Apr 11, 2022</time> Hit a 226-day streak.
-
-- <time>Apr 10, 2022</time> Hit a 225-day streak.
-
-- <time>Apr 09, 2022</time> Hit a 224-day streak.
-
-- <time>Apr 08, 2022</time> Hit a 223-day streak.
-
-- <time>Apr 07, 2022</time> Hit a 222-day streak.
-
-- <time>Apr 06, 2022</time> Hit a 221-day streak.
-
-- <time>Apr 05, 2022</time> Hit a 220-day streak.
-
-- <time>Apr 04, 2022</time> Hit a 219-day streak. I'm ~91% done with the 20000 XP achievement!
-
-- <time>Apr 03, 2022</time> Hit a 218-day streak.
-
-- <time>Apr 02, 2022</time> Hit a 217-day streak.
-
-- <time>Apr 01, 2022</time> Hit a 216-day streak.
-
-- <time>Mar 31, 2022</time> Hit a 215-day streak.
-
-- <time>Mar 30, 2022</time> Hit a 214-day streak.
-
-- <time>Mar 29, 2022</time> Hit a 213-day streak.
-
-- <time>Mar 28, 2022</time> Hit a 212-day streak.
-
-- <time>Mar 27, 2022</time> Hit a 211-day streak. Lundi, mardi, mercredi, jeudi, vendredi, samedi and dimanche!
-
-- <time>Mar 26, 2022</time> Hit a 210-day streak.
-
-- <time>Mar 25, 2022</time> Hit a 209-day streak.
-
-- <time>Mar 24, 2022</time> Hit a 208-day streak, I wonder when I'll get the legendary trophy for Hindi.
-
-- <time>Mar 23, 2022</time> Hit a 207-day streak.
-
-- <time>Mar 22, 2022</time> Hit a 206-day streak.
-
-- <time>Mar 21, 2022</time> Hit a 205-day streak.
-
-- <time>Mar 20, 2022</time> Hit a 204-day streak.
-
-- <time>Mar 19, 2022</time> Hit a 203-day streak.
-
-- <time>Mar 18, 2022</time> Hit a 202-day streak.
-
-- <time>Mar 17, 2022</time> Hit a 201-day streak.
-
-- <time>Mar 16, 2022</time> Hit a 200-day streak! I got 3 days of Duolingo Plus for free, so the speedrun for the legendary Hindi trophy is back on.
-
-- <time>Mar 15, 2022</time> Hit a 199-day streak, 1 more day!
-
-- <time>Mar 14, 2022</time> Hit a 198-day streak, 2 more days!
-
-- <time>Mar 13, 2022</time> Hit a 197-day streak, 3 more days!
-
-- <time>Mar 12, 2022</time> Hit a 196-day streak, 4 more days!
-
-- <time>Mar 11, 2022</time> Hit a 195-day streak, 5 more days!
-
-- <time>Mar 10, 2022</time> Hit a 194-day streak, 6 more days!
-
-- <time>Mar 09, 2022</time> Hit a 193-day streak, 7 more days!
-
-- <time>Mar 08, 2022</time> Hit a 192-day streak, 8 more days!
-
-- <time>Mar 07, 2022</time> Hit a 191-day streak.
-
-- <time>Mar 06, 2022</time> Hit a 190-day streak. Need to test out of a few skills now that I have 25 [lingots](https://support.duolingo.com/hc/en-us/articles/360035917472-What-are-Gems-Lingots-).
-
-- <time>Mar 05, 2022</time> Hit a 189-day streak.
-
-- <time>Mar 04, 2022</time> Hit a 188-day streak.
-
-- <time>Mar 03, 2022</time> Hit a 187-day streak.
-
-- <time>Mar 02, 2022</time> Hit a 186-day streak.
-
-- <time>Mar 01, 2022</time> Hit a 185-day streak.
-
-- <time>Feb 28, 2022</time> Hit a 184-day streak. I've been neglecting to practice Hindi and so I switched over and saw that I only had 2 skills that had to be restored. I guess they want me to stick with French?
-
-- <time>Feb 27, 2022</time> Hit a 183-day streak.
-
-- <time>Feb 26, 2022</time> Hit a 182-day streak.
-
-- <time>Feb 25, 2022</time> Hit a 181-day streak.
-
-- <time>Feb 24, 2022</time> Hit a 180-day streak!
-
-- <time>Feb 23, 2022</time> Hit a 179-day streak and tested out of a ton of skills in French.
-
-- <time>Feb 22, 2022</time> Hit a 178-day streak. The stories in French are really funny, wish they had some for Hindi too.
-
-- <time>Feb 21, 2022</time> Hit a 177-day streak.
-
-- <time>Feb 20, 2022</time> Hit a 176-day streak. Wondering if I'll get some days of Duolingo Plus for free when I hit 200.
-
-- <time>Feb 19, 2022</time> Hit a 175-day streak.
-
-- <time>Feb 18, 2022</time> Hit a 174-day streak.
-
-- <time>Feb 17, 2022</time> Hit a 173-day streak.
-
-- <time>Feb 16, 2022</time> Hit a 172-day streak.
-
-- <time>Feb 15, 2022</time> Hit a 171-day streak.
-
-- <time>Feb 14, 2022</time> Hit a 170-day streak.
-
-- <time>Feb 13, 2022</time> Hit a 169-day streak.
-
-- <time>Feb 12, 2022</time> Hit a 168-day streak.
-
-- <time>Feb 11, 2022</time> Hit a 167-day streak.
-
-- <time>Feb 10, 2022</time> Hit a 166-day streak.
-
-- <time>Feb 09, 2022</time> Hit a 165-day streak.
-
-- <time>Feb 08, 2022</time> Hit a 164-day streak.
-
-- <time>Feb 07, 2022</time> Hit a 163-day streak.
-
-- <time>Feb 06, 2022</time> Hit a 162-day streak.
-
-- <time>Feb 05, 2022</time> Hit a 161-day streak.
-
-- <time>Feb 04, 2022</time> Hit a 160-day streak!
-
-- <time>Feb 03, 2022</time> Hit a 159-day streak.
-
-- <time>Feb 02, 2022</time> Hit a 158-day streak.
-
-- <time>Feb 01, 2022</time> Hit a 157-day streak.
-
-- <time>Jan 31, 2022</time> Hit a 156-day streak.
-
-- <time>Jan 30, 2022</time> Hit a 155-day streak.
-
-- <time>Jan 29, 2022</time> Hit a 154-day streak.
-
-- <time>Jan 28, 2022</time> Hit a 153-day streak, couldn't get all the skills in the first section to legendary and my free three days ends today, but I've made a ton of progress so I'm happy.
-
-- <time>Jan 27, 2022</time> Hit a 152-day streak.
-
-- <time>Jan 26, 2022</time> Hit a 151-day streak and continued with my legendary speedrun in Hindi. I only have a few more skills to reach in the first section.
-
-- <time>Jan 25, 2022</time> Hit a 150-day streak and got 3 days free of Duolingo Plus! I've already started getting legendary on all of my Hindi skills since now I don't have to wait to get 10 virtual currencies.
-
-- <time>Jan 24, 2022</time> Hit a 149-day streak, एक और दिन!
-
-- <time>Jan 23, 2022</time> Hit a 148-day streak.
-
-- <time>Jan 22, 2022</time> Hit a 147-day streak, 3 more days!
-
-- <time>Jan 21, 2022</time> Hit a 146-day streak.
-
-- <time>Jan 20, 2022</time> Hit a 145-day streak, 5 more days!
-
-- <time>Jan 19, 2022</time> Hit a 144-day streak.
-
-- <time>Jan 18, 2022</time> Hit a 143-day streak.
-
-- <time>Jan 17, 2022</time> Hit a 142-day streak.
-
-- <time>Jan 16, 2022</time> Hit a 141-day streak.
-
-- <time>Jan 15, 2022</time> Hit a 140-day streak and earned legendary in Health (Hindi)!
-
-- <time>Jan 14, 2022</time> Hit a 139-day streak.
-
-- <time>Jan 13, 2022</time> Hit a 138-day streak.
-
-- <time>Jan 12, 2022</time> Hit a 137-day streak, I'm about 8 days away from reaching the 12,500 XP achievement!
-
-- <time>Jan 11, 2022</time> Hit a 136-day streak.
-
-- <time>Jan 10, 2022</time> Hit a 135-day streak, 15 more days till 150!
-
-- <time>Jan 09, 2022</time> Hit a 134-day streak and tested out of Level 3 in People (French).
-
-- <time>Jan 08, 2022</time> Hit a 133-day streak.
-
-- <time>Jan 07, 2022</time> Hit a 132-day streak.
-
-- <time>Jan 06, 2022</time> Hit a 131-day streak and (finally) tested out Travel (French)
-
-- <time>Jan 05, 2022</time> Hit a 130-day streak and failed to skip Level 5 in Travel (French) again.
-
-- <time>Jan 04, 2022</time> Hit a 129-day streak.
-
-- <time>Jan 03, 2022</time> Hit a 128-day streak, some how managed to fail skipping Level 5 in [Travel (French)](https://www.duolingo.com/skill/fr/Travel).
-
-- <time>Jan 02, 2022</time> Hit a 127-day streak.
-
-- <time>Jan 01, 2022</time> Hit a 126-day streak.
-
-- <time>Dec 31, 2021</time> LET'S GO I finally continued my legendary progress in Health in Hindi (I was so close to failing also, I had one mistake left lol) and I reached the 125-day streak achievement!
-
-  Hope to see me pick up more French skills (considering 2022 will be the last year of French in my curriculum) and continue my progress in Hindi in 2022!
-
-- <time>Dec 30, 2021</time> Hit a 124-day streak, एक और दिन!
-
-- <time>Dec 29, 2021</time> Hit a 123-day streak.
-
-- <time>Dec 28, 2021</time> Hit a 122-day streak. 3 more days!
-
-- <time>Dec 27, 2021</time> Hit a 121-day streak, 125 coming soon. I failed to get legendary in Health in Hindi again, twice in a row. Why does this keep happening? Health was one of the easier skills in the Hindi course...
-
-- <time>Dec 26, 2021</time> Hit a 120-day streak!
-
-- <time>Dec 25, 2021</time> Hit a 119-day streak and failed (again) to get legendary on Health in Hindi.
-
-- <time>Dec 24, 2021</time> Hit a 118-day streak, 120 coming soon! [I found this funny forum post](https://forum.duolingo.com/comment/54652897).
-
-- <time>Dec 23, 2021</time> Hit a 117-day streak, it'll take forever to earn enough currency to get legendary on all skills in Hindi.
-
-- <time>Dec 22, 2021</time> Hit a 116-day streak.
-
-- <time>Dec 21, 2021</time> Hit a 115-day streak, here's me hoping for more Hindi content soon.
-
-- <time>Dec 20, 2021</time> Hit a 114-day streak.
-
-- <time>Dec 19, 2021</time> Hit a 113-day streak, [try typing a large number into Google Translate, translate it into Hindi and hit listen](https://translate.google.com/?sl=en&tl=hi&text=100000000000000000000000&op=translate).
-
-- <time>Dec 18, 2021</time> Hit a 112-day streak.
-
-- <time>Dec 17, 2021</time> Hit a 111-day streak.
-
-- <time>Dec 16, 2021</time> Hit a 110-day streak.
-
-- <time>Dec 15, 2021</time> Hit a 109-day streak.
-
-- <time>Dec 14, 2021</time> Hit a 108-day streak.
-
-- <time>Dec 13, 2021</time> Hit a 107-day streak.
-
-- <time>Dec 12, 2021</time> Hit a 106-day streak.
-
-- <time>Dec 11, 2021</time> Hit a 105-day streak.
-
-- <time>Dec 10, 2021</time> Hit a 104-day streak.
-
-- <time>Dec 09, 2021</time> Hit a 103-day streak.
-
-- <time>Dec 08, 2021</time> Hit a 102-day streak.
-
-- <time>Dec 07, 2021</time> Took the French placement test and only unclocked 5% of the French course.
-
-- <time>Dec 06, 2021</time> 100 DAY STREAK and reached the Level 5 Trophy! I also added [French](https://www.duolingo.com/enroll/fr/en/Learn-French) as a course since I already know a good chunk of French.
-
-- <time>Dec 05, 2021</time> Hit a 99-day streak and tested out of Modals, only one more test to go before I reach a Level 5 Trophy in Hindi and one more day till a 100 streak!
-
-- <time>Dec 04, 2021</time> Hit a 98-day streak, two more days!
-
-- <time>Dec 03, 2021</time> Hit a 97-day streak, three more days to go!
-
-- <time>Dec 02, 2021</time> Hit a 96-day streak, was really close to testing out of Modals, but alas.
-
-- <time>Dec 01, 2021</time> Hit a 95-day streak, still can't test out of Modals.
-
-- <time>Nov 30, 2021</time> One month of consistent Hindi practice!
-
-- <time>Nov 29, 2021</time> Hit a 93-day streak, if all goes well, I will be finishing the Hindi course day after tomorrow!
-
-- <time>Nov 28, 2021</time> Hit a 92-day streak.
-
-- <time>Nov 27, 2021</time> Hit a 91-day streak and tested out of [Past 2](https://www.duolingo.com/skill/hi/Past-2/), only [Modals](https://www.duolingo.com/skill/hi/Modals/2) is left!
-
-- <time>Nov 26, 2021</time> Hit a 90-day streak, 10 more days to go!
-
-- <time>Nov 25, 2021</time> Hit an 89-day streak.
-
-- <time>Nov 24, 2021</time> Hit an 88-day streak.
-
-- <time>Nov 23, 2021</time> Hit an 87-day streak.
-
-- <time>Nov 22, 2021</time> Hit an 86-day streak.
-
-- <time>Nov 21, 2021</time> Hit an 85-day streak.
-
-- <time>Nov 20, 2021</time> Hit an 84-day streak.
-
-- <time>Nov 19, 2021</time> Hit an 83-day streak and tested out of Past, only two more skills to go!
-
-- <time>Nov 18, 2021</time> Hit an 82-day streak.
-
-- <time>Nov 17, 2021</time> Hit an 81-day streak and tested out of Convo! Wondering how to progress after completing the course.
-
-- <time>Nov 16, 2021</time> Hit an 80-day streak and finally tested out of [Future](https://www.duolingo.com/skill/hi/Future/)!
-
-- <time>Nov 15, 2021</time> Hit a 79-day streak, I can feel the coveted 100 coming soon!
-
-- <time>Nov 14, 2021</time> Hit a 78-day streak and failed to test out of [Convo](https://www.duolingo.com/skill/hi/Conversations/).
-
-- <time>Nov 13, 2021</time> Hit a 77-day streak.
-
-- <time>Nov 12, 2021</time> Hit a 76-day streak and someone helped me on the forum!
-
-- <time>Nov 11, 2021</time> Hit a 75-day streak and [asked for help with future tense in Hindi on the forum](https://forum.duolingo.com/comment/53646434).
-
-- <time>Nov 10, 2021</time> Hit a 74-day streak. I hate the future tense in Hindi.
-
-- <time>Nov 09, 2021</time> Hit a 73-day streak.
-
-- <time>Nov 08, 2021</time> Hit a 72-day streak.
-
-- <time>Nov 07, 2021</time> Hit a 71-day streak, can someone please explain to me future tense in Hindi?
-
-- <time>Nov 06, 2021</time> Hit a 70-day streak!
-
-- <time>Nov 05, 2021</time> Hit a 69-day streak. I also learnt that if you wanted to say "I have to eat food" in Hindi, you have to repeat "खाना" twice. ("मुझे खाना खाना है")
-
-- <time>Nov 04, 2021</time> Hit a 68-day streak.
-
-- <time>Nov 03, 2021</time> Hit a 67-day streak and tested out of Day/Month.
-
-- <time>Nov 02, 2021</time> Hit a 66-day streak!
-
-- <time>Nov 01, 2021</time> Hit a 65-day streak and tested out of [Day/Month](https://www.duolingo.com/skill/hi/Day_Month).
-
-- <time>Oct 31, 2021</time> Hit a 64-day streak, why did this session take so long?
-
-- <time>Oct 30, 2021</time> Hit a 63-day streak (I messed up the counting) and tested out of Time! (the most annoying one)
-
-- <time>Oct 29, 2021</time> Hit a 61-day streak (and was so close to messing up testing out of Level 3 [Time](https://www.duolingo.com/skill/hi/Time/)!)
-
-- <time>Oct 28, 2021</time> Hit a 60-day streak and tested out of [Comparison](https://www.duolingo.com/skill/hi/Comparison/)!
-<hr />
-
-## <span id="chess">[Chess](https://lichess.org/@/y_arjun_y)</span>
-
-<small>Oct 28, 2021-present</small>  
-<small>Trying to get better at chess via practicing on [lichess](https://lichess.org). You can see all my games that I refer to [here](https://lichess.org/@/y_arjun_y/all). Previously, I practiced on [chess.com](https://chess.com). Currently paused due to exams.</small>
-
-<hr />
-<small>Chess's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Sep 30, 2022</time> [Interesting queen sacrifice](https://lichess.org/3pQlaLpP)?
-
-- <time>Sep 25, 2022</time> [Why didn't I see the knight for move 18](https://lichess.org/YkihwvUv75yf)?
-
-- <time>Sep 18, 2022</time> [What a terrible middlegame lol](https://lichess.org/5QgJw2gx).
-
-- <time>Sep 16, 2022</time> [Oops](https://lichess.org/fcnivxJg).
-
-- <time>Sep 10, 2022</time> [?](https://lichess.org/zFoqiMsj)
-
-- <time>Aug 22, 2022</time> [Good game](https://lichess.org/wUWnxnr0/)! (I mean, it was barely passable at my end, but it was fun nonetheless)
-
-- <time>Aug 17, 2022</time> [Hmm](https://lichess.org/gKJgrr3O).
-
-- <time>Aug 12, 2022</time> [11 blunders](https://lichess.org/96a0IFbf)!
-
-- <time>Aug 07, 2022</time> This is, probably by a lot, [the most surprising checkmate I've received](https://lichess.org/VLZ8KdYlThwJ).
-
-- <time>Aug 05, 2022</time> [I was **this** close to a checkmate and](https://lichess.org/qkecYsz9)...
-
-- <time>Jul 31, 2022</time> [Sigh](https://lichess.org/Qp3Ydw1h).
-
-- <time>Jul 29, 2022</time> Decided to play sort of fast and loose with [this game](https://lichess.org/2cs4kdik0fxR), turns out I was _too_ fast and loose.
-
-- <time>Jul 24, 2022</time> I'm very angry with myself over [this game](https://lichess.org/XeJSNnRm4dws).
-
-- <time>Jul 20, 2022</time> I hate [unexpected checkmates](https://lichess.org/3T5gDELMTfXH).
-
-- <time>Jul 11, 2022</time> [Interesting game](https://lichess.org/rDjC0oG5/), made a lot of silly blunders.
-
-- <time>Jul 06, 2022</time> [An Antichess Tragedy](https://lichess.org/puOItG13/black). Will get back to regular chess tomorrow.
-
-- <time>Jun 26, 2022</time> [Absolutely no clue](https://lichess.org/pqDJpI96)
-
-- <time>Jun 24, 2022</time> [Rough game](https://lichess.org/i7vpImEA). I had like ~4 takebacks over move 15 lol.
-
-- <time>Jun 19, 2022</time> [Short and sweet](https://lichess.org/i7vpImEA).
-
-- <time>Jun 17, 2022</time> [~5 takebacks, pretty fun endgame](https://lichess.org/EgyZXQch/white).
-
-- <time>Jun 12, 2022</time> [Infinite Takebacks](https://lichess.org/yAlVZwn50kEX).
-
-- <time>Jun 10, 2022</time> [One pawn move ended the game for me lol](https://lichess.org/WpBVCKzo).
-
-- <time>Jun 05, 2022</time> [Drawtastic](https://lichess.org/doDkKQco/).
-
-- <time>Jun 03, 2022</time> [Saddest game ever](https://lichess.org/PQct3m2W). I couldn't save myself at some point even with takebacks.
-
-- <time>May 28, 2022</time> [A good game to end of the week](https://lichess.org/GXCRZmvP) (even though I lost).
-
-- <time>May 27, 2022</time> [Anitchess!](https://lichess.org/HRZsuTAD) (with a lot of takebacks, I'll get back to non-variant chess tomorrow)
-
-- <time>May 26, 2022</time> [Antichess!](https://lichess.org/JJN0JMOm)
-
-- <time>May 25, 2022</time> [Sometimes even takebacks can't save you from a terrible game](https://lichess.org/H7G28pQz).
-
-- <time>May 24, 2022</time> [Less than 20 moves lol](https://lichess.org/KKSIrpCF).
-
-- <time>May 23, 2022</time> [A near perfect game](https://lichess.org/KikhiqhZ/) (but not really, also 3 takebacks)
-
-- <time>May 22, 2022</time> Shockingly, [only 1 blunder](https://lichess.org/Q7XEKg6mwPrF) (though that's because it was so short lol)
-
-- <time>May 21, 2022</time> Played [a Chess960 game](https://lichess.org/IoQY2wWPLSGP) for fun.
-
-- <time>May 20, 2022</time> Another [Antichess game](https://lichess.org/5XuI5yt3/).
-
-- <time>May 19, 2022</time> No clue what I was doing [here](https://lichess.org/Y5NjdSfUPQht).
-
-- <time>May 18, 2022</time> Again, had some fun with antichess (or Antichess?) ([1](https://lichess.org/auEtS0Q2DpGt), [2](https://lichess.org/C8tsL3q2/))
-
-- <time>May 17, 2022</time> Took me forever to checkmate with just a king and a queen, [but I did it](https://lichess.org/GE1wmusO)! (overall, with 1 takeback)
-
-- <time>May 16, 2022</time> [A pretty humiliating defeat](https://lichess.org/YnThdAwC1whT).
-
-- <time>May 15, 2022</time> [So close, yet so far](https://lichess.org/ikwCysD1/).
-
-- <time>May 14, 2022</time> [??](https://lichess.org/CN2tFl9K5zWK)
-
-- <time>May 13, 2022</time> [?](https://lichess.org/k57tWxr1rFL6)
-
-- <time>May 12, 2022</time> [I stupidly stalemated after ~6 takebacks](https://lichess.org/mHdsSRo3).
-
-- <time>May 11, 2022</time> [Defeated Stockfish Level 4](https://lichess.org/IKQshfI3) with intense focus... and like 3 takebacks lol.
-
-- <time>May 10, 2022</time> [Drew Stockfish Level 4](https://lichess.org/2lojjiiC) with (very roughly) 15 takebacks.
-
-- <time>May 09, 2022</time> For some fun, I played an [Antichess](https://lichess.org/nq1ouE5CMjYS) and a [Chess960](https://lichess.org/E2RAI2Lm8qFN) game.
-
-- <time>May 08, 2022</time> [I liked this game a lot](https://lichess.org/VZNkBq9SqGQT) (even though I lost).
-
-- <time>May 07, 2022</time> [Went back to Level 3 for a game](https://lichess.org/Sjw5zGaS).
-
-- <time>May 06, 2022</time> [Oof](https://lichess.org/ubDbzVToEEN8).
-
-- <time>May 05, 2022</time> [I thought I played well in this game](https://lichess.org/ucqFj9yk/). Nope, 11 blunders (I also missed such an obvious check that could have potentially won the game).
-
-- <time>May 04, 2022</time> [Another win](https://lichess.org/fih99502)! (though I did takeback once)
-
-- <time>May 03, 2022</time> I got checkmated 3 times... ([1](https://lichess.org/vXVawh68BJmO), [2](https://lichess.org/HhSS3DsT1Rbx), [3](https://lichess.org/naFAOqR61XJP))
-- <time>May 02, 2022</time> [Back to being bad at chess](https://lichess.org/GSmnChPu).
-
-- <time>May 01, 2022</time> What a way to start off the month: [defeated Stockfish Level 4 without takebacks with the black pieces](https://lichess.org/3NcHqVM1/) (only 1 blunder from my side!)
-
-- <time>Apr 30, 2022</time> [That is certainly one way to end of the month](https://lichess.org/zNJYBuZj/).
-
-- <time>Apr 29, 2022</time> Two checkmates for the price of one: [1](https://lichess.org/Kke677aa0wul), [2](https://lichess.org/E9SB0eHPTbn2).
-
-- <time>Apr 28, 2022</time> [Stalemate after some takebacks](https://lichess.org/ssTgvmXno5Xz).
-
-- <time>Apr 27, 2022</time> [Played a blitz game against my friend](https://lichess.org/xJwvwn5y).
-
-- <time>Apr 26, 2022</time> [One of my shortest game ever](https://lichess.org/hsw1Ahwq) (also [drew Level 4 after a couple of takebacks](https://lichess.org/DOp6uGXV)).
-
-- <time>Apr 25, 2022</time> [Sort of didn't expect that](https://lichess.org/tA4Tj0yC3bx3).
-
-- <time>Apr 24, 2022</time> [I went from 3 pawns up to checkmate in like 15 moves](https://lichess.org/eScmA5Gt/) :(
-
-- <time>Apr 23, 2022</time> [Sigh](https://lichess.org/h8l6S4dz).
-
-- <time>Apr 22, 2022</time> [Rough game](https://lichess.org/b98zhIeb).
-
-- <time>Apr 21, 2022</time> I think I need to go back to Level 3.
-
-- <time>Apr 20, 2022</time> [Definitely doesn't count but still a fun game](https://lichess.org/L5E379tJ).
-
-- <time>Apr 19, 2022</time> [Only ~2 takebacks this time](https://lichess.org/uv5bB7OP)!
-
-- <time>Apr 18, 2022</time> [I won using the Tennison Gambit!](https://lichess.org/3hVwF3GxP5xS) (note: this doesn't count towards my battle against Stockfish Level 4 lol)
-
-- <time>Apr 17, 2022</time> [Sigh](https://lichess.org/nCWfEusDxGRY).
-
-- <time>Apr 16, 2022</time> [I think this one counts](https://lichess.org/mIHX8ii514Sz), I did takeback once but it was accidental.
-
-- <time>Apr 15, 2022</time> [Another game that doesn't really count because of takebacks](https://lichess.org/DwmZrFAH).
-
-- <time>Apr 14, 2022</time> [The uphill battle against Stockfish Level 4 is going to be a long one...](https://lichess.org/mDhrPoHpjsFE)
-
-- <time>Apr 13, 2022</time> [This WOULD have been my first win against Stockfish Level 4](https://lichess.org/anOmMF1T) if I hadn't taken back so many times in the endgame (still a fun game!)
-
-- <time>Apr 12, 2022</time> [Nice](https://lichess.org/YkoW8FUw).
-
-- <time>Apr 11, 2022</time> [With one take back, I got my revenge against Stockfish.](https://lichess.org/UVSVtH9k/)
-
-- <time>Apr 10, 2022</time> Sigh. ([1](https://lichess.org/HDJrnGzmtZw1), [2](https://lichess.org/dZp9iTRN5Nac))
-
-- <time>Apr 09, 2022</time> Played sort of absent-mindedly but here we are: [1](https://lichess.org/qtWsajtnYHld), [2](https://lichess.org/tep1fr7y9Ej0).
-
-- <time>Apr 08, 2022</time> [Sigh](https://lichess.org/hfP10Qiry8FK).
-
-- <time>Apr 07, 2022</time> [Ouch](https://lichess.org/auFUm9pP), I don't think there were any good moves at move 15 lol.
-
-- <time>Apr 06, 2022</time> [Possibly the wildest game I've ever played](https://lichess.org/QMhUWQ2Y). I was so close to losing and then I pulled up with the promotion that made me win with the black pieces!
-
-- <time>Apr 05, 2022</time> [I need to practice with the black pieces](https://lichess.org/AFzchdPIX70b) against Stockfish Level 3. [I'm fine with the white pieces](https://lichess.org/5WWgfcxNo3lC).
-
-- <time>Apr 04, 2022</time> [Maybe a simple 1. e4 with good opening principles and development is all you need at this level](https://lichess.org/dPXpnyW2wv3E).
-
-- <time>Apr 03, 2022</time> No idea what I did today for chess today. I need to change my opening repertoire.
-
-- <time>Apr 02, 2022</time> I present to you, [the biggest throw ever](https://lichess.org/IisosILB).
-
-- <time>Apr 01, 2022</time> [I feel like Stockfish wanted to throw an April Fools' Day joke at me...](https://lichess.org/YNk1DPtz)
-
-- <time>Mar 31, 2022</time> [Sigh](https://lichess.org/Uw3QuLpa).
-
-- <time>Mar 30, 2022</time> [I threw this game so badly lol](https://lichess.org/Zq3UitfH).
-
-- <time>Mar 29, 2022</time> Man, [I really lost my luck with the King's Indian Attack](https://lichess.org/vk4ykawkKQ9I).
-
-- <time>Mar 28, 2022</time> Not sure what I was doing today.
-
-- <time>Mar 27, 2022</time> [Stockfish Level 4 made me suffer in the last few moves](https://lichess.org/Wnc5FazT). We quickly went from the best game yet to possibly the worst game yet lol.
-
-- <time>Mar 26, 2022</time> [My best game yet with the King's Indian Setup](https://lichess.org/wBuMt14Y), no blunders and I never lost the advantage + didn't lose a forced checkmate sequence lol. Played a few other King's Indian Setups as well ([1](https://lichess.org/kNel3RsmqMzZ), [2](https://lichess.org/CTYOZMYD43bT))
-
-- <time>Mar 24, 2022</time> [I threw away a game so badly](https://lichess.org/J5UWKcCf) that I'm actually disappointed in myself. At least the King's Indian Setup has proven its worth to me with the white pieces.
-
-- <time>Mar 23, 2022</time> I think this will be my opening repertoire: black pieces with e4 will be the Caro-Kann Defense and anything else (white or black pieces) will mean the [King's Indian Setup](https://www.youtube.com/watch?v=kK0cq6UBt1Y) (need to study this one).
-
-- <time>Mar 22, 2022</time> [This game definitely doesn't count](https://lichess.org/I9LuxSgMDNQq) (took back a lot of blunders) but it was so calming to checkmate my opponent with three queens while listening to Pentatonic.
-
-- <time>Mar 21, 2022</time> [Explored the Blackmar-Diemer Gambit](https://lichess.org/Xc9lFTBf) (also this game doesn't count as a win because I used so many takebacks lol)
-
-- <time>Mar 20, 2022</time> [Explored Stockfish Level 4 with many takebacks](https://lichess.org/ONdJj5ni).
-
-- <time>Mar 19, 2022</time> Never mind. ([1](https://lichess.org/SpRBdlSncvt3), [2](https://lichess.org/q8ZmSMxcg74v))
-- <time>Mar 18, 2022</time> [Time to move on to Level 4?](https://lichess.org/uPYtO4TB/white#107)
-
-- <time>Mar 17, 2022</time> I was trying out the [Italian Game](https://www.chess.com/openings/Italian-Game) and [I got this gem of a game](https://lichess.org/YD5Pn3BV/), so I guess my opening with the white pieces is now the Italian Game? Need to study it for some time.
-
-- <time>Mar 16, 2022</time> [Had no clue what I was doing with the London System](https://lichess.org/8bDyoPeDvpO4).
-
-- <time>Mar 15, 2022</time> [Saddest game yet?](https://lichess.org/ZmFrvgiAxmp5)
-
-- <time>Mar 14, 2022</time> [My best worst game ever](https://lichess.org/fq9QmZ1Sw5Ch). I thought I was being smart with the pawn promotion sacrifice but nope.
-
-- <time>Mar 13, 2022</time> Haha! [Pawn to knight promotion leads to checkmate](https://lichess.org/JegQsvaRNl86) (Note: I did do a couple of take backs).
-
-- <time>Mar 12, 2022</time> Yeah, that game didn't go too well... Also played a few random games against bots for fun.
-
-- <time>Mar 11, 2022</time> Started learning the [Giuoco Piano](https://www.chess.com/article/view/giuoco-piano-chess-opening) opening and [I got pretty far with it against Stockfish Level 3](https://lichess.org/SapRQi1L).
-
-- <time>Mar 10, 2022</time> [Lost against my classmate after exchange variation](https://lichess.org/HAQ06c9b/). I thought move 22 was sort of smart but nope it was a blunder lol.
-
-- <time>Mar 09, 2022</time> [This is most definitely the best game I've ever played so far](https://lichess.org/CqVRzsEy). Only one blunder with the Caro-Kann exchange variation and man was the endgame fun.
-
-- <time>Mar 08, 2022</time> [What a game](https://lichess.org/RaKOMjdW).
-
-- <time>Mar 07, 2022</time> Just sort of fooled around a bit. Second game wasn't too horrible (but I had no idea how to continue), [1](https://lichess.org/OtB1RmQBwona), [2](https://lichess.org/j6nnPFlM).
-
-- <time>Mar 06, 2022</time> [Stockfish Level 2](https://lichess.org/9I8onA5B) is too easy and level 3 is too "meh" (can sometimes win if I'm focused) and I've noticed that very low rated bots just give up their queens sometimes.
-
-- <time>Mar 05, 2022</time> [Resigned after losing my queen](https://lichess.org/O1I8KDut), though I performed a "push" variation of the Caro-Kann without referring back to the video!
-
-- <time>Mar 04, 2022</time> Lost that game and played my [most humiliating game yet](https://lichess.org/bWdVW8XW).
-
-- <time>Mar 03, 2022</time> [Started an interesting exchange variation](https://lichess.org/5xod7PlS), I have no idea where to go from here.
-
-- <time>Mar 02, 2022</time> [Quick death for me after a rook blunder on my side](https://lichess.org/oYGKOnah).
-
-- <time>Mar 01, 2022</time> Finished yesterday's game, did not go well.
-
-- <time>Feb 28, 2022</time> [Started a really interesting game after the classical variation](https://lichess.org/TzlTqMPh/black).
-
-- <time>Feb 27, 2022</time> [Resigned after advanced variation](https://lichess.org/15bmgKkj).
-
-- <time>Feb 26, 2022</time> [Exchange variation which led to me getting checkmated](https://lichess.org/CkUjsYND).
-
-- <time>Feb 25, 2022</time> [This game with the Caro-Kann defense was rough](https://lichess.org/kU0wRiiR7Gfz).
-
-- <time>Feb 24, 2022</time> [First win after learning the Caro-Kann defense](https://lichess.org/AaDNOf1o)!
-
-- <time>Feb 23, 2022</time> [Lost to Stockfish Level 3 after the advanced variation](https://lichess.org/GSOkSqqtrV4v).
-
-- <time>Feb 22, 2022</time> Continued learning the advanced variation.
-
-- <time>Feb 21, 2022</time> Continued learning the advanced variation.
-
-- <time>Feb 20, 2022</time> [Got checkmated after Caro-Kann defense](https://lichess.org/mktV30iE).
-
-- <time>Feb 19, 2022</time> [This one](https://lichess.org/FswbwI7V) is just funny, got checkmated in 20 moves lol.
-
-- <time>Feb 18, 2022</time> Learnt some lines against the Fanatasy Caro-Kann variation.
-
-- <time>Feb 17, 2022</time> [Lost very badly after the white pawn pushed](https://lichess.org/9Ksu9gK8).
-
-- <time>Feb 16, 2022</time> [Lost badly after a classical variation](https://lichess.org/mpHlY3Jp).
-
-- <time>Feb 15, 2022</time> [This may be the angriest I've been with myself over a chess game](https://lichess.org/bXJDmXL0hwOp). Two major blunders from a Caro-Kann opening.
-
-- <time>Feb 14, 2022</time> [Continued with the Caro-Kann Defense](https://lichess.org/o0Wpu0Dg).
-
-- <time>Feb 13, 2022</time> Continued with the Caro-Kann Defense.
-
-- <time>Feb 12, 2022</time> Continued with the Caro-Kann Defense.
-
-- <time>Feb 11, 2022</time> Continued with the Caro-Kann Defense.
-
-- <time>Feb 10, 2022</time> Continued with the Caro-Kann Defense.
-
-- <time>Feb 09, 2022</time> Started learning [the Caro-Kann Defense via GothamChess](https://www.youtube.com/watch?v=ebfzL_GwiIE) and (sort of) [played it against Stockfish Level 1](https://lichess.org/RyNrtNW2B3q7).
-
-- <time>Feb 08, 2022</time> For fun, I played against Stockfish Level 4 twice ([1](https://lichess.org/BZsxD5VrVPL1), [2](https://lichess.org/AOpeeeDwoC3l)). Will learn an opening tomorrow and practice it against Level 3 and 4.
-
-- <time>Feb 07, 2022</time> Finished with Knight & Bishop Mate, which means I've finished the whole practice section!
-
-- <time>Feb 06, 2022</time> Finished with 7th Rank Rook Pawn (Passive)!
-
-- <time>Feb 05, 2022</time> Started with [7th Rank Rook Pawn (Passive)](https://lichess.org/practice/rook-endgames/7th-rank-rook-pawn/).
-
-- <time>Feb 04, 2022</time> Finished with 7th Rank Rook Pawn!
-
-- <time>Feb 03, 2022</time> Continued with 7th Rank Rook Pawn. Will be done with this tomorrow!
-
-- <time>Feb 02, 2022</time> Continued with 7th Rank Rook Pawn. Nearly done.
-
-- <time>Feb 01, 2022</time> Continued with 7th Rank Rook Pawn.
-
-- <time>Jan 31, 2022</time> Continued with 7th Rank Rook Pawn.
-
-- <time>Jan 30, 2022</time> Started with [7th-Rank Rook Pawn](https://lichess.org/practice/pawn-endgames/7th-rank-rook-pawn/), this section is quite long!
-
-- <time>Jan 29, 2022</time> Finished Opposition, really cool practice section!
-
-- <time>Jan 28, 2022</time> Finished [the Direct Opposition part of Opposition](https://lichess.org/practice/pawn-endgames/opposition/).
-
-- <time>Jan 27, 2022</time> Finished with Key Squares.
-
-- <time>Jan 26, 2022</time> Started with [Key Squares](https://lichess.org/practice/pawn-endgames/key-squares/).
-- <time>Jan 25, 2022</time> Continued with my Knight and Bishop Mate lesson.
-
-- <time>Jan 24, 2022</time> Finished with [Desperado](https://lichess.org/practice/intermediate-tactics/desperado/).
-
-- <time>Jan 23, 2022</time> Finished with [Deflection](https://lichess.org/practice/intermediate-tactics/deflection/).
-
-- <time>Jan 22, 2022</time> Finished with [Attraction](https://lichess.org/practice/intermediate-tactics/attraction)
-
-- <time>Jan 21, 2022</time> Finished with [Counter Check](https://lichess.org/practice/intermediate-tactics/counter-check/).
-
-- <time>Jan 20, 2022</time> Finished with [Undermining](https://lichess.org/practice/intermediate-tactics/undermining/).
-
-- <time>Jan 19, 2022</time> Finished with [X-Ray](https://lichess.org/practice/basic-tactics/x-ray/).
-
-- <time>Jan 18, 2022</time> Finished with [Interference](https://lichess.org/practice/intermediate-tactics/interference/), really interesting!
-
-- <time>Jan 17, 2022</time> Finished with [Zugzwang](https://lichess.org/practice/intermediate-tactics/zugzwang) (my new favourite word) and [Underpromotion](https://lichess.org/practice/intermediate-tactics/underpromotion)
-
-- <time>Jan 16, 2022</time> Finished with [Overloaded Pieces](https://lichess.org/practice/basic-tactics/overloaded-pieces/o734CNqp/TgeQz3DF) and got close, [but ultimately still resigned to Stockfish Level 4 after a long break](https://lichess.org/ngkPjQiq).
-
-- <time>Jan 15, 2022</time> Finished with [Double Check](https://lichess.org/practice/basic-tactics/double-check/RUQASaZm) and [Zwischenzug](https://lichess.org/practice/basic-tactics/zwischenzug/ITWY4GN2).
-
-- <time>Jan 14, 2022</time> Finished with Discovered Attacks.
-
-- <time>Jan 13, 2022</time> Started with Discovered Attacks.
-
-- <time>Jan 12, 2022</time> Finished The Fork! Will start [Discovered Attacks](https://lichess.org/practice/basic-tactics/discovered-attacks/MnsJEWnI) tomorrow.
-
-- <time>Jan 11, 2022</time> Continued with The Fork.
-
-- <time>Jan 10, 2022</time> Started with [The Fork](https://lichess.org/practice/basic-tactics/the-fork/Qj281y1p).
-
-- <time>Jan 09, 2022</time> Going to actually practice chess by learning theory and finishing my practice on lichess (+ doing a puzzle every day starting from tomorrow). Finished [learning about skewers](https://lichess.org/practice/basic-tactics/the-skewer/tuoBxVE5/DXc6bhG2).
-
-- <time>Jan 08, 2022</time> Lost two games ([1](https://lichess.org/M8ivEcSR4DdN), [2](https://lichess.org/IYmMcmkwMy4c)), one against Stockfish Level 4 and against a person in rapid.
-
-- <time>Jan 07, 2022</time> [I HAD TWO QUEENS AND I STILL STALEMATED STOCKFISH LEVEL 4!](https://lichess.org/zAd107Wb) This is why there are so few grandmasters.
-
-- <time>Jan 06, 2022</time> Resigned again in my final game against my brother.
-
-- <time>Jan 05, 2022</time> Resigned against my brother.
-
-- <time>Jan 04, 2022</time> [Checkmated Stockfish Level 3](https://lichess.org/aSZ6xu0R), it shocks me how well made lichess is, all for free and open-source.
-
-- <time>Jan 03, 2022</time> Continued my Knight & Bishop Mate lessons.
-
-- <time>Jan 02, 2022</time> Learnt about [the Greek Gift](https://lichess.org/practice/intermediate-tactics/greek-gift) and won against my brother as black via resignation.
-
-- <time>Jan 01, 2022</time> Lost a couple of games, but [at least I beat level 3](https://lichess.org/dIIOAovkznvI).
-
-- <time>Dec 31, 2021</time> Lost countless number of times to bots and 2 times in Blitz, hope to see some improvement in 2022 for chess.
-
-- <time>Dec 30, 2021</time> Lost to my brother twice in Blitz.
-
-- <time>Dec 29, 2021</time> Stockfish Level 4 [got a surprise checkmate for me](https://lichess.org/WBSHbU3NCtjX) as a belated Christmas gift...
-
-- <time>Dec 28, 2021</time> Stockfish Level 4 is still out of reach, lost three games. ([1](https://lichess.org/dOtufNjh95pj), [2](https://lichess.org/eowlokNciIP3), [3](https://lichess.org/r3XK9OrQWzno))
-
-- <time>Dec 27, 2021</time> Won against my brother via resignation.
-
-- <time>Dec 26, 2021</time> Lost (badly) to Stockfish Level 4 in three games ([1](https://lichess.org/3slS78GzEO03), [2](https://lichess.org/60oZW1XtM7Qw), [3](https://lichess.org/vBr40xEKWHmB)). At least I won twice against my brother.
-
-- <time>Dec 25, 2021</time> Lost (badly) to my brother in chess.
-
-- <time>Dec 24, 2021</time> Resigned twice against Stockfish Level 4 ([1](https://lichess.org/vtoIvaZ2ryOe), [2](https://lichess.org/VziO9EPPqzO3)).
-
-- <time>Dec 23, 2021</time> Played 4 games against Stockfish Level 3 ([1](https://lichess.org/uWabhhcoX1Mx), [2](https://lichess.org/YudvFGz2ha2M), [3](https://lichess.org/4jRE3GWC1ay0), [4](https://lichess.org/gEUKIC6wlR9o)) which resulted in 2 losses ([1 checkmate](https://lichess.org/uWabhhcoX1Mx) and [1 resignation](https://lichess.org/4jRE3GWC1ay0)), [a stalemate](https://lichess.org/YudvFGz2ha2M) (which resulted in a facepalm) and [a win](https://lichess.org/gEUKIC6wlR9o)!
-
-- <time>Dec 22, 2021</time> Played 3 games against Stockfish Level 2 ([1](https://lichess.org/MlE35gfEgXnO), [2](https://lichess.org/MYEEyCi41Tko), [3](https://lichess.org/iD4XbTGjQQYN)), I was so close to losing in the 3rd game, then the bot makes a huge, huge blunder by not taking my queen with his bishop, which led to checkmate.
-
-- <time>Dec 21, 2021</time> Played 3 games against Stockfish Level 1 ([1](https://lichess.org/K4QhMifiyTql), [2](https://lichess.org/zqJkIJjC8evH), [3](https://lichess.org/MmRJXrJc3C1i)) and got checkmate in the first and last game. My revenge against Level 1 is complete.
-
-- <time>Dec 20, 2021</time> [Stalemated Level 1 again](https://lichess.org/KjGeLucv), how does this keep happening?
-
-- <time>Dec 19, 2021</time> I am so bad at chess it's funny, I played three games ([1](https://lichess.org/w3qLvswJRtBa), [2](https://lichess.org/gEbIMqtyK7xr), [3](https://lichess.org/dmJPaET7D5z3)) with the first being a loss to Stockfish Level 3, to boost my confidence I played against Level 1 and somehow lost and stalemated respectively.
-
-- <time>Dec 18, 2021</time> Played two games this time ([1](https://lichess.org/CHS7tA4S8k07), [2](https://lichess.org/7JdlfKzuRmdZ)) and the second one was very interesting.
-
-- <time>Dec 17, 2021</time> Played three games against Stockfish Level 3 and [lost all three](https://lichess.org/@/y_arjun_y/all).
-
-- <time>Dec 16, 2021</time> Checkmated [Stockfish Level 2 as black](https://lichess.org/s0GesXfH)!
-
-- <time>Dec 15, 2021</time> So close to checkmating Stockfish Level 2! Alas, [I stalemated](https://lichess.org/hrhwm3EO).
-
-- <time>Dec 14, 2021</time> Started with the [Knight & Bishop Mate](https://lichess.org/practice/checkmates/knight--bishop-mate/), [messed up against Stockfish Level 2](https://lichess.org/l8vSC5KKHEuP) and finished [The Pin](https://lichess.org/practice/basic-tactics/the-pin/).
-
-- <time>Dec 13, 2021</time> [Got destroyed by Stockfish Level 2](https://lichess.org/hsAFJKeHh2at) and finished Piece Checkmates II.
-
-- <time>Dec 12, 2021</time> Continued with Piece Checkmates II.
-
-- <time>Dec 11, 2021</time> Started with [Piece Checkmates II](https://lichess.org/practice/checkmates/piece-checkmates-ii)
-
-- <time>Dec 10, 2021</time> [Last game against Stockfish Level 1](https://lichess.org/qi4YECRe).
-
-- <time>Dec 09, 2021</time> Finished with Checkmate Patterns IV.
-
-- <time>Dec 08, 2021</time> Started with [Checkmate Patterns IV](https://lichess.org/practice/checkmates/checkmate-patterns-iv/) and [had a fun game against Stockfish Level 1](https://lichess.org/Ta5BnnXi). Magnus might win today, but we'll see. (Edit: [Draw.](https://www.theguardian.com/sport/live/2021/dec/08/magnus-carlsen-v-ian-nepomniachtchi-world-chess-championship-game-10-live))
-
-- <time>Dec 07, 2021</time> Finished Checkmate Patterns III. I smell a draw for today's match, both Magnus and Nepo will be well-rested. (Edit: I'm so sorry Nepo.)
-
-- <time>Dec 06, 2021</time> Started with [Checkmate Patterns III](https://lichess.org/practice/checkmates/checkmate-patterns-iii).
-
-- <time>Dec 05, 2021</time> Continued with Checkmate Patterns II. I'm going to take a risk and say that Nepo wins today. Let's see if I'm right. (Edit: I was [very wrong](https://www.theguardian.com/sport/live/2021/dec/05/magnus-carlsen-v-ian-nepomniachtchi-world-chess-championship-game-8-live).)
-
-- <time>Dec 04, 2021</time> Continued with Checkmate Patterns II. [Magnus won the sixth game and he and Ian now have the longest game in a World Chess Championship!](https://www.theguardian.com/sport/2021/dec/03/chess-carlsen-and-nepomniachtchi-face-weekend-crunch-games-in-dubai)
-
-- <time>Dec 03, 2021</time> Won against my dad with the black pieces via checkmate.
-
-- <time>Dec 02, 2021</time> Started [Checkmate Patterns II](https://lichess.org/practice/checkmates/checkmate-patterns-ii/).
-
-- <time>Dec 01, 2021</time> Completed Checkmate Patterns I. Pretty sure today's [World Chess Championship](https://en.wikipedia.org/wiki/World_Chess_Championship_2021) match is going to be a draw. (Edit: I was right.)
-
-- <time>Nov 30, 2021</time> Started with [Checkmate Patterns I](https://lichess.org/practice/checkmates/checkmate-patterns-i/), what a crazy month for chess!
-
-- <time>Nov 29, 2021</time> Finished Piece Checkmates I and [got absolutely destroyed by Stockfish Level 2](https://lichess.org/HYLIMU7TSZqm).
-
-- <time>Nov 28, 2021</time> Started with [Piece Checkmates I](https://lichess.org/practice/checkmates/piece-checkmates-i) and [played my first game on lichess v.s. Stockfish level 1.](https://lichess.org/gI7HGjiW#0)
-
-- <time>Nov 27, 2021</time> Finished the ["learning section"](https://lichess.org/learn#/) of the chess course!
-
-- <time>Nov 26, 2021</time> Switched to [lichess](https://lichess.org) and started their [chess course](https://lichess.org/learn).
-
-- <time>Nov 25, 2021</time> Damn, my game against Antonio today was incredible (even though I lost). I got 74 accuracy! [Here's the game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.25%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22arjunyadav7%22%5D%0A%5BBlack%20%22Antonio%22%5D%0A%5BResult%20%220-1%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%5BBlackElo%20%221500%22%5D%0A%5BWhiteElo%20%22744%22%5D%0A%0A1.%20e4%20e5%202.%20Nf3%20Nc6%203.%20d4%20exd4%204.%20Nxd4%20Nxd4%205.%20Qxd4%20d6%206.%20Bc4%20Be6%207.%20b3%20c6%208.%0AO-O%20Qf6%209.%20Qxf6%20Nxf6%2010.%20Re1%20Bxc4%2011.%20bxc4%20h6%2012.%20e5%20dxe5%2013.%20Rxe5%2B%20Kd7%2014.%20Nc3%0ARe8%2015.%20Bf4%20Rxe5%2016.%20Bxe5%20Ng4%2017.%20f4%20Nxe5%2018.%20fxe5%20Bb4%2019.%20Ne4%20Re8%2020.%20Rd1%2B%20Ke6%0A21.%20Rd6%2B%20Bxd6%2022.%20Nxd6%20Rf8%2023.%20h3%20Kxe5%2024.%20Nxb7%20Rb8%2025.%20Nc5%20Kd4%2026.%20Nb3%2B%20Kc3%2027.%0ANa5%20Rb6%2028.%20c5%20Ra6%2029.%20Nb7%20Rxa2%2030.%20Nd8%20a5%2031.%20Nxc6%20Ra4%2032.%20Na7%20Rc4%2033.%20c6%20a4%0A34.%20Nb5%2B%20Kb4%2035.%20Na7%20Rc3%2036.%20g4%20Rxc2%2037.%20h4%20a3%2038.%20g5%20a2%2039.%20gxh6%20a1%3DQ%23%200-1&tab=analysis&referrer=vs-computer-analyze).
-
-- <time>Nov 24, 2021</time> Completed the [Value of the Pieces](https://www.chess.com/lessons/capturing-pieces/value-of-the-pieces) and had some fun [learning about the Stafford Gambit](https://www.chess.com/blog/ThummimS/stafford-gambit-traps-a-complete-guide)
-
-- <time>Nov 23, 2021</time> Antonio is really tough.
-
-- <time>Nov 22, 2021</time> [Antonio](https://chess.com/play/computer/) is tough.
-
-- <time>Nov 21, 2021</time> Defeated Nelson with the black pieces! [Here's the game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.21%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22arjunyadav7%22%5D%0A%5BBlack%20%22Nelson%22%5D%0A%5BResult%20%221-0%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%5BBlackElo%20%221300%22%5D%0A%5BWhiteElo%20%22744%22%5D%0A%0A1.%20d4%20e6%202.%20e4%20Qh4%203.%20Nc3%20Bd6%204.%20Nf3%20Qg4%205.%20h3%20Qg6%206.%20e5%20Bb4%207.%20a3%20Bxc3%2B%208.%20bxc3%0ANe7%209.%20Bc4%20d5%2010.%20Bb3%20O-O%2011.%20O-O%20f6%2012.%20Nh4%20Qf7%2013.%20c4%20Nf5%2014.%20Nf3%20dxc4%2015.%0ABxc4%20fxe5%2016.%20dxe5%20b5%2017.%20Bxb5%20c6%2018.%20Bc4%20Ba6%2019.%20Bd3%20Bxd3%2020.%20cxd3%20Nd4%2021.%20Nxd4%0ANd7%2022.%20Nxc6%20Rac8%2023.%20Nxa7%20Rc7%2024.%20Nb5%20Nxe5%2025.%20d4%20Nf3%2B%2026.%20Qxf3%20Qxf3%2027.%20gxf3%0ARb7%2028.%20a4%20h6%2029.%20Nd6%20Rb4%2030.%20Rd1%20Rb3%2031.%20Kg2%20Rfxf3%2032.%20a5%20Rxh3%2033.%20a6%20Rhc3%2034.%0Aa7%20Kh7%2035.%20a8%3DQ%20Rf3%2036.%20Rd3%20Rxf2%2B%2037.%20Kxf2%20Rxd3%2038.%20Qe4%2B%20g6%2039.%20Qxd3%20h5%2040.%20Qe4%0AKh8%2041.%20Qxe6%20Kh7%2042.%20Qe7%2B%20Kh8%2043.%20Ne4%20Kg8%2044.%20d5%20Kh8%2045.%20d6%20Kg8%2046.%20d7%20Kh8%2047.%0Ad8%3DQ%23%201-0&tab=analysis&referrer=vs-computer-analyze).
-
-- <time>Nov 20, 2021</time> Played 2 games with Nelson, and drew one!
-
-- <time>Nov 19, 2021</time> Very close to winning against [Nelson](https://chess.com/play/computer), but I eventually lost way too much material.
-
-- <time>Nov 18, 2021</time> "One day Sven, one day." Well folks, that day finally came! [I checkmated Sven with the black pieces](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.18%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22Sven%22%5D%0A%5BBlack%20%22arjunyadav7%22%5D%0A%5BResult%20%220-1%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%5BBlackElo%20%22744%22%5D%0A%5BWhiteElo%20%221100%22%5D%0A%0A1.%20d4%20d5%202.%20Nf3%20Nc6%203.%20c4%20f6%204.%20c5%20e5%205.%20g3%20exd4%206.%20Nxd4%20Bxc5%207.%20Nc2%20Nge7%208.%20Qd3%0AO-O%209.%20Qb3%20Bf5%2010.%20Rg1%20Na5%2011.%20Qc3%20b6%2012.%20Ne3%20Bd7%2013.%20Bg2%20d4%2014.%20Bxa8%20dxc3%2015.%0ABe4%20cxb2%2016.%20Bxb2%20Bb4%2B%2017.%20Nc3%20Bh3%2018.%20a4%20Qd4%2019.%20Bd3%20Bxc3%2B%2020.%20Kd1%20Bxb2%2021.%20Ra2%0AQb4%2022.%20Nc2%20Qb3%2023.%20Rh1%20Qxa2%2024.%20Bxh7%2B%20Kxh7%2025.%20Ne1%20Rd8%2B%2026.%20Nd3%20Ba3%2027.%20Ke1%0AQa1%2B%2028.%20Kd2%20Qxh1%2029.%20Kc2%20Nc4%2030.%20f4%20Ne3%2B%2031.%20Kb3%20Be6%2B%2032.%20Kxa3%20Qa1%2B%2033.%20Kb4%0AQb1%2B%2034.%20Kc3%20Rd4%2035.%20Kxd4%20Nc6%2B%2036.%20Kxe3%20Nb4%2037.%20h4%20Nxd3%2038.%20exd3%20Qe1%2B%2039.%20Kf3%0AQf1%2B%2040.%20Ke4%20Qe1%2B%2041.%20Kf3%20Bd5%2B%2042.%20Kg4%20Qe6%2B%2043.%20f5%20Qe2%2B%2044.%20Kh3%20Bg2%2B%2045.%20Kh2%0ABf3%2B%2046.%20Kg1%20Qe1%2B%2047.%20Kh2%20c5%2048.%20g4%20Bxg4%2049.%20Kg2%20c4%2050.%20a5%20cxd3%2051.%20axb6%20axb6%0A52.%20h5%20d2%2053.%20h6%20gxh6%2054.%20Kh2%20d1%3DQ%2055.%20Kg2%20Qdd2%23%200-1&tab=analysis&referrer=vs-computer-analyze)!
-
-- <time>Nov 17, 2021</time> Played several games online.
-
-- <time>Nov 16, 2021</time> One day Sven, one day. Also played [a really, really funny blitz game where my opponent only moved their king for the majority of the game.](https://www.chess.com/game/live/30805164009)
-
-- <time>Nov 15, 2021</time> Finished my [weekly lesson.](https://www.chess.com/lessons/winning-the-game)
-
-- <time>Nov 14, 2021</time> Drew Sven due to a mouse slip. [Here is the game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.14%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22Sven%22%5D%0A%5BBlack%20%22arjunyadav7%22%5D%0A%5BResult%20%221/2-1/2%22%5D%0A%5BBlackElo%20%22744%22%5D%0A%5BWhiteElo%20%221100%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%0A1.%20d4%20d5%202.%20c4%20e6%203.%20Nf3%20Nf6%204.%20Nc3%20Nc6%205.%20Bg5%20Bd6%206.%20Qc1%20O-O%207.%20Bh4%20h6%208.%20e3%20g5%0A9.%20cxd5%20exd5%2010.%20a3%20a6%2011.%20Bxg5%20hxg5%2012.%20Kd1%20g4%2013.%20Ng5%20b5%2014.%20Bd3%20b4%2015.%20Na2%0ABb7%2016.%20Be2%20bxa3%2017.%20h4%20axb2%2018.%20Qxb2%20Qb8%2019.%20Kc2%20a5%2020.%20Kb1%20Nb4%2021.%20Nc3%20Ne4%2022.%0ANcxe4%20dxe4%2023.%20Re1%20a4%2024.%20Bxg4%20a3%2025.%20Qd2%20a2%2B%2026.%20Kc1%20Ra3%2027.%20Rh1%20Rd3%2028.%20Qe2%0ARc3%2B%2029.%20Kd1%20Qa7%2030.%20Qf1%20Qa3%2031.%20Qb5%20Qb2%2032.%20Nxe4%20Bxe4%2033.%20Bf5%20Bxf5%2034.%20Qxf5%20Nc6%0A35.%20Re1%20f6%2036.%20Qg6%2B%20Kh8%2037.%20Qh6%2B%20Kg8%2038.%20Qg6%2B%20Kh8%2039.%20Qh6%2B%20Kg8%2040.%20Qg6%2B%201/2-1/2&tab=analysis&referrer=vs-computer-analyze).
-
-- <time>Nov 13, 2021</time> Thinking about (seriously) playing online.
-
-- <time>Nov 12, 2021</time> Had some fun with [lower-rated bots](https://chess.com/play/computer).
-
-- <time>Nov 11, 2021</time> Completed my weekly lesson. Moved away from Sven, and (for fun) I tried my hand at [DanyaBot](https://chess.com/play/computer/), I'm actually proud to say I only made 1 blunder (even though I lost).
-
-- <time>Nov 10, 2021</time> I think I will put the bots on the side and try to actually study the game instead of brute-forcing it.
-
-- <time>Nov 09, 2021</time> Same old, same old. I also had some fun [analyzing games](https://chess.com/analysis) and [learning the Caro-Kann](https://www.chess.com/openings/Caro-Kann-Defense). Later, I won against my dad with the black pieces via checkmate.
-
-- <time>Nov 08, 2021</time> So close! I blundered my queen again. I'll get three crowns against Sven sooner or later.
-
-- <time>Nov 07, 2021</time> I was so close but I blundered too many times.
-
-- <time>Nov 06, 2021</time> 1000 -> 1100 transition is tough.
-
-- <time>Nov 05, 2021</time> Jumped around different bots. Need to defeat Sven with three crowns soon.
-
-- <time>Nov 04, 2021</time> I played against [Jimmy](https://chess.com/play/computer) ~3 times, blundering my queen in the first two games, but winning in the last. [Here's that last game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.04%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22arjunyadav7%22%5D%0A%5BBlack%20%22Jimmy%22%5D%0A%5BResult%20%221-0%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%5BBlackElo%20%22600%22%5D%0A%5BWhiteElo%20%22744%22%5D%0A%0A1.%20e4%20d5%202.%20f3%20c5%203.%20d3%20Nh6%204.%20h3%20Bxh3%205.%20Nxh3%20f6%206.%20g4%20%7B%5B%25cal%20dh6g4%5D%5B%25c_arrow%0Ah6g4;from;h6;to;g4%5D%7D%206...%20Qd7%207.%20Nc3%20Kf7%208.%20Nxd5%20a6%209.%20b3%20b5%2010.%20Be2%20Qe6%2011.%20O-O%0ANc6%2012.%20b4%20Ra7%2013.%20bxc5%20b4%2014.%20Nxb4%20Qd7%2015.%20f4%20Nd8%2016.%20e5%20Ne6%2017.%20f5%20%7B%5B%25cal%0Adh6f5%5D%5B%25c_arrow%20h6f5;from;h6;to;f5%5D%7D%2017...%20Qc8%2018.%20fxe6%2B%20Kg8%2019.%20Bf4%20Qd8%2020.%20Nc6%0Aa5%2021.%20Nxd8%20Ra6%2022.%20g5%20fxe5%2023.%20Bxe5%20a4%2024.%20gxh6%20Rxe6%2025.%20Nxe6%20gxh6%2026.%20Nxf8%20h5%0A27.%20Nd7%20h6%2028.%20Bxh8%20h4%2029.%20Rf4%20a3%2030.%20Rxh4%20Kh7%2031.%20Ra4%20Kg8%2032.%20Rxa3%20Kxh8%2033.%0ARa8%2B%20Kh7%2034.%20Bg4%20Kg7%2035.%20Be6%20Kh7%2036.%20Qh5%20Kg7%2037.%20Qe8%20h5%2038.%20Rf1%20Kh6%2039.%20Nf4%20h4%0A40.%20Rf3%20Kg5%2041.%20Qg8%2B%20Kh6%2042.%20Qh8%2B%20Kg5%2043.%20Rg8%23%201-0&tab=analysis&referrer=vs-computer-analyze). Later, I played two games against my dad, I think the first one was a draw? (no legal moves but not in check) and the second one was a win via resignation.
-
-- <time>Nov 03, 2021</time> I finally defeated the pumpkin 3 days after Halloween. [Here's the game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.03%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22Pumpkin%22%5D%0A%5BBlack%20%22arjunyadav7%22%5D%0A%5BResult%20%220-1%22%5D%0A%5BBlackElo%20%22744%22%5D%0A%5BWhiteElo%20%221000%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%0A1.%20Nc3%20e5%202.%20Ne4%20d5%203.%20Nc3%20c6%204.%20b3%20Nf6%205.%20Bb2%20Bc5%206.%20a3%20O-O%207.%20f3%20e4%208.%20f4%20h6%0A9.%20e3%20g5%2010.%20g3%20Bg4%2011.%20Nce2%20a5%2012.%20f5%20Nh5%2013.%20c4%20Bxf5%2014.%20b4%20axb4%2015.%20Kf2%20dxc4%0A16.%20Bg2%20bxa3%2017.%20Be5%20Nd7%2018.%20Bc3%20Nb6%2019.%20Nh3%20Na4%2020.%20Nd4%20Nxc3%2021.%20dxc3%20a2%2022.%0AQg1%20Ra3%2023.%20Qe1%20Qa5%2024.%20Rc1%20g4%2025.%20Ng5%20hxg5%2026.%20Rf1%20b5%2027.%20Nxf5%20Re8%2028.%20Bh1%20Re5%0A29.%20Kg2%20Kh7%2030.%20Kg1%20Kg6%2031.%20Nd4%20Bxd4%2032.%20Rd1%20Bxc3%2033.%20Qe2%20Kh6%2034.%20Rd6%2B%20Kg7%2035.%0ARa1%20Bxa1%2036.%20Kg2%20Rb3%2037.%20Rd7%20c3%2038.%20Kf2%20Rb2%2039.%20Rd1%20Rxe2%2B%2040.%20Kxe2%20c2%2041.%20Rxa1%0AQc3%2042.%20Bg2%20Qxa1%2043.%20Kd2%20c1%3DQ%2B%2044.%20Ke2%20Qc2%23%200-1&tab=analysis&referrer=vs-computer-analyze). I also resigned against Sven again.
-
-- <time>Nov 02, 2021</time> So close, but I hanged my queen accidentally.
-
-- <time>Nov 01, 2021</time> I hate pumpkins. (Also, [I completed a lesson on rook checkmates.](https://www.chess.com/lessons/winning-the-game))
-
-- <time>Oct 31, 2021</time> Resigned against Sven for the quadrillionth time.
-
-- <time>Oct 30, 2021</time> Tried to defeat the damn [Pumpkin](https://chess.com/play/computer), was close but blundered the endgame.
-
-- <time>Oct 29, 2021</time> Kept resigning against Sven. Later in the day, I learnt about the [Scandinavian Defense](https://www.chess.com/openings/Scandinavian-Defense) and won against my dad with the white pieces via checkmate!
-
-- <time>Oct 28, 2021</time> Kept resigning against [Sven](https://chess.com/play/computer) and [finished the Assisted Checkmate lesson](https://www.chess.com/lessons/winning-the-game/assisted-checkmates).
-<hr />
-
 ## <span id="cubing">[Cubing](https://www.worldcubeassociation.org/persons/2019YADA06)</span>
 
 <small>Oct 28, 2021-present</small>  
@@ -8384,6 +7207,487 @@ class Solution:
 
 ## Inactive/Paused
 
+<hr />
+
+## <span id="chess">[Chess](https://lichess.org/@/y_arjun_y)</span>
+
+<small>Oct 28, 2021-present</small>  
+<small>Trying to get better at chess via practicing on [lichess](https://lichess.org). You can see all my games that I refer to [here](https://lichess.org/@/y_arjun_y/all). Previously, I practiced on [chess.com](https://chess.com). Currently paused due to exams.</small>
+
+<hr />
+<small>Chess's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Sep 30, 2022</time> [Interesting queen sacrifice](https://lichess.org/3pQlaLpP)?
+
+- <time>Sep 25, 2022</time> [Why didn't I see the knight for move 18](https://lichess.org/YkihwvUv75yf)?
+
+- <time>Sep 18, 2022</time> [What a terrible middlegame lol](https://lichess.org/5QgJw2gx).
+
+- <time>Sep 16, 2022</time> [Oops](https://lichess.org/fcnivxJg).
+
+- <time>Sep 10, 2022</time> [?](https://lichess.org/zFoqiMsj)
+
+- <time>Aug 22, 2022</time> [Good game](https://lichess.org/wUWnxnr0/)! (I mean, it was barely passable at my end, but it was fun nonetheless)
+
+- <time>Aug 17, 2022</time> [Hmm](https://lichess.org/gKJgrr3O).
+
+- <time>Aug 12, 2022</time> [11 blunders](https://lichess.org/96a0IFbf)!
+
+- <time>Aug 07, 2022</time> This is, probably by a lot, [the most surprising checkmate I've received](https://lichess.org/VLZ8KdYlThwJ).
+
+- <time>Aug 05, 2022</time> [I was **this** close to a checkmate and](https://lichess.org/qkecYsz9)...
+
+- <time>Jul 31, 2022</time> [Sigh](https://lichess.org/Qp3Ydw1h).
+
+- <time>Jul 29, 2022</time> Decided to play sort of fast and loose with [this game](https://lichess.org/2cs4kdik0fxR), turns out I was _too_ fast and loose.
+
+- <time>Jul 24, 2022</time> I'm very angry with myself over [this game](https://lichess.org/XeJSNnRm4dws).
+
+- <time>Jul 20, 2022</time> I hate [unexpected checkmates](https://lichess.org/3T5gDELMTfXH).
+
+- <time>Jul 11, 2022</time> [Interesting game](https://lichess.org/rDjC0oG5/), made a lot of silly blunders.
+
+- <time>Jul 06, 2022</time> [An Antichess Tragedy](https://lichess.org/puOItG13/black). Will get back to regular chess tomorrow.
+
+- <time>Jun 26, 2022</time> [Absolutely no clue](https://lichess.org/pqDJpI96)
+
+- <time>Jun 24, 2022</time> [Rough game](https://lichess.org/i7vpImEA). I had like ~4 takebacks over move 15 lol.
+
+- <time>Jun 19, 2022</time> [Short and sweet](https://lichess.org/i7vpImEA).
+
+- <time>Jun 17, 2022</time> [~5 takebacks, pretty fun endgame](https://lichess.org/EgyZXQch/white).
+
+- <time>Jun 12, 2022</time> [Infinite Takebacks](https://lichess.org/yAlVZwn50kEX).
+
+- <time>Jun 10, 2022</time> [One pawn move ended the game for me lol](https://lichess.org/WpBVCKzo).
+
+- <time>Jun 05, 2022</time> [Drawtastic](https://lichess.org/doDkKQco/).
+
+- <time>Jun 03, 2022</time> [Saddest game ever](https://lichess.org/PQct3m2W). I couldn't save myself at some point even with takebacks.
+
+- <time>May 28, 2022</time> [A good game to end of the week](https://lichess.org/GXCRZmvP) (even though I lost).
+
+- <time>May 27, 2022</time> [Anitchess!](https://lichess.org/HRZsuTAD) (with a lot of takebacks, I'll get back to non-variant chess tomorrow)
+
+- <time>May 26, 2022</time> [Antichess!](https://lichess.org/JJN0JMOm)
+
+- <time>May 25, 2022</time> [Sometimes even takebacks can't save you from a terrible game](https://lichess.org/H7G28pQz).
+
+- <time>May 24, 2022</time> [Less than 20 moves lol](https://lichess.org/KKSIrpCF).
+
+- <time>May 23, 2022</time> [A near perfect game](https://lichess.org/KikhiqhZ/) (but not really, also 3 takebacks)
+
+- <time>May 22, 2022</time> Shockingly, [only 1 blunder](https://lichess.org/Q7XEKg6mwPrF) (though that's because it was so short lol)
+
+- <time>May 21, 2022</time> Played [a Chess960 game](https://lichess.org/IoQY2wWPLSGP) for fun.
+
+- <time>May 20, 2022</time> Another [Antichess game](https://lichess.org/5XuI5yt3/).
+
+- <time>May 19, 2022</time> No clue what I was doing [here](https://lichess.org/Y5NjdSfUPQht).
+
+- <time>May 18, 2022</time> Again, had some fun with antichess (or Antichess?) ([1](https://lichess.org/auEtS0Q2DpGt), [2](https://lichess.org/C8tsL3q2/))
+
+- <time>May 17, 2022</time> Took me forever to checkmate with just a king and a queen, [but I did it](https://lichess.org/GE1wmusO)! (overall, with 1 takeback)
+
+- <time>May 16, 2022</time> [A pretty humiliating defeat](https://lichess.org/YnThdAwC1whT).
+
+- <time>May 15, 2022</time> [So close, yet so far](https://lichess.org/ikwCysD1/).
+
+- <time>May 14, 2022</time> [??](https://lichess.org/CN2tFl9K5zWK)
+
+- <time>May 13, 2022</time> [?](https://lichess.org/k57tWxr1rFL6)
+
+- <time>May 12, 2022</time> [I stupidly stalemated after ~6 takebacks](https://lichess.org/mHdsSRo3).
+
+- <time>May 11, 2022</time> [Defeated Stockfish Level 4](https://lichess.org/IKQshfI3) with intense focus... and like 3 takebacks lol.
+
+- <time>May 10, 2022</time> [Drew Stockfish Level 4](https://lichess.org/2lojjiiC) with (very roughly) 15 takebacks.
+
+- <time>May 09, 2022</time> For some fun, I played an [Antichess](https://lichess.org/nq1ouE5CMjYS) and a [Chess960](https://lichess.org/E2RAI2Lm8qFN) game.
+
+- <time>May 08, 2022</time> [I liked this game a lot](https://lichess.org/VZNkBq9SqGQT) (even though I lost).
+
+- <time>May 07, 2022</time> [Went back to Level 3 for a game](https://lichess.org/Sjw5zGaS).
+
+- <time>May 06, 2022</time> [Oof](https://lichess.org/ubDbzVToEEN8).
+
+- <time>May 05, 2022</time> [I thought I played well in this game](https://lichess.org/ucqFj9yk/). Nope, 11 blunders (I also missed such an obvious check that could have potentially won the game).
+
+- <time>May 04, 2022</time> [Another win](https://lichess.org/fih99502)! (though I did takeback once)
+
+- <time>May 03, 2022</time> I got checkmated 3 times... ([1](https://lichess.org/vXVawh68BJmO), [2](https://lichess.org/HhSS3DsT1Rbx), [3](https://lichess.org/naFAOqR61XJP))
+- <time>May 02, 2022</time> [Back to being bad at chess](https://lichess.org/GSmnChPu).
+
+- <time>May 01, 2022</time> What a way to start off the month: [defeated Stockfish Level 4 without takebacks with the black pieces](https://lichess.org/3NcHqVM1/) (only 1 blunder from my side!)
+
+- <time>Apr 30, 2022</time> [That is certainly one way to end of the month](https://lichess.org/zNJYBuZj/).
+
+- <time>Apr 29, 2022</time> Two checkmates for the price of one: [1](https://lichess.org/Kke677aa0wul), [2](https://lichess.org/E9SB0eHPTbn2).
+
+- <time>Apr 28, 2022</time> [Stalemate after some takebacks](https://lichess.org/ssTgvmXno5Xz).
+
+- <time>Apr 27, 2022</time> [Played a blitz game against my friend](https://lichess.org/xJwvwn5y).
+
+- <time>Apr 26, 2022</time> [One of my shortest game ever](https://lichess.org/hsw1Ahwq) (also [drew Level 4 after a couple of takebacks](https://lichess.org/DOp6uGXV)).
+
+- <time>Apr 25, 2022</time> [Sort of didn't expect that](https://lichess.org/tA4Tj0yC3bx3).
+
+- <time>Apr 24, 2022</time> [I went from 3 pawns up to checkmate in like 15 moves](https://lichess.org/eScmA5Gt/) :(
+
+- <time>Apr 23, 2022</time> [Sigh](https://lichess.org/h8l6S4dz).
+
+- <time>Apr 22, 2022</time> [Rough game](https://lichess.org/b98zhIeb).
+
+- <time>Apr 21, 2022</time> I think I need to go back to Level 3.
+
+- <time>Apr 20, 2022</time> [Definitely doesn't count but still a fun game](https://lichess.org/L5E379tJ).
+
+- <time>Apr 19, 2022</time> [Only ~2 takebacks this time](https://lichess.org/uv5bB7OP)!
+
+- <time>Apr 18, 2022</time> [I won using the Tennison Gambit!](https://lichess.org/3hVwF3GxP5xS) (note: this doesn't count towards my battle against Stockfish Level 4 lol)
+
+- <time>Apr 17, 2022</time> [Sigh](https://lichess.org/nCWfEusDxGRY).
+
+- <time>Apr 16, 2022</time> [I think this one counts](https://lichess.org/mIHX8ii514Sz), I did takeback once but it was accidental.
+
+- <time>Apr 15, 2022</time> [Another game that doesn't really count because of takebacks](https://lichess.org/DwmZrFAH).
+
+- <time>Apr 14, 2022</time> [The uphill battle against Stockfish Level 4 is going to be a long one...](https://lichess.org/mDhrPoHpjsFE)
+
+- <time>Apr 13, 2022</time> [This WOULD have been my first win against Stockfish Level 4](https://lichess.org/anOmMF1T) if I hadn't taken back so many times in the endgame (still a fun game!)
+
+- <time>Apr 12, 2022</time> [Nice](https://lichess.org/YkoW8FUw).
+
+- <time>Apr 11, 2022</time> [With one take back, I got my revenge against Stockfish.](https://lichess.org/UVSVtH9k/)
+
+- <time>Apr 10, 2022</time> Sigh. ([1](https://lichess.org/HDJrnGzmtZw1), [2](https://lichess.org/dZp9iTRN5Nac))
+
+- <time>Apr 09, 2022</time> Played sort of absent-mindedly but here we are: [1](https://lichess.org/qtWsajtnYHld), [2](https://lichess.org/tep1fr7y9Ej0).
+
+- <time>Apr 08, 2022</time> [Sigh](https://lichess.org/hfP10Qiry8FK).
+
+- <time>Apr 07, 2022</time> [Ouch](https://lichess.org/auFUm9pP), I don't think there were any good moves at move 15 lol.
+
+- <time>Apr 06, 2022</time> [Possibly the wildest game I've ever played](https://lichess.org/QMhUWQ2Y). I was so close to losing and then I pulled up with the promotion that made me win with the black pieces!
+
+- <time>Apr 05, 2022</time> [I need to practice with the black pieces](https://lichess.org/AFzchdPIX70b) against Stockfish Level 3. [I'm fine with the white pieces](https://lichess.org/5WWgfcxNo3lC).
+
+- <time>Apr 04, 2022</time> [Maybe a simple 1. e4 with good opening principles and development is all you need at this level](https://lichess.org/dPXpnyW2wv3E).
+
+- <time>Apr 03, 2022</time> No idea what I did today for chess today. I need to change my opening repertoire.
+
+- <time>Apr 02, 2022</time> I present to you, [the biggest throw ever](https://lichess.org/IisosILB).
+
+- <time>Apr 01, 2022</time> [I feel like Stockfish wanted to throw an April Fools' Day joke at me...](https://lichess.org/YNk1DPtz)
+
+- <time>Mar 31, 2022</time> [Sigh](https://lichess.org/Uw3QuLpa).
+
+- <time>Mar 30, 2022</time> [I threw this game so badly lol](https://lichess.org/Zq3UitfH).
+
+- <time>Mar 29, 2022</time> Man, [I really lost my luck with the King's Indian Attack](https://lichess.org/vk4ykawkKQ9I).
+
+- <time>Mar 28, 2022</time> Not sure what I was doing today.
+
+- <time>Mar 27, 2022</time> [Stockfish Level 4 made me suffer in the last few moves](https://lichess.org/Wnc5FazT). We quickly went from the best game yet to possibly the worst game yet lol.
+
+- <time>Mar 26, 2022</time> [My best game yet with the King's Indian Setup](https://lichess.org/wBuMt14Y), no blunders and I never lost the advantage + didn't lose a forced checkmate sequence lol. Played a few other King's Indian Setups as well ([1](https://lichess.org/kNel3RsmqMzZ), [2](https://lichess.org/CTYOZMYD43bT))
+
+- <time>Mar 24, 2022</time> [I threw away a game so badly](https://lichess.org/J5UWKcCf) that I'm actually disappointed in myself. At least the King's Indian Setup has proven its worth to me with the white pieces.
+
+- <time>Mar 23, 2022</time> I think this will be my opening repertoire: black pieces with e4 will be the Caro-Kann Defense and anything else (white or black pieces) will mean the [King's Indian Setup](https://www.youtube.com/watch?v=kK0cq6UBt1Y) (need to study this one).
+
+- <time>Mar 22, 2022</time> [This game definitely doesn't count](https://lichess.org/I9LuxSgMDNQq) (took back a lot of blunders) but it was so calming to checkmate my opponent with three queens while listening to Pentatonic.
+
+- <time>Mar 21, 2022</time> [Explored the Blackmar-Diemer Gambit](https://lichess.org/Xc9lFTBf) (also this game doesn't count as a win because I used so many takebacks lol)
+
+- <time>Mar 20, 2022</time> [Explored Stockfish Level 4 with many takebacks](https://lichess.org/ONdJj5ni).
+
+- <time>Mar 19, 2022</time> Never mind. ([1](https://lichess.org/SpRBdlSncvt3), [2](https://lichess.org/q8ZmSMxcg74v))
+- <time>Mar 18, 2022</time> [Time to move on to Level 4?](https://lichess.org/uPYtO4TB/white#107)
+
+- <time>Mar 17, 2022</time> I was trying out the [Italian Game](https://www.chess.com/openings/Italian-Game) and [I got this gem of a game](https://lichess.org/YD5Pn3BV/), so I guess my opening with the white pieces is now the Italian Game? Need to study it for some time.
+
+- <time>Mar 16, 2022</time> [Had no clue what I was doing with the London System](https://lichess.org/8bDyoPeDvpO4).
+
+- <time>Mar 15, 2022</time> [Saddest game yet?](https://lichess.org/ZmFrvgiAxmp5)
+
+- <time>Mar 14, 2022</time> [My best worst game ever](https://lichess.org/fq9QmZ1Sw5Ch). I thought I was being smart with the pawn promotion sacrifice but nope.
+
+- <time>Mar 13, 2022</time> Haha! [Pawn to knight promotion leads to checkmate](https://lichess.org/JegQsvaRNl86) (Note: I did do a couple of take backs).
+
+- <time>Mar 12, 2022</time> Yeah, that game didn't go too well... Also played a few random games against bots for fun.
+
+- <time>Mar 11, 2022</time> Started learning the [Giuoco Piano](https://www.chess.com/article/view/giuoco-piano-chess-opening) opening and [I got pretty far with it against Stockfish Level 3](https://lichess.org/SapRQi1L).
+
+- <time>Mar 10, 2022</time> [Lost against my classmate after exchange variation](https://lichess.org/HAQ06c9b/). I thought move 22 was sort of smart but nope it was a blunder lol.
+
+- <time>Mar 09, 2022</time> [This is most definitely the best game I've ever played so far](https://lichess.org/CqVRzsEy). Only one blunder with the Caro-Kann exchange variation and man was the endgame fun.
+
+- <time>Mar 08, 2022</time> [What a game](https://lichess.org/RaKOMjdW).
+
+- <time>Mar 07, 2022</time> Just sort of fooled around a bit. Second game wasn't too horrible (but I had no idea how to continue), [1](https://lichess.org/OtB1RmQBwona), [2](https://lichess.org/j6nnPFlM).
+
+- <time>Mar 06, 2022</time> [Stockfish Level 2](https://lichess.org/9I8onA5B) is too easy and level 3 is too "meh" (can sometimes win if I'm focused) and I've noticed that very low rated bots just give up their queens sometimes.
+
+- <time>Mar 05, 2022</time> [Resigned after losing my queen](https://lichess.org/O1I8KDut), though I performed a "push" variation of the Caro-Kann without referring back to the video!
+
+- <time>Mar 04, 2022</time> Lost that game and played my [most humiliating game yet](https://lichess.org/bWdVW8XW).
+
+- <time>Mar 03, 2022</time> [Started an interesting exchange variation](https://lichess.org/5xod7PlS), I have no idea where to go from here.
+
+- <time>Mar 02, 2022</time> [Quick death for me after a rook blunder on my side](https://lichess.org/oYGKOnah).
+
+- <time>Mar 01, 2022</time> Finished yesterday's game, did not go well.
+
+- <time>Feb 28, 2022</time> [Started a really interesting game after the classical variation](https://lichess.org/TzlTqMPh/black).
+
+- <time>Feb 27, 2022</time> [Resigned after advanced variation](https://lichess.org/15bmgKkj).
+
+- <time>Feb 26, 2022</time> [Exchange variation which led to me getting checkmated](https://lichess.org/CkUjsYND).
+
+- <time>Feb 25, 2022</time> [This game with the Caro-Kann defense was rough](https://lichess.org/kU0wRiiR7Gfz).
+
+- <time>Feb 24, 2022</time> [First win after learning the Caro-Kann defense](https://lichess.org/AaDNOf1o)!
+
+- <time>Feb 23, 2022</time> [Lost to Stockfish Level 3 after the advanced variation](https://lichess.org/GSOkSqqtrV4v).
+
+- <time>Feb 22, 2022</time> Continued learning the advanced variation.
+
+- <time>Feb 21, 2022</time> Continued learning the advanced variation.
+
+- <time>Feb 20, 2022</time> [Got checkmated after Caro-Kann defense](https://lichess.org/mktV30iE).
+
+- <time>Feb 19, 2022</time> [This one](https://lichess.org/FswbwI7V) is just funny, got checkmated in 20 moves lol.
+
+- <time>Feb 18, 2022</time> Learnt some lines against the Fanatasy Caro-Kann variation.
+
+- <time>Feb 17, 2022</time> [Lost very badly after the white pawn pushed](https://lichess.org/9Ksu9gK8).
+
+- <time>Feb 16, 2022</time> [Lost badly after a classical variation](https://lichess.org/mpHlY3Jp).
+
+- <time>Feb 15, 2022</time> [This may be the angriest I've been with myself over a chess game](https://lichess.org/bXJDmXL0hwOp). Two major blunders from a Caro-Kann opening.
+
+- <time>Feb 14, 2022</time> [Continued with the Caro-Kann Defense](https://lichess.org/o0Wpu0Dg).
+
+- <time>Feb 13, 2022</time> Continued with the Caro-Kann Defense.
+
+- <time>Feb 12, 2022</time> Continued with the Caro-Kann Defense.
+
+- <time>Feb 11, 2022</time> Continued with the Caro-Kann Defense.
+
+- <time>Feb 10, 2022</time> Continued with the Caro-Kann Defense.
+
+- <time>Feb 09, 2022</time> Started learning [the Caro-Kann Defense via GothamChess](https://www.youtube.com/watch?v=ebfzL_GwiIE) and (sort of) [played it against Stockfish Level 1](https://lichess.org/RyNrtNW2B3q7).
+
+- <time>Feb 08, 2022</time> For fun, I played against Stockfish Level 4 twice ([1](https://lichess.org/BZsxD5VrVPL1), [2](https://lichess.org/AOpeeeDwoC3l)). Will learn an opening tomorrow and practice it against Level 3 and 4.
+
+- <time>Feb 07, 2022</time> Finished with Knight & Bishop Mate, which means I've finished the whole practice section!
+
+- <time>Feb 06, 2022</time> Finished with 7th Rank Rook Pawn (Passive)!
+
+- <time>Feb 05, 2022</time> Started with [7th Rank Rook Pawn (Passive)](https://lichess.org/practice/rook-endgames/7th-rank-rook-pawn/).
+
+- <time>Feb 04, 2022</time> Finished with 7th Rank Rook Pawn!
+
+- <time>Feb 03, 2022</time> Continued with 7th Rank Rook Pawn. Will be done with this tomorrow!
+
+- <time>Feb 02, 2022</time> Continued with 7th Rank Rook Pawn. Nearly done.
+
+- <time>Feb 01, 2022</time> Continued with 7th Rank Rook Pawn.
+
+- <time>Jan 31, 2022</time> Continued with 7th Rank Rook Pawn.
+
+- <time>Jan 30, 2022</time> Started with [7th-Rank Rook Pawn](https://lichess.org/practice/pawn-endgames/7th-rank-rook-pawn/), this section is quite long!
+
+- <time>Jan 29, 2022</time> Finished Opposition, really cool practice section!
+
+- <time>Jan 28, 2022</time> Finished [the Direct Opposition part of Opposition](https://lichess.org/practice/pawn-endgames/opposition/).
+
+- <time>Jan 27, 2022</time> Finished with Key Squares.
+
+- <time>Jan 26, 2022</time> Started with [Key Squares](https://lichess.org/practice/pawn-endgames/key-squares/).
+- <time>Jan 25, 2022</time> Continued with my Knight and Bishop Mate lesson.
+
+- <time>Jan 24, 2022</time> Finished with [Desperado](https://lichess.org/practice/intermediate-tactics/desperado/).
+
+- <time>Jan 23, 2022</time> Finished with [Deflection](https://lichess.org/practice/intermediate-tactics/deflection/).
+
+- <time>Jan 22, 2022</time> Finished with [Attraction](https://lichess.org/practice/intermediate-tactics/attraction)
+
+- <time>Jan 21, 2022</time> Finished with [Counter Check](https://lichess.org/practice/intermediate-tactics/counter-check/).
+
+- <time>Jan 20, 2022</time> Finished with [Undermining](https://lichess.org/practice/intermediate-tactics/undermining/).
+
+- <time>Jan 19, 2022</time> Finished with [X-Ray](https://lichess.org/practice/basic-tactics/x-ray/).
+
+- <time>Jan 18, 2022</time> Finished with [Interference](https://lichess.org/practice/intermediate-tactics/interference/), really interesting!
+
+- <time>Jan 17, 2022</time> Finished with [Zugzwang](https://lichess.org/practice/intermediate-tactics/zugzwang) (my new favourite word) and [Underpromotion](https://lichess.org/practice/intermediate-tactics/underpromotion)
+
+- <time>Jan 16, 2022</time> Finished with [Overloaded Pieces](https://lichess.org/practice/basic-tactics/overloaded-pieces/o734CNqp/TgeQz3DF) and got close, [but ultimately still resigned to Stockfish Level 4 after a long break](https://lichess.org/ngkPjQiq).
+
+- <time>Jan 15, 2022</time> Finished with [Double Check](https://lichess.org/practice/basic-tactics/double-check/RUQASaZm) and [Zwischenzug](https://lichess.org/practice/basic-tactics/zwischenzug/ITWY4GN2).
+
+- <time>Jan 14, 2022</time> Finished with Discovered Attacks.
+
+- <time>Jan 13, 2022</time> Started with Discovered Attacks.
+
+- <time>Jan 12, 2022</time> Finished The Fork! Will start [Discovered Attacks](https://lichess.org/practice/basic-tactics/discovered-attacks/MnsJEWnI) tomorrow.
+
+- <time>Jan 11, 2022</time> Continued with The Fork.
+
+- <time>Jan 10, 2022</time> Started with [The Fork](https://lichess.org/practice/basic-tactics/the-fork/Qj281y1p).
+
+- <time>Jan 09, 2022</time> Going to actually practice chess by learning theory and finishing my practice on lichess (+ doing a puzzle every day starting from tomorrow). Finished [learning about skewers](https://lichess.org/practice/basic-tactics/the-skewer/tuoBxVE5/DXc6bhG2).
+
+- <time>Jan 08, 2022</time> Lost two games ([1](https://lichess.org/M8ivEcSR4DdN), [2](https://lichess.org/IYmMcmkwMy4c)), one against Stockfish Level 4 and against a person in rapid.
+
+- <time>Jan 07, 2022</time> [I HAD TWO QUEENS AND I STILL STALEMATED STOCKFISH LEVEL 4!](https://lichess.org/zAd107Wb) This is why there are so few grandmasters.
+
+- <time>Jan 06, 2022</time> Resigned again in my final game against my brother.
+
+- <time>Jan 05, 2022</time> Resigned against my brother.
+
+- <time>Jan 04, 2022</time> [Checkmated Stockfish Level 3](https://lichess.org/aSZ6xu0R), it shocks me how well made lichess is, all for free and open-source.
+
+- <time>Jan 03, 2022</time> Continued my Knight & Bishop Mate lessons.
+
+- <time>Jan 02, 2022</time> Learnt about [the Greek Gift](https://lichess.org/practice/intermediate-tactics/greek-gift) and won against my brother as black via resignation.
+
+- <time>Jan 01, 2022</time> Lost a couple of games, but [at least I beat level 3](https://lichess.org/dIIOAovkznvI).
+
+- <time>Dec 31, 2021</time> Lost countless number of times to bots and 2 times in Blitz, hope to see some improvement in 2022 for chess.
+
+- <time>Dec 30, 2021</time> Lost to my brother twice in Blitz.
+
+- <time>Dec 29, 2021</time> Stockfish Level 4 [got a surprise checkmate for me](https://lichess.org/WBSHbU3NCtjX) as a belated Christmas gift...
+
+- <time>Dec 28, 2021</time> Stockfish Level 4 is still out of reach, lost three games. ([1](https://lichess.org/dOtufNjh95pj), [2](https://lichess.org/eowlokNciIP3), [3](https://lichess.org/r3XK9OrQWzno))
+
+- <time>Dec 27, 2021</time> Won against my brother via resignation.
+
+- <time>Dec 26, 2021</time> Lost (badly) to Stockfish Level 4 in three games ([1](https://lichess.org/3slS78GzEO03), [2](https://lichess.org/60oZW1XtM7Qw), [3](https://lichess.org/vBr40xEKWHmB)). At least I won twice against my brother.
+
+- <time>Dec 25, 2021</time> Lost (badly) to my brother in chess.
+
+- <time>Dec 24, 2021</time> Resigned twice against Stockfish Level 4 ([1](https://lichess.org/vtoIvaZ2ryOe), [2](https://lichess.org/VziO9EPPqzO3)).
+
+- <time>Dec 23, 2021</time> Played 4 games against Stockfish Level 3 ([1](https://lichess.org/uWabhhcoX1Mx), [2](https://lichess.org/YudvFGz2ha2M), [3](https://lichess.org/4jRE3GWC1ay0), [4](https://lichess.org/gEUKIC6wlR9o)) which resulted in 2 losses ([1 checkmate](https://lichess.org/uWabhhcoX1Mx) and [1 resignation](https://lichess.org/4jRE3GWC1ay0)), [a stalemate](https://lichess.org/YudvFGz2ha2M) (which resulted in a facepalm) and [a win](https://lichess.org/gEUKIC6wlR9o)!
+
+- <time>Dec 22, 2021</time> Played 3 games against Stockfish Level 2 ([1](https://lichess.org/MlE35gfEgXnO), [2](https://lichess.org/MYEEyCi41Tko), [3](https://lichess.org/iD4XbTGjQQYN)), I was so close to losing in the 3rd game, then the bot makes a huge, huge blunder by not taking my queen with his bishop, which led to checkmate.
+
+- <time>Dec 21, 2021</time> Played 3 games against Stockfish Level 1 ([1](https://lichess.org/K4QhMifiyTql), [2](https://lichess.org/zqJkIJjC8evH), [3](https://lichess.org/MmRJXrJc3C1i)) and got checkmate in the first and last game. My revenge against Level 1 is complete.
+
+- <time>Dec 20, 2021</time> [Stalemated Level 1 again](https://lichess.org/KjGeLucv), how does this keep happening?
+
+- <time>Dec 19, 2021</time> I am so bad at chess it's funny, I played three games ([1](https://lichess.org/w3qLvswJRtBa), [2](https://lichess.org/gEbIMqtyK7xr), [3](https://lichess.org/dmJPaET7D5z3)) with the first being a loss to Stockfish Level 3, to boost my confidence I played against Level 1 and somehow lost and stalemated respectively.
+
+- <time>Dec 18, 2021</time> Played two games this time ([1](https://lichess.org/CHS7tA4S8k07), [2](https://lichess.org/7JdlfKzuRmdZ)) and the second one was very interesting.
+
+- <time>Dec 17, 2021</time> Played three games against Stockfish Level 3 and [lost all three](https://lichess.org/@/y_arjun_y/all).
+
+- <time>Dec 16, 2021</time> Checkmated [Stockfish Level 2 as black](https://lichess.org/s0GesXfH)!
+
+- <time>Dec 15, 2021</time> So close to checkmating Stockfish Level 2! Alas, [I stalemated](https://lichess.org/hrhwm3EO).
+
+- <time>Dec 14, 2021</time> Started with the [Knight & Bishop Mate](https://lichess.org/practice/checkmates/knight--bishop-mate/), [messed up against Stockfish Level 2](https://lichess.org/l8vSC5KKHEuP) and finished [The Pin](https://lichess.org/practice/basic-tactics/the-pin/).
+
+- <time>Dec 13, 2021</time> [Got destroyed by Stockfish Level 2](https://lichess.org/hsAFJKeHh2at) and finished Piece Checkmates II.
+
+- <time>Dec 12, 2021</time> Continued with Piece Checkmates II.
+
+- <time>Dec 11, 2021</time> Started with [Piece Checkmates II](https://lichess.org/practice/checkmates/piece-checkmates-ii)
+
+- <time>Dec 10, 2021</time> [Last game against Stockfish Level 1](https://lichess.org/qi4YECRe).
+
+- <time>Dec 09, 2021</time> Finished with Checkmate Patterns IV.
+
+- <time>Dec 08, 2021</time> Started with [Checkmate Patterns IV](https://lichess.org/practice/checkmates/checkmate-patterns-iv/) and [had a fun game against Stockfish Level 1](https://lichess.org/Ta5BnnXi). Magnus might win today, but we'll see. (Edit: [Draw.](https://www.theguardian.com/sport/live/2021/dec/08/magnus-carlsen-v-ian-nepomniachtchi-world-chess-championship-game-10-live))
+
+- <time>Dec 07, 2021</time> Finished Checkmate Patterns III. I smell a draw for today's match, both Magnus and Nepo will be well-rested. (Edit: I'm so sorry Nepo.)
+
+- <time>Dec 06, 2021</time> Started with [Checkmate Patterns III](https://lichess.org/practice/checkmates/checkmate-patterns-iii).
+
+- <time>Dec 05, 2021</time> Continued with Checkmate Patterns II. I'm going to take a risk and say that Nepo wins today. Let's see if I'm right. (Edit: I was [very wrong](https://www.theguardian.com/sport/live/2021/dec/05/magnus-carlsen-v-ian-nepomniachtchi-world-chess-championship-game-8-live).)
+
+- <time>Dec 04, 2021</time> Continued with Checkmate Patterns II. [Magnus won the sixth game and he and Ian now have the longest game in a World Chess Championship!](https://www.theguardian.com/sport/2021/dec/03/chess-carlsen-and-nepomniachtchi-face-weekend-crunch-games-in-dubai)
+
+- <time>Dec 03, 2021</time> Won against my dad with the black pieces via checkmate.
+
+- <time>Dec 02, 2021</time> Started [Checkmate Patterns II](https://lichess.org/practice/checkmates/checkmate-patterns-ii/).
+
+- <time>Dec 01, 2021</time> Completed Checkmate Patterns I. Pretty sure today's [World Chess Championship](https://en.wikipedia.org/wiki/World_Chess_Championship_2021) match is going to be a draw. (Edit: I was right.)
+
+- <time>Nov 30, 2021</time> Started with [Checkmate Patterns I](https://lichess.org/practice/checkmates/checkmate-patterns-i/), what a crazy month for chess!
+
+- <time>Nov 29, 2021</time> Finished Piece Checkmates I and [got absolutely destroyed by Stockfish Level 2](https://lichess.org/HYLIMU7TSZqm).
+
+- <time>Nov 28, 2021</time> Started with [Piece Checkmates I](https://lichess.org/practice/checkmates/piece-checkmates-i) and [played my first game on lichess v.s. Stockfish level 1.](https://lichess.org/gI7HGjiW#0)
+
+- <time>Nov 27, 2021</time> Finished the ["learning section"](https://lichess.org/learn#/) of the chess course!
+
+- <time>Nov 26, 2021</time> Switched to [lichess](https://lichess.org) and started their [chess course](https://lichess.org/learn).
+
+- <time>Nov 25, 2021</time> Damn, my game against Antonio today was incredible (even though I lost). I got 74 accuracy! [Here's the game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.25%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22arjunyadav7%22%5D%0A%5BBlack%20%22Antonio%22%5D%0A%5BResult%20%220-1%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%5BBlackElo%20%221500%22%5D%0A%5BWhiteElo%20%22744%22%5D%0A%0A1.%20e4%20e5%202.%20Nf3%20Nc6%203.%20d4%20exd4%204.%20Nxd4%20Nxd4%205.%20Qxd4%20d6%206.%20Bc4%20Be6%207.%20b3%20c6%208.%0AO-O%20Qf6%209.%20Qxf6%20Nxf6%2010.%20Re1%20Bxc4%2011.%20bxc4%20h6%2012.%20e5%20dxe5%2013.%20Rxe5%2B%20Kd7%2014.%20Nc3%0ARe8%2015.%20Bf4%20Rxe5%2016.%20Bxe5%20Ng4%2017.%20f4%20Nxe5%2018.%20fxe5%20Bb4%2019.%20Ne4%20Re8%2020.%20Rd1%2B%20Ke6%0A21.%20Rd6%2B%20Bxd6%2022.%20Nxd6%20Rf8%2023.%20h3%20Kxe5%2024.%20Nxb7%20Rb8%2025.%20Nc5%20Kd4%2026.%20Nb3%2B%20Kc3%2027.%0ANa5%20Rb6%2028.%20c5%20Ra6%2029.%20Nb7%20Rxa2%2030.%20Nd8%20a5%2031.%20Nxc6%20Ra4%2032.%20Na7%20Rc4%2033.%20c6%20a4%0A34.%20Nb5%2B%20Kb4%2035.%20Na7%20Rc3%2036.%20g4%20Rxc2%2037.%20h4%20a3%2038.%20g5%20a2%2039.%20gxh6%20a1%3DQ%23%200-1&tab=analysis&referrer=vs-computer-analyze).
+
+- <time>Nov 24, 2021</time> Completed the [Value of the Pieces](https://www.chess.com/lessons/capturing-pieces/value-of-the-pieces) and had some fun [learning about the Stafford Gambit](https://www.chess.com/blog/ThummimS/stafford-gambit-traps-a-complete-guide)
+
+- <time>Nov 23, 2021</time> Antonio is really tough.
+
+- <time>Nov 22, 2021</time> [Antonio](https://chess.com/play/computer/) is tough.
+
+- <time>Nov 21, 2021</time> Defeated Nelson with the black pieces! [Here's the game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.21%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22arjunyadav7%22%5D%0A%5BBlack%20%22Nelson%22%5D%0A%5BResult%20%221-0%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%5BBlackElo%20%221300%22%5D%0A%5BWhiteElo%20%22744%22%5D%0A%0A1.%20d4%20e6%202.%20e4%20Qh4%203.%20Nc3%20Bd6%204.%20Nf3%20Qg4%205.%20h3%20Qg6%206.%20e5%20Bb4%207.%20a3%20Bxc3%2B%208.%20bxc3%0ANe7%209.%20Bc4%20d5%2010.%20Bb3%20O-O%2011.%20O-O%20f6%2012.%20Nh4%20Qf7%2013.%20c4%20Nf5%2014.%20Nf3%20dxc4%2015.%0ABxc4%20fxe5%2016.%20dxe5%20b5%2017.%20Bxb5%20c6%2018.%20Bc4%20Ba6%2019.%20Bd3%20Bxd3%2020.%20cxd3%20Nd4%2021.%20Nxd4%0ANd7%2022.%20Nxc6%20Rac8%2023.%20Nxa7%20Rc7%2024.%20Nb5%20Nxe5%2025.%20d4%20Nf3%2B%2026.%20Qxf3%20Qxf3%2027.%20gxf3%0ARb7%2028.%20a4%20h6%2029.%20Nd6%20Rb4%2030.%20Rd1%20Rb3%2031.%20Kg2%20Rfxf3%2032.%20a5%20Rxh3%2033.%20a6%20Rhc3%2034.%0Aa7%20Kh7%2035.%20a8%3DQ%20Rf3%2036.%20Rd3%20Rxf2%2B%2037.%20Kxf2%20Rxd3%2038.%20Qe4%2B%20g6%2039.%20Qxd3%20h5%2040.%20Qe4%0AKh8%2041.%20Qxe6%20Kh7%2042.%20Qe7%2B%20Kh8%2043.%20Ne4%20Kg8%2044.%20d5%20Kh8%2045.%20d6%20Kg8%2046.%20d7%20Kh8%2047.%0Ad8%3DQ%23%201-0&tab=analysis&referrer=vs-computer-analyze).
+
+- <time>Nov 20, 2021</time> Played 2 games with Nelson, and drew one!
+
+- <time>Nov 19, 2021</time> Very close to winning against [Nelson](https://chess.com/play/computer), but I eventually lost way too much material.
+
+- <time>Nov 18, 2021</time> "One day Sven, one day." Well folks, that day finally came! [I checkmated Sven with the black pieces](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.18%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22Sven%22%5D%0A%5BBlack%20%22arjunyadav7%22%5D%0A%5BResult%20%220-1%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%5BBlackElo%20%22744%22%5D%0A%5BWhiteElo%20%221100%22%5D%0A%0A1.%20d4%20d5%202.%20Nf3%20Nc6%203.%20c4%20f6%204.%20c5%20e5%205.%20g3%20exd4%206.%20Nxd4%20Bxc5%207.%20Nc2%20Nge7%208.%20Qd3%0AO-O%209.%20Qb3%20Bf5%2010.%20Rg1%20Na5%2011.%20Qc3%20b6%2012.%20Ne3%20Bd7%2013.%20Bg2%20d4%2014.%20Bxa8%20dxc3%2015.%0ABe4%20cxb2%2016.%20Bxb2%20Bb4%2B%2017.%20Nc3%20Bh3%2018.%20a4%20Qd4%2019.%20Bd3%20Bxc3%2B%2020.%20Kd1%20Bxb2%2021.%20Ra2%0AQb4%2022.%20Nc2%20Qb3%2023.%20Rh1%20Qxa2%2024.%20Bxh7%2B%20Kxh7%2025.%20Ne1%20Rd8%2B%2026.%20Nd3%20Ba3%2027.%20Ke1%0AQa1%2B%2028.%20Kd2%20Qxh1%2029.%20Kc2%20Nc4%2030.%20f4%20Ne3%2B%2031.%20Kb3%20Be6%2B%2032.%20Kxa3%20Qa1%2B%2033.%20Kb4%0AQb1%2B%2034.%20Kc3%20Rd4%2035.%20Kxd4%20Nc6%2B%2036.%20Kxe3%20Nb4%2037.%20h4%20Nxd3%2038.%20exd3%20Qe1%2B%2039.%20Kf3%0AQf1%2B%2040.%20Ke4%20Qe1%2B%2041.%20Kf3%20Bd5%2B%2042.%20Kg4%20Qe6%2B%2043.%20f5%20Qe2%2B%2044.%20Kh3%20Bg2%2B%2045.%20Kh2%0ABf3%2B%2046.%20Kg1%20Qe1%2B%2047.%20Kh2%20c5%2048.%20g4%20Bxg4%2049.%20Kg2%20c4%2050.%20a5%20cxd3%2051.%20axb6%20axb6%0A52.%20h5%20d2%2053.%20h6%20gxh6%2054.%20Kh2%20d1%3DQ%2055.%20Kg2%20Qdd2%23%200-1&tab=analysis&referrer=vs-computer-analyze)!
+
+- <time>Nov 17, 2021</time> Played several games online.
+
+- <time>Nov 16, 2021</time> One day Sven, one day. Also played [a really, really funny blitz game where my opponent only moved their king for the majority of the game.](https://www.chess.com/game/live/30805164009)
+
+- <time>Nov 15, 2021</time> Finished my [weekly lesson.](https://www.chess.com/lessons/winning-the-game)
+
+- <time>Nov 14, 2021</time> Drew Sven due to a mouse slip. [Here is the game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.14%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22Sven%22%5D%0A%5BBlack%20%22arjunyadav7%22%5D%0A%5BResult%20%221/2-1/2%22%5D%0A%5BBlackElo%20%22744%22%5D%0A%5BWhiteElo%20%221100%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%0A1.%20d4%20d5%202.%20c4%20e6%203.%20Nf3%20Nf6%204.%20Nc3%20Nc6%205.%20Bg5%20Bd6%206.%20Qc1%20O-O%207.%20Bh4%20h6%208.%20e3%20g5%0A9.%20cxd5%20exd5%2010.%20a3%20a6%2011.%20Bxg5%20hxg5%2012.%20Kd1%20g4%2013.%20Ng5%20b5%2014.%20Bd3%20b4%2015.%20Na2%0ABb7%2016.%20Be2%20bxa3%2017.%20h4%20axb2%2018.%20Qxb2%20Qb8%2019.%20Kc2%20a5%2020.%20Kb1%20Nb4%2021.%20Nc3%20Ne4%2022.%0ANcxe4%20dxe4%2023.%20Re1%20a4%2024.%20Bxg4%20a3%2025.%20Qd2%20a2%2B%2026.%20Kc1%20Ra3%2027.%20Rh1%20Rd3%2028.%20Qe2%0ARc3%2B%2029.%20Kd1%20Qa7%2030.%20Qf1%20Qa3%2031.%20Qb5%20Qb2%2032.%20Nxe4%20Bxe4%2033.%20Bf5%20Bxf5%2034.%20Qxf5%20Nc6%0A35.%20Re1%20f6%2036.%20Qg6%2B%20Kh8%2037.%20Qh6%2B%20Kg8%2038.%20Qg6%2B%20Kh8%2039.%20Qh6%2B%20Kg8%2040.%20Qg6%2B%201/2-1/2&tab=analysis&referrer=vs-computer-analyze).
+
+- <time>Nov 13, 2021</time> Thinking about (seriously) playing online.
+
+- <time>Nov 12, 2021</time> Had some fun with [lower-rated bots](https://chess.com/play/computer).
+
+- <time>Nov 11, 2021</time> Completed my weekly lesson. Moved away from Sven, and (for fun) I tried my hand at [DanyaBot](https://chess.com/play/computer/), I'm actually proud to say I only made 1 blunder (even though I lost).
+
+- <time>Nov 10, 2021</time> I think I will put the bots on the side and try to actually study the game instead of brute-forcing it.
+
+- <time>Nov 09, 2021</time> Same old, same old. I also had some fun [analyzing games](https://chess.com/analysis) and [learning the Caro-Kann](https://www.chess.com/openings/Caro-Kann-Defense). Later, I won against my dad with the black pieces via checkmate.
+
+- <time>Nov 08, 2021</time> So close! I blundered my queen again. I'll get three crowns against Sven sooner or later.
+
+- <time>Nov 07, 2021</time> I was so close but I blundered too many times.
+
+- <time>Nov 06, 2021</time> 1000 -> 1100 transition is tough.
+
+- <time>Nov 05, 2021</time> Jumped around different bots. Need to defeat Sven with three crowns soon.
+
+- <time>Nov 04, 2021</time> I played against [Jimmy](https://chess.com/play/computer) ~3 times, blundering my queen in the first two games, but winning in the last. [Here's that last game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.04%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22arjunyadav7%22%5D%0A%5BBlack%20%22Jimmy%22%5D%0A%5BResult%20%221-0%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%5BBlackElo%20%22600%22%5D%0A%5BWhiteElo%20%22744%22%5D%0A%0A1.%20e4%20d5%202.%20f3%20c5%203.%20d3%20Nh6%204.%20h3%20Bxh3%205.%20Nxh3%20f6%206.%20g4%20%7B%5B%25cal%20dh6g4%5D%5B%25c_arrow%0Ah6g4;from;h6;to;g4%5D%7D%206...%20Qd7%207.%20Nc3%20Kf7%208.%20Nxd5%20a6%209.%20b3%20b5%2010.%20Be2%20Qe6%2011.%20O-O%0ANc6%2012.%20b4%20Ra7%2013.%20bxc5%20b4%2014.%20Nxb4%20Qd7%2015.%20f4%20Nd8%2016.%20e5%20Ne6%2017.%20f5%20%7B%5B%25cal%0Adh6f5%5D%5B%25c_arrow%20h6f5;from;h6;to;f5%5D%7D%2017...%20Qc8%2018.%20fxe6%2B%20Kg8%2019.%20Bf4%20Qd8%2020.%20Nc6%0Aa5%2021.%20Nxd8%20Ra6%2022.%20g5%20fxe5%2023.%20Bxe5%20a4%2024.%20gxh6%20Rxe6%2025.%20Nxe6%20gxh6%2026.%20Nxf8%20h5%0A27.%20Nd7%20h6%2028.%20Bxh8%20h4%2029.%20Rf4%20a3%2030.%20Rxh4%20Kh7%2031.%20Ra4%20Kg8%2032.%20Rxa3%20Kxh8%2033.%0ARa8%2B%20Kh7%2034.%20Bg4%20Kg7%2035.%20Be6%20Kh7%2036.%20Qh5%20Kg7%2037.%20Qe8%20h5%2038.%20Rf1%20Kh6%2039.%20Nf4%20h4%0A40.%20Rf3%20Kg5%2041.%20Qg8%2B%20Kh6%2042.%20Qh8%2B%20Kg5%2043.%20Rg8%23%201-0&tab=analysis&referrer=vs-computer-analyze). Later, I played two games against my dad, I think the first one was a draw? (no legal moves but not in check) and the second one was a win via resignation.
+
+- <time>Nov 03, 2021</time> I finally defeated the pumpkin 3 days after Halloween. [Here's the game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.03%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22Pumpkin%22%5D%0A%5BBlack%20%22arjunyadav7%22%5D%0A%5BResult%20%220-1%22%5D%0A%5BBlackElo%20%22744%22%5D%0A%5BWhiteElo%20%221000%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%0A1.%20Nc3%20e5%202.%20Ne4%20d5%203.%20Nc3%20c6%204.%20b3%20Nf6%205.%20Bb2%20Bc5%206.%20a3%20O-O%207.%20f3%20e4%208.%20f4%20h6%0A9.%20e3%20g5%2010.%20g3%20Bg4%2011.%20Nce2%20a5%2012.%20f5%20Nh5%2013.%20c4%20Bxf5%2014.%20b4%20axb4%2015.%20Kf2%20dxc4%0A16.%20Bg2%20bxa3%2017.%20Be5%20Nd7%2018.%20Bc3%20Nb6%2019.%20Nh3%20Na4%2020.%20Nd4%20Nxc3%2021.%20dxc3%20a2%2022.%0AQg1%20Ra3%2023.%20Qe1%20Qa5%2024.%20Rc1%20g4%2025.%20Ng5%20hxg5%2026.%20Rf1%20b5%2027.%20Nxf5%20Re8%2028.%20Bh1%20Re5%0A29.%20Kg2%20Kh7%2030.%20Kg1%20Kg6%2031.%20Nd4%20Bxd4%2032.%20Rd1%20Bxc3%2033.%20Qe2%20Kh6%2034.%20Rd6%2B%20Kg7%2035.%0ARa1%20Bxa1%2036.%20Kg2%20Rb3%2037.%20Rd7%20c3%2038.%20Kf2%20Rb2%2039.%20Rd1%20Rxe2%2B%2040.%20Kxe2%20c2%2041.%20Rxa1%0AQc3%2042.%20Bg2%20Qxa1%2043.%20Kd2%20c1%3DQ%2B%2044.%20Ke2%20Qc2%23%200-1&tab=analysis&referrer=vs-computer-analyze). I also resigned against Sven again.
+
+- <time>Nov 02, 2021</time> So close, but I hanged my queen accidentally.
+
+- <time>Nov 01, 2021</time> I hate pumpkins. (Also, [I completed a lesson on rook checkmates.](https://www.chess.com/lessons/winning-the-game))
+
+- <time>Oct 31, 2021</time> Resigned against Sven for the quadrillionth time.
+
+- <time>Oct 30, 2021</time> Tried to defeat the damn [Pumpkin](https://chess.com/play/computer), was close but blundered the endgame.
+
+- <time>Oct 29, 2021</time> Kept resigning against Sven. Later in the day, I learnt about the [Scandinavian Defense](https://www.chess.com/openings/Scandinavian-Defense) and won against my dad with the white pieces via checkmate!
+
+- <time>Oct 28, 2021</time> Kept resigning against [Sven](https://chess.com/play/computer) and [finished the Assisted Checkmate lesson](https://www.chess.com/lessons/winning-the-game/assisted-checkmates).
 <hr />
 
 ## <span id="landingpage">Landing Page Project + App Integration</span>
@@ -9080,6 +8384,704 @@ class Solution:
 
 ## Done
 
+<hr />
+
+## <span id="duolingo">[Duolingo](https://duolingo.com)</span>
+
+<small>Oct 28, 2021-Oct 04, 2022</small>  
+<small>I learnt a bit of [Hindi](https://www.duolingo.com/enroll/hi/en/Learn-Hindi) and [French](https://www.duolingo.com/enroll/fr/en/Learn-French) with [Duolingo](https://duolingo.com) and earned a Level 5 Trophy for Hindi.</small>
+
+<hr />
+<small>Duolingo's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Oct 04, 2022</time> After more than a year (402 days) and reaching legendary in all but ~3 Hindi skills, I'm happy to call this project done :)
+
+- <time>Oct 03, 2022</time> Hit a 401-day streak.
+
+- <time>Oct 02, 2022</time> Hit a 400-day streak and reached legendary for Activity in Hindi. I'll (try to) finish this project tomorrow.
+
+- <time>Oct 01, 2022</time> Hit a 399-day streak. Will finish this project this month.
+
+- <time>Sep 30, 2022</time> Hit a 398-day streak.
+
+- <time>Sep 29, 2022</time> Hit a 397-day streak.
+
+- <time>Sep 28, 2022</time> Hit a 396-day streak.
+
+- <time>Sep 27, 2022</time> Hit a 395-day streak.
+
+- <time>Sep 26, 2022</time> Hit a 394-day streak.
+
+- <time>Sep 25, 2022</time> Hit a 393-day streak and reached legendary for "Home" in Hindi.
+
+- <time>Sep 24, 2022</time> Hit a 392-day streak.
+
+- <time>Sep 23, 2022</time> Hit a 391-day streak.
+
+- <time>Sep 22, 2022</time> Hit a 390-day streak.
+
+- <time>Sep 21, 2022</time> Hit a 389-day streak.
+
+- <time>Sep 20, 2022</time> Hit a 388-day streak.
+
+- <time>Sep 19, 2022</time> Hit a 387-day streak.
+
+- <time>Sep 18, 2022</time> Hit a 386-day streak.
+
+- <time>Sep 17, 2022</time> Hit a 385-day streak and reached legendary in Adjectives in Hindi.
+
+- <time>Sep 16, 2022</time> Hit a 384-day streak.
+
+- <time>Sep 15, 2022</time> Hit a 383-day streak.
+
+- <time>Sep 14, 2022</time> Hit a 382-day streak.
+
+- <time>Sep 13, 2022</time> Hit a 381-day streak.
+
+- <time>Sep 12, 2022</time> Hit a 380-day streak.
+
+- <time>Sep 11, 2022</time> Hit a 379-day streak.
+
+- <time>Sep 10, 2022</time> Hit a 378-day streak.
+
+- <time>Sep 09, 2022</time> Hit a 377-day streak.
+
+- <time>Sep 08, 2022</time> Hit a 376-day streak.
+
+- <time>Sep 07, 2022</time> Hit a 375-day streak.
+
+- <time>Sep 06, 2022</time> Hit a 374-day streak.
+
+- <time>Sep 05, 2022</time> Hit a 373-day streak.
+
+- <time>Sep 04, 2022</time> Hit a 372-day streak.
+
+- <time>Sep 03, 2022</time> Hit a 371-day streak.
+
+- <time>Sep 02, 2022</time> Hit a 370-day streak.
+
+- <time>Sep 01, 2022</time> Hit a 369-day streak.
+
+- <time>Aug 31, 2022</time> Hit a 368-day streak.
+
+- <time>Aug 30, 2022</time> Hit a 367-day streak.
+
+- <time>Aug 29, 2022</time> Hit a 366-day streak.
+
+- <time>Aug 28, 2022</time> Hit a 365-day streak!
+
+- <time>Aug 27, 2022</time> Hit a 364-day streak.
+
+- <time>Aug 26, 2022</time> Hit a 363-day streak.
+
+- <time>Aug 25, 2022</time> Hit a 362-day streak.
+
+- <time>Aug 24, 2022</time> Hit a 361-day streak.
+
+- <time>Aug 23, 2022</time> Hit a 360-day streak. 5 more days.
+
+- <time>Aug 22, 2022</time> Hit a 359-day streak.
+
+- <time>Aug 21, 2022</time> Hit a 358-day streak.
+
+- <time>Aug 20, 2022</time> Hit a 357-day streak.
+
+- <time>Aug 19, 2022</time> Hit a 356-day streak.
+
+- <time>Aug 18, 2022</time> Hit a 355-day streak. 10 more days.
+
+- <time>Aug 17, 2022</time> Hit a 354-day streak.
+
+- <time>Aug 16, 2022</time> Hit a 353-day streak. I didn't reach legendary in every skill but that's alright.
+
+- <time>Aug 15, 2022</time> Hit a 352-day streak.
+
+- <time>Aug 14, 2022</time> Hit a 351-day streak.
+
+- <time>Aug 13, 2022</time> Hit a 350-day streak. I'll try to get to legendary in all the non-legendary Hindi skills in the next two days.
+
+- <time>Aug 12, 2022</time> Hit a 349-day streak.
+
+- <time>Aug 11, 2022</time> Hit a 348-day streak.
+
+- <time>Aug 10, 2022</time> Hit a 347-day streak.
+
+- <time>Aug 09, 2022</time> Hit a 346-day streak.
+
+- <time>Aug 08, 2022</time> Hit a 345-day streak. 20 more days.
+
+- <time>Aug 07, 2022</time> Hit a 344-day streak.
+
+- <time>Aug 06, 2022</time> Hit a 343-day streak.
+
+- <time>Aug 05, 2022</time> Hit a 342-day streak.
+
+- <time>Aug 04, 2022</time> Hit a 341-day streak.
+
+- <time>Aug 03, 2022</time> Hit a 340-day streak.
+
+- <time>Aug 02, 2022</time> Hit a 339-day streak.
+
+- <time>Aug 01, 2022</time> Hit a 338-day streak.
+
+- <time>Jul 31, 2022</time> Hit a 337-day streak.
+
+- <time>Jul 30, 2022</time> Hit a 336-day streak.
+
+- <time>Jul 29, 2022</time> Hit a 335-day streak. 30 more days.
+
+- <time>Jul 28, 2022</time> Hit a 334-day streak.
+
+- <time>Jul 27, 2022</time> Hit a 333-day streak.
+
+- <time>Jul 26, 2022</time> Hit a 332-day streak.
+
+- <time>Jul 25, 2022</time> Hit a 331-day streak and got legendary on Work in Hindi!
+
+- <time>Jul 24, 2022</time> Hit a 330-day streak. 35 more days.
+
+- <time>Jul 23, 2022</time> Hit a 329-day streak.
+
+- <time>Jul 22, 2022</time> Hit a 328-day streak.
+
+- <time>Jul 21, 2022</time> Hit a 327-day streak.
+
+- <time>Jul 20, 2022</time> Hit a 326-day streak.
+
+- <time>Jul 19, 2022</time> Hit a 325-day streak.
+
+- <time>Jul 18, 2022</time> Hit a 324-day streak.
+
+- <time>Jul 17, 2022</time> Hit a 323-day streak.
+
+- <time>Jul 16, 2022</time> Hit a 322-day streak.
+
+- <time>Jul 15, 2022</time> Hit a 321-day streak.
+
+- <time>Jul 14, 2022</time> Hit a 320-day streak.
+
+- <time>Jul 13, 2022</time> Hit a 319-day streak.
+
+- <time>Jul 12, 2022</time> Hit a 318-day streak.
+
+- <time>Jul 11, 2022</time> Hit a 317-day streak (and actually hit my daily goal this time).
+
+- <time>Jul 10, 2022</time> Hit a 316-day streak.
+
+- <time>Jul 09, 2022</time> Hit a 315-day streak. 50 more days.
+
+- <time>Jul 08, 2022</time> Hit a 314-day streak.
+
+- <time>Jul 07, 2022</time> Hit a 313-day streak.
+
+- <time>Jul 06, 2022</time> Hit a 312-day streak.
+
+- <time>Jul 05, 2022</time> Hit a 311-day streak and reached legendary in Family.
+
+- <time>Jul 04, 2022</time> Hit a 310-day streak.
+
+- <time>Jul 03, 2022</time> Hit a 309-day streak.
+
+- <time>Jul 02, 2022</time> Hit a 308-day streak.
+
+- <time>Jul 01, 2022</time> Hit a 307-day streak.
+
+- <time>Jun 30, 2022</time> Hit a 306-day streak.
+
+- <time>Jun 29, 2022</time> Hit a 305-day streak.
+
+- <time>Jun 28, 2022</time> Hit a 304-day streak.
+
+- <time>Jun 27, 2022</time> Hit a 303-day streak.
+
+- <time>Jun 26, 2022</time> Hit a 302-day streak.
+
+- <time>Jun 25, 2022</time> Hit a 301-day streak.
+
+- <time>Jun 24, 2022</time> Hit a 300-day streak. ~2 more months to go!
+
+- <time>Jun 23, 2022</time> Hit a 299-day streak.
+
+- <time>Jun 22, 2022</time> Hit a 298-day streak. 13 more skills left for legendary in Hindi.
+
+- <time>Jun 21, 2022</time> Hit a 297-day streak.
+
+- <time>Jun 20, 2022</time> Hit a 296-day streak.
+
+- <time>Jun 19, 2022</time> Hit a 295-day streak.
+
+- <time>Jun 18, 2022</time> Hit a 294-day streak.
+
+- <time>Jun 17, 2022</time> Hit a 293-day streak.
+
+- <time>Jun 16, 2022</time> Hit a 292-day streak.
+
+- <time>Jun 15, 2022</time> Hit a 291-day streak.
+
+- <time>Jun 14, 2022</time> Hit a 290-day streak.
+
+- <time>Jun 13, 2022</time> Hit a 289-day streak.
+
+- <time>Jun 12, 2022</time> Hit a 288-day streak.
+
+- <time>Jun 11, 2022</time> Hit a 287-day streak.
+
+- <time>Jun 10, 2022</time> Hit a 286-day streak.
+
+- <time>Jun 09, 2022</time> Hit a 285-day streak.
+
+- <time>Jun 08, 2022</time> Hit a 284-day streak and reached legendary in Food in Hindi!
+
+- <time>Jun 07, 2022</time> Hit a 283-day streak.
+
+- <time>Jun 06, 2022</time> Hit a 282-day streak.
+
+- <time>Jun 05, 2022</time> Hit a 281-day streak. Incroyable!
+
+- <time>Jun 04, 2022</time> Hit a 280-day streak.
+
+- <time>Jun 03, 2022</time> Hit a 279-day streak. Why bother with inversion when Est-ce que/qu' seems to work everywhere in French when asking a question? Inversion to me is comparatively much harder.
+
+- <time>Jun 02, 2022</time> Hit a 278-day streak.
+
+- <time>Jun 01, 2022</time> Hit a 277-day streak.
+
+- <time>May 31, 2022</time> Hit a 276-day streak.
+
+- <time>May 30, 2022</time> Hit a 275-day streak.
+
+- <time>May 29, 2022</time> Hit a 274-day streak and reached legendary on Nature in Hindi!
+
+- <time>May 28, 2022</time> Hit a 273-day streak.
+
+- <time>May 27, 2022</time> Hit a 272-day streak.
+
+- <time>May 26, 2022</time> Hit a 271-day streak. [Seven euros for a cappuccino](https://www.duolingo.com/stories/fr-en-c-est-tout-un-art?mode=conversation)?!
+
+- <time>May 25, 2022</time> Hit a 270-day streak.
+
+- <time>May 24, 2022</time> Hit a 269-day streak.
+
+- <time>May 23, 2022</time> Hit a 268-day streak.
+
+- <time>May 22, 2022</time> Hit a 267-day streak.
+
+- <time>May 21, 2022</time> Hit a 266-day streak.
+
+- <time>May 20, 2022</time> Hit a 265-day streak and unlocked the next set of stories!
+
+- <time>May 19, 2022</time> Hit a 264-day streak. Why do we have grammatical gender?
+
+- <time>May 18, 2022</time> Hit a 263-day streak.
+
+- <time>May 17, 2022</time> Hit a 262-day streak.
+
+- <time>May 16, 2022</time> Hit a 261-day streak and got to legendary for Food 2 in Hindi!
+
+- <time>May 15, 2022</time> Hit a 260-day streak.
+
+- <time>May 14, 2022</time> Hit a 259-day streak.
+
+- <time>May 13, 2022</time> Hit a 258-day streak.
+
+- <time>May 12, 2022</time> Hit a 257-day streak.
+
+- <time>May 11, 2022</time> Hit a 256-day streak.
+
+- <time>May 10, 2022</time> Hit a 255-day streak.
+
+- <time>May 09, 2022</time> Hit a 254-day streak.
+
+- <time>May 08, 2022</time> Hit a 253-day streak.
+
+- <time>May 07, 2022</time> Hit a 252-day streak and got to legendary for Day/Month in Hindi!
+
+- <time>May 06, 2022</time> Hit a 251-day streak.
+
+- <time>May 05, 2022</time> Hit a 250-day streak! Back to some legendary progress for Hindi.
+
+- <time>May 04, 2022</time> Hit a 249-day streak. One more day!
+
+- <time>May 03, 2022</time> Hit a 248-day streak. Two more days!
+
+- <time>May 02, 2022</time> Hit a 247-day streak. Three more days!
+
+- <time>May 01, 2022</time> Hit a 246-day streak. Four more days!
+
+- <time>Apr 30, 2022</time> Hit a 245-day streak. I feel like my reading/listening in French has improved quite a bit with the stories.
+
+- <time>Apr 29, 2022</time> Hit a 244-day streak.
+
+- <time>Apr 28, 2022</time> Hit a 243-day streak.
+
+- <time>Apr 27, 2022</time> Hit a 242-day streak.
+
+- <time>Apr 26, 2022</time> Hit a 241-day streak and wasted a legendary attempt :(
+
+- <time>Apr 25, 2022</time> Hit a 240-day streak and got to legendary for Numbers (Hindi).
+
+- <time>Apr 24, 2022</time> Hit a 239-day streak.
+
+- <time>Apr 23, 2022</time> Hit a 238-day streak.
+
+- <time>Apr 22, 2022</time> Hit a 237-day streak.
+
+- <time>Apr 21, 2022</time> Hit a 236-day streak.
+
+- <time>Apr 20, 2022</time> Hit a 235-day streak.
+
+- <time>Apr 19, 2022</time> Hit a 234-day streak.
+
+- <time>Apr 18, 2022</time> Hit a 233-day streak and tested out of a bunch of skills lol.
+
+- <time>Apr 17, 2022</time> Hit a 232-day streak.
+
+- <time>Apr 16, 2022</time> Hit a 231-day streak and practiced speaking French with my Focusmate!
+
+- <time>Apr 15, 2022</time> Hit a 230-day streak.
+
+- <time>Apr 14, 2022</time> Hit a 229-day streak.
+
+- <time>Apr 13, 2022</time> Hit a 228-day streak.
+
+- <time>Apr 12, 2022</time> Hit a 227-day streak.
+
+- <time>Apr 11, 2022</time> Hit a 226-day streak.
+
+- <time>Apr 10, 2022</time> Hit a 225-day streak.
+
+- <time>Apr 09, 2022</time> Hit a 224-day streak.
+
+- <time>Apr 08, 2022</time> Hit a 223-day streak.
+
+- <time>Apr 07, 2022</time> Hit a 222-day streak.
+
+- <time>Apr 06, 2022</time> Hit a 221-day streak.
+
+- <time>Apr 05, 2022</time> Hit a 220-day streak.
+
+- <time>Apr 04, 2022</time> Hit a 219-day streak. I'm ~91% done with the 20000 XP achievement!
+
+- <time>Apr 03, 2022</time> Hit a 218-day streak.
+
+- <time>Apr 02, 2022</time> Hit a 217-day streak.
+
+- <time>Apr 01, 2022</time> Hit a 216-day streak.
+
+- <time>Mar 31, 2022</time> Hit a 215-day streak.
+
+- <time>Mar 30, 2022</time> Hit a 214-day streak.
+
+- <time>Mar 29, 2022</time> Hit a 213-day streak.
+
+- <time>Mar 28, 2022</time> Hit a 212-day streak.
+
+- <time>Mar 27, 2022</time> Hit a 211-day streak. Lundi, mardi, mercredi, jeudi, vendredi, samedi and dimanche!
+
+- <time>Mar 26, 2022</time> Hit a 210-day streak.
+
+- <time>Mar 25, 2022</time> Hit a 209-day streak.
+
+- <time>Mar 24, 2022</time> Hit a 208-day streak, I wonder when I'll get the legendary trophy for Hindi.
+
+- <time>Mar 23, 2022</time> Hit a 207-day streak.
+
+- <time>Mar 22, 2022</time> Hit a 206-day streak.
+
+- <time>Mar 21, 2022</time> Hit a 205-day streak.
+
+- <time>Mar 20, 2022</time> Hit a 204-day streak.
+
+- <time>Mar 19, 2022</time> Hit a 203-day streak.
+
+- <time>Mar 18, 2022</time> Hit a 202-day streak.
+
+- <time>Mar 17, 2022</time> Hit a 201-day streak.
+
+- <time>Mar 16, 2022</time> Hit a 200-day streak! I got 3 days of Duolingo Plus for free, so the speedrun for the legendary Hindi trophy is back on.
+
+- <time>Mar 15, 2022</time> Hit a 199-day streak, 1 more day!
+
+- <time>Mar 14, 2022</time> Hit a 198-day streak, 2 more days!
+
+- <time>Mar 13, 2022</time> Hit a 197-day streak, 3 more days!
+
+- <time>Mar 12, 2022</time> Hit a 196-day streak, 4 more days!
+
+- <time>Mar 11, 2022</time> Hit a 195-day streak, 5 more days!
+
+- <time>Mar 10, 2022</time> Hit a 194-day streak, 6 more days!
+
+- <time>Mar 09, 2022</time> Hit a 193-day streak, 7 more days!
+
+- <time>Mar 08, 2022</time> Hit a 192-day streak, 8 more days!
+
+- <time>Mar 07, 2022</time> Hit a 191-day streak.
+
+- <time>Mar 06, 2022</time> Hit a 190-day streak. Need to test out of a few skills now that I have 25 [lingots](https://support.duolingo.com/hc/en-us/articles/360035917472-What-are-Gems-Lingots-).
+
+- <time>Mar 05, 2022</time> Hit a 189-day streak.
+
+- <time>Mar 04, 2022</time> Hit a 188-day streak.
+
+- <time>Mar 03, 2022</time> Hit a 187-day streak.
+
+- <time>Mar 02, 2022</time> Hit a 186-day streak.
+
+- <time>Mar 01, 2022</time> Hit a 185-day streak.
+
+- <time>Feb 28, 2022</time> Hit a 184-day streak. I've been neglecting to practice Hindi and so I switched over and saw that I only had 2 skills that had to be restored. I guess they want me to stick with French?
+
+- <time>Feb 27, 2022</time> Hit a 183-day streak.
+
+- <time>Feb 26, 2022</time> Hit a 182-day streak.
+
+- <time>Feb 25, 2022</time> Hit a 181-day streak.
+
+- <time>Feb 24, 2022</time> Hit a 180-day streak!
+
+- <time>Feb 23, 2022</time> Hit a 179-day streak and tested out of a ton of skills in French.
+
+- <time>Feb 22, 2022</time> Hit a 178-day streak. The stories in French are really funny, wish they had some for Hindi too.
+
+- <time>Feb 21, 2022</time> Hit a 177-day streak.
+
+- <time>Feb 20, 2022</time> Hit a 176-day streak. Wondering if I'll get some days of Duolingo Plus for free when I hit 200.
+
+- <time>Feb 19, 2022</time> Hit a 175-day streak.
+
+- <time>Feb 18, 2022</time> Hit a 174-day streak.
+
+- <time>Feb 17, 2022</time> Hit a 173-day streak.
+
+- <time>Feb 16, 2022</time> Hit a 172-day streak.
+
+- <time>Feb 15, 2022</time> Hit a 171-day streak.
+
+- <time>Feb 14, 2022</time> Hit a 170-day streak.
+
+- <time>Feb 13, 2022</time> Hit a 169-day streak.
+
+- <time>Feb 12, 2022</time> Hit a 168-day streak.
+
+- <time>Feb 11, 2022</time> Hit a 167-day streak.
+
+- <time>Feb 10, 2022</time> Hit a 166-day streak.
+
+- <time>Feb 09, 2022</time> Hit a 165-day streak.
+
+- <time>Feb 08, 2022</time> Hit a 164-day streak.
+
+- <time>Feb 07, 2022</time> Hit a 163-day streak.
+
+- <time>Feb 06, 2022</time> Hit a 162-day streak.
+
+- <time>Feb 05, 2022</time> Hit a 161-day streak.
+
+- <time>Feb 04, 2022</time> Hit a 160-day streak!
+
+- <time>Feb 03, 2022</time> Hit a 159-day streak.
+
+- <time>Feb 02, 2022</time> Hit a 158-day streak.
+
+- <time>Feb 01, 2022</time> Hit a 157-day streak.
+
+- <time>Jan 31, 2022</time> Hit a 156-day streak.
+
+- <time>Jan 30, 2022</time> Hit a 155-day streak.
+
+- <time>Jan 29, 2022</time> Hit a 154-day streak.
+
+- <time>Jan 28, 2022</time> Hit a 153-day streak, couldn't get all the skills in the first section to legendary and my free three days ends today, but I've made a ton of progress so I'm happy.
+
+- <time>Jan 27, 2022</time> Hit a 152-day streak.
+
+- <time>Jan 26, 2022</time> Hit a 151-day streak and continued with my legendary speedrun in Hindi. I only have a few more skills to reach in the first section.
+
+- <time>Jan 25, 2022</time> Hit a 150-day streak and got 3 days free of Duolingo Plus! I've already started getting legendary on all of my Hindi skills since now I don't have to wait to get 10 virtual currencies.
+
+- <time>Jan 24, 2022</time> Hit a 149-day streak, एक और दिन!
+
+- <time>Jan 23, 2022</time> Hit a 148-day streak.
+
+- <time>Jan 22, 2022</time> Hit a 147-day streak, 3 more days!
+
+- <time>Jan 21, 2022</time> Hit a 146-day streak.
+
+- <time>Jan 20, 2022</time> Hit a 145-day streak, 5 more days!
+
+- <time>Jan 19, 2022</time> Hit a 144-day streak.
+
+- <time>Jan 18, 2022</time> Hit a 143-day streak.
+
+- <time>Jan 17, 2022</time> Hit a 142-day streak.
+
+- <time>Jan 16, 2022</time> Hit a 141-day streak.
+
+- <time>Jan 15, 2022</time> Hit a 140-day streak and earned legendary in Health (Hindi)!
+
+- <time>Jan 14, 2022</time> Hit a 139-day streak.
+
+- <time>Jan 13, 2022</time> Hit a 138-day streak.
+
+- <time>Jan 12, 2022</time> Hit a 137-day streak, I'm about 8 days away from reaching the 12,500 XP achievement!
+
+- <time>Jan 11, 2022</time> Hit a 136-day streak.
+
+- <time>Jan 10, 2022</time> Hit a 135-day streak, 15 more days till 150!
+
+- <time>Jan 09, 2022</time> Hit a 134-day streak and tested out of Level 3 in People (French).
+
+- <time>Jan 08, 2022</time> Hit a 133-day streak.
+
+- <time>Jan 07, 2022</time> Hit a 132-day streak.
+
+- <time>Jan 06, 2022</time> Hit a 131-day streak and (finally) tested out Travel (French)
+
+- <time>Jan 05, 2022</time> Hit a 130-day streak and failed to skip Level 5 in Travel (French) again.
+
+- <time>Jan 04, 2022</time> Hit a 129-day streak.
+
+- <time>Jan 03, 2022</time> Hit a 128-day streak, some how managed to fail skipping Level 5 in [Travel (French)](https://www.duolingo.com/skill/fr/Travel).
+
+- <time>Jan 02, 2022</time> Hit a 127-day streak.
+
+- <time>Jan 01, 2022</time> Hit a 126-day streak.
+
+- <time>Dec 31, 2021</time> LET'S GO I finally continued my legendary progress in Health in Hindi (I was so close to failing also, I had one mistake left lol) and I reached the 125-day streak achievement!
+
+  Hope to see me pick up more French skills (considering 2022 will be the last year of French in my curriculum) and continue my progress in Hindi in 2022!
+
+- <time>Dec 30, 2021</time> Hit a 124-day streak, एक और दिन!
+
+- <time>Dec 29, 2021</time> Hit a 123-day streak.
+
+- <time>Dec 28, 2021</time> Hit a 122-day streak. 3 more days!
+
+- <time>Dec 27, 2021</time> Hit a 121-day streak, 125 coming soon. I failed to get legendary in Health in Hindi again, twice in a row. Why does this keep happening? Health was one of the easier skills in the Hindi course...
+
+- <time>Dec 26, 2021</time> Hit a 120-day streak!
+
+- <time>Dec 25, 2021</time> Hit a 119-day streak and failed (again) to get legendary on Health in Hindi.
+
+- <time>Dec 24, 2021</time> Hit a 118-day streak, 120 coming soon! [I found this funny forum post](https://forum.duolingo.com/comment/54652897).
+
+- <time>Dec 23, 2021</time> Hit a 117-day streak, it'll take forever to earn enough currency to get legendary on all skills in Hindi.
+
+- <time>Dec 22, 2021</time> Hit a 116-day streak.
+
+- <time>Dec 21, 2021</time> Hit a 115-day streak, here's me hoping for more Hindi content soon.
+
+- <time>Dec 20, 2021</time> Hit a 114-day streak.
+
+- <time>Dec 19, 2021</time> Hit a 113-day streak, [try typing a large number into Google Translate, translate it into Hindi and hit listen](https://translate.google.com/?sl=en&tl=hi&text=100000000000000000000000&op=translate).
+
+- <time>Dec 18, 2021</time> Hit a 112-day streak.
+
+- <time>Dec 17, 2021</time> Hit a 111-day streak.
+
+- <time>Dec 16, 2021</time> Hit a 110-day streak.
+
+- <time>Dec 15, 2021</time> Hit a 109-day streak.
+
+- <time>Dec 14, 2021</time> Hit a 108-day streak.
+
+- <time>Dec 13, 2021</time> Hit a 107-day streak.
+
+- <time>Dec 12, 2021</time> Hit a 106-day streak.
+
+- <time>Dec 11, 2021</time> Hit a 105-day streak.
+
+- <time>Dec 10, 2021</time> Hit a 104-day streak.
+
+- <time>Dec 09, 2021</time> Hit a 103-day streak.
+
+- <time>Dec 08, 2021</time> Hit a 102-day streak.
+
+- <time>Dec 07, 2021</time> Took the French placement test and only unclocked 5% of the French course.
+
+- <time>Dec 06, 2021</time> 100 DAY STREAK and reached the Level 5 Trophy! I also added [French](https://www.duolingo.com/enroll/fr/en/Learn-French) as a course since I already know a good chunk of French.
+
+- <time>Dec 05, 2021</time> Hit a 99-day streak and tested out of Modals, only one more test to go before I reach a Level 5 Trophy in Hindi and one more day till a 100 streak!
+
+- <time>Dec 04, 2021</time> Hit a 98-day streak, two more days!
+
+- <time>Dec 03, 2021</time> Hit a 97-day streak, three more days to go!
+
+- <time>Dec 02, 2021</time> Hit a 96-day streak, was really close to testing out of Modals, but alas.
+
+- <time>Dec 01, 2021</time> Hit a 95-day streak, still can't test out of Modals.
+
+- <time>Nov 30, 2021</time> One month of consistent Hindi practice!
+
+- <time>Nov 29, 2021</time> Hit a 93-day streak, if all goes well, I will be finishing the Hindi course day after tomorrow!
+
+- <time>Nov 28, 2021</time> Hit a 92-day streak.
+
+- <time>Nov 27, 2021</time> Hit a 91-day streak and tested out of [Past 2](https://www.duolingo.com/skill/hi/Past-2/), only [Modals](https://www.duolingo.com/skill/hi/Modals/2) is left!
+
+- <time>Nov 26, 2021</time> Hit a 90-day streak, 10 more days to go!
+
+- <time>Nov 25, 2021</time> Hit an 89-day streak.
+
+- <time>Nov 24, 2021</time> Hit an 88-day streak.
+
+- <time>Nov 23, 2021</time> Hit an 87-day streak.
+
+- <time>Nov 22, 2021</time> Hit an 86-day streak.
+
+- <time>Nov 21, 2021</time> Hit an 85-day streak.
+
+- <time>Nov 20, 2021</time> Hit an 84-day streak.
+
+- <time>Nov 19, 2021</time> Hit an 83-day streak and tested out of Past, only two more skills to go!
+
+- <time>Nov 18, 2021</time> Hit an 82-day streak.
+
+- <time>Nov 17, 2021</time> Hit an 81-day streak and tested out of Convo! Wondering how to progress after completing the course.
+
+- <time>Nov 16, 2021</time> Hit an 80-day streak and finally tested out of [Future](https://www.duolingo.com/skill/hi/Future/)!
+
+- <time>Nov 15, 2021</time> Hit a 79-day streak, I can feel the coveted 100 coming soon!
+
+- <time>Nov 14, 2021</time> Hit a 78-day streak and failed to test out of [Convo](https://www.duolingo.com/skill/hi/Conversations/).
+
+- <time>Nov 13, 2021</time> Hit a 77-day streak.
+
+- <time>Nov 12, 2021</time> Hit a 76-day streak and someone helped me on the forum!
+
+- <time>Nov 11, 2021</time> Hit a 75-day streak and [asked for help with future tense in Hindi on the forum](https://forum.duolingo.com/comment/53646434).
+
+- <time>Nov 10, 2021</time> Hit a 74-day streak. I hate the future tense in Hindi.
+
+- <time>Nov 09, 2021</time> Hit a 73-day streak.
+
+- <time>Nov 08, 2021</time> Hit a 72-day streak.
+
+- <time>Nov 07, 2021</time> Hit a 71-day streak, can someone please explain to me future tense in Hindi?
+
+- <time>Nov 06, 2021</time> Hit a 70-day streak!
+
+- <time>Nov 05, 2021</time> Hit a 69-day streak. I also learnt that if you wanted to say "I have to eat food" in Hindi, you have to repeat "खाना" twice. ("मुझे खाना खाना है")
+
+- <time>Nov 04, 2021</time> Hit a 68-day streak.
+
+- <time>Nov 03, 2021</time> Hit a 67-day streak and tested out of Day/Month.
+
+- <time>Nov 02, 2021</time> Hit a 66-day streak!
+
+- <time>Nov 01, 2021</time> Hit a 65-day streak and tested out of [Day/Month](https://www.duolingo.com/skill/hi/Day_Month).
+
+- <time>Oct 31, 2021</time> Hit a 64-day streak, why did this session take so long?
+
+- <time>Oct 30, 2021</time> Hit a 63-day streak (I messed up the counting) and tested out of Time! (the most annoying one)
+
+- <time>Oct 29, 2021</time> Hit a 61-day streak (and was so close to messing up testing out of Level 3 [Time](https://www.duolingo.com/skill/hi/Time/)!)
+
+- <time>Oct 28, 2021</time> Hit a 60-day streak and tested out of [Comparison](https://www.duolingo.com/skill/hi/Comparison/)!
 <hr />
 
 ## <span id="localaiprogram">Local AI Program</span>
