@@ -1081,6 +1081,24 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Oct 04, 2022</time> Finished [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/):
+
+```py
+class Solution:
+    def longestNiceSubstring(self, s: str) -> str:
+        if False not in [(i.upper() in s and i.lower() in s )for i in s]:
+            return s
+
+        temp_res = [s[i:j] for i in range(len(s)) for j in range(i + 1, len(s) + 1) if False not in [(k.upper() in s[i:j] and k.lower() in s[i:j]) for k in s[i:j]]]
+
+        if len(temp_res) == 0:
+            return ""
+
+        max_length = len(max(temp_res, key=lambda x: len(x)))
+
+        return min([(i, s.find(i)) for i in temp_res if len(i) == max_length], key=lambda x: x[1])[0]
+```
+
 - <time>Oct 02, 2022</time> Still getting there.
 
 - <time>Oct 01, 2022</time> I'm close to a solution for [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/).
