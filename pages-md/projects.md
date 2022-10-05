@@ -1089,6 +1089,8 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Oct 05, 2022</time> Could not solve a problem in time today, but that's alright.
+
 - <time>Oct 04, 2022</time> Finished [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/):
 
 ```py
