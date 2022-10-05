@@ -5912,6 +5912,8 @@ class Solution:
 
 #### Log
 
+- <time>Oct 05, 2022</time> Continued with the Arithmetic Formatter project. I'm sort of close to fixing the arrangement.
+
 - <time>Oct 04, 2022</time> Continued with the Arithmetic Formatter project.
 
 - <time>Oct 02, 2022</time> Continued with the Arithmetic Formatter project.
