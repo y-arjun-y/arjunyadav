@@ -298,6 +298,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 05, 2022</time> Got started (?) with [Building Programs](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/building-programs/).
+
 - <time>Oct 04, 2022</time> Finished with Spellcheck. [Today's daily challenge is literally a 5x5 KENKEN!](https://brilliant.org/daily-problems/calcdoku-19/)
 
 - <time>Oct 03, 2022</time> Continued with Spellcheck.
@@ -616,6 +618,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 05, 2022</time> 5/6 in ~7.5 minutes.
 
 - <time>Oct 04, 2022</time> All correct in ~8-9 minutes.
 
