@@ -1097,6 +1097,14 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 #### Log
 
+- <time>Oct 06, 2022</time> Finished [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/):
+
+```py
+class Solution:
+    def commonFactors(self, a: int, b: int) -> int:
+        return len([i for i in range(1, max(a, b) + 1) if a % i == 0 and b % i == 0])
+```
+
 - <time>Oct 05, 2022</time> Could not solve a problem in time today, but that's alright.
 
 - <time>Oct 04, 2022</time> Finished [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/):
