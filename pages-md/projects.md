@@ -5922,6 +5922,8 @@ class Solution:
 
 #### Log
 
+- <time>Oct 06, 2022</time> Continued with the Arithmetic Formatter project.
+
 - <time>Oct 05, 2022</time> Continued with the Arithmetic Formatter project. I'm sort of close to fixing the arrangement.
 
 - <time>Oct 04, 2022</time> Continued with the Arithmetic Formatter project.
@@ -6622,6 +6624,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Oct 06, 2022</time> 20.640, 6.756, 37.880 and 10.302.
 
 - <time>Oct 05, 2022</time> 20.694, 5.273, 33.634 and 10.598.
 
