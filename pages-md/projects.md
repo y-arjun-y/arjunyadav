@@ -302,6 +302,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 07, 2022</time> Continued with Building Programs.
+
+- <time>Oct 06, 2022</time> Continued with Building Programs.
+
 - <time>Oct 05, 2022</time> Got started (?) with [Building Programs](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/building-programs/).
 
 - <time>Oct 04, 2022</time> Finished with Spellcheck. [Today's daily challenge is literally a 5x5 KENKEN!](https://brilliant.org/daily-problems/calcdoku-19/)
