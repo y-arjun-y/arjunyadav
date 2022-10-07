@@ -178,6 +178,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 07, 2022</time> Continued with Week 3.
+
+- <time>Oct 06, 2022</time> Continued with Week 3.
+
 - <time>Oct 05, 2022</time> Continued with Week 3.
 
 - <time>Oct 04, 2022</time> Continued with Week 3.
