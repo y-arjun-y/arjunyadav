@@ -641,6 +641,27 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 07, 2022</time> Finished [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) with a pretty fast solution that [I made a post about](https://leetcode.com/problems/remove-letter-to-equalize-frequency/discuss/2670999/Easy-and-fast-Python3-solution%3A-Faster-than-97-of-submissions):
+
+```py
+class Solution:
+    def equalFrequency(self, word: str) -> bool:
+        frequencies = [word.count(i) for i in sorted(set(word))]
+
+        for i in range(len(frequencies)):
+            frequencies_copy = frequencies[:]
+
+            if frequencies_copy[i] == 1:
+                frequencies_copy.pop(i)
+            else:
+                frequencies_copy[i] -= 1
+
+            if len(set(frequencies_copy)) == 1:
+                return True
+
+        return False
+```
+
 - <time>Oct 06, 2022</time> Finished [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/):
 
 ```py
