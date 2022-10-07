@@ -5474,6 +5474,8 @@ class Solution:
 
 #### Log
 
+- <time>Oct 07, 2022</time> Continued with the Arithmetic Formatter project and fixed the alignment of the numbers! Will finish the project tomorrow.
+
 - <time>Oct 06, 2022</time> Continued with the Arithmetic Formatter project.
 
 - <time>Oct 05, 2022</time> Continued with the Arithmetic Formatter project. I'm sort of close to fixing the arrangement.
