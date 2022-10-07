@@ -5,7 +5,7 @@ meta_description: I recently got access to DALL·E 2, here are some interesting 
 meta_image: https://images.unsplash.com/photo-1625043094457-c0e5bb443278?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1808&q=80
 ---
 
-I recently got access to [DALL·E 2](https://openai.com/dall-e-2/), OpenAI's triumphant image generation model. Here are two "essential readings": one on [how it works](http://adityaramesh.com/posts/dalle2/dalle2.html) and [one comparing it other models](https://astralcodexten.substack.com/p/i-won-my-three-year-ai-progress-bet). Now, here are some of my favourite results!
+I recently got access to [DALL·E 2](https://openai.com/dall-e-2/), OpenAI's triumphant image generation model. Here are two "essential readings": one on [how it works](http://adityaramesh.com/posts/dalle2/dalle2.html) and [one comparing it to other models](https://astralcodexten.substack.com/p/i-won-my-three-year-ai-progress-bet). Now, here are some of my favourite results!
 
 ### Prompt: An astronaut crying while stranded on a desolate planet
 
