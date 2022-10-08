@@ -308,6 +308,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 08, 2022</time> Finished with Building Programs and finished with Algorithm Fundamentals!
+
 - <time>Oct 07, 2022</time> Continued with Building Programs.
 
 - <time>Oct 06, 2022</time> Continued with Building Programs.
