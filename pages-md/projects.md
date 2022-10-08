@@ -180,7 +180,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 08, 2022</time> Finished with Week 3!
+- <time>Oct 08, 2022</time> Finished with Week 3! Here's my backpropagation submission:
+  ![Backpropagation](/backpropagation.png)
 
 - <time>Oct 07, 2022</time> Continued with Week 3.
 
