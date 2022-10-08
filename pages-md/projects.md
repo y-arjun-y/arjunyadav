@@ -651,6 +651,20 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 08, 2022</time> Finished [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/):
+
+```py
+class Solution:
+    def checkDistances(self, s: str, distance: List[int]) -> bool:
+        for i in sorted(set(s)):
+            indices = [j for j in range(len(s)) if s[j] == i]
+
+            if abs(indices[0] - indices[1]) - 1 != distance[ord(i) - 97]:
+                return False
+
+        return True
+```
+
 - <time>Oct 07, 2022</time> Finished [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) with a pretty fast solution that [I made a post about](https://leetcode.com/problems/remove-letter-to-equalize-frequency/discuss/2670999/Easy-and-fast-Python3-solution%3A-Faster-than-97-of-submissions):
 
 ```py
