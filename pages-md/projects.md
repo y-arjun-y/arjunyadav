@@ -5505,6 +5505,8 @@ class Solution:
 
 #### Log
 
+- <time>Oct 08, 2022</time> Continued with the Arithmetic Formatter project. I can't get my solution to pass the test cases (even though the output looks to be correct) for some reason, will keep trying tomorrow.
+
 - <time>Oct 07, 2022</time> Continued with the Arithmetic Formatter project and fixed the alignment of the numbers! Will finish the project tomorrow.
 
 - <time>Oct 06, 2022</time> Continued with the Arithmetic Formatter project.
