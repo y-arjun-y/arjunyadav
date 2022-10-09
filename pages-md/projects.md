@@ -70,6 +70,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 09, 2022</time> Continued with Week 4.
+
 - <time>Oct 08, 2022</time> Continued with Week 4.
 
 - <time>Oct 07, 2022</time> Continued with Week 4 and finished the video.
@@ -179,6 +181,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 09, 2022</time> Got started with Week 4.
 
 - <time>Oct 08, 2022</time> Finished with Week 3! Here's my backpropagation submission:
   ![Backpropagation](/backpropagation.png)
