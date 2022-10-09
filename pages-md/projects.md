@@ -313,6 +313,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 09, 2022</time> Got started with [Neural Networks]https://brilliant.org/courses/intro-neural-networks/introduction-65/neural-nets-2/)
+
 - <time>Oct 08, 2022</time> Finished with Building Programs and finished with Algorithm Fundamentals!
 
 - <time>Oct 07, 2022</time> Continued with Building Programs.
