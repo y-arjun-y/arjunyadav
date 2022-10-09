@@ -658,6 +658,35 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 09, 2022</time> Finished [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/):
+
+```py
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def findTarget(self, root: Optional[TreeNode], k: int) -> bool:
+        def traverse(tree, array):
+            if tree:
+                array.append(tree.val)
+                traverse(tree.left, array)
+                traverse(tree.right, array)
+
+        res = []
+        traverse(root, res)
+
+        for i in res:
+            for j in res:
+                if j != i:
+                    if i + j == k:
+                        return True
+
+        return False
+```
+
 - <time>Oct 08, 2022</time> Finished [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/):
 
 ```py
