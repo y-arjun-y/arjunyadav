@@ -5526,6 +5526,8 @@ class Solution:
 
 #### Log
 
+- <time>Oct 09, 2022</time> Continued with the Arithmetic Formatter project. Still can't get the test cases to pass but I think I'm getting close.
+
 - <time>Oct 08, 2022</time> Continued with the Arithmetic Formatter project. I can't get my solution to pass the test cases (even though the output looks to be correct) for some reason, will keep trying tomorrow.
 
 - <time>Oct 07, 2022</time> Continued with the Arithmetic Formatter project and fixed the alignment of the numbers! Will finish the project tomorrow.
