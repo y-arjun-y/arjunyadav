@@ -182,6 +182,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 10, 2022</time> Got started with Week 4.
+
 - <time>Oct 09, 2022</time> Got started with Week 4.
 
 - <time>Oct 08, 2022</time> Finished with Week 3! Here's my backpropagation submission:
