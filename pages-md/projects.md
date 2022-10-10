@@ -664,6 +664,14 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 10, 2022</time> Finished [Sort the People](https://leetcode.com/problems/sort-the-people/):
+
+```py
+class Solution:
+    def sortPeople(self, names: List[str], heights: List[int]) -> List[str]:
+        return [i[0] for i in sorted(zip(names, heights), key=lambda x: x[1], reverse=True)]
+```
+
 - <time>Oct 09, 2022</time> Finished [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/):
 
 ```py
