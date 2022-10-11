@@ -319,6 +319,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 11, 2022</time> Finished with Neural Networks.
+
 - <time>Oct 10, 2022</time> Continued with Neural Networks.
 
 - <time>Oct 09, 2022</time> Got started with [Neural Networks](https://brilliant.org/courses/intro-neural-networks/introduction-65/neural-nets-2/)
