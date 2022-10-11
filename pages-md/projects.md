@@ -668,6 +668,14 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 11, 2022</time> Finished [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/):
+
+```py
+class Solution:
+    def divisorSubstrings(self, num: int, k: int) -> int:
+        return len([str(num)[i:i+k] for i in range(len(str(num))) if int(str(num)[i:i+k]) != 0 and len(str(num)[i:i+k]) == k and num % int(str(num)[i:i+k]) == 0])
+```
+
 - <time>Oct 10, 2022</time> Finished [Sort the People](https://leetcode.com/problems/sort-the-people/):
 
 ```py
