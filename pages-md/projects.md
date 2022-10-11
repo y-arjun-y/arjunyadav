@@ -5573,6 +5573,8 @@ class Solution:
 
 #### Log
 
+- <time>Oct 11, 2022</time> Got started with the [Time Calculator Project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator).
+
 - <time>Oct 10, 2022</time> Finished with the Arithmetic Formatter project! [Here it is](https://replit.com/@yarjuny/Arithmetic-Formatter-Project).
 
 - <time>Oct 09, 2022</time> Continued with the Arithmetic Formatter project. Still can't get the test cases to pass but I think I'm getting close.
