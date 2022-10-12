@@ -321,6 +321,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 12, 2022</time> Finished with The [Computer Vision Problem](https://brilliant.org/courses/intro-neural-networks/introduction-65/computer-vision-problem/).
+
 - <time>Oct 11, 2022</time> Finished with Neural Networks.
 
 - <time>Oct 10, 2022</time> Continued with Neural Networks.
@@ -677,6 +679,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 12, 2022</time> Re-visiting [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/).
 
 - <time>Oct 11, 2022</time> Finished [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/):
 
