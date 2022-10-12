@@ -654,6 +654,12 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 12, 2022</time> Finished my sixth proof-reading (although I unfortunately missed the deadline by a bit). The link to the post will be **here** once done.
+
+- <time>Sep 08, 2022</time> Finished my fifth proof-reading. The link to the post will be **here** once done.
+
+- <time>Sep 05, 2022</time> Along with other beta-readers, I got appreciated in [the latest Cold Takes post](https://www.cold-takes.com/beta-readers-are-great/)!
+
 - <time>May 25, 2022</time> Been a while, but finished my fourth proof-reading. The link to the post will be [here](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/) once done.
 
 - <time>Feb 20, 2022</time> Finished my third proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/debating-myself-on-whether-extra-lives-lived-are-as-good-as-deaths-prevented/) once done.
@@ -6940,6 +6946,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Oct 08, 2022</time> Got selected for the national level!
 
 - <time>Oct 06, 2022</time> 5/6 in ~11 minutes. I've decided to pause this project. If I get selected to the national level, I'll continue this project, else it ends.
 
