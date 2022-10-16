@@ -321,6 +321,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 13, 2022-Oct 15, 2022</time> Finished with The Computer Vision Problem and got started and continued with [The Folly of Computer Programming](https://brilliant.org/courses/intro-neural-networks/introduction-65/folly-computer-programming/).
+
+- <time>Oct 12, 2022</time> Got started with [The Computer Vision Problem](https://brilliant.org/courses/intro-neural-networks/introduction-65/computer-vision-problem/).
+
 - <time>Oct 12, 2022</time> Finished with The [Computer Vision Problem](https://brilliant.org/courses/intro-neural-networks/introduction-65/computer-vision-problem/).
 
 - <time>Oct 11, 2022</time> Finished with Neural Networks.
@@ -5594,6 +5598,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Oct 16, 2022</time> Continued with the Time Calculator Project. I'll try to finish this project by Oct 17.
 
 - <time>Oct 11, 2022</time> Got started with the [Time Calculator Project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator).
 
