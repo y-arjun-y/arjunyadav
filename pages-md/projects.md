@@ -684,6 +684,14 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 16, 2022</time> Finished [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/):
+
+```py
+class Solution:
+    def findMaxK(self, nums: List[int]) -> int:
+        return max([abs(i) for i in nums if -i in nums]) if len([abs(i) for i in nums if -i in nums]) != 0 else -1
+```
+
 - <time>Oct 12, 2022</time> Re-visiting [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/).
 
 - <time>Oct 11, 2022</time> Finished [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/):
