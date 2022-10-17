@@ -348,6 +348,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 17, 2022</time> Got started with [Can Computers Learn?](https://brilliant.org/courses/intro-neural-networks/introduction-65/menace-short/)
+
 - <time>Oct 16, 2022</time> Finished with The Folly of Computer Programming.
 
 - <time>Oct 13, 2022-Oct 15, 2022</time> Finished with The Computer Vision Problem and got started and continued with [The Folly of Computer Programming](https://brilliant.org/courses/intro-neural-networks/introduction-65/folly-computer-programming/).
