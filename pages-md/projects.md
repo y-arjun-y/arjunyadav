@@ -7,8 +7,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Ongoing (7)
+### Active (8)
 
+- <a href="#drums">Drums</a> (F&S)
 - <a href="#introml">Introduction to Machine Learning</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
 - <a href="#brilliant">Brilliant</a>
@@ -17,14 +18,13 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#freecodecamp">freeCodeCamp</a>
 - <a href="#cubing">Cubing</a>
 
-### Inactive/Paused (8)
+### Inactive/Paused (7)
 
 - <a href="#kenken">KENKEN</a>
 - <a href="#chess">Chess</a> (S)
 - <a href="#landingpage">Landing Page Project + App Integration</a>
 - <a href="#agisf">AGI Safety Fundamentals: Technical Track</a> (F)
 - <a href="#guitar">Guitar</a>
-- <a href="#drums">Drums</a>
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
 
@@ -58,6 +58,29 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 ## Ongoing
+
+<hr />
+
+## <span id="drums">Drums</span>
+
+<small>Aug 02, 2022-present</small>  
+<small>Trying to get better every day and [have some fun as well](https://www.youtube.com/watch?v=Y2AEvI0z_ec).</small>
+
+<hr />
+<small>Drums' start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Aug 13, 2022</time> Played [Fever by The Black Keys](https://www.youtube.com/watch?v=tk5m_TAD_AM).
+
+- <time>Aug 12, 2022</time> Played [I Want to Break Free by Queen](https://www.youtube.com/watch?v=wIqa9uVnXCQ).
+
+- <time>Aug 06, 2022</time> Finished learning Back in Black by AC/DC. The snare-kick-hi-hat pattern was the only thing I had to get down.
+
+- <time>Aug 04, 2022</time> Played [Back in Black by AC/DC](https://www.youtube.com/watch?v=pAgnJDJN4VA).
+
+- <time>Aug 02, 2022</time> Played [Yellow by Coldplay](https://www.youtube.com/watch?v=fviwj5P1FCc).
 
 <hr />
 
@@ -7439,7 +7462,7 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 ## <span id="chess">[Chess](https://lichess.org/@/y_arjun_y)</span>
 
 <small>Oct 28, 2021-present</small>  
-<small>Trying to get better at chess via practicing on [lichess](https://lichess.org). You can see all my games that I refer to [here](https://lichess.org/@/y_arjun_y/all). Previously, I practiced on [chess.com](https://chess.com). Currently paused due to exams.</small>
+<small>Trying to get better at chess via practicing on [lichess](https://lichess.org). You can see all my games that I refer to [here](https://lichess.org/@/y_arjun_y/all). Previously, I practiced on [chess.com](https://chess.com). Currently inactive.</small>
 
 <hr />
 <small>Chess's start date is the date I started logging, not the date when the project started.</small>
@@ -8025,7 +8048,7 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 ## <span id="guitar">Guitar</span>
 
 <small>Oct 29, 2021-present</small>  
-<small>Trying to learn acoustic guitar via [justinguitar.com](https://justinguitar.com). Currently inactive/paused due to exams.</small>
+<small>Trying to learn acoustic guitar via [justinguitar.com](https://justinguitar.com). Currently inactive/paused.</small>
 
 <hr />
 <small>Guitar's start date is the date I started logging, not the date when the project started.</small>
@@ -8361,29 +8384,6 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 - <time>Oct 30, 2021</time> Learnt about [strumming with up strums, and using it after the 2nd beat](https://www.justinguitar.com/guitar-lessons/strumming-patterns-with-ups-b1-307).
 
 - <time>Oct 29, 2021</time> Learnt about [up strums](https://www.justinguitar.com/guitar-lessons/all-about-up-strums-b1-306).
-<hr />
-
-## <span id="drums">Drums</span>
-
-<small>Aug 02, 2022-present</small>  
-<small>I alternate between the [guitar](/#guitar/) and the drums. Trying to get better every day and [have some fun as well](https://www.youtube.com/watch?v=Y2AEvI0z_ec)! Currently inactive/paused due to exams.</small>
-
-<hr />
-<small>Drums' start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Aug 13, 2022</time> Played [Fever by The Black Keys](https://www.youtube.com/watch?v=tk5m_TAD_AM).
-
-- <time>Aug 12, 2022</time> Played [I Want to Break Free by Queen](https://www.youtube.com/watch?v=wIqa9uVnXCQ).
-
-- <time>Aug 06, 2022</time> Finished learning Back in Black by AC/DC. The snare-kick-hi-hat pattern was the only thing I had to get down.
-
-- <time>Aug 04, 2022</time> Played [Back in Black by AC/DC](https://www.youtube.com/watch?v=pAgnJDJN4VA).
-
-- <time>Aug 02, 2022</time> Played [Yellow by Coldplay](https://www.youtube.com/watch?v=fviwj5P1FCc).
-
 <hr />
 
 ## <span id="openresearchpaper">Maintaining the benefits of open research in AI</span>
