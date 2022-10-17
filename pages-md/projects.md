@@ -690,6 +690,14 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 17, 2022</time> Finished [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/):
+
+```py
+class Solution:
+    def nextGreatestLetter(self, letters: List[str], target: str) -> str:
+            return chr(min([i for i in [ord(i) for i in letters] if i > ord(target)])) if len([i for i in [ord(i) for i in letters] if i > ord(target)]) != 0 else letters[0]
+```
+
 - <time>Oct 16, 2022</time> Finished [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/):
 
 ```py
