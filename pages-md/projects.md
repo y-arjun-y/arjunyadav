@@ -5621,6 +5621,8 @@ class Solution:
 
 #### Log
 
+- <time>Oct 17, 2022</time> Never mind, I won't finish the project today, but I made some great progress! I think I just need to fix the AM/PM and calculate next days.
+
 - <time>Oct 16, 2022</time> Continued with the Time Calculator Project. I'll try to finish this project by Oct 17.
 
 - <time>Oct 11, 2022</time> Got started with the [Time Calculator Project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator).
