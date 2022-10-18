@@ -18,18 +18,18 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#freecodecamp">freeCodeCamp</a>
 - <a href="#cubing">Cubing</a>
 
-### Inactive/Paused (7)
+### Inactive/Paused (6)
 
 - <a href="#kenken">KENKEN</a>
 - <a href="#chess">Chess</a> (S)
-- <a href="#landingpage">Landing Page Project + App Integration</a>
 - <a href="#agisf">AGI Safety Fundamentals: Technical Track</a> (F)
 - <a href="#guitar">Guitar</a>
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
 
-### Done (15)
+### Done (16)
 
+- <a href="#landingpage">Landing Page Project + App Integration</a>
 - <a href="#duolingo">Duolingo</a>
 - <a href="#localaiprogram">Local AI Program</a> (Sa)
 - <a href="#eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</a>
@@ -6367,6 +6367,10 @@ class Solution:
 
 #### Log
 
+- <time>Oct 16, 2022</time> 20.470, 6.691, 33.614 and 9.103.
+
+- <time>Oct 17, 2022</time> 19.862, 5.857, 37.010 and 9.527.
+
 - <time>Oct 16, 2022</time> 21.559, 6.203, 37.976 and 8.565.
 
 - <time>Oct 09, 2022</time> 20.414, 5.919, 31.688 and 10.009.
@@ -7946,96 +7950,6 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 - <time>Oct 28, 2021</time> Kept resigning against [Sven](https://chess.com/play/computer) and [finished the Assisted Checkmate lesson](https://www.chess.com/lessons/winning-the-game/assisted-checkmates).
 <hr />
 
-## <span id="landingpage">Landing Page Project + App Integration</span>
-
-<small>Jul 29, 2022-present</small>  
-<small>Designing a landing page for a project I've been accepted to. In addition, I'm helping with app integrations. Note that, due to organizational requirements, I'm being incredibly vague. Currently paused.</small>
-
-<hr />
-<small>Landing Page Project's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Sep 23, 2022</time> Continued with a recording.
-
-- <time>Sep 22, 2022</time> Continued (?) with a recording.
-
-- <time>Sep 14, 2022</time> Added suggestions and ideas.
-
-- <time>Sep 12, 2022</time> Had an awesome team meeting! In addition, I compiled a few resources.
-
-- <time>Sep 09, 2022</time> Had a productive meeting.
-
-- <time>Sep 04, 2022</time> Continued with some research.
-
-- <time>Sep 03, 2022</time> Continued with some research.
-
-- <time>Sep 02, 2022</time> Continued with some research.
-
-- <time>Aug 29, 2022</time> Continued with some research.
-
-- <time>Aug 28, 2022</time> Continued with some research.
-
-- <time>Aug 27, 2022</time> Continued with some research.
-
-- <time>Aug 26, 2022</time> Had a productive meeting and continued with some research.
-
-- <time>Aug 25, 2022</time> Continued with some research.
-
-- <time>Aug 24, 2022</time> Continued with some research.
-
-- <time>Aug 23, 2022</time> Continued with some research.
-
-- <time>Aug 22, 2022</time> Continued with some research.
-
-- <time>Aug 21, 2022</time> Continued with some research.
-
-- <time>Aug 20, 2022</time> Continued with some research.
-
-- <time>Aug 19, 2022</time> Continued with some research.
-
-- <time>Aug 18, 2022</time> Continued with some research.
-
-- <time>Aug 17, 2022</time> Continued with some research.
-
-- <time>Aug 16, 2022</time> Continued with some research.
-
-- <time>Aug 15, 2022</time> Continued with some research.
-
-- <time>Aug 14, 2022</time> Continued with some research.
-
-- <time>Aug 13, 2022</time> Continued with some research.
-
-- <time>Aug 12, 2022</time> Continued with some research.
-
-- <time>Aug 11, 2022</time> Got started with some research.
-
-- <time>Aug 10, 2022</time> Had a really productive meeting, which helped to solve some of standing technical/integration enquires.
-
-- <time>Aug 09, 2022</time> Tested a [Make](https://make.com/) integration to not much avail again.
-
-- <time>Aug 08, 2022</time> Tested a [Zapier](https://zapier.com/) integration to not much avail. I'll try another integration tomorrow.
-
-- <time>Aug 07, 2022</time> Had a productive meeting.
-
-- <time>Aug 06, 2022</time> Wrote-up and sent my findings on an organisational discount.
-
-- <time>Aug 05, 2022</time> Wrote-up and sent my findings on apps for different scenarios.
-
-- <time>Aug 04, 2022</time> Wrote-up and sent my findings on an app integration and pricing.
-
-- <time>Aug 02, 2022</time> Finished with the sixth draft of the first section.
-
-- <time>Aug 01, 2022</time> Had a productive meeting and finished with the fifth draft of the first section.
-
-- <time>Jul 31, 2022</time> Finished with the fourth draft of the first section.
-
-- <time>Jul 30, 2022</time> Finished (?) with the third draft of the first section.
-
-- <time>Jul 29, 2022</time> Had a productive meeting and got started with the third draft of the first section.
-<hr />
-
 ## <span id="agisf">AGI Safety Fundamentals: Technical Track</span>
 
 <small>Sep 02, 2022-present</small>  
@@ -8617,6 +8531,96 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 ## Done
 
+<hr />
+
+## <span id="landingpage">Landing Page Project + App Integration</span>
+
+<small>Jul 29, 2022-Oct 18, 2022</small>  
+<small>Designed a landing page for a project I've been accepted to. In addition, I helped with app integrations among other things. Note that, due to organizational requirements, I was being incredibly vague.</small>
+
+<hr />
+<small>Landing Page Project's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Sep 23, 2022</time> Continued with a recording.
+
+- <time>Sep 22, 2022</time> Continued (?) with a recording.
+
+- <time>Sep 14, 2022</time> Added suggestions and ideas.
+
+- <time>Sep 12, 2022</time> Had an awesome team meeting! In addition, I compiled a few resources.
+
+- <time>Sep 09, 2022</time> Had a productive meeting.
+
+- <time>Sep 04, 2022</time> Continued with some research.
+
+- <time>Sep 03, 2022</time> Continued with some research.
+
+- <time>Sep 02, 2022</time> Continued with some research.
+
+- <time>Aug 29, 2022</time> Continued with some research.
+
+- <time>Aug 28, 2022</time> Continued with some research.
+
+- <time>Aug 27, 2022</time> Continued with some research.
+
+- <time>Aug 26, 2022</time> Had a productive meeting and continued with some research.
+
+- <time>Aug 25, 2022</time> Continued with some research.
+
+- <time>Aug 24, 2022</time> Continued with some research.
+
+- <time>Aug 23, 2022</time> Continued with some research.
+
+- <time>Aug 22, 2022</time> Continued with some research.
+
+- <time>Aug 21, 2022</time> Continued with some research.
+
+- <time>Aug 20, 2022</time> Continued with some research.
+
+- <time>Aug 19, 2022</time> Continued with some research.
+
+- <time>Aug 18, 2022</time> Continued with some research.
+
+- <time>Aug 17, 2022</time> Continued with some research.
+
+- <time>Aug 16, 2022</time> Continued with some research.
+
+- <time>Aug 15, 2022</time> Continued with some research.
+
+- <time>Aug 14, 2022</time> Continued with some research.
+
+- <time>Aug 13, 2022</time> Continued with some research.
+
+- <time>Aug 12, 2022</time> Continued with some research.
+
+- <time>Aug 11, 2022</time> Got started with some research.
+
+- <time>Aug 10, 2022</time> Had a really productive meeting, which helped to solve some of standing technical/integration enquires.
+
+- <time>Aug 09, 2022</time> Tested a [Make](https://make.com/) integration to not much avail again.
+
+- <time>Aug 08, 2022</time> Tested a [Zapier](https://zapier.com/) integration to not much avail. I'll try another integration tomorrow.
+
+- <time>Aug 07, 2022</time> Had a productive meeting.
+
+- <time>Aug 06, 2022</time> Wrote-up and sent my findings on an organisational discount.
+
+- <time>Aug 05, 2022</time> Wrote-up and sent my findings on apps for different scenarios.
+
+- <time>Aug 04, 2022</time> Wrote-up and sent my findings on an app integration and pricing.
+
+- <time>Aug 02, 2022</time> Finished with the sixth draft of the first section.
+
+- <time>Aug 01, 2022</time> Had a productive meeting and finished with the fifth draft of the first section.
+
+- <time>Jul 31, 2022</time> Finished with the fourth draft of the first section.
+
+- <time>Jul 30, 2022</time> Finished (?) with the third draft of the first section.
+
+- <time>Jul 29, 2022</time> Had a productive meeting and got started with the third draft of the first section.
 <hr />
 
 ## <span id="duolingo">[Duolingo](https://duolingo.com)</span>
