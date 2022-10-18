@@ -719,6 +719,21 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 18, 2022</time> Finished [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/):
+
+```py
+class Solution:
+    def countPairs(self, nums: List[int], k: int) -> int:
+        pairs = []
+
+        for i in range(len(nums)):
+            for j in range(len(nums)):
+                if i < j and nums[i] == nums[j] and (i * j) % k == 0:
+                    pairs.append((i, j))
+
+        return len(pairs)
+```
+
 - <time>Oct 17, 2022</time> Finished [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/):
 
 ```py
