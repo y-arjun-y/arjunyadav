@@ -5682,7 +5682,9 @@ class Solution:
 
 #### Log
 
-- <time>Oct 17, 2022</time> Continued with the Time Calculator Project.
+- <time>Oct 19, 2022</time> Continued with the Time Calculator Project.
+
+- <time>Oct 18, 2022</time> Continued with the Time Calculator Project.
 
 - <time>Oct 17, 2022</time> Never mind, I won't finish the project today, but I made some great progress! I think I just need to fix the AM/PM and calculate next days.
 
