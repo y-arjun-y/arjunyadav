@@ -360,6 +360,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 19, 2022</time> Finished with Can Computers Learn?
+
+- <time>Oct 18, 2022</time> Continued with Can Computers Learn?
+
 - <time>Oct 17, 2022</time> Got started with [Can Computers Learn?](https://brilliant.org/courses/intro-neural-networks/introduction-65/menace-short/).
 
 - <time>Oct 16, 2022</time> Finished with The Folly of Computer Programming.
