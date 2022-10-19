@@ -723,6 +723,19 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 19, 2022</time> Finished [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/):
+
+```py
+class Solution:
+    def largestAltitude(self, gain: List[int]) -> int:
+        altitudes = [0]
+
+        for i in gain:
+            altitudes.append(altitudes[len(altitudes) - 1] + i)
+
+        return max(altitudes)
+```
+
 - <time>Oct 18, 2022</time> Finished [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/):
 
 ```py
