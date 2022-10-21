@@ -7,7 +7,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (8)
+### Active (7)
 
 - <a href="#drums">Drums</a> (F&S)
 - <a href="#introml">Introduction to Machine Learning</a>
@@ -16,7 +16,6 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#coldtakesbetareading">Cold Takes Beta-Reading</a> (O)
 - <a href="#leetcode">LeetCode</a>
 - <a href="#freecodecamp">freeCodeCamp</a>
-- <a href="#cubing">Cubing</a>
 
 ### Inactive/Paused (6)
 
@@ -27,8 +26,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
 
-### Done (17)
+### Done (18)
 
+- <a href="#cubing">Cubing</a>
 - <a href="#hackathon2022">Local Hackathon</time>
 - <a href="#landingpage">Landing Page Project + App Integration</a>
 - <a href="#duolingo">Duolingo</a>
@@ -6443,655 +6443,6 @@ class Solution:
 - <time>Oct 28, 2021</time> Continued [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) and [Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging), and also opened up an [issue about possible duplication](https://github.com/freeCodeCamp/freeCodeCamp/issues/44051).
 <hr />
 
-## <span id="cubing">[Cubing](https://www.worldcubeassociation.org/persons/2019YADA06)</span>
-
-<small>Oct 28, 2021-present</small>  
-<small>Trying to get better every day at the four events I practice, which are [3x3](https://ruwix.com/the-rubiks-cube/), [2x2](https://ruwix.com/twisty-puzzles/2x2x2-rubiks-cube-pocket/), [3x3 OH](https://ruwix.com/the-rubiks-cube/one-handed/) and [Skewb](https://ruwix.com/twisty-puzzles/skewb-pyraminx-mod-skewb-diamond/), all [AO5](https://ruwix.com/the-rubiks-cube/cubing-terminology-abbreviations-commonly-used-expressions/)'s are presented in that order and I usually write about any [PB](https://ruwix.com/the-rubiks-cube/cubing-terminology-abbreviations-commonly-used-expressions/) I get.</small>
-
-<hr />
-<small>Cubing's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Oct 19, 2022</time> 22.401, 6.565, 39.651 and 10.100.
-
-- <time>Oct 18, 2022</time> 20.470, 6.691, 33.614 and 9.103.
-
-- <time>Oct 17, 2022</time> 19.862, 5.857, 37.010 and 9.527.
-
-- <time>Oct 16, 2022</time> 21.559, 6.203, 37.976 and 8.565.
-
-- <time>Oct 09, 2022</time> 20.414, 5.919, 31.688 and 10.009.
-
-- <time>Oct 08, 2022</time> 17.612, 6.383, 37.462 and 13.477.
-
-- <time>Oct 07, 2022</time> 23.083, 6.700, 38.384 and 11.140.
-
-- <time>Oct 06, 2022</time> 20.640, 6.756, 37.880 and 10.302.
-
-- <time>Oct 05, 2022</time> 20.694, 5.273, 33.634 and 10.598.
-
-- <time>Oct 04, 2022</time> 19.856, 6.133, 34.889 and 10.218.
-
-- <time>Oct 02, 2022</time> 20.732, 5.907, 31.214 and 9.320.
-
-- <time>Oct 01, 2022</time> 20.185, 6.254, 33.995 and 8.724.
-
-- <time>Sep 30, 2022</time> 19.371, 6.298, 36.396 and 10.548.
-
-- <time>Sep 29, 2022</time> 21.429, 4.964, 33.788 and 9.876.
-
-- <time>Sep 28, 2022</time> 19.271, 8.802, 39.664 and 8.347.
-
-- <time>Sep 25, 2022</time> 23.091, 4.472, 31.189 and 8.808.
-
-- <time>Sep 20, 2022</time> 19.662, 6.125, 33.877 and 9.205.
-
-- <time>Sep 19, 2022</time> 20.691, 5.050, 36.578 and 8.841.
-
-- <time>Sep 18, 2022</time> 20.912, 6.815, 31.041 and 7.615.
-
-- <time>Sep 17, 2022</time> \\(40^2\\) solves! 17.936, 5.969, 35.427 and 7.331.
-
-- <time>Sep 16, 2022</time> 19.509, 6.107, 34.105 and 9.909.
-
-- <time>Sep 15, 2022</time> 17.647, 6.375, 35.562 and 9.129.
-
-- <time>Sep 14, 2022</time> 17.873, 4.861, 31.998 and 11.427.
-
-- <time>Sep 11, 2022</time> Attended [Dubai Summer Open 2022](https://www.worldcubeassociation.org/competitions/DubaiSummerOpen2022) and [got an 18.73 average with a 16.72 best for 3x3!](https://live.worldcubeassociation.org/competitions/1385/rounds/20306) An awesome time overall :)
-
-- <time>Aug 26, 2022</time> 19.907, 5.470, 33.116 and 8.903.
-
-- <time>Aug 25, 2022</time> 18.685, 6.439, 34.472 and 8.268.
-
-- <time>Aug 24, 2022</time> 19.688, 5.658, 36.235 and 9.067.
-
-- <time>Aug 23, 2022</time> Finally! 18.722, 5.123, 29.672 (!) and 8.081.
-
-- <time>Aug 22, 2022</time> I think I've learnt the Ja perm for 3x3 OH? 20.030, 5.016, 37.032 and 9.073.
-
-- <time>Aug 20, 2022</time> 3x3 AO5 PB! (by a couple milliseconds lol): 15.708 (!), 8.368, 35.560 and 7.586
-
-- <time>Aug 19, 2022</time> 20.416, 5.227, 37.444 and 8.829.
-
-- <time>Aug 18, 2022</time> 17.806, 6.660, 39.445 and 9.953.
-
-- <time>Aug 17, 2022</time> 23.468, 5.389, 35.004 and 8.526.
-
-- <time>Aug 16, 2022</time> 17.652, 5.143, 36.598 and 9.815.
-
-- <time>Aug 15, 2022</time> Much better in the Skewb department! 19.732, 6.789, 36.512 and 8.764.
-
-- <time>Aug 14, 2022</time> 21.091, 6.134, 33.164 and 15.323.
-
-- <time>Aug 13, 2022</time> 19.941, 6.571, 31.480 and 10.170.
-
-- <time>Aug 12, 2022</time> 19.545, 5.173, 37.692 and 9.840.
-
-- <time>Aug 11, 2022</time> At least I learnt the one-handed version of the H perm! 18.599, 4.864, 38.965 and 11.771.
-
-- <time>Aug 10, 2022</time> 20.353, 5.457, 39.861 and 11.311.
-
-- <time>Aug 09, 2022</time> 19.965, 5.536, 35.159 and 9.446.
-
-- <time>Aug 07, 2022</time> 21.405, 7.053, 38.565 and 10.841.
-
-- <time>Aug 06, 2022</time> 17.039, 5.987, 35.190 and 7.532.
-
-- <time>Aug 05, 2022</time> 18.963, 5.775, 33.103 and 8.023.
-
-- <time>Aug 04, 2022</time> Finally! 18.730, 4.942, 29.052 (!), 10.617.
-
-- <time>Aug 03, 2022</time> 21.554, 5.782, 40.320 and 7.502.
-
-- <time>Aug 02, 2022</time> So close: 19.009, 4.656 (!), 30.284 and 8.706.
-
-- <time>Aug 01, 2022</time> Not a bad way to start the month: 16.993 (!), 6.440, 31.554 and 8.598.
-
-- <time>Jul 31, 2022</time> 17.234 (!), 5.124, 33.030 and 7.851.
-
-- <time>Jul 30, 2022</time> 17.595 (!), 5.320, 30.445 and 8.606.
-
-- <time>Jul 29, 2022</time> 19.340, 5.681, 31.071 and 9.370.
-
-- <time>Jul 28, 2022</time> 20.071, 4.838 (!), 38.269 and 7.523.
-
-- <time>Jul 27, 2022</time> 19.091, 5.953, 33.187 and 8.106.
-
-- <time>Jul 26, 2022</time> 24.022, 5.022, 37.679 and 7.321.
-
-- <time>Jul 25, 2022</time> 18.195, 4.872, 32.165 and 8.967.
-
-- <time>Jul 24, 2022</time> 21.094, 6.753, 39.731 and 11.056.
-
-- <time>Jul 23, 2022</time> 21.094, 6.753, 39.731 and 11.056.
-
-- <time>Jul 22, 2022</time> 3x3 AO5 PB! 15.888, 5.587, 37.371 and 9.911.
-
-- <time>Jul 21, 2022</time> 18.596, 5.965, 31.537 and 12.055.
-
-- <time>Jul 20, 2022</time> 21.247, 5.597, 31.273 and 8.574.
-
-- <time>Jul 19, 2022</time> 18.867, 6.451, 40.823 :(, 12.007.
-
-- <time>Jul 18, 2022</time> 19.059, 5.604, 38.726 and 9.577.
-
-- <time>Jul 16, 2022</time> 22.948, 6.385, 35.875 and 10.078.
-
-- <time>Jul 15, 2022</time> 19.592, 5.732, 34.364 and 10.530.
-
-- <time>Jul 14, 2022</time> 18.545, 6.365, 38.177 and 9.836.
-
-- <time>Jul 12, 2022</time> One day, I'll get a sub-30 3x3 OH AO5: 17.311, 5.320, 30.854 and 10.231
-
-- <time>Jul 11, 2022</time> 23.714, 7.466, 31.628 and 10.917.
-
-- <time>Jul 10, 2022</time> 21.920, 6.766, 39.072 and 8.685.
-
-- <time>Jul 08, 2022</time> 18.965, 5.504, 33.788 and 10.432.
-
-- <time>Jul 07, 2022</time> 2 fast 4 u: 19.586, 5.419, 32.351 and 7.546
-
-- <time>Jul 06, 2022</time> 19.177, 5.797, 40.185 :(, 10.573
-
-- <time>Jul 05, 2022</time> 18.756, 5.942, 32.829 and 7.772
-
-- <time>Jul 04, 2022</time> 21.407, 5.065, 38.805 and 10.481
-
-- <time>Jul 03, 2022</time> I was so close to sub-30 for 3x3 OH: 17.317 (!), 5.798, 31.982 and 8.910
-
-- <time>Jul 01, 2022</time> 18.892, 6.250, 32.603 and 8.918.
-
-- <time>Jun 29, 2022</time> 17.980 (!), 6.040, 31.132 and 10.525.
-
-- <time>Jun 28, 2022</time> 18.859, 5.639, 33.667 and 10.999.
-
-- <time>Jun 27, 2022</time> 20.970, 6.555, 35.080 and 10.976.
-
-- <time>Jun 26, 2022</time> 18.986, 5.383, 33.141 and 8.954.
-
-- <time>Jun 25, 2022</time> 20.229, 5.544, 33.882 and (8.615, 8.983).
-
-- <time>Jun 24, 2022</time> 20.432, 5.903, 36.015 and 11.585.
-
-- <time>Jun 23, 2022</time> I was so close to a sub-30 3x3 OH AO5... 18.736, 6.921, 30.004 (!) and 11.585.
-
-- <time>Jun 22, 2022</time> 3x3 was tragic today, my new cube is very fast, and that can result in sub-15, but it can also result in a 40 due to messing up the PLL: 23.590, 6.047, 33.841 and 8.036
-
-- <time>Jun 21, 2022</time> 20.229, 5.503, 33.131 and 8.247
-
-- <time>Jun 20, 2022</time> [New cube](https://www.youtube.com/watch?v=MjERmuzjqjQ)! 19.169, 6.500, 33.325 and 8.948.
-
-- <time>Jun 19, 2022</time> Never mind: 22.696, 5.413, 37.745 and 8.947.
-- <time>Jun 18, 2022</time> Phew... 18.819, 6.577, 37.075 and 8.134.
-
-- <time>Jun 17, 2022</time> 22.004, 5.656, 41.466 and 9.496.
-
-- <time>Jun 16, 2022</time> 20.320, 5.291, 42.044 and 9.445.
-
-- <time>Jun 15, 2022</time> I was so close to messing up 3x3 OH lol: 17.735, 6.390, 39.546 and 9.634.
-
-- <time>Jun 14, 2022</time> 20.155, 5.422, 36.218 and 10.212.
-
-- <time>Jun 13, 2022</time> After a certain time in the day, I just cannot cube: 23.168, 4.714, 42.344 and 7.879.
-
-- <time>Jun 12, 2022</time> It's funny how a couple of years ago, I would be screaming and running around if I got a sub-15 solve. Now, nothing: 18.392, 5.922, 33.850 and 9.239.
-
-- <time>Jun 11, 2022</time> Better: 17.511, 6.151, 34.061 and 9.249
-
-- <time>Jun 10, 2022</time> Still pretty meh, but getting better: 19.618, 6.651, 35.002 and 10.860.
-
-- <time>Jun 09, 2022</time> 20.986, 6.248, 42.098 and 10.130.
-
-- <time>Jun 08, 2022</time> 22.117, 5.633, 35.752 and 7.100.
-
-- <time>Jun 07, 2022</time> 20.241, 5.700, 37.880 and 9.941.
-
-- <time>Jun 06, 2022</time> A (less?) agreeable set of averages: 18.711, 5.089, DNF and 7.919.
-
-- <time>Jun 05, 2022</time> An agreeable set of averages: 19.217, 4.966, 36.632 and 8.640.
-
-- <time>Jun 04, 2022</time> Still waiting for 3x3 BLD... 19.928, 7.067, 40.553 and 11.262.
-
-- <time>Jun 03, 2022</time> I decided to do two AO5's for every event except 3x3 (to make everything line up): 19.273, (7.272, 5.501), (36.156, 36.921) and (11.751, 9.392)
-
-- <time>Jun 02, 2022</time> 20.927, 6.204, 37.392 and 9.882
-
-- <time>Jun 01, 2022</time> 24.275, 5.165, 35.743 and 7.170.
-
-- <time>May 31, 2022</time> Not bad: 18.764, 4.901, 35.034 and 10.136.
-
-- <time>May 30, 2022</time> 3x3 OH wasn't feeling it today: 18.478, 4.489, 44.487 and 9.555.
-
-- <time>May 29, 2022</time> 23.289, 6.478, 34.936 and 8.654.
-
-- <time>May 28, 2022</time> Double sigh, my first 3x3 AO5 was a DNF so I did it again and I still can't get a successful 3x3 BLD attempt: (DNF, 20.710), 5.385, 31.499 and 10.485.
-
-- <time>May 27, 2022</time> Sigh, 3x3 BLD has gotten worse: 19.207, 6.058, 38.293 and 9.943.
-
-- <time>May 26, 2022</time> I was planning to do a 3x3 BLD attempt, but I had to reassemble my Skewb in the middle of my AO5 :/ 19.659, 5.010, 34.842 and 11.210.
-
-- <time>May 25, 2022</time> 20.562, 5.151, 35.957 and 10.113.
-
-- <time>May 24, 2022</time> 21.166, 5.224, 37.286 and 7.112.
-
-- <time>May 23, 2022</time> Still no luck with 3x3 BLD: 18.350, 4.698, 35.431 and 6.450 (!)
-
-- <time>May 22, 2022</time> Phew... 19.904, 4.736, 34.368 and 9.121.
-
-- <time>May 21, 2022</time> 20.574, 5.218, 38.933 and 10.418.
-
-- <time>May 20, 2022</time> Just made it through: 19.738, 5.281, 39.569 and 9.758.
-
-- <time>May 19, 2022</time> Again, 3x3 OH could have gone better: 17.624 (!), 5.262, 38.848 and 7.606.
-
-- <time>May 18, 2022</time> 3x3 OH could have gone better: 18.981, 4.761 (!), 38.214 and 8.138.
-
-- <time>May 17, 2022</time> Finally! 18.702, 7.092, 37.922 and 8.573.
-
-- <time>May 16, 2022</time> 3x3 PB! (10.105) and I still didn't get sub-20 lol: 20.031, 8.630, 31.412 and 7.408.
-
-- <time>May 15, 2022</time> 20.338, 5.874, 34.788 and 11.512.
-
-- <time>May 14, 2022</time> 22.294, 6.656, 36.895 and 9.396.
-
-- <time>May 13, 2022</time> Great averages, nothing much to complain about: 17.248 (!), 5.251, 35.677 and 8.010.
-
-- <time>May 12, 2022</time> 3x3 OH PB! (22.095): 21.411, 6.433, 35.329 and 9.273.
-
-- <time>May 11, 2022</time> Been having a hard time getting a successful no-write 3x3 BLD attempt: 18.134, 4.266, 33.915 and 8.322.
-
-- <time>May 10, 2022</time> Finally: 19.299, 6.022, 32.160 and 8.944.
-
-- <time>May 09, 2022</time> Today was not a day for 3x3 OH: 19.471, 4.737 (!), 43.997 and 8.170.
-
-- <time>May 08, 2022</time> 21.400, 5.229, 37.052 and 9.670.
-
-- <time>May 07, 2022</time> 3x3 BLD attempt was disastrous today lol: 18.137, 4.741 (!), 38.289 and 11.163.
-
-- <time>May 06, 2022</time> 22.173, 6.177, 32.371 and 14.443.
-
-- <time>May 05, 2022</time> 22.468, 5.526, 36.977 and 7.229.
-
-- <time>May 04, 2022</time> 21.620, 5.126, 38.562 and 11.681.
-
-- <time>May 03, 2022</time> 21.063, 6.582, 31.209 and 10.659.
-
-- <time>May 02, 2022</time> Finally, some good averages: 17.740 (!), 5.741, 34.197 and 9.334.
-
-- <time>May 01, 2022</time> 3 days in a row... 20.832, 4.844, 35.143 and 9.095.
-
-- <time>Apr 30, 2022</time> 20.412, 8.698, 41.073 and 8.761.
-
-- <time>Apr 29, 2022</time> 22.307, 5.259, 35.524 and 10.037.
-
-- <time>Apr 28, 2022</time> Today's 3x3 BLD attempt was so bad haha: 19.357, 4.800 (!), 33.606 and 6.465 (!)
-
-- <time>Apr 27, 2022</time> 21.066, 7.844, 42.862 and 9.970.
-
-- <time>Apr 26, 2022</time> Disappointingly, [cstimer](https://cstimer.net) (the cubing timer I use) doesn't produce AO1000, so here is the mean for 1000 solves: 21.177, 6.102, 41.186 and 10.019. As for the AO5's: 18.469, 5.554, 33.303 and 10.887. Also, I've spent almost 6 hours in total on 3x3 lol, here's to another 1000!
-
-- <time>Apr 25, 2022</time> 21.078, 6.095, 35.065 and 8.574.
-
-- <time>Apr 24, 2022</time> I finished the BLD attempt too early and forgot to execute the moves to solve the last corner :( Also, day after tomorrow will be the AO1000 day! 19.973, 5.549, 37.311 and 7.746.
-
-- <time>Apr 23, 2022</time> 3x3 OH... 17.459 (!), 5.334, 40.854 and 7.839.
-
-- <time>Apr 22, 2022</time> TS UP VE CX EA LQ! I got a successful 3x3 BLD solve without writing down the memorization during the solve! 18.899, 6.497, 37.569 and 10.569 (I also forgot to mention that a couple days ago I got a 3x3 OH PB lol, 22.402)
-
-- <time>Apr 21, 2022</time> 19.546, 5.346, 39.616 and 10.359.
-
-- <time>Apr 20, 2022</time> 21.161, 5.131, 36.236 and 9.728.
-
-- <time>Apr 19, 2022</time> I was pretty close with the no-writing BLD attempt! 19.845, 5.578, 32.999 and 9.502.
-
-- <time>Apr 18, 2022</time> Decent I guess: 19.625, 6.814, 38.264 and 11.757. I also tried to do a BLD attempt without writing down the memorization, I messed up because of execution lol.
-
-- <time>Apr 17, 2022</time> Nothing saves the day: 20.620, 5.907, 39.393 and 8.049.
-
-- <time>Apr 16, 2022</time> 3x3 OH saves the day: 20.796, 4.305 (!), 29.552 (!) and 9.895.
-
-- <time>Apr 15, 2022</time> Slightly better: 18.447, 4.443 (!), 39.591 and 7.931.
-
-- <time>Apr 14, 2022</time> Barely passable: 19.618, 6.006, 36.972 and 8.722.
-
-- <time>Apr 13, 2022</time> Never mind? 17.598 (!), 5.175, 33.667 an 10.520. I hate how turbulent my times are. I guess that's cubing in a nutshell.
-
-- <time>Apr 12, 2022</time> Welp, I think we'll be in this time slump for a bit. At least I got a successful 3x3 BLD solve: 20.569, 6.222, 39.119 and 9.908 (Also, I think the change in solving order didn't do much, so I'm back to the original order).
-
-- <time>Apr 11, 2022</time> 22.961, 5.759, 35.432 and 11.559.
-
-- <time>Apr 10, 2022</time> Phew, back on track: 19.187, 5.778, 36.826 and 7.655 (by the way, the order of the averages written haven't changed, but I now do Skewb -> 2x2 -> 3x3 OH -> 3x3).
-
-- <time>Apr 09, 2022</time> Well, it was fun while it lasted: 21.856, 6.137, 37.501 and 10.732.
-
-- <time>Apr 08, 2022</time> Very nice (except for 3x3 OH): 17.276, 5.472, 37.693 and 8.917. I wonder how long it'll take me to get sub-15 on 3x3.
-
-- <time>Apr 07, 2022</time> Nice: 17.101, 5.581, 35.501 and 8.881.
-
-- <time>Apr 06, 2022</time> 100 more solves to go till AO1000! 18.073, 5.867, 38.429 and 8.191.
-
-- <time>Apr 05, 2022</time> 3x3 OH AO5 was terrible: 18.068, 5.591, 40.613 and 9.809.
-
-- <time>Apr 04, 2022</time> Another successful 3x3 BLD solve! 17.372 (!), 5.924, 35.729 and 10.559.
-
-- <time>Apr 03, 2022</time> Today is the greatest day of my life (cubing-wise!), got 3 sub-30 solves in 3x3 OH and great averages all around: 18.990, 5.906, 30.921 (!), 8.003.
-
-  And... I got another successful 3x3 BLD solve! It was so hectic lol, I changed my memorization mid-way through the edges (thankfully) .
-
-- <time>Apr 02, 2022</time> I haven't been able to get a 3x3 BLD attempt (let alone a successful one) in the past 3-ish days. At least the averages are back to normal (for like a day): 18.529, 5.019, 37.587 and 9.230.
-
-- <time>Apr 01, 2022</time> Never mind: 22.649, 5.509, 39.351 and 9.716. I like how my whole day (cubing-wise) gets ruined if my 3x3 AO5 is not sub-20 lol.
-
-- <time>Mar 31, 2022</time> Back to normal: 19.452, 5.065, 32.064 and 9.556.
-
-- <time>Mar 30, 2022</time> 3x3 BLD attempt was off by 3 edges again: 20.618, 5.458, 40.515 and 11.240.
-
-- <time>Mar 29, 2022</time> 22.546, 7.092, 38.206 and 11.234.
-
-- <time>Mar 24, 2022</time> Today's 3x3 BLD attempts were so frustrating, the first one was off by two flipped edges and I kept messing up the execution in the later solves, at least the averages were good: 18.488, 5.382, 39.277 and 8.365.
-
-- <time>Mar 23, 2022</time> I got two sub-20 solves for 3x3 at first, but it all got ruined by a DNF and a +2, it sometimes feel like it's all about luck, anyways: 20.698, 5.174, 35.456 and 13.105.
-
-- <time>Mar 22, 2022</time> Odd 3x3 BLD attempt was so close: 21.064, 5.506, 37.986 and 8.045.
-
-- <time>Mar 21, 2022</time> How did an average with a 40 and a DNF become sub-40? 25.537, 4.964, 39.721 and 9.783.
-
-- <time>Mar 20, 2022</time> Scrambles were very easy: 17.547 (!), 4.941, 38.425 and 11.764.
-
-- <time>Mar 19, 2022</time> Got a 12 second solve for 3x3 but regardless: 21.821, 6.535, 36.357 and 10.273.
-
-- <time>Mar 18, 2022</time> 23.077, 5.853, 41.374 and 10.033.
-
-- <time>Mar 17, 2022</time> 21.405, 6.002, 37.289 and 10.459.
-
-- <time>Mar 16, 2022</time> I guess I got lucky? 18.841, 5.380, 34.834 and 9.340. Today's 3x3 BLD attempt was so close (two edges flipped).
-
-- <time>Mar 15, 2022</time> Forgot about the switch-up: 24.875, 6.812, 35.906 and 11.400.
-
-- <time>Mar 14, 2022</time> My averages have been terrible for the past few ~~months~~ days and so I'm going to switch it up by doing 2x2 first and then proceeding the with normal order (don't worry, the log order will remain the same): 22.462, 5.755, 40.173 and 9.379.
-
-- <time>Mar 13, 2022</time> 200 more solves left for an AO1000: 20.543, 5.996, 36.888 and 9.247.
-
-- <time>Mar 12, 2022</time> This is getting ridiculous: 19.962, 5.636, 40.219 and 11.274.
-
-- <time>Mar 11, 2022</time> Yes? 19.093, 5.612, 37.009, 11.737.
-
-- <time>Mar 10, 2022</time> Nope: 20.098, 7.327, 38.656 and 7.993.
-
-- <time>Mar 09, 2022</time> We're back? 18.709, 5.143, 38.506 and 6.759.
-
-- <time>Mar 08, 2022</time> Meh (x2): 21.662, 6.125, 34.649 and 9.689.
-
-- <time>Mar 07, 2022</time> Meh: 22.201, 5.474, 40.973 and 10.045.
-
-- <time>Mar 06, 2022</time> QX TJ IW ER UO LR, WB XL JD! I DID IT! THE NEW SETUP MOVES ACTUALLY WORKED! I will add a technicality here, I forgot the "JD" part so I peeked at it. A full timed BLD solve coming soon! Averages were meh but that doesn't matter: 20.036 (so close!), 4.361, 40.565 and 8.018.
-
-- <time>Mar 05, 2022</time> I need to stop cubing at night (x2): 23.734, 5.564, 43.749 and 7.136.
-
-- <time>Mar 04, 2022</time> I need to stop cubing at night: 20.598, 7.136, 42.022 and 10.538.
-
-- <time>Mar 03, 2022</time> Sigh: 21.520, 6.214, 36.180 and 8.337, at least I learnt why my "odd" memorizations for 3x3 BLD are always way off (I can't use any setup moves that disrupt the top two corners + the buffer)
-
-- <time>Mar 02, 2022</time> 2x2 was quite a shock: 21.093, 3.474 (!), 44.370 and 9.777.
-
-- <time>Mar 01, 2022</time> Nothing to say really: 22.273, 5.233, 39.433 and 8.907.
-
-- <time>Feb 28, 2022</time> Sigh, the corners for today's BLD attempt were totally wrong and my averages have hit an all-time low: 20.595, 8.103, 40.345 and 12.222.
-
-- <time>Feb 27, 2022</time> It's just a matter of time: 3 corners wrong again (but I re-attempted my memorization whilst being able to look and my corner memorization was slightly wrong). Also, 3x3 PB! (11.764, here's the scramble: F L2 U L2 F2 U2 L2 R2 U2 B' R2 B F R B D2 B' U B F) and the averages were not bad too: 19.507, 5.753, 37.973 and 9.585.
-
-- <time>Feb 26, 2022</time> My 3x3 BLD attempt was agonizingly close, I had three corners that were wrong :(
-
-  Also, averages were (arguably) more disappointing: 22.265, 7.134, 39.826 and 11.307.
-
-- <time>Feb 25, 2022</time> These have got to be my most disappointing averages: 21.324, 7.266, 43.087 and 9.680.
-
-- <time>Feb 24, 2022</time> Back to meh averages: 21.481, 5.477, 36.067 and 9.224.
-
-- <time>Feb 23, 2022</time> So close with today's 3x3 BLD attempt, only about 4 corners were wrong. Today's average were great: 19.330, 4.720, 36.209 and 8.188.
-
-- <time>Feb 22, 2022</time> Got nothing much to say: 21.268, 5.496, 38.223 and 10.216.
-
-- <time>Feb 21, 2022</time> Don't know what's going wrong, but I can't get any correct memorization (one can't be odd and another even) and today's averages were meh (except 3x3 OH, I got a 26!): 23.784, 5.127, 32.972 (!) and 12.093.
-
-- <time>Feb 20, 2022</time> Couldn't get any 3x3 BLD memorization since I kept getting stuck in an "edge loop". Today's 3x3 was tragic. Were it not for that +2 at the end, I would have gotten a 19.879 average. Instead: 20.546, 4.763, 39.881 and 10.050.
-
-- <time>Feb 19, 2022</time> I checked out [another example solve](https://www.youtube.com/watch?v=BnCHARaCoi4) and this one memorized corners -> memorized edges -> executed edges -> executed corners. I tried that (with parity) and it was pretty close (~5 corners were wrong). Anyways, today's averages were bad: 25.125, 7.246, 38.246 and 8.772.
-
-- <time>Feb 18, 2022</time> Did a 3x3 BLD attempt while seeing, I'm 99% sure my parity algorithm and corner memorization are always wrong. I'll work on that. The averages were really good: 17.640 (!), 6.461, 38.753 and 8.020.
-
-- <time>Feb 17, 2022</time> Not bad: 19.799, 5.190, 39.064 (was so close to 40 lol) and 8.005. Got a PB today for 2x2 (1.386) and Skewb (3.268)!
-
-- <time>Feb 16, 2022</time> Today's averages were pretty amazing: 19.030, 4.953, 38.781 and 9.570.
-
-- <time>Feb 15, 2022</time> Today's attempt was so close it's annoying, and today's averages were not bad: 21.033, 5.817, 36.105 and a 10.531.
-
-- <time>Feb 14, 2022</time> Even cases still leave my corners all messed up. Today's averages were terrible: 21.927, 7.347, 35.463 and 10.863.
-
-- <time>Feb 13, 2022</time> So close yet so far with BLD, I rechecked my solution and it was right up to the edges, I think parity messed me up, maybe my algorithm is wrong? Today's averages were very meh: 21.658, 6.286, 40.089 and 8.430.
-
-- <time>Feb 12, 2022</time> Well, that upward trajectory lasted longer than [the time the US made $1 coins](https://www.youtube.com/watch?v=gonVHW_X79U): 21.514, 6.383, 34.207 and a 9.668.
-
-- <time>Feb 11, 2022</time> So close! Just messed up my corner memorization (somewhere) and today's averages were great: 19.732, 6.033, 37.433, 9.408.
-
-- <time>Feb 10, 2022</time> We're back: 19.463, 5.182, 35.965 and a 8.541.
-
-- <time>Feb 09, 2022</time> BLD was really close today! I think I've gotten used to the new correct setup moves. Today's averages were sad (could have gotten sub-20 in 3x3 if it wasn't for me messing up PLL): 21.694, 7.680, 40.865 and a 9.638.
-
-- <time>Feb 08, 2022</time> Today's BLD attempt failed spectacularly and today's averages were slightly less meh (emphasis on slightly): 22.500, 5.821, 41.203 and a 8.944.
-
-- <time>Feb 07, 2022</time> Couldn't get today's BLD attempt, and today's were very meh: 24.692, 5.152, 40.385 and a 9.958.
-
-- <time>Feb 06, 2022</time> HOLY CRAP TODAY'S 3X3 BLD ATTEMPT WAS SO CLOSE! Only my corner memorization was a little bit wrong and the buffer for the edge was flipped (which confirms that it's possible, I need to learn what to do in that case). Today's averages were good (except for 3x3, still waiting for a streak of sub-20's): 22.320, 4.962, 35.021 and a 10.029.
-
-- <time>Feb 05, 2022</time> I must be doing something right with 3x3 BLD, I did my edge memorization (while being able to see) and it was all correct. But after doing the parity (which I was supposed to do) the whole corner memorization got messed up. Weird. Anyways, today's averages were meh: 21.027, 6.522, 38.636 and 10.536.
-
-- <time>Feb 04, 2022</time> Okay, [I rewatched an example solve](https://www.youtube.com/watch?v=O8EXVRgUHhk) and I realized I've been making a ton of mistakes. I tried to use the new buffer location, but my setup moves are now too complicated. Maybe the buffer location doesn't matter? Anyways, today's averages were better, 3x3 sub-20 coming soon: 20.770, 6.072, 37.997 and a 9.871.
-
-- <time>Feb 03, 2022</time> I don't even want to talk about this day cubing-wise: 20.866, 4.760, 50.749 and 9.291.
-
-- <time>Feb 02, 2022</time> So close! I think the only place I could have potentially gone wrong was returning to the buffer. Today's 3x3 OH average was insane, almost all solves were sub-35: 22.481, 6.097, 34.596 and 8.596.
-
-- <time>Feb 01, 2022</time> Still no luck, will actually try recording my attempt over the weekend to see any mistakes I made after the solve. Today's averages (except 3x3 OH) were meh: 22.537, 6.205, 35.843 and 9.001.
-
-- <time>Jan 31, 2022</time> Nope, that was not the reason. Today's averages were meh again: 22.205, 7.153, 40.376 and 10.354.
-
-- <time>Jan 30, 2022</time> I think I found the reason why my 3x3 BLD attempts have all failed, it's because I didn't do wide setup moves. I'll try again tomorrow (I messed up parity in today's attempt lol). Today's averages were meh: 20.032, 5.665, 36.412 and 10.434.
-
-- <time>Jan 29, 2022</time> The meh-streak continues: 21.008, 5.467, 38.579 and 7.971.
-
-- <time>Jan 28, 2022</time> So close! One good thing that came from today's 3x3 BLD attempt was that everything was generally much faster (memorization + execution), though that could mean the probability of making a mistake is now much higher... Today's averages were meh again (except for 3x3 OH): 21.947, 5.328, 38.148 and a 8.784.
-
-- <time>Jan 27, 2022</time> Thought today would be the day, but nope, I messed up the 3x3 BLD attempt quite badly (though I'm not sure what I did wrong in the attempt, maybe messed up an execution?). Anyways, today's averages (except 3x3) were meh: 18.878 (!), 7.080, 40.929 and 10.494.
-
-- <time>Jan 26, 2022</time> So close! I think I only messed up my corner memorization, the edges were all correct and a few corners hadn't been swapped. Anyways, today's averages were meh again: 20.580, 6.680, 39.801 and a 9.568.
-
-- <time>Jan 25, 2022</time> My closest 3x3 BLD attempt yet! Got every step done, maybe my memoization was wrong. Anyways, today's averages were pretty meh: 19.308, 6.757, 44.479 and a 10.444.
-
-- <time>Jan 24, 2022</time> Pretty bad all around, failed my 3x3 BLD attempt with the same mistake I've been making in the past few attempts (confused between algorithms) and got pretty meh averages: 20.538, 4.140, 54.184 and an 8.206.
-
-- <time>Jan 23, 2022</time> Everything today was very, very sad: 21.869, 5.481, 44.561 and a 9.391.
-
-- <time>Jan 22, 2022</time> Today's 3x3 BLD attempt was so bad it was funny, I thought mid-way the solve that I might get only a few wrong (since I forgot to do the parity algorithm) but nope. Anyways, today's averages were also, well, average. But I did get a 3x3 OH PB (22.402): 20.095, 6.131, 41.337 and an 8.516.
-
-- <time>Jan 21, 2022</time> Got quite close with my 3x3 BLD attempt, one day... Today's averages were pretty meh: 22.241, 5.753, 41.772 and a 9.544.
-
-- <time>Jan 20, 2022</time> I learnt yesterday night why all my 3x3 BLD attempts failed, it's because I swapped the wrong buffer piece and I didn't do the parity algorithm. I corrected both today, a successful attempt should come soon. Today's averages were good: 19.257, 4.985, 36.746 and a 7.840.
-
-- <time>Jan 19, 2022</time> Very strange 3x3 BLD full attempt today, I somehow got all edges correct and no corners correct. Anyways, today's averages were awesome: 19.627 (!), 4.514 (!), 38.066 (!) and a 7.689 (!)
-
-- <time>Jan 18, 2022</time> Today's averages were crazy! Got an 18.415 (!), 4.202 (!), 38.537 (!) and a 9.553. Also did my first full 3x3 BLD attempt, did not go too well but the amount of progress I'm making is amazing.
-
-- <time>Jan 17, 2022</time> Pretty awesome averages today, got a 19.129 (!), 5.254, 37.508 (!) and a 10.109.
-
-- <time>Jan 16, 2022</time> Today was crazy for 2x2, I destroyed my PB, twice in a row, first with a sub-3 (2.589) and then with a sub-2 (1.450), today's averages were nothing too crazy though: 20.102, 5.000 (!), 42.915 and an 8.407.
-
-- <time>Jan 15, 2022</time> I think I've fully learnt 3x3 BLD edges! Will move on to corners tomorrow. As for the times today, a bit disappointed with 3x3 but the rest were alright: 24.521, 6.656, 36.764 (!) and a 7.299 (!)
-
-- <time>Jan 14, 2022</time> I think I have to follow the tutorial again for 3x3 BLD, making the same mistakes over and over again. Anyways, today's averages were awesome, soon to be sort of officially sub-40 3x3 OH and sub-20 3x3: 18.546, 6.218, 35.814 and 10.457.
-
-- <time>Jan 13, 2022</time> Again, got really close to 3x3 BLD edges attempt. As for the times today: I got a 23.001, 6.177, 34.869 (!) and a 10.518.
-
-- <time>Jan 12, 2022</time> SO CLOSE to a true 3x3 BLD edges attempt! I was only one swap away. Anyways, I completed 500 solves in every event, and today's averages were a 21.648, 5.759, 43.116 and a 10.973.
-
-- <time>Jan 11, 2022</time> So close to sub-40 AO5 for 3x3 OH, but I messed up the last solve. Will move on to memorizing corners for 3x3 BLD and today's times are a 20.929, 5.127, 40.641 and a 9.240.
-
-- <time>Jan 10, 2022</time> Pretty great for 2x2, got a 20.645, 4.702 (!), 43.245 and a 10.341.
-
-- <time>Jan 09, 2022</time> Today was crazy for 3x3 OH again, got a 21.468, 6.339, 37.748 (!) and a 10.506.
-
-- <time>Jan 08, 2022</time> Amazing day! Got a 3x3 OH PB (24.204) (!) and great averages for 3x3 and 3x3 OH: 19.394 (!), 6.030, 35.962 (!) and a 10.915.
-
-- <time>Jan 07, 2022</time> Not bad, got a 21.398, 5.979, 41.616 and a 10.386.
-
-- <time>Jan 06, 2022</time> Amazing averages! Got a 19.056 (!), 5.725, 39.427 and a 8.321.
-
-- <time>Jan 05, 2022</time> Progress! I solved the 3x3 BLD edges (though I could see the cube, just trying to get my memorization correct) and today's 2x2 was crazy good. 20.787, 4.923 (!), 40.937 and a 10.749.
-
-- <time>Jan 04, 2022</time> Started with my 3x3 BLD practice (though it will be a slow journey) and I got a 20.636, 6.771, 44.624 and an 8.753.
-
-- <time>Jan 03, 2022</time> Pretty good day, got another successful 2x2 BLD solve, going to move on to 3x3 BLD with [this video](https://www.youtube.com/watch?v=ZZ41gWvltT8), as for the times, I got a 19.373 (!), 6.114, 41.561 and a 9.421.
-
-- <time>Jan 02, 2022</time> **P**a**N**ama **T**imes **S**omething **G**oes **M**ad! That was the memorization for my first ever legit 2x2 BLD solve! I did it again (though the scramble was pretty easy). As for the times today, they were pretty mid: 20.916, 5.551, 44.045 and a 9.939.
-
-- <time>Jan 01, 2022</time> Happy new year! Getting really close with 2x2 BLD, I think my main problem is what I memorize is wrong, the memorization and solving part is not hard. Anyways, I got a 21.460, 6.278, 45.938, 9.669.
-
-- <time>Dec 31, 2021</time> Still no luck with 2x2 BLD, but the times today were not bad, nearly got a 3x3 OH PB (29.480): 20.790, 6.353, 37.504 (!) and a 8.922. Hope to go for a competition in 2022!
-
-- <time>Dec 30, 2021</time> No luck with 2x2 BLD still and a pretty average day, 21.719, 6.508, 43.146 and a 11.594.
-
-- <time>Dec 29, 2021</time> So close! I attempted 2x2 BLD (by closing my eyes lol) thrice and got only two pieces unsolved in the last two attempts. Hopefully, by the end of this week, I'll know how to solve it BLD. Anyways, today's times were nothing great: 23.027, 6.431, 43.704 and 8.318.
-
-- <time>Dec 28, 2021</time> Alright day, got a 21.078, 5.375, 39.117 (!) and a 12.108.
-
-- <time>Dec 27, 2021</time> [Solved a 2x2 with the Old Pochmann method!](https://www.speedcubereview.com/blind-solving-algorithms.html#:~:text=Old%20Pochmann%20is%20a%20basic,it%20with%20the%20bank%20piece.) (though I wasn't blindfolded, and I can only do it if I don't have a new cycle, I'll have to revise that), as for the times, I got a 19.002 (!), 5.674, 40.539 and 9.591.
-
-- <time>Dec 26, 2021</time> Made good progress learning 2x2 blindfolded [with this video](https://www.youtube.com/watch?v=7pHnmNeoJkQ&t=168s) and got alright times for today: 21.616, 6.931, 39.859 (!) and a 10.084.
-
-- <time>Dec 25, 2021</time> Meh, got a 21.567, 5.878, 40.827 and a 9.778.
-
-- <time>Dec 24, 2021</time> Learnt full PLL on 3x3! As for the times, I got a 21.452, 5.898, 41.674 and a 10.835.
-
-- <time>Dec 23, 2021</time> 400 solves! The AO100's are 21.074, 6.508, 41.509 and 9.773, the AO5's I got are a 18.486 (!), 5.573, 46.521 and a 9.611.
-
-- <time>Dec 22, 2021</time> Getting better, 5 more solves till 400 for each event! As for the times, I got a 20.635, 5.822, 37.404 (!) and a 9.471.
-
-- <time>Dec 21, 2021</time> Meh again, got a 21.244, 6.696, 40.381 and a 10.185. Learnt the Gc perm, only one more to go!
-
-- <time>Dec 20, 2021</time> Even worse this time, got a 20.709, 7.065, 48.662 and a 10.913.
-
-- <time>Dec 19, 2021</time> Alright I guess, got a 21.317, 7.003, 40.893 and a 9.900. Hope to learn full PLL by the end of this week.
-
-- <time>Dec 18, 2021</time> Pretty good, got a 18.939 (!), 7.039, 41.364 and 8.666 (!). Is Gc perm the worst G perm?
-
-- <time>Dec 17, 2021</time> On fire for 3x3 OH! Today's 3x3 times were very funny, I got a 30 in one of them, 20 in two of them and then a 15 in the last solve. Anyways, I got a 20.895, 6.642, 34.869 (!) and a 9.233.
-
-- <time>Dec 16, 2021</time> Slightly worse, but still did very good in 3x3 OH, got a 22.331, 5.687 (!), 37.640 (!) and a 9.206. Going to learn the Gc perm tomorrow.
-
-- <time>Dec 15, 2021</time> Awesome day cubing wise! Got a 19.421 (!), 5.322 (!), 38.880 (!) and a 8.327 (!).
-
-- <time>Dec 14, 2021</time> Skewb PB (3.601)! As for the rest of the times, I got a 21.208, 6.461, 43.598 and a 9.656.
-
-- <time>Dec 13, 2021</time> Meh, got a 23.123, 5.687, 44.295 and a 10.790.
-
-- <time>Dec 12, 2021</time> Awesome day for 3x3 OH, and I finally learnt the Gb perm, two more left till full PLL! I got a 23.261, 6.302, 36.469 (!) and an 8.115 (!)
-
-- <time>Dec 11, 2021</time> Another alright day, waiting for the day I get a sub-35 average on 3x3 OH. Got a 22.886, 7.857, 38.093 (!) and a 9.395.
-
-- <time>Dec 10, 2021</time> Alright day, got a 24.017, 6.548, 39.872 (!) and a 8.367 (!), getting used to the Gb perm.
-
-- <time>Dec 09, 2021</time> Not bad again! Got a 19.181 (!, sub-20 coming soon), 7.012, 40.600 and a 8.617 (!). Trying to learn 2x2 BLD with [this video](https://www.youtube.com/watch?v=7pHnmNeoJkQ).
-
-- <time>Dec 08, 2021</time> Not bad, 18.317 (!), 6.659, 43.555 and 11.729. The Gb perm is pretty hard.
-
-- <time>Dec 07, 2021</time> Alright day, got a 19.128 (!), 6.142, 40.139 and a 11.155.
-
-- <time>Dec 06, 2021</time> Slightly better, got a 21.576, 6.995, 48.182 and a 9.809, going to learn the Gb perm tomorrow.
-
-- <time>Dec 05, 2021</time> Pretty bad day, got a 21.047, 6.170, 50.366 and a 9.781. At least I learnt the Ga perm.
-
-- <time>Dec 04, 2021</time> Not bad, got a 19.496 (!), 6.902, 40.402 and a 11.875. Finished N Perms and hope to learn full 3x3 PLL by next week.
-
-- <time>Dec 03, 2021</time> 300 solves! My AO100's are 20.783, 5.877, 42.701 and a 9.891. As for my AO5's today, I got a 20.249, 4.813 (!), 41.474 and an 11.669. Also sent a proposal to create a cubing challenge for EA Cambridge's Slack group!
-
-- <time>Dec 02, 2021</time> Got a 14 single in 3x3! But other than that, an average day. Got a 19.900 (!), 5.993, 43.128 and a 10.339.
-
-- <time>Dec 01, 2021</time> Talk about an early Christmas miracle, I got a 14.166 3x3 PB! As for the rest of the times, I got a 20.197, 6.595, 36.706 (!) and an 8.390.
-
-- <time>Nov 30, 2021</time> This month was pretty awesome cubing-wise, sure there were plenty of average days, but I got really good at 3x3 OH (now my favourite event) and got plenty of PB's! Oh, I got 20.019, 7.074, 43.291 and a 8.094.
-
-- <time>Nov 29, 2021</time> The average day has come, got a 20.047, 5.988, 42.593 and a 10.056.
-
-- <time>Nov 28, 2021</time> Was going to be an average day, but I got a PB for 3x3 OH! (29.375) As for the rest of the times, I got a 23.697, 5.978, 39.592 (!) and a 9.283.
-
-- <time>Nov 27, 2021</time> What a recovery, got a 20.494, 5.737, 46.187 and a 11.190.
-
-- <time>Nov 26, 2021</time> Pretty mid today, got a 25.170, 6.910, 40.536 and a 9.746.
-
-- <time>Nov 25, 2021</time> 3X3 PB with PLL skip (14.539)! As for the rest of the times, I got a 20.491, 5.656, 41.291 and a 11.494
-
-- <time>Nov 24, 2021</time> I think I got an AO5 PB for 3x3! I got a 18.139 (!), 5.137, 44.735 and a 9.151 (!)
-
-- <time>Nov 23, 2021</time> Amazing day! Got a 19.178 (!), 5.274, 35.787 (!) and a 10.861.
-
-- <time>Nov 22, 2021</time> Pretty mid, got a 21.312, 5.734, 44.323 and a 10.070.
-
-- <time>Nov 21, 2021</time> So close to sub-40 for 3x3 OH! Got a 21.800, 5.644 (!), 40.224 (!) and a 10.965.
-
-- <time>Nov 20, 2021</time> Much better, got a 19.348 (!), 6.056, 45.858 and a 8.337 (!).
-
-- <time>Nov 19, 2021</time> Mid again: 20.097, 6.213, 45.935 and a 10.867.
-
-- <time>Nov 18, 2021</time> Reached 15<sup>2</sup> solves, though today my averages were pretty mid: 20.534, 6.302, 47.552 and a 10.534.
-
-- <time>Nov 17, 2021</time> Great day, got a 18.659 (!), 4.481 (!), 43.815 and a 9.598.
-
-- <time>Nov 16, 2021</time> Amazing day! Got a 20.118, 4.781 (!), 37.553 (!) and a 8.789. (!)
-
-- <time>Nov 15, 2021</time> Pretty good for 3x3 and 2x2, got a 19.861 (!), 5.405 (!), 45.114 and a 11.640.
-
-- <time>Nov 14, 2021</time> Not bad, got a 21.894, 6.561, 42.843 and a 8.672. Trying to set up [jperm.net](https://jperm.net).
-
-- <time>Nov 13, 2021</time> I reached 200 attempts for all four events, here are the AO100's: 21.648, 6.380, 46.315 and a 10.089. For the AO5's, there were pretty good: 21.344, 5.282 (!), 46.523 and a 8.131.
-
-- <time>Nov 12, 2021</time> Okay session, got a 21.626, 5.265 (!), 41.383 and a 10.691.
-
-- <time>Nov 11, 2021</time> Great session, got a 19.111 (!), 6.761, 42.691 and a 9.557 (!).
-
-- <time>Nov 10, 2021</time> Pretty meh all around, got a 23.695, 6.000 (not a joke), 45.575 and a 12.027.
-
-- <time>Nov 09, 2021</time> Alright session, got a 20.806, 6.135, 40.776 and a 10.041.
-
-- <time>Nov 08, 2021</time> Learnt the Ga perm! My first G perm. As for the AO5's, they weren't half bad, but I can feel 3x3 sub-20 coming soon. I got a 20.842, 6.492, 41.137 and a 12.110
-
-- <time>Nov 07, 2021</time> Pretty great session for 2x2, got a 21.192, 4.991 (!), 47.397 and a 8.940. I think I've fully learnt all the N perms!
-
-- <time>Nov 06, 2021</time> Alright session, got a 22.703, 7.097, 46.636 and a 8.231.
-
-- <time>Nov 05, 2021</time> 3x3 PB (14.778)! I also got two sub-40's in 3x3 OH and a sub-6 AO5 for 2x2! Here are the times: a 22.017, 5.851 (!), 42.885 (!) and a 7.902 (!) For reference, here are the G perms I'm learning:
-
-![G Perms](https://www.docdroid.net/file/view/FP2x1rd/mats-valk-g-perms-pdf.jpg)
-
-- <time>Nov 04, 2021</time> My 3x3 turning was so choppy today. Got a 21.306, 5.272, 43.433 and a 12.279. I also practised my Nb perm.
-
-- <time>Nov 03, 2021</time> Alright session, got a 20.729, 6.346, 49.053 and a 9.319.
-
-- <time>Nov 02, 2021</time> Was about to be a pretty good day until I got a PB for 3x3 OH! (29.578). For the rest of the times, I got a 22.646, 6.820, 39.839 (!) and an 11.581. I re-learnt the F perm for 3x3 PLL.
-
-- <time>Nov 01, 2021</time> New month, new (pretty bad) averages. I got a 28.293, 5.824 (!), 45.115 and a 11.135. I also practised PLL's.
-
-- <time>Oct 31, 2021</time> Got a PB for Skewb! (3.959) and got a 21.759, 6.567, 48.101 and a 7.600.
-
-- <time>Oct 30, 2021</time> Another great session, especially for Skewb! I got a 23.748, 7.724, 48.450 and a 7.112 (!). I also learnt the N perms for PLL.
-
-- <time>Oct 29, 2021</time> Pretty great session! Got a sub-4 for 2x2 (3.875), and got a 22.077, 6.040, 47.577 and a 7.451 (!)
-
-- <time>Oct 28, 2021</time> Finished the rest of my solves for 3x3 OH and Skewb, got a 19.775, 6.538, 1:02.230 and a 13.673.
-<hr />
-
 ## Inactive/Paused
 
 <hr />
@@ -8620,6 +7971,657 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 ## Done
 
+<hr />
+
+## <span id="cubing">[Cubing](https://www.worldcubeassociation.org/persons/2019YADA06)</span>
+
+<small>Oct 28, 2021-Oct 21, 2022</small>  
+<small>Tried my best to get better every day at the four events I practice, which are [3x3](https://ruwix.com/the-rubiks-cube/), [2x2](https://ruwix.com/twisty-puzzles/2x2x2-rubiks-cube-pocket/), [3x3 OH](https://ruwix.com/the-rubiks-cube/one-handed/) and [Skewb](https://ruwix.com/twisty-puzzles/skewb-pyraminx-mod-skewb-diamond/), all [AO5](https://ruwix.com/the-rubiks-cube/cubing-terminology-abbreviations-commonly-used-expressions/)'s were presented in that order and I usually wrote about any [PB](https://ruwix.com/the-rubiks-cube/cubing-terminology-abbreviations-commonly-used-expressions/) I get. In addition to regular-ish practice, I attended [a local WCA competition](https://www.worldcubeassociation.org/competitions/DubaiSummerOpen2022).</small>
+
+<hr />
+<small>Cubing's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Oct 21, 2022</time> After 1700 solves, I'm happy to call this project done. I'm not exaggerating when I say that cubing was a big part of my life, but we all have to move on eventually. Maybe I'll revisit this project when another competition comes up :) 22.876, 5.486, 38.588 and 11.233.
+
+- <time>Oct 19, 2022</time> 22.401, 6.565, 39.651 and 10.100.
+
+- <time>Oct 18, 2022</time> 20.470, 6.691, 33.614 and 9.103.
+
+- <time>Oct 17, 2022</time> 19.862, 5.857, 37.010 and 9.527.
+
+- <time>Oct 16, 2022</time> 21.559, 6.203, 37.976 and 8.565.
+
+- <time>Oct 09, 2022</time> 20.414, 5.919, 31.688 and 10.009.
+
+- <time>Oct 08, 2022</time> 17.612, 6.383, 37.462 and 13.477.
+
+- <time>Oct 07, 2022</time> 23.083, 6.700, 38.384 and 11.140.
+
+- <time>Oct 06, 2022</time> 20.640, 6.756, 37.880 and 10.302.
+
+- <time>Oct 05, 2022</time> 20.694, 5.273, 33.634 and 10.598.
+
+- <time>Oct 04, 2022</time> 19.856, 6.133, 34.889 and 10.218.
+
+- <time>Oct 02, 2022</time> 20.732, 5.907, 31.214 and 9.320.
+
+- <time>Oct 01, 2022</time> 20.185, 6.254, 33.995 and 8.724.
+
+- <time>Sep 30, 2022</time> 19.371, 6.298, 36.396 and 10.548.
+
+- <time>Sep 29, 2022</time> 21.429, 4.964, 33.788 and 9.876.
+
+- <time>Sep 28, 2022</time> 19.271, 8.802, 39.664 and 8.347.
+
+- <time>Sep 25, 2022</time> 23.091, 4.472, 31.189 and 8.808.
+
+- <time>Sep 20, 2022</time> 19.662, 6.125, 33.877 and 9.205.
+
+- <time>Sep 19, 2022</time> 20.691, 5.050, 36.578 and 8.841.
+
+- <time>Sep 18, 2022</time> 20.912, 6.815, 31.041 and 7.615.
+
+- <time>Sep 17, 2022</time> \\(40^2\\) solves! 17.936, 5.969, 35.427 and 7.331.
+
+- <time>Sep 16, 2022</time> 19.509, 6.107, 34.105 and 9.909.
+
+- <time>Sep 15, 2022</time> 17.647, 6.375, 35.562 and 9.129.
+
+- <time>Sep 14, 2022</time> 17.873, 4.861, 31.998 and 11.427.
+
+- <time>Sep 11, 2022</time> Attended [Dubai Summer Open 2022](https://www.worldcubeassociation.org/competitions/DubaiSummerOpen2022) and [got an 18.73 average with a 16.72 best for 3x3!](https://live.worldcubeassociation.org/competitions/1385/rounds/20306) An awesome time overall :)
+
+- <time>Aug 26, 2022</time> 19.907, 5.470, 33.116 and 8.903.
+
+- <time>Aug 25, 2022</time> 18.685, 6.439, 34.472 and 8.268.
+
+- <time>Aug 24, 2022</time> 19.688, 5.658, 36.235 and 9.067.
+
+- <time>Aug 23, 2022</time> Finally! 18.722, 5.123, 29.672 (!) and 8.081.
+
+- <time>Aug 22, 2022</time> I think I've learnt the Ja perm for 3x3 OH? 20.030, 5.016, 37.032 and 9.073.
+
+- <time>Aug 20, 2022</time> 3x3 AO5 PB! (by a couple milliseconds lol): 15.708 (!), 8.368, 35.560 and 7.586
+
+- <time>Aug 19, 2022</time> 20.416, 5.227, 37.444 and 8.829.
+
+- <time>Aug 18, 2022</time> 17.806, 6.660, 39.445 and 9.953.
+
+- <time>Aug 17, 2022</time> 23.468, 5.389, 35.004 and 8.526.
+
+- <time>Aug 16, 2022</time> 17.652, 5.143, 36.598 and 9.815.
+
+- <time>Aug 15, 2022</time> Much better in the Skewb department! 19.732, 6.789, 36.512 and 8.764.
+
+- <time>Aug 14, 2022</time> 21.091, 6.134, 33.164 and 15.323.
+
+- <time>Aug 13, 2022</time> 19.941, 6.571, 31.480 and 10.170.
+
+- <time>Aug 12, 2022</time> 19.545, 5.173, 37.692 and 9.840.
+
+- <time>Aug 11, 2022</time> At least I learnt the one-handed version of the H perm! 18.599, 4.864, 38.965 and 11.771.
+
+- <time>Aug 10, 2022</time> 20.353, 5.457, 39.861 and 11.311.
+
+- <time>Aug 09, 2022</time> 19.965, 5.536, 35.159 and 9.446.
+
+- <time>Aug 07, 2022</time> 21.405, 7.053, 38.565 and 10.841.
+
+- <time>Aug 06, 2022</time> 17.039, 5.987, 35.190 and 7.532.
+
+- <time>Aug 05, 2022</time> 18.963, 5.775, 33.103 and 8.023.
+
+- <time>Aug 04, 2022</time> Finally! 18.730, 4.942, 29.052 (!), 10.617.
+
+- <time>Aug 03, 2022</time> 21.554, 5.782, 40.320 and 7.502.
+
+- <time>Aug 02, 2022</time> So close: 19.009, 4.656 (!), 30.284 and 8.706.
+
+- <time>Aug 01, 2022</time> Not a bad way to start the month: 16.993 (!), 6.440, 31.554 and 8.598.
+
+- <time>Jul 31, 2022</time> 17.234 (!), 5.124, 33.030 and 7.851.
+
+- <time>Jul 30, 2022</time> 17.595 (!), 5.320, 30.445 and 8.606.
+
+- <time>Jul 29, 2022</time> 19.340, 5.681, 31.071 and 9.370.
+
+- <time>Jul 28, 2022</time> 20.071, 4.838 (!), 38.269 and 7.523.
+
+- <time>Jul 27, 2022</time> 19.091, 5.953, 33.187 and 8.106.
+
+- <time>Jul 26, 2022</time> 24.022, 5.022, 37.679 and 7.321.
+
+- <time>Jul 25, 2022</time> 18.195, 4.872, 32.165 and 8.967.
+
+- <time>Jul 24, 2022</time> 21.094, 6.753, 39.731 and 11.056.
+
+- <time>Jul 23, 2022</time> 21.094, 6.753, 39.731 and 11.056.
+
+- <time>Jul 22, 2022</time> 3x3 AO5 PB! 15.888, 5.587, 37.371 and 9.911.
+
+- <time>Jul 21, 2022</time> 18.596, 5.965, 31.537 and 12.055.
+
+- <time>Jul 20, 2022</time> 21.247, 5.597, 31.273 and 8.574.
+
+- <time>Jul 19, 2022</time> 18.867, 6.451, 40.823 :(, 12.007.
+
+- <time>Jul 18, 2022</time> 19.059, 5.604, 38.726 and 9.577.
+
+- <time>Jul 16, 2022</time> 22.948, 6.385, 35.875 and 10.078.
+
+- <time>Jul 15, 2022</time> 19.592, 5.732, 34.364 and 10.530.
+
+- <time>Jul 14, 2022</time> 18.545, 6.365, 38.177 and 9.836.
+
+- <time>Jul 12, 2022</time> One day, I'll get a sub-30 3x3 OH AO5: 17.311, 5.320, 30.854 and 10.231
+
+- <time>Jul 11, 2022</time> 23.714, 7.466, 31.628 and 10.917.
+
+- <time>Jul 10, 2022</time> 21.920, 6.766, 39.072 and 8.685.
+
+- <time>Jul 08, 2022</time> 18.965, 5.504, 33.788 and 10.432.
+
+- <time>Jul 07, 2022</time> 2 fast 4 u: 19.586, 5.419, 32.351 and 7.546
+
+- <time>Jul 06, 2022</time> 19.177, 5.797, 40.185 :(, 10.573
+
+- <time>Jul 05, 2022</time> 18.756, 5.942, 32.829 and 7.772
+
+- <time>Jul 04, 2022</time> 21.407, 5.065, 38.805 and 10.481
+
+- <time>Jul 03, 2022</time> I was so close to sub-30 for 3x3 OH: 17.317 (!), 5.798, 31.982 and 8.910
+
+- <time>Jul 01, 2022</time> 18.892, 6.250, 32.603 and 8.918.
+
+- <time>Jun 29, 2022</time> 17.980 (!), 6.040, 31.132 and 10.525.
+
+- <time>Jun 28, 2022</time> 18.859, 5.639, 33.667 and 10.999.
+
+- <time>Jun 27, 2022</time> 20.970, 6.555, 35.080 and 10.976.
+
+- <time>Jun 26, 2022</time> 18.986, 5.383, 33.141 and 8.954.
+
+- <time>Jun 25, 2022</time> 20.229, 5.544, 33.882 and (8.615, 8.983).
+
+- <time>Jun 24, 2022</time> 20.432, 5.903, 36.015 and 11.585.
+
+- <time>Jun 23, 2022</time> I was so close to a sub-30 3x3 OH AO5... 18.736, 6.921, 30.004 (!) and 11.585.
+
+- <time>Jun 22, 2022</time> 3x3 was tragic today, my new cube is very fast, and that can result in sub-15, but it can also result in a 40 due to messing up the PLL: 23.590, 6.047, 33.841 and 8.036
+
+- <time>Jun 21, 2022</time> 20.229, 5.503, 33.131 and 8.247
+
+- <time>Jun 20, 2022</time> [New cube](https://www.youtube.com/watch?v=MjERmuzjqjQ)! 19.169, 6.500, 33.325 and 8.948.
+
+- <time>Jun 19, 2022</time> Never mind: 22.696, 5.413, 37.745 and 8.947.
+- <time>Jun 18, 2022</time> Phew... 18.819, 6.577, 37.075 and 8.134.
+
+- <time>Jun 17, 2022</time> 22.004, 5.656, 41.466 and 9.496.
+
+- <time>Jun 16, 2022</time> 20.320, 5.291, 42.044 and 9.445.
+
+- <time>Jun 15, 2022</time> I was so close to messing up 3x3 OH lol: 17.735, 6.390, 39.546 and 9.634.
+
+- <time>Jun 14, 2022</time> 20.155, 5.422, 36.218 and 10.212.
+
+- <time>Jun 13, 2022</time> After a certain time in the day, I just cannot cube: 23.168, 4.714, 42.344 and 7.879.
+
+- <time>Jun 12, 2022</time> It's funny how a couple of years ago, I would be screaming and running around if I got a sub-15 solve. Now, nothing: 18.392, 5.922, 33.850 and 9.239.
+
+- <time>Jun 11, 2022</time> Better: 17.511, 6.151, 34.061 and 9.249
+
+- <time>Jun 10, 2022</time> Still pretty meh, but getting better: 19.618, 6.651, 35.002 and 10.860.
+
+- <time>Jun 09, 2022</time> 20.986, 6.248, 42.098 and 10.130.
+
+- <time>Jun 08, 2022</time> 22.117, 5.633, 35.752 and 7.100.
+
+- <time>Jun 07, 2022</time> 20.241, 5.700, 37.880 and 9.941.
+
+- <time>Jun 06, 2022</time> A (less?) agreeable set of averages: 18.711, 5.089, DNF and 7.919.
+
+- <time>Jun 05, 2022</time> An agreeable set of averages: 19.217, 4.966, 36.632 and 8.640.
+
+- <time>Jun 04, 2022</time> Still waiting for 3x3 BLD... 19.928, 7.067, 40.553 and 11.262.
+
+- <time>Jun 03, 2022</time> I decided to do two AO5's for every event except 3x3 (to make everything line up): 19.273, (7.272, 5.501), (36.156, 36.921) and (11.751, 9.392)
+
+- <time>Jun 02, 2022</time> 20.927, 6.204, 37.392 and 9.882
+
+- <time>Jun 01, 2022</time> 24.275, 5.165, 35.743 and 7.170.
+
+- <time>May 31, 2022</time> Not bad: 18.764, 4.901, 35.034 and 10.136.
+
+- <time>May 30, 2022</time> 3x3 OH wasn't feeling it today: 18.478, 4.489, 44.487 and 9.555.
+
+- <time>May 29, 2022</time> 23.289, 6.478, 34.936 and 8.654.
+
+- <time>May 28, 2022</time> Double sigh, my first 3x3 AO5 was a DNF so I did it again and I still can't get a successful 3x3 BLD attempt: (DNF, 20.710), 5.385, 31.499 and 10.485.
+
+- <time>May 27, 2022</time> Sigh, 3x3 BLD has gotten worse: 19.207, 6.058, 38.293 and 9.943.
+
+- <time>May 26, 2022</time> I was planning to do a 3x3 BLD attempt, but I had to reassemble my Skewb in the middle of my AO5 :/ 19.659, 5.010, 34.842 and 11.210.
+
+- <time>May 25, 2022</time> 20.562, 5.151, 35.957 and 10.113.
+
+- <time>May 24, 2022</time> 21.166, 5.224, 37.286 and 7.112.
+
+- <time>May 23, 2022</time> Still no luck with 3x3 BLD: 18.350, 4.698, 35.431 and 6.450 (!)
+
+- <time>May 22, 2022</time> Phew... 19.904, 4.736, 34.368 and 9.121.
+
+- <time>May 21, 2022</time> 20.574, 5.218, 38.933 and 10.418.
+
+- <time>May 20, 2022</time> Just made it through: 19.738, 5.281, 39.569 and 9.758.
+
+- <time>May 19, 2022</time> Again, 3x3 OH could have gone better: 17.624 (!), 5.262, 38.848 and 7.606.
+
+- <time>May 18, 2022</time> 3x3 OH could have gone better: 18.981, 4.761 (!), 38.214 and 8.138.
+
+- <time>May 17, 2022</time> Finally! 18.702, 7.092, 37.922 and 8.573.
+
+- <time>May 16, 2022</time> 3x3 PB! (10.105) and I still didn't get sub-20 lol: 20.031, 8.630, 31.412 and 7.408.
+
+- <time>May 15, 2022</time> 20.338, 5.874, 34.788 and 11.512.
+
+- <time>May 14, 2022</time> 22.294, 6.656, 36.895 and 9.396.
+
+- <time>May 13, 2022</time> Great averages, nothing much to complain about: 17.248 (!), 5.251, 35.677 and 8.010.
+
+- <time>May 12, 2022</time> 3x3 OH PB! (22.095): 21.411, 6.433, 35.329 and 9.273.
+
+- <time>May 11, 2022</time> Been having a hard time getting a successful no-write 3x3 BLD attempt: 18.134, 4.266, 33.915 and 8.322.
+
+- <time>May 10, 2022</time> Finally: 19.299, 6.022, 32.160 and 8.944.
+
+- <time>May 09, 2022</time> Today was not a day for 3x3 OH: 19.471, 4.737 (!), 43.997 and 8.170.
+
+- <time>May 08, 2022</time> 21.400, 5.229, 37.052 and 9.670.
+
+- <time>May 07, 2022</time> 3x3 BLD attempt was disastrous today lol: 18.137, 4.741 (!), 38.289 and 11.163.
+
+- <time>May 06, 2022</time> 22.173, 6.177, 32.371 and 14.443.
+
+- <time>May 05, 2022</time> 22.468, 5.526, 36.977 and 7.229.
+
+- <time>May 04, 2022</time> 21.620, 5.126, 38.562 and 11.681.
+
+- <time>May 03, 2022</time> 21.063, 6.582, 31.209 and 10.659.
+
+- <time>May 02, 2022</time> Finally, some good averages: 17.740 (!), 5.741, 34.197 and 9.334.
+
+- <time>May 01, 2022</time> 3 days in a row... 20.832, 4.844, 35.143 and 9.095.
+
+- <time>Apr 30, 2022</time> 20.412, 8.698, 41.073 and 8.761.
+
+- <time>Apr 29, 2022</time> 22.307, 5.259, 35.524 and 10.037.
+
+- <time>Apr 28, 2022</time> Today's 3x3 BLD attempt was so bad haha: 19.357, 4.800 (!), 33.606 and 6.465 (!)
+
+- <time>Apr 27, 2022</time> 21.066, 7.844, 42.862 and 9.970.
+
+- <time>Apr 26, 2022</time> Disappointingly, [cstimer](https://cstimer.net) (the cubing timer I use) doesn't produce AO1000, so here is the mean for 1000 solves: 21.177, 6.102, 41.186 and 10.019. As for the AO5's: 18.469, 5.554, 33.303 and 10.887. Also, I've spent almost 6 hours in total on 3x3 lol, here's to another 1000!
+
+- <time>Apr 25, 2022</time> 21.078, 6.095, 35.065 and 8.574.
+
+- <time>Apr 24, 2022</time> I finished the BLD attempt too early and forgot to execute the moves to solve the last corner :( Also, day after tomorrow will be the AO1000 day! 19.973, 5.549, 37.311 and 7.746.
+
+- <time>Apr 23, 2022</time> 3x3 OH... 17.459 (!), 5.334, 40.854 and 7.839.
+
+- <time>Apr 22, 2022</time> TS UP VE CX EA LQ! I got a successful 3x3 BLD solve without writing down the memorization during the solve! 18.899, 6.497, 37.569 and 10.569 (I also forgot to mention that a couple days ago I got a 3x3 OH PB lol, 22.402)
+
+- <time>Apr 21, 2022</time> 19.546, 5.346, 39.616 and 10.359.
+
+- <time>Apr 20, 2022</time> 21.161, 5.131, 36.236 and 9.728.
+
+- <time>Apr 19, 2022</time> I was pretty close with the no-writing BLD attempt! 19.845, 5.578, 32.999 and 9.502.
+
+- <time>Apr 18, 2022</time> Decent I guess: 19.625, 6.814, 38.264 and 11.757. I also tried to do a BLD attempt without writing down the memorization, I messed up because of execution lol.
+
+- <time>Apr 17, 2022</time> Nothing saves the day: 20.620, 5.907, 39.393 and 8.049.
+
+- <time>Apr 16, 2022</time> 3x3 OH saves the day: 20.796, 4.305 (!), 29.552 (!) and 9.895.
+
+- <time>Apr 15, 2022</time> Slightly better: 18.447, 4.443 (!), 39.591 and 7.931.
+
+- <time>Apr 14, 2022</time> Barely passable: 19.618, 6.006, 36.972 and 8.722.
+
+- <time>Apr 13, 2022</time> Never mind? 17.598 (!), 5.175, 33.667 an 10.520. I hate how turbulent my times are. I guess that's cubing in a nutshell.
+
+- <time>Apr 12, 2022</time> Welp, I think we'll be in this time slump for a bit. At least I got a successful 3x3 BLD solve: 20.569, 6.222, 39.119 and 9.908 (Also, I think the change in solving order didn't do much, so I'm back to the original order).
+
+- <time>Apr 11, 2022</time> 22.961, 5.759, 35.432 and 11.559.
+
+- <time>Apr 10, 2022</time> Phew, back on track: 19.187, 5.778, 36.826 and 7.655 (by the way, the order of the averages written haven't changed, but I now do Skewb -> 2x2 -> 3x3 OH -> 3x3).
+
+- <time>Apr 09, 2022</time> Well, it was fun while it lasted: 21.856, 6.137, 37.501 and 10.732.
+
+- <time>Apr 08, 2022</time> Very nice (except for 3x3 OH): 17.276, 5.472, 37.693 and 8.917. I wonder how long it'll take me to get sub-15 on 3x3.
+
+- <time>Apr 07, 2022</time> Nice: 17.101, 5.581, 35.501 and 8.881.
+
+- <time>Apr 06, 2022</time> 100 more solves to go till AO1000! 18.073, 5.867, 38.429 and 8.191.
+
+- <time>Apr 05, 2022</time> 3x3 OH AO5 was terrible: 18.068, 5.591, 40.613 and 9.809.
+
+- <time>Apr 04, 2022</time> Another successful 3x3 BLD solve! 17.372 (!), 5.924, 35.729 and 10.559.
+
+- <time>Apr 03, 2022</time> Today is the greatest day of my life (cubing-wise!), got 3 sub-30 solves in 3x3 OH and great averages all around: 18.990, 5.906, 30.921 (!), 8.003.
+
+  And... I got another successful 3x3 BLD solve! It was so hectic lol, I changed my memorization mid-way through the edges (thankfully) .
+
+- <time>Apr 02, 2022</time> I haven't been able to get a 3x3 BLD attempt (let alone a successful one) in the past 3-ish days. At least the averages are back to normal (for like a day): 18.529, 5.019, 37.587 and 9.230.
+
+- <time>Apr 01, 2022</time> Never mind: 22.649, 5.509, 39.351 and 9.716. I like how my whole day (cubing-wise) gets ruined if my 3x3 AO5 is not sub-20 lol.
+
+- <time>Mar 31, 2022</time> Back to normal: 19.452, 5.065, 32.064 and 9.556.
+
+- <time>Mar 30, 2022</time> 3x3 BLD attempt was off by 3 edges again: 20.618, 5.458, 40.515 and 11.240.
+
+- <time>Mar 29, 2022</time> 22.546, 7.092, 38.206 and 11.234.
+
+- <time>Mar 24, 2022</time> Today's 3x3 BLD attempts were so frustrating, the first one was off by two flipped edges and I kept messing up the execution in the later solves, at least the averages were good: 18.488, 5.382, 39.277 and 8.365.
+
+- <time>Mar 23, 2022</time> I got two sub-20 solves for 3x3 at first, but it all got ruined by a DNF and a +2, it sometimes feel like it's all about luck, anyways: 20.698, 5.174, 35.456 and 13.105.
+
+- <time>Mar 22, 2022</time> Odd 3x3 BLD attempt was so close: 21.064, 5.506, 37.986 and 8.045.
+
+- <time>Mar 21, 2022</time> How did an average with a 40 and a DNF become sub-40? 25.537, 4.964, 39.721 and 9.783.
+
+- <time>Mar 20, 2022</time> Scrambles were very easy: 17.547 (!), 4.941, 38.425 and 11.764.
+
+- <time>Mar 19, 2022</time> Got a 12 second solve for 3x3 but regardless: 21.821, 6.535, 36.357 and 10.273.
+
+- <time>Mar 18, 2022</time> 23.077, 5.853, 41.374 and 10.033.
+
+- <time>Mar 17, 2022</time> 21.405, 6.002, 37.289 and 10.459.
+
+- <time>Mar 16, 2022</time> I guess I got lucky? 18.841, 5.380, 34.834 and 9.340. Today's 3x3 BLD attempt was so close (two edges flipped).
+
+- <time>Mar 15, 2022</time> Forgot about the switch-up: 24.875, 6.812, 35.906 and 11.400.
+
+- <time>Mar 14, 2022</time> My averages have been terrible for the past few ~~months~~ days and so I'm going to switch it up by doing 2x2 first and then proceeding the with normal order (don't worry, the log order will remain the same): 22.462, 5.755, 40.173 and 9.379.
+
+- <time>Mar 13, 2022</time> 200 more solves left for an AO1000: 20.543, 5.996, 36.888 and 9.247.
+
+- <time>Mar 12, 2022</time> This is getting ridiculous: 19.962, 5.636, 40.219 and 11.274.
+
+- <time>Mar 11, 2022</time> Yes? 19.093, 5.612, 37.009, 11.737.
+
+- <time>Mar 10, 2022</time> Nope: 20.098, 7.327, 38.656 and 7.993.
+
+- <time>Mar 09, 2022</time> We're back? 18.709, 5.143, 38.506 and 6.759.
+
+- <time>Mar 08, 2022</time> Meh (x2): 21.662, 6.125, 34.649 and 9.689.
+
+- <time>Mar 07, 2022</time> Meh: 22.201, 5.474, 40.973 and 10.045.
+
+- <time>Mar 06, 2022</time> QX TJ IW ER UO LR, WB XL JD! I DID IT! THE NEW SETUP MOVES ACTUALLY WORKED! I will add a technicality here, I forgot the "JD" part so I peeked at it. A full timed BLD solve coming soon! Averages were meh but that doesn't matter: 20.036 (so close!), 4.361, 40.565 and 8.018.
+
+- <time>Mar 05, 2022</time> I need to stop cubing at night (x2): 23.734, 5.564, 43.749 and 7.136.
+
+- <time>Mar 04, 2022</time> I need to stop cubing at night: 20.598, 7.136, 42.022 and 10.538.
+
+- <time>Mar 03, 2022</time> Sigh: 21.520, 6.214, 36.180 and 8.337, at least I learnt why my "odd" memorizations for 3x3 BLD are always way off (I can't use any setup moves that disrupt the top two corners + the buffer)
+
+- <time>Mar 02, 2022</time> 2x2 was quite a shock: 21.093, 3.474 (!), 44.370 and 9.777.
+
+- <time>Mar 01, 2022</time> Nothing to say really: 22.273, 5.233, 39.433 and 8.907.
+
+- <time>Feb 28, 2022</time> Sigh, the corners for today's BLD attempt were totally wrong and my averages have hit an all-time low: 20.595, 8.103, 40.345 and 12.222.
+
+- <time>Feb 27, 2022</time> It's just a matter of time: 3 corners wrong again (but I re-attempted my memorization whilst being able to look and my corner memorization was slightly wrong). Also, 3x3 PB! (11.764, here's the scramble: F L2 U L2 F2 U2 L2 R2 U2 B' R2 B F R B D2 B' U B F) and the averages were not bad too: 19.507, 5.753, 37.973 and 9.585.
+
+- <time>Feb 26, 2022</time> My 3x3 BLD attempt was agonizingly close, I had three corners that were wrong :(
+
+  Also, averages were (arguably) more disappointing: 22.265, 7.134, 39.826 and 11.307.
+
+- <time>Feb 25, 2022</time> These have got to be my most disappointing averages: 21.324, 7.266, 43.087 and 9.680.
+
+- <time>Feb 24, 2022</time> Back to meh averages: 21.481, 5.477, 36.067 and 9.224.
+
+- <time>Feb 23, 2022</time> So close with today's 3x3 BLD attempt, only about 4 corners were wrong. Today's average were great: 19.330, 4.720, 36.209 and 8.188.
+
+- <time>Feb 22, 2022</time> Got nothing much to say: 21.268, 5.496, 38.223 and 10.216.
+
+- <time>Feb 21, 2022</time> Don't know what's going wrong, but I can't get any correct memorization (one can't be odd and another even) and today's averages were meh (except 3x3 OH, I got a 26!): 23.784, 5.127, 32.972 (!) and 12.093.
+
+- <time>Feb 20, 2022</time> Couldn't get any 3x3 BLD memorization since I kept getting stuck in an "edge loop". Today's 3x3 was tragic. Were it not for that +2 at the end, I would have gotten a 19.879 average. Instead: 20.546, 4.763, 39.881 and 10.050.
+
+- <time>Feb 19, 2022</time> I checked out [another example solve](https://www.youtube.com/watch?v=BnCHARaCoi4) and this one memorized corners -> memorized edges -> executed edges -> executed corners. I tried that (with parity) and it was pretty close (~5 corners were wrong). Anyways, today's averages were bad: 25.125, 7.246, 38.246 and 8.772.
+
+- <time>Feb 18, 2022</time> Did a 3x3 BLD attempt while seeing, I'm 99% sure my parity algorithm and corner memorization are always wrong. I'll work on that. The averages were really good: 17.640 (!), 6.461, 38.753 and 8.020.
+
+- <time>Feb 17, 2022</time> Not bad: 19.799, 5.190, 39.064 (was so close to 40 lol) and 8.005. Got a PB today for 2x2 (1.386) and Skewb (3.268)!
+
+- <time>Feb 16, 2022</time> Today's averages were pretty amazing: 19.030, 4.953, 38.781 and 9.570.
+
+- <time>Feb 15, 2022</time> Today's attempt was so close it's annoying, and today's averages were not bad: 21.033, 5.817, 36.105 and a 10.531.
+
+- <time>Feb 14, 2022</time> Even cases still leave my corners all messed up. Today's averages were terrible: 21.927, 7.347, 35.463 and 10.863.
+
+- <time>Feb 13, 2022</time> So close yet so far with BLD, I rechecked my solution and it was right up to the edges, I think parity messed me up, maybe my algorithm is wrong? Today's averages were very meh: 21.658, 6.286, 40.089 and 8.430.
+
+- <time>Feb 12, 2022</time> Well, that upward trajectory lasted longer than [the time the US made $1 coins](https://www.youtube.com/watch?v=gonVHW_X79U): 21.514, 6.383, 34.207 and a 9.668.
+
+- <time>Feb 11, 2022</time> So close! Just messed up my corner memorization (somewhere) and today's averages were great: 19.732, 6.033, 37.433, 9.408.
+
+- <time>Feb 10, 2022</time> We're back: 19.463, 5.182, 35.965 and a 8.541.
+
+- <time>Feb 09, 2022</time> BLD was really close today! I think I've gotten used to the new correct setup moves. Today's averages were sad (could have gotten sub-20 in 3x3 if it wasn't for me messing up PLL): 21.694, 7.680, 40.865 and a 9.638.
+
+- <time>Feb 08, 2022</time> Today's BLD attempt failed spectacularly and today's averages were slightly less meh (emphasis on slightly): 22.500, 5.821, 41.203 and a 8.944.
+
+- <time>Feb 07, 2022</time> Couldn't get today's BLD attempt, and today's were very meh: 24.692, 5.152, 40.385 and a 9.958.
+
+- <time>Feb 06, 2022</time> HOLY CRAP TODAY'S 3X3 BLD ATTEMPT WAS SO CLOSE! Only my corner memorization was a little bit wrong and the buffer for the edge was flipped (which confirms that it's possible, I need to learn what to do in that case). Today's averages were good (except for 3x3, still waiting for a streak of sub-20's): 22.320, 4.962, 35.021 and a 10.029.
+
+- <time>Feb 05, 2022</time> I must be doing something right with 3x3 BLD, I did my edge memorization (while being able to see) and it was all correct. But after doing the parity (which I was supposed to do) the whole corner memorization got messed up. Weird. Anyways, today's averages were meh: 21.027, 6.522, 38.636 and 10.536.
+
+- <time>Feb 04, 2022</time> Okay, [I rewatched an example solve](https://www.youtube.com/watch?v=O8EXVRgUHhk) and I realized I've been making a ton of mistakes. I tried to use the new buffer location, but my setup moves are now too complicated. Maybe the buffer location doesn't matter? Anyways, today's averages were better, 3x3 sub-20 coming soon: 20.770, 6.072, 37.997 and a 9.871.
+
+- <time>Feb 03, 2022</time> I don't even want to talk about this day cubing-wise: 20.866, 4.760, 50.749 and 9.291.
+
+- <time>Feb 02, 2022</time> So close! I think the only place I could have potentially gone wrong was returning to the buffer. Today's 3x3 OH average was insane, almost all solves were sub-35: 22.481, 6.097, 34.596 and 8.596.
+
+- <time>Feb 01, 2022</time> Still no luck, will actually try recording my attempt over the weekend to see any mistakes I made after the solve. Today's averages (except 3x3 OH) were meh: 22.537, 6.205, 35.843 and 9.001.
+
+- <time>Jan 31, 2022</time> Nope, that was not the reason. Today's averages were meh again: 22.205, 7.153, 40.376 and 10.354.
+
+- <time>Jan 30, 2022</time> I think I found the reason why my 3x3 BLD attempts have all failed, it's because I didn't do wide setup moves. I'll try again tomorrow (I messed up parity in today's attempt lol). Today's averages were meh: 20.032, 5.665, 36.412 and 10.434.
+
+- <time>Jan 29, 2022</time> The meh-streak continues: 21.008, 5.467, 38.579 and 7.971.
+
+- <time>Jan 28, 2022</time> So close! One good thing that came from today's 3x3 BLD attempt was that everything was generally much faster (memorization + execution), though that could mean the probability of making a mistake is now much higher... Today's averages were meh again (except for 3x3 OH): 21.947, 5.328, 38.148 and a 8.784.
+
+- <time>Jan 27, 2022</time> Thought today would be the day, but nope, I messed up the 3x3 BLD attempt quite badly (though I'm not sure what I did wrong in the attempt, maybe messed up an execution?). Anyways, today's averages (except 3x3) were meh: 18.878 (!), 7.080, 40.929 and 10.494.
+
+- <time>Jan 26, 2022</time> So close! I think I only messed up my corner memorization, the edges were all correct and a few corners hadn't been swapped. Anyways, today's averages were meh again: 20.580, 6.680, 39.801 and a 9.568.
+
+- <time>Jan 25, 2022</time> My closest 3x3 BLD attempt yet! Got every step done, maybe my memoization was wrong. Anyways, today's averages were pretty meh: 19.308, 6.757, 44.479 and a 10.444.
+
+- <time>Jan 24, 2022</time> Pretty bad all around, failed my 3x3 BLD attempt with the same mistake I've been making in the past few attempts (confused between algorithms) and got pretty meh averages: 20.538, 4.140, 54.184 and an 8.206.
+
+- <time>Jan 23, 2022</time> Everything today was very, very sad: 21.869, 5.481, 44.561 and a 9.391.
+
+- <time>Jan 22, 2022</time> Today's 3x3 BLD attempt was so bad it was funny, I thought mid-way the solve that I might get only a few wrong (since I forgot to do the parity algorithm) but nope. Anyways, today's averages were also, well, average. But I did get a 3x3 OH PB (22.402): 20.095, 6.131, 41.337 and an 8.516.
+
+- <time>Jan 21, 2022</time> Got quite close with my 3x3 BLD attempt, one day... Today's averages were pretty meh: 22.241, 5.753, 41.772 and a 9.544.
+
+- <time>Jan 20, 2022</time> I learnt yesterday night why all my 3x3 BLD attempts failed, it's because I swapped the wrong buffer piece and I didn't do the parity algorithm. I corrected both today, a successful attempt should come soon. Today's averages were good: 19.257, 4.985, 36.746 and a 7.840.
+
+- <time>Jan 19, 2022</time> Very strange 3x3 BLD full attempt today, I somehow got all edges correct and no corners correct. Anyways, today's averages were awesome: 19.627 (!), 4.514 (!), 38.066 (!) and a 7.689 (!)
+
+- <time>Jan 18, 2022</time> Today's averages were crazy! Got an 18.415 (!), 4.202 (!), 38.537 (!) and a 9.553. Also did my first full 3x3 BLD attempt, did not go too well but the amount of progress I'm making is amazing.
+
+- <time>Jan 17, 2022</time> Pretty awesome averages today, got a 19.129 (!), 5.254, 37.508 (!) and a 10.109.
+
+- <time>Jan 16, 2022</time> Today was crazy for 2x2, I destroyed my PB, twice in a row, first with a sub-3 (2.589) and then with a sub-2 (1.450), today's averages were nothing too crazy though: 20.102, 5.000 (!), 42.915 and an 8.407.
+
+- <time>Jan 15, 2022</time> I think I've fully learnt 3x3 BLD edges! Will move on to corners tomorrow. As for the times today, a bit disappointed with 3x3 but the rest were alright: 24.521, 6.656, 36.764 (!) and a 7.299 (!)
+
+- <time>Jan 14, 2022</time> I think I have to follow the tutorial again for 3x3 BLD, making the same mistakes over and over again. Anyways, today's averages were awesome, soon to be sort of officially sub-40 3x3 OH and sub-20 3x3: 18.546, 6.218, 35.814 and 10.457.
+
+- <time>Jan 13, 2022</time> Again, got really close to 3x3 BLD edges attempt. As for the times today: I got a 23.001, 6.177, 34.869 (!) and a 10.518.
+
+- <time>Jan 12, 2022</time> SO CLOSE to a true 3x3 BLD edges attempt! I was only one swap away. Anyways, I completed 500 solves in every event, and today's averages were a 21.648, 5.759, 43.116 and a 10.973.
+
+- <time>Jan 11, 2022</time> So close to sub-40 AO5 for 3x3 OH, but I messed up the last solve. Will move on to memorizing corners for 3x3 BLD and today's times are a 20.929, 5.127, 40.641 and a 9.240.
+
+- <time>Jan 10, 2022</time> Pretty great for 2x2, got a 20.645, 4.702 (!), 43.245 and a 10.341.
+
+- <time>Jan 09, 2022</time> Today was crazy for 3x3 OH again, got a 21.468, 6.339, 37.748 (!) and a 10.506.
+
+- <time>Jan 08, 2022</time> Amazing day! Got a 3x3 OH PB (24.204) (!) and great averages for 3x3 and 3x3 OH: 19.394 (!), 6.030, 35.962 (!) and a 10.915.
+
+- <time>Jan 07, 2022</time> Not bad, got a 21.398, 5.979, 41.616 and a 10.386.
+
+- <time>Jan 06, 2022</time> Amazing averages! Got a 19.056 (!), 5.725, 39.427 and a 8.321.
+
+- <time>Jan 05, 2022</time> Progress! I solved the 3x3 BLD edges (though I could see the cube, just trying to get my memorization correct) and today's 2x2 was crazy good. 20.787, 4.923 (!), 40.937 and a 10.749.
+
+- <time>Jan 04, 2022</time> Started with my 3x3 BLD practice (though it will be a slow journey) and I got a 20.636, 6.771, 44.624 and an 8.753.
+
+- <time>Jan 03, 2022</time> Pretty good day, got another successful 2x2 BLD solve, going to move on to 3x3 BLD with [this video](https://www.youtube.com/watch?v=ZZ41gWvltT8), as for the times, I got a 19.373 (!), 6.114, 41.561 and a 9.421.
+
+- <time>Jan 02, 2022</time> **P**a**N**ama **T**imes **S**omething **G**oes **M**ad! That was the memorization for my first ever legit 2x2 BLD solve! I did it again (though the scramble was pretty easy). As for the times today, they were pretty mid: 20.916, 5.551, 44.045 and a 9.939.
+
+- <time>Jan 01, 2022</time> Happy new year! Getting really close with 2x2 BLD, I think my main problem is what I memorize is wrong, the memorization and solving part is not hard. Anyways, I got a 21.460, 6.278, 45.938, 9.669.
+
+- <time>Dec 31, 2021</time> Still no luck with 2x2 BLD, but the times today were not bad, nearly got a 3x3 OH PB (29.480): 20.790, 6.353, 37.504 (!) and a 8.922. Hope to go for a competition in 2022!
+
+- <time>Dec 30, 2021</time> No luck with 2x2 BLD still and a pretty average day, 21.719, 6.508, 43.146 and a 11.594.
+
+- <time>Dec 29, 2021</time> So close! I attempted 2x2 BLD (by closing my eyes lol) thrice and got only two pieces unsolved in the last two attempts. Hopefully, by the end of this week, I'll know how to solve it BLD. Anyways, today's times were nothing great: 23.027, 6.431, 43.704 and 8.318.
+
+- <time>Dec 28, 2021</time> Alright day, got a 21.078, 5.375, 39.117 (!) and a 12.108.
+
+- <time>Dec 27, 2021</time> [Solved a 2x2 with the Old Pochmann method!](https://www.speedcubereview.com/blind-solving-algorithms.html#:~:text=Old%20Pochmann%20is%20a%20basic,it%20with%20the%20bank%20piece.) (though I wasn't blindfolded, and I can only do it if I don't have a new cycle, I'll have to revise that), as for the times, I got a 19.002 (!), 5.674, 40.539 and 9.591.
+
+- <time>Dec 26, 2021</time> Made good progress learning 2x2 blindfolded [with this video](https://www.youtube.com/watch?v=7pHnmNeoJkQ&t=168s) and got alright times for today: 21.616, 6.931, 39.859 (!) and a 10.084.
+
+- <time>Dec 25, 2021</time> Meh, got a 21.567, 5.878, 40.827 and a 9.778.
+
+- <time>Dec 24, 2021</time> Learnt full PLL on 3x3! As for the times, I got a 21.452, 5.898, 41.674 and a 10.835.
+
+- <time>Dec 23, 2021</time> 400 solves! The AO100's are 21.074, 6.508, 41.509 and 9.773, the AO5's I got are a 18.486 (!), 5.573, 46.521 and a 9.611.
+
+- <time>Dec 22, 2021</time> Getting better, 5 more solves till 400 for each event! As for the times, I got a 20.635, 5.822, 37.404 (!) and a 9.471.
+
+- <time>Dec 21, 2021</time> Meh again, got a 21.244, 6.696, 40.381 and a 10.185. Learnt the Gc perm, only one more to go!
+
+- <time>Dec 20, 2021</time> Even worse this time, got a 20.709, 7.065, 48.662 and a 10.913.
+
+- <time>Dec 19, 2021</time> Alright I guess, got a 21.317, 7.003, 40.893 and a 9.900. Hope to learn full PLL by the end of this week.
+
+- <time>Dec 18, 2021</time> Pretty good, got a 18.939 (!), 7.039, 41.364 and 8.666 (!). Is Gc perm the worst G perm?
+
+- <time>Dec 17, 2021</time> On fire for 3x3 OH! Today's 3x3 times were very funny, I got a 30 in one of them, 20 in two of them and then a 15 in the last solve. Anyways, I got a 20.895, 6.642, 34.869 (!) and a 9.233.
+
+- <time>Dec 16, 2021</time> Slightly worse, but still did very good in 3x3 OH, got a 22.331, 5.687 (!), 37.640 (!) and a 9.206. Going to learn the Gc perm tomorrow.
+
+- <time>Dec 15, 2021</time> Awesome day cubing wise! Got a 19.421 (!), 5.322 (!), 38.880 (!) and a 8.327 (!).
+
+- <time>Dec 14, 2021</time> Skewb PB (3.601)! As for the rest of the times, I got a 21.208, 6.461, 43.598 and a 9.656.
+
+- <time>Dec 13, 2021</time> Meh, got a 23.123, 5.687, 44.295 and a 10.790.
+
+- <time>Dec 12, 2021</time> Awesome day for 3x3 OH, and I finally learnt the Gb perm, two more left till full PLL! I got a 23.261, 6.302, 36.469 (!) and an 8.115 (!)
+
+- <time>Dec 11, 2021</time> Another alright day, waiting for the day I get a sub-35 average on 3x3 OH. Got a 22.886, 7.857, 38.093 (!) and a 9.395.
+
+- <time>Dec 10, 2021</time> Alright day, got a 24.017, 6.548, 39.872 (!) and a 8.367 (!), getting used to the Gb perm.
+
+- <time>Dec 09, 2021</time> Not bad again! Got a 19.181 (!, sub-20 coming soon), 7.012, 40.600 and a 8.617 (!). Trying to learn 2x2 BLD with [this video](https://www.youtube.com/watch?v=7pHnmNeoJkQ).
+
+- <time>Dec 08, 2021</time> Not bad, 18.317 (!), 6.659, 43.555 and 11.729. The Gb perm is pretty hard.
+
+- <time>Dec 07, 2021</time> Alright day, got a 19.128 (!), 6.142, 40.139 and a 11.155.
+
+- <time>Dec 06, 2021</time> Slightly better, got a 21.576, 6.995, 48.182 and a 9.809, going to learn the Gb perm tomorrow.
+
+- <time>Dec 05, 2021</time> Pretty bad day, got a 21.047, 6.170, 50.366 and a 9.781. At least I learnt the Ga perm.
+
+- <time>Dec 04, 2021</time> Not bad, got a 19.496 (!), 6.902, 40.402 and a 11.875. Finished N Perms and hope to learn full 3x3 PLL by next week.
+
+- <time>Dec 03, 2021</time> 300 solves! My AO100's are 20.783, 5.877, 42.701 and a 9.891. As for my AO5's today, I got a 20.249, 4.813 (!), 41.474 and an 11.669. Also sent a proposal to create a cubing challenge for EA Cambridge's Slack group!
+
+- <time>Dec 02, 2021</time> Got a 14 single in 3x3! But other than that, an average day. Got a 19.900 (!), 5.993, 43.128 and a 10.339.
+
+- <time>Dec 01, 2021</time> Talk about an early Christmas miracle, I got a 14.166 3x3 PB! As for the rest of the times, I got a 20.197, 6.595, 36.706 (!) and an 8.390.
+
+- <time>Nov 30, 2021</time> This month was pretty awesome cubing-wise, sure there were plenty of average days, but I got really good at 3x3 OH (now my favourite event) and got plenty of PB's! Oh, I got 20.019, 7.074, 43.291 and a 8.094.
+
+- <time>Nov 29, 2021</time> The average day has come, got a 20.047, 5.988, 42.593 and a 10.056.
+
+- <time>Nov 28, 2021</time> Was going to be an average day, but I got a PB for 3x3 OH! (29.375) As for the rest of the times, I got a 23.697, 5.978, 39.592 (!) and a 9.283.
+
+- <time>Nov 27, 2021</time> What a recovery, got a 20.494, 5.737, 46.187 and a 11.190.
+
+- <time>Nov 26, 2021</time> Pretty mid today, got a 25.170, 6.910, 40.536 and a 9.746.
+
+- <time>Nov 25, 2021</time> 3X3 PB with PLL skip (14.539)! As for the rest of the times, I got a 20.491, 5.656, 41.291 and a 11.494
+
+- <time>Nov 24, 2021</time> I think I got an AO5 PB for 3x3! I got a 18.139 (!), 5.137, 44.735 and a 9.151 (!)
+
+- <time>Nov 23, 2021</time> Amazing day! Got a 19.178 (!), 5.274, 35.787 (!) and a 10.861.
+
+- <time>Nov 22, 2021</time> Pretty mid, got a 21.312, 5.734, 44.323 and a 10.070.
+
+- <time>Nov 21, 2021</time> So close to sub-40 for 3x3 OH! Got a 21.800, 5.644 (!), 40.224 (!) and a 10.965.
+
+- <time>Nov 20, 2021</time> Much better, got a 19.348 (!), 6.056, 45.858 and a 8.337 (!).
+
+- <time>Nov 19, 2021</time> Mid again: 20.097, 6.213, 45.935 and a 10.867.
+
+- <time>Nov 18, 2021</time> Reached 15<sup>2</sup> solves, though today my averages were pretty mid: 20.534, 6.302, 47.552 and a 10.534.
+
+- <time>Nov 17, 2021</time> Great day, got a 18.659 (!), 4.481 (!), 43.815 and a 9.598.
+
+- <time>Nov 16, 2021</time> Amazing day! Got a 20.118, 4.781 (!), 37.553 (!) and a 8.789. (!)
+
+- <time>Nov 15, 2021</time> Pretty good for 3x3 and 2x2, got a 19.861 (!), 5.405 (!), 45.114 and a 11.640.
+
+- <time>Nov 14, 2021</time> Not bad, got a 21.894, 6.561, 42.843 and a 8.672. Trying to set up [jperm.net](https://jperm.net).
+
+- <time>Nov 13, 2021</time> I reached 200 attempts for all four events, here are the AO100's: 21.648, 6.380, 46.315 and a 10.089. For the AO5's, there were pretty good: 21.344, 5.282 (!), 46.523 and a 8.131.
+
+- <time>Nov 12, 2021</time> Okay session, got a 21.626, 5.265 (!), 41.383 and a 10.691.
+
+- <time>Nov 11, 2021</time> Great session, got a 19.111 (!), 6.761, 42.691 and a 9.557 (!).
+
+- <time>Nov 10, 2021</time> Pretty meh all around, got a 23.695, 6.000 (not a joke), 45.575 and a 12.027.
+
+- <time>Nov 09, 2021</time> Alright session, got a 20.806, 6.135, 40.776 and a 10.041.
+
+- <time>Nov 08, 2021</time> Learnt the Ga perm! My first G perm. As for the AO5's, they weren't half bad, but I can feel 3x3 sub-20 coming soon. I got a 20.842, 6.492, 41.137 and a 12.110
+
+- <time>Nov 07, 2021</time> Pretty great session for 2x2, got a 21.192, 4.991 (!), 47.397 and a 8.940. I think I've fully learnt all the N perms!
+
+- <time>Nov 06, 2021</time> Alright session, got a 22.703, 7.097, 46.636 and a 8.231.
+
+- <time>Nov 05, 2021</time> 3x3 PB (14.778)! I also got two sub-40's in 3x3 OH and a sub-6 AO5 for 2x2! Here are the times: a 22.017, 5.851 (!), 42.885 (!) and a 7.902 (!) For reference, here are the G perms I'm learning:
+
+![G Perms](https://www.docdroid.net/file/view/FP2x1rd/mats-valk-g-perms-pdf.jpg)
+
+- <time>Nov 04, 2021</time> My 3x3 turning was so choppy today. Got a 21.306, 5.272, 43.433 and a 12.279. I also practised my Nb perm.
+
+- <time>Nov 03, 2021</time> Alright session, got a 20.729, 6.346, 49.053 and a 9.319.
+
+- <time>Nov 02, 2021</time> Was about to be a pretty good day until I got a PB for 3x3 OH! (29.578). For the rest of the times, I got a 22.646, 6.820, 39.839 (!) and an 11.581. I re-learnt the F perm for 3x3 PLL.
+
+- <time>Nov 01, 2021</time> New month, new (pretty bad) averages. I got a 28.293, 5.824 (!), 45.115 and a 11.135. I also practised PLL's.
+
+- <time>Oct 31, 2021</time> Got a PB for Skewb! (3.959) and got a 21.759, 6.567, 48.101 and a 7.600.
+
+- <time>Oct 30, 2021</time> Another great session, especially for Skewb! I got a 23.748, 7.724, 48.450 and a 7.112 (!). I also learnt the N perms for PLL.
+
+- <time>Oct 29, 2021</time> Pretty great session! Got a sub-4 for 2x2 (3.875), and got a 22.077, 6.040, 47.577 and a 7.451 (!)
+
+- <time>Oct 28, 2021</time> Finished the rest of my solves for 3x3 OH and Skewb, got a 19.775, 6.538, 1:02.230 and a 13.673.
 <hr />
 
 ## <span id="hackathon2022">Local Hackathon</span>
