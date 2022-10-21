@@ -361,6 +361,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 21, 2022</time> Continued with The Decision Box.
+
 - <time>Oct 20, 2022</time> Got started with [The Decision Box](https://brilliant.org/courses/intro-neural-networks/neurons-2/decision-box-2/).
 
 - <time>Oct 19, 2022</time> Finished with Can Computers Learn?
