@@ -360,6 +360,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 20, 2022</time> Got started with [The Decision Box](https://brilliant.org/courses/intro-neural-networks/neurons-2/decision-box-2/).
+
 - <time>Oct 19, 2022</time> Finished with Can Computers Learn?
 
 - <time>Oct 18, 2022</time> Continued with Can Computers Learn?
@@ -730,6 +732,36 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 21, 2022</time> Finished [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/):
+
+```py
+class Solution:
+    def nearestValidPoint(self, x: int, y: int, points: List[List[int]]) -> int:
+        valid = [i for i in points if i[0] == x or i[1] == y]
+
+        if len(valid) == 0:
+            return -1
+
+        return points.index(sorted([(abs(x - i[0]) + abs(y - i[1]), i) for i in valid], key=lambda x: x[0])[0][1])
+```
+
+- <time>Oct 20, 2022</time> Finished [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/):
+
+```py
+class NumArray:
+
+    def __init__(self, nums: List[int]):
+        self.array = nums
+
+    def sumRange(self, left: int, right: int) -> int:
+        return sum(self.array[left:right+1])
+
+
+# Your NumArray object will be instantiated and called as such:
+# obj = NumArray(nums)
+# param_1 = obj.sumRange(left,right)
+```
 
 - <time>Oct 19, 2022</time> Finished [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/):
 
@@ -5689,6 +5721,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Oct 20, 2022</time> Continued with the Time Calculator Project.
 
 - <time>Oct 19, 2022</time> Continued with the Time Calculator Project.
 
