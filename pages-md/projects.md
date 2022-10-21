@@ -27,8 +27,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
 
-### Done (16)
+### Done (17)
 
+- <a href="#hackathon2022">Local Hackathon</time>
 - <a href="#landingpage">Landing Page Project + App Integration</a>
 - <a href="#duolingo">Duolingo</a>
 - <a href="#localaiprogram">Local AI Program</a> (Sa)
@@ -5722,6 +5723,8 @@ class Solution:
 
 #### Log
 
+- <time>Oct 21, 2022</time> Continued with the Time Calculator Project.
+
 - <time>Oct 20, 2022</time> Continued with the Time Calculator Project.
 
 - <time>Oct 19, 2022</time> Continued with the Time Calculator Project.
@@ -8610,6 +8613,17 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 <hr />
 
 ## Done
+
+<hr />
+
+## <span id="hackathon2022">Local Hackathon</span>
+
+<small>Oct 20, 2022-Oct 20, 2022</small>  
+<small>Participated in a local hackathon and did pretty well with my teammates! Due to privacy reasons, I was being incredibly vague</small>
+
+#### Log
+
+- <time>Oct 20, 2022</time> Participated in a ~3 hour long hackathon which consisted of 2 questions. My team could attempt both questions and it was a lot of fun!
 
 <hr />
 
