@@ -7,9 +7,8 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (7)
+### Active (6)
 
-- <a href="#drums">Drums</a> (F&S)
 - <a href="#introml">Introduction to Machine Learning</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
 - <a href="#brilliant">Brilliant</a>
@@ -17,8 +16,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#leetcode">LeetCode</a>
 - <a href="#freecodecamp">freeCodeCamp</a>
 
-### Inactive/Paused (6)
+### Inactive/Paused (7)
 
+- <a href="#drums">Drums</a> (F&S)
 - <a href="#kenken">KENKEN</a>
 - <a href="#chess">Chess</a> (S)
 - <a href="#agisf">AGI Safety Fundamentals: Technical Track</a> (F)
@@ -59,29 +59,6 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 ## Ongoing
-
-<hr />
-
-## <span id="drums">Drums</span>
-
-<small>Aug 02, 2022-present</small>  
-<small>Trying to get better every day and [have some fun as well](https://www.youtube.com/watch?v=Y2AEvI0z_ec).</small>
-
-<hr />
-<small>Drums' start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Aug 13, 2022</time> Played [Fever by The Black Keys](https://www.youtube.com/watch?v=tk5m_TAD_AM).
-
-- <time>Aug 12, 2022</time> Played [I Want to Break Free by Queen](https://www.youtube.com/watch?v=wIqa9uVnXCQ).
-
-- <time>Aug 06, 2022</time> Finished learning Back in Black by AC/DC. The snare-kick-hi-hat pattern was the only thing I had to get down.
-
-- <time>Aug 04, 2022</time> Played [Back in Black by AC/DC](https://www.youtube.com/watch?v=pAgnJDJN4VA).
-
-- <time>Aug 02, 2022</time> Played [Yellow by Coldplay](https://www.youtube.com/watch?v=fviwj5P1FCc).
 
 <hr />
 
@@ -739,6 +716,21 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 22, 2022</time> Finished [Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse/):
+
+```py
+class Solution:
+    def sumOfNumberAndReverse(self, num: int) -> bool:
+        if num == 0:
+            return True
+
+        for i in range(1, num):
+            if i + int(str(i)[::-1]) == num:
+                return True
+
+        return False
+```
 
 - <time>Oct 21, 2022</time> Finished [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/):
 
@@ -6444,6 +6436,29 @@ class Solution:
 <hr />
 
 ## Inactive/Paused
+
+<hr />
+
+## <span id="drums">Drums</span>
+
+<small>Aug 02, 2022-present</small>  
+<small>Trying to get better every day and [have some fun as well](https://www.youtube.com/watch?v=Y2AEvI0z_ec). Currently inactive/paused.</small>
+
+<hr />
+<small>Drums' start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Aug 13, 2022</time> Played [Fever by The Black Keys](https://www.youtube.com/watch?v=tk5m_TAD_AM).
+
+- <time>Aug 12, 2022</time> Played [I Want to Break Free by Queen](https://www.youtube.com/watch?v=wIqa9uVnXCQ).
+
+- <time>Aug 06, 2022</time> Finished learning Back in Black by AC/DC. The snare-kick-hi-hat pattern was the only thing I had to get down.
+
+- <time>Aug 04, 2022</time> Played [Back in Black by AC/DC](https://www.youtube.com/watch?v=pAgnJDJN4VA).
+
+- <time>Aug 02, 2022</time> Played [Yellow by Coldplay](https://www.youtube.com/watch?v=fviwj5P1FCc).
 
 <hr />
 
