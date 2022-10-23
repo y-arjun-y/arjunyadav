@@ -193,6 +193,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 23, 2022</time> Continued with Week 4 and got 95% on my practice quiz on the first attempt!
+
 - <time>Oct 22, 2022</time> Continued with Week 4.
 
 - <time>Oct 21, 2022</time> Continued with Week 4.
