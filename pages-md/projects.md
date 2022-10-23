@@ -721,6 +721,19 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 23, 2022</time> Finished [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/):
+
+```py
+class Solution:
+    def haveConflict(self, event1: List[str], event2: List[str]) -> bool:
+        minutes_1 = [i for i in range(60*int(event1[0][:2]) + int(event1[0][3:]), 60*int(event1[1][:2]) + int(event1[1][3:]) + 1)]
+        minutes_2 = [i for i in range(60*int(event2[0][:2]) + int(event2[0][3:]), 60*int(event2[1][:2]) + int(event2[1][3:]) + 1)]
+
+        if len([i for i in minutes_1 if i in minutes_2]) == 0:
+            return False
+        return True
+```
+
 - <time>Oct 22, 2022</time> Finished [Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse/):
 
 ```py
