@@ -729,6 +729,14 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 24, 2022</time> Finished [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/):
+
+```py
+class Solution:
+    def countPrefixes(self, words: List[str], s: str) -> int:
+        return len([i for i in words if i in [s[:i] for i in range(1, len(s) + 1)]])
+```
+
 - <time>Oct 23, 2022</time> Finished [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/):
 
 ```py
