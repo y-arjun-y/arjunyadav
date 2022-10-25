@@ -5777,6 +5777,8 @@ class Solution:
 
 #### Log
 
+- <time>Oct 25, 2022</time> Continued with the Time Calculator Project. Need to map out my logic on paper tomorrow to see where I'm going wrong.
+
 - <time>Oct 24, 2022</time> Continued with the Time Calculator Project. Getting somewhat close.
 
 - <time>Oct 23, 2022</time> Continued with the Time Calculator Project.
