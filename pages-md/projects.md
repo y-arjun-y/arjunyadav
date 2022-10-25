@@ -735,6 +735,23 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 25, 2022</time> Finished [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/):
+
+```py
+class Solution:
+    def maximumDifference(self, nums: List[int]) -> int:
+        difference = []
+
+        for i in range(len(nums)):
+            for j in range(len(nums)):
+                if i < j and nums[i] < nums[j]:
+                    difference.append(nums[j] - nums[i])
+
+        if len(difference) == 0:
+            return -1
+        return max(difference)
+```
+
 - <time>Oct 24, 2022</time> Finished [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/):
 
 ```py
