@@ -71,6 +71,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 26, 2022</time> "Continued" with Week 4.
+
 - <time>Oct 25, 2022</time> Continued with Week 4.
 
 - <time>Oct 24, 2022</time> Continued with Week 4.
@@ -200,6 +202,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 26, 2022</time> Finished with Week 4.
 
 - <time>Oct 25, 2022</time> Continued with Week 4.
 
@@ -357,6 +361,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 26, 2022</time> Continued with Activation Arithmetic.
 
 - <time>Oct 25, 2022</time> Continued with Activation Arithmetic.
 
@@ -740,6 +746,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 26, 2022</time> Could not a finish problem today, but that's alright.
 
 - <time>Oct 25, 2022</time> Finished [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/):
 
@@ -5782,6 +5790,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Oct 26, 2022</time> "Continued" with the Time Calculator Project.
 
 - <time>Oct 25, 2022</time> Continued with the Time Calculator Project. Need to map out my logic on paper tomorrow to see where I'm going wrong.
 
