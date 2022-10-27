@@ -747,6 +747,21 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 27, 2022</time> Finished [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/):
+
+```py
+class Solution:
+    def sumOddLengthSubarrays(self, arr: List[int]) -> int:
+        total = 0
+
+        for i in range(len(arr)):
+            for j in range(len(arr)):
+                if len(arr[i:j+1]) % 2 != 0:
+                    total += sum(arr[i:j+1])
+
+        return total
+```
+
 - <time>Oct 26, 2022</time> Could not a finish problem today, but that's alright.
 
 - <time>Oct 25, 2022</time> Finished [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/):
