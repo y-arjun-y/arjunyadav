@@ -5806,7 +5806,7 @@ class Solution:
 
 #### Log
 
-- <time>Oct 27, 2022</time> Continued with the Time Calculator Project.
+- <time>Oct 27, 2022</time> Continued with the Time Calculator Project. Writing down my logic really helped, really close now (just need to fix the AM/PM and -12 logic for 24-hour format).
 
 - <time>Oct 26, 2022</time> "Continued" with the Time Calculator Project.
 
