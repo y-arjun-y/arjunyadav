@@ -751,6 +751,24 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 28, 2022</time> Finished [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) (finally!) and [made a post about my solution](https://leetcode.com/problems/climbing-stairs/discuss/2751119/Simple-Python3-solution-using-combination-function):
+
+```py
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        import math
+
+        lowest_level = int(math.ceil(n / 2))
+        count = 0
+        res = 0
+
+        for i in range(n, lowest_level-1, -1):
+            res += math.comb(i, count)
+            count += 1
+
+        return res
+```
+
 - <time>Oct 27, 2022</time> Finished [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/):
 
 ```py
@@ -5809,6 +5827,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Oct 28, 2022</time> 1 year since this project started! Finished with the Time Calculator Project, [here it is](https://replit.com/@yarjuny/Time-Calculator-Project).
 
 - <time>Oct 27, 2022</time> Continued with the Time Calculator Project. Writing down my logic really helped, really close now (just need to fix the AM/PM and -12 logic for 24-hour format).
 
