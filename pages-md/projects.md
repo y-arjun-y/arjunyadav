@@ -364,7 +364,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 27, 2022</time> Continued with Activation Arithmetic.
+- <time>Oct 28, 2022</time> Got started with [Decision Boundaries](https://brilliant.org/courses/intro-neural-networks/neurons-2/decision-boundaries/).
+
+- <time>Oct 27, 2022</time> Finished with Activation Arithmetic.
 
 - <time>Oct 26, 2022</time> Continued with Activation Arithmetic.
 
