@@ -5844,6 +5844,8 @@ class Solution:
 
 #### Log
 
+- <time>Oct 29, 2022</time> Got started with the [Budget App Project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app).
+
 - <time>Oct 28, 2022</time> 1 year since this project started! Finished with the Time Calculator Project, [here it is](https://replit.com/@yarjuny/Time-Calculator-Project).
 
 - <time>Oct 27, 2022</time> Continued with the Time Calculator Project. Writing down my logic really helped, really close now (just need to fix the AM/PM and -12 logic for 24-hour format).
