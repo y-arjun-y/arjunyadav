@@ -757,6 +757,16 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 29, 2022</time> Finished [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/):
+
+```py
+class Solution:
+    def maximumProduct(self, nums: List[int]) -> int:
+        nums = sorted(nums)
+
+        return max(nums[0] * nums[1] * nums[len(nums) - 1], nums[len(nums) - 1] * nums[len(nums) - 2] * nums[len(nums) - 3])
+```
+
 - <time>Oct 28, 2022</time> Finished [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) (finally!) and [made a post about my solution](https://leetcode.com/problems/climbing-stairs/discuss/2751119/Simple-Python3-solution-using-combination-function):
 
 ```py
