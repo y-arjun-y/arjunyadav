@@ -763,7 +763,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 29, 2022</time> Finished [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/):
+- <time>Oct 29, 2022</time> Finished [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) but I had to look at the solution:
 
 ```py
 class Solution:
