@@ -763,6 +763,15 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 30, 2022</time> Finished [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/):
+
+```py
+class Solution:
+    def findOcurrences(self, text: str, first: str, second: str) -> List[str]:
+        text_array = text.split()
+        return [text_array[i:i+3][2] for i in range(len(text_array)) if len(text_array[i:i+3]) == 3 and text_array[i:i+3][0] == first and text_array[i:i+3][1] == second]
+```
+
 - <time>Oct 29, 2022</time> Finished [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) but I had to look at the solution:
 
 ```py
