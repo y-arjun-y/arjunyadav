@@ -5859,6 +5859,8 @@ class Solution:
 
 #### Log
 
+- <time>Oct 30, 2022</time> Continued with the Budget App Project.
+
 - <time>Oct 29, 2022</time> Got started with the [Budget App Project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app).
 
 - <time>Oct 28, 2022</time> 1 year since this project started! Finished with the Time Calculator Project, [here it is](https://replit.com/@yarjuny/Time-Calculator-Project).
