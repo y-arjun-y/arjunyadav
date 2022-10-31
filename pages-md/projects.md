@@ -71,6 +71,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 31, 2022</time> Continued with Week 5.
+
 - <time>Oct 30, 2022</time> Continued with Week 5.
 
 - <time>Oct 29, 2022</time> Continued with Week 5.
@@ -208,6 +210,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 31, 2022</time> Continued with Week 5.
 
 - <time>Oct 30, 2022</time> Continued with Week 5.
 
@@ -5879,6 +5883,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Oct 31, 2022</time> Continued with the Budget App Project.
 
 - <time>Oct 30, 2022</time> Continued with the Budget App Project.
 
