@@ -376,6 +376,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 31, 2022</time> Got started with [Building an XOR Gate](https://brilliant.org/courses/intro-neural-networks/neurons-2/building-xor-gate/).
+
 - <time>Oct 30, 2022</time> Finished with Decision Boundaries.
 
 - <time>Oct 29, 2022</time> Continued with Decision Boundaries.
