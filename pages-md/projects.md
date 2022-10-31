@@ -769,6 +769,19 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 31, 2022</time> Finished [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/):
+
+```py
+class Solution:
+    def averageValue(self, nums: List[int]) -> int:
+        even_three_nums = [i for i in nums if i % 6 == 0]
+
+        if len(even_three_nums) == 0:
+            return 0
+        else:
+            return int(sum(even_three_nums) / len(even_three_nums))
+```
+
 - <time>Oct 30, 2022</time> Finished [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/):
 
 ```py
