@@ -775,6 +775,18 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 01, 2022</time> Finished [Odd String Difference](https://leetcode.com/problems/odd-string-difference/) with [a bit of help](https://stackoverflow.com/questions/22020208/how-to-efficiently-find-the-odds-one-out-in-a-list):
+
+```py
+class Solution:
+    def oddString(self, words: List[str]) -> str:
+        from collections import Counter
+
+        difference_array = [[(ord(i[j+1])-97)-(ord(i[j])-97) for j in range(len(i) - 1)] for i in words]
+
+        return words[difference_array.index(min(difference_array,key=difference_array.count))]
+```
+
 - <time>Oct 31, 2022</time> Finished [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/):
 
 ```py
