@@ -5,7 +5,7 @@ meta_description: I log everything I read in Notion. In these two months, I've r
 meta_image: https://images.unsplash.com/photo-1578924824899-c1d49bd3b370?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1942&q=80
 ---
 
-![DALL·E 2 - Fish](/dalle-2-fish)
+![DALL·E 2 - Fish](/dalle-2-fish.png)
 
 <small>Note: This post was published on Nov 02, 2022. Apologizes for being 2 days late.</small>
 
