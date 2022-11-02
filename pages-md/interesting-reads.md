@@ -7,7 +7,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 I log everything I read[^1] in Notion, and every month, I publish some of the more interesting things I've read. Here are all of those posts.
 
-- <time>Oct 31, 2022</time> [Interesting Reads - September and October 2022](/blog/interesting-reads-august-2022)
+- <time>Oct 31, 2022</time> [Interesting Reads - September and October 2022](/blog/interesting-reads-september-october-2022)
 - <time>Aug 31, 2022</time> [Interesting Reads - August 2022](/blog/interesting-reads-august-2022)
 - <time>Jul 31, 2022</time> [Interesting Reads - July 2022](/blog/interesting-reads-july-2022)
 - <time>Jun 30, 2022</time> [Interesting Reads - June 2022](/blog/interesting-reads-june-2022)
