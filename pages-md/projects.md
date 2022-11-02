@@ -71,6 +71,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 02, 2022</time> Finished with Week 5.
+
 - <time>Nov 01, 2022</time> Continued with Week 5.
 
 - <time>Oct 31, 2022</time> Continued with Week 5.
@@ -212,6 +214,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Nov 02, 2022</time> "Continued" with "Week 5".
 
 - <time>Nov 01, 2022</time> Continued with Week 5.
 
@@ -383,6 +387,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Nov 02, 2022</time> Finished with [Classification](https://brilliant.org/courses/intro-neural-networks/neurons-2/classification/).
 
 - <time>Nov 01, 2022</time> Finished with Building an XOR Gate.
 
@@ -780,6 +786,24 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Nov 02, 2022</time> Finished [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/):
+
+```py
+class Solution:
+    def minBitFlips(self, start: int, goal: int) -> int:
+        start_bin = str(bin(start)[2:])
+        goal_bin = str(bin(goal)[2:])
+
+        if len(start_bin) < len(goal_bin):
+            start_bin = "0"*(len(goal_bin) - len(start_bin)) + start_bin
+
+        if len(start_bin) > len(goal_bin):
+            goal_bin = "0"*(len(start_bin) - len(goal_bin)) + goal_bin
+
+        print(start_bin, goal_bin)
+        return len([i for i in range(len(start_bin)) if start_bin[i] != goal_bin[i]])
+```
 
 - <time>Nov 01, 2022</time> Finished [Odd String Difference](https://leetcode.com/problems/odd-string-difference/) with [a bit of help](https://stackoverflow.com/questions/22020208/how-to-efficiently-find-the-odds-one-out-in-a-list):
 
@@ -5901,6 +5925,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Nov 02, 2022</time> Continued with the Budget App Project.
 
 - <time>Nov 01, 2022</time> Continued with the Budget App Project.
 
