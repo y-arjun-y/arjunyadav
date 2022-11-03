@@ -787,6 +787,22 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 03, 2022</time> Finished [The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/):
+
+```py
+class Solution:
+    def hardestWorker(self, n: int, logs: List[List[int]]) -> int:
+        id_time = []
+
+        for i in range(len(logs)):
+            if i == 0:
+                id_time.append((logs[i][0], logs[i][1]))
+            else:
+                id_time.append((logs[i][0], logs[i][1] - logs[i-1][1]))
+
+        return min([i[0] for i in id_time if i[1] == max([i[1] for i in id_time])])
+```
+
 - <time>Nov 02, 2022</time> Finished [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/):
 
 ```py
