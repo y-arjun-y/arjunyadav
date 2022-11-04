@@ -791,6 +791,24 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 04, 2022</time> Finished [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/):
+
+```py
+class Solution:
+    def mergeSimilarItems(self, items1: List[List[int]], items2: List[List[int]]) -> List[List[int]]:
+        first_pass = [[i[0], i[1] + sum([j[1] for j in items2 if j[0] == i[0]])] for i in items1]
+        second_pass = [[i[0], i[1] + sum([j[1] for j in items1 if j[0] == i[0]])] for i in items2]
+        temp = first_pass + second_pass
+        final = []
+
+        for i in temp:
+            if i not in final:
+                final.append(i)
+
+        print(first_pass, second_pass)
+        return sorted(final, key=lambda x: x[0])
+```
+
 - <time>Nov 03, 2022</time> Finished [The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/):
 
 ```py
