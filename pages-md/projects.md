@@ -392,7 +392,11 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Nov 02, 2022</time> Finished with [Classification](https://brilliant.org/courses/intro-neural-networks/neurons-2/classification/).
+- <time>Nov 04, 2022</time> Finished with Classification
+
+- <time>Nov 03, 2022</time> Continued with Classification.
+
+- <time>Nov 02, 2022</time> Got started with [Classification](https://brilliant.org/courses/intro-neural-networks/neurons-2/classification/).
 
 - <time>Nov 01, 2022</time> Finished with Building an XOR Gate.
 
