@@ -71,6 +71,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 04, 2022</time> Continued with Week 6 and got 100% on the practice quiz.
+
 - <time>Nov 03, 2022</time> Got started with Week 6, the last week.
 
 - <time>Nov 02, 2022</time> Finished with Week 5.
@@ -216,6 +218,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Nov 04, 2022</time> "Continued" with "Week 5".
 
 - <time>Nov 03, 2022</time> Continued with Week 5.
 
