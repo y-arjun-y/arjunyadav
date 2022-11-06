@@ -396,6 +396,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 06, 2022</time> Continued with Sigmoid Neuron.
+
 - <time>Nov 05, 2022</time> Got started with [Sigmoid Neuron](https://brilliant.org/courses/intro-neural-networks/neurons-2/sigmoid-neuron/).
 
 - <time>Nov 04, 2022</time> Finished with Classification.
