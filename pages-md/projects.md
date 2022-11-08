@@ -71,6 +71,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 08, 2022</time> "Continued" with Week 6.
+
 - <time>Nov 04, 2022</time> Continued with Week 6 and got 100% on the practice quiz.
 
 - <time>Nov 03, 2022</time> Got started with Week 6, the last week.
@@ -218,6 +220,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Nov 08, 2022</time> "Continued" with "Week 5".
 
 - <time>Nov 04, 2022</time> "Continued" with "Week 5".
 
@@ -802,6 +806,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Nov 08, 2022</time> I'll finished [Make The String Great](https://leetcode.com/problems/make-the-string-great/) tomorrow.
 
 - <time>Nov 04, 2022</time> Finished [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/):
 
@@ -5975,6 +5981,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Nov 08, 2022</time> Continued with the Budget App Project.
 
 - <time>Nov 04, 2022</time> Continued with the Budget App Project.
 
