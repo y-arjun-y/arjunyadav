@@ -811,7 +811,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Nov 09, 2022</time> Sill working on Make The String Great.
+- <time>Nov 10, 2022</time> [I hate \\(10^5\\) so much](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/).
+
+- <time>Nov 09, 2022</time> Still working on Make The String Great.
 
 - <time>Nov 08, 2022</time> I'll finish [Make The String Great](https://leetcode.com/problems/make-the-string-great/) tomorrow.
 
@@ -5987,6 +5989,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Nov 10, 2022</time> Continued with the Budget App Project.
 
 - <time>Nov 09, 2022</time> Continued with the Budget App Project.
 
