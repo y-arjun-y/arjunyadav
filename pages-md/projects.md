@@ -811,6 +811,21 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 11, 2022</time> Finished [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/):
+
+```py
+class Solution:
+    def applyOperations(self, nums: List[int]) -> List[int]:
+        for i in range(len(nums) - 1):
+            if nums[i] == nums[i+1]:
+                nums[i] *= 2
+                nums[i+1] = 0
+
+        count_zero = len([i for i in nums if i == 0])
+
+        return [i for i in nums if i != 0] + [0 for i in range(count_zero)]
+```
+
 - <time>Nov 10, 2022</time> [I hate \\(10^5\\) so much](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/).
 
 - <time>Nov 09, 2022</time> Still working on Make The String Great.
@@ -5989,6 +6004,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Nov 11, 2022</time> Continued with the Budget App Project.
 
 - <time>Nov 10, 2022</time> Continued with the Budget App Project.
 
