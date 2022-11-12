@@ -811,6 +811,23 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 12, 2022</time> Finished [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) and [made a post about my solution](https://leetcode.com/problems/number-of-distinct-averages/discuss/2807762/Faster-than-100-Simple-Python3-Solution):
+
+```py
+class Solution:
+    def distinctAverages(self, nums: List[int]) -> int:
+        averages = set()
+
+        while len(nums) != 0:
+            min_num = min(nums)
+            nums.remove(min_num)
+            max_num = max(nums)
+            nums.remove(max_num)
+            averages.add((max_num + min_num) / 2)
+
+        return len(averages)
+```
+
 - <time>Nov 11, 2022</time> Finished [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/):
 
 ```py
@@ -6004,6 +6021,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Nov 12, 2022</time> Continued with the Budget App Project. Should finish up this upcoming week.
 
 - <time>Nov 11, 2022</time> Continued with the Budget App Project.
 
