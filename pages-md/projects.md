@@ -404,6 +404,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 13, 2022</time> "Continued" with Sigmoid Neuron.
+
 - <time>Nov 06, 2022</time> Continued with Sigmoid Neuron.
 
 - <time>Nov 05, 2022</time> Got started with [Sigmoid Neuron](https://brilliant.org/courses/intro-neural-networks/neurons-2/sigmoid-neuron/).
@@ -810,6 +812,14 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Nov 13, 2022</time> One year since this project started! Finished [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/):
+
+```py
+class Solution:
+    def convertTemperature(self, celsius: float) -> List[float]:
+        return [celsius + 273.15, celsius * 1.80 + 32.00]
+```
 
 - <time>Nov 12, 2022</time> Finished [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) and [made a post about my solution](https://leetcode.com/problems/number-of-distinct-averages/discuss/2807762/Faster-than-100-Simple-Python3-Solution):
 
@@ -6021,6 +6031,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Nov 13, 2022</time> Continued with the Budget App Project.
 
 - <time>Nov 12, 2022</time> Continued with the Budget App Project. Should finish up this upcoming week.
 
