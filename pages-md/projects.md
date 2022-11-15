@@ -813,6 +813,30 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 15, 2022</time> Finished [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/):
+
+```py
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def hasCycle(self, head: Optional[ListNode]) -> bool:
+        array = []
+        current_pointer = head
+
+        while len(array) <= 1e6 and current_pointer:
+                array.append(current_pointer.val)
+                current_pointer = current_pointer.next
+
+        if len(array) >= 1e6:
+            return True
+        else:
+            return False
+```
+
 - <time>Nov 13, 2022</time> One year since this project started! Finished [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/):
 
 ```py
