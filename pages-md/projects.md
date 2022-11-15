@@ -6056,6 +6056,8 @@ class Solution:
 
 #### Log
 
+- <time>Nov 15, 2022</time> Continued with the Budget App Project.
+
 - <time>Nov 13, 2022</time> Continued with the Budget App Project.
 
 - <time>Nov 12, 2022</time> Continued with the Budget App Project. Should finish up this upcoming week.
