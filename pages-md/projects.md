@@ -71,6 +71,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 18, 2022</time> Continued with Week 6.
+
 - <time>Nov 09, 2022</time> "Continued" with Week 6.
 
 - <time>Nov 08, 2022</time> "Continued" with Week 6.
@@ -222,6 +224,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Nov 18, 2022</time> Continued with Week 5.
 
 - <time>Nov 09, 2022</time> "Continued" with "Week 5".
 
@@ -812,6 +816,24 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Nov 18, 2022</time> Finished [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/):
+
+```py
+class Solution:
+    def strongPasswordCheckerII(self, password: str) -> bool:
+        isStrong = False
+
+        if len(password) >= 8:
+            if True in [ord(i) >= 97 and ord(i) <= 122 for i in password]:
+                if True in [ord(i) >= 65 and ord(i) <= 90 for i in password]:
+                    if True in [i.isdigit() for i in password]:
+                        if True in [i in "!@#$%^&*()-+" for i in password]:
+                            if True not in [password[i] == password[i+1] for i in range(len(password) - 1)]:
+                                isStrong = True
+
+        return isStrong
+```
 
 - <time>Nov 15, 2022</time> Finished [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/):
 
@@ -6055,6 +6077,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Nov 18, 2022</time> Continued with the Budget App Project.
 
 - <time>Nov 16, 2022</time> "Continued" with the Budget App Project.
 
