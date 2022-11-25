@@ -12,7 +12,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#introml">Introduction to Machine Learning</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
 - <a href="#brilliant">Brilliant</a>
-- <a href="#coldtakesbetareading">Cold Takes Beta-Reading</a> (O)
+- <a href="#coldtakesbetareading">Cold Takes Beta Reading</a> (O)
 - <a href="#leetcode">LeetCode</a>
 - <a href="#freecodecamp">freeCodeCamp</a>
 
@@ -26,10 +26,11 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
 
-### Done (18)
+### Done (19)
 
+- <a href="#nationalhackathon2022">National Hackathon</time>
 - <a href="#cubing">Cubing</a>
-- <a href="#hackathon2022">Local Hackathon</time>
+- <a href="#localhackathon2022">Local Hackathon</time>
 - <a href="#landingpage">Landing Page Project + App Integration</a>
 - <a href="#duolingo">Duolingo</a>
 - <a href="#localaiprogram">Local AI Program</a> (Sa)
@@ -784,10 +785,10 @@ Confused? See the <a href="#note">note</a> down below.
 - <time>Apr 14, 2022</time> Got started with [Computer Science Essentials](https://brilliant.org/courses/computer-science-essentials/) and finished [Making Decisions](https://brilliant.org/courses/computer-science-essentials/tools-of-computer-science-12/making-decisions/). Still on [Writing Programs](https://brilliant.org/courses/computer-science-essentials/tools-of-computer-science-12/interactive-programs).
 <hr />
 
-## <span id="coldtakesbetareading">[Cold Takes](https://www.cold-takes.com/) Beta-Reading</span>
+## <span id="coldtakesbetareading">[Cold Takes](https://www.cold-takes.com/) Beta Reading</span>
 
 <small>20 Jan, 2022-present</small>  
-<small>I got accepted to proof-read Holden Karnofsky's articles for his blog, Cold Takes. Trying to be as useful as I can be! Note that I only update this log when I fully finish proof-reading and when the post has been published. Currently an occasional project.</small>
+<small>I got accepted to beta read Holden Karnofsky's articles for his blog, Cold Takes. Trying to be as useful as I can be! Note that I only update this log when I fully finish proof-reading and when the post has been published. Currently an occasional project.</small>
 
 <hr />
 
@@ -8391,6 +8392,17 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 <hr />
 
+## <span id="nationalhackathon2022">National Hackathon</span>
+
+<small>Nov 19, 2022-Nov 19, 2022</small>  
+<small>Led my senior team to a win in a national hackathon! Due to privacy reasons, I was being incredibly vague.</small>
+
+#### Log
+
+- <time>Nov 19, 2022</time> Happy to report that we've won the senior category of a national hackathon! Hope to continue this string of hackathon projects very soon.
+
+<hr />
+
 ## <span id="cubing">[Cubing](https://www.worldcubeassociation.org/persons/2019YADA06)</span>
 
 <small>Oct 28, 2021-Oct 21, 2022</small>  
@@ -9042,10 +9054,10 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 - <time>Oct 28, 2021</time> Finished the rest of my solves for 3x3 OH and Skewb, got a 19.775, 6.538, 1:02.230 and a 13.673.
 <hr />
 
-## <span id="hackathon2022">Local Hackathon</span>
+## <span id="localhackathon2022">Local Hackathon</span>
 
 <small>Oct 20, 2022-Oct 20, 2022</small>  
-<small>Participated in a local hackathon and did pretty well with my teammates! Due to privacy reasons, I was being incredibly vague</small>
+<small>Participated in a local hackathon and did pretty well with my teammates! Due to privacy reasons, I was being incredibly vague.</small>
 
 #### Log
 
