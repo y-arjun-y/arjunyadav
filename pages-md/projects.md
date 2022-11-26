@@ -818,6 +818,23 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 26, 2022</time> Finished [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/):
+
+```py
+class Solution:
+    def unequalTriplets(self, nums: List[int]) -> int:
+        res = 0
+
+        for i in range(len(nums)):
+            for j in range(len(nums)):
+                for k in range(len(nums)):
+                    if i < j < k:
+                        if nums[i] != nums[j] and nums[i] != nums[k] and nums[j] != nums[k]:
+                            res += 1
+
+        return res
+```
+
 - <time>Nov 18, 2022</time> Finished [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/):
 
 ```py
@@ -6078,6 +6095,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Nov 26, 2022</time> "Continued" with the Budget App Project.
 
 - <time>Nov 18, 2022</time> Continued with the Budget App Project.
 
