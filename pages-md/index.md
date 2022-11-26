@@ -12,4 +12,4 @@ My name is Arjun Yadav, my interests lie in [effective altruism](/blog/what-is-e
 
 Check out my projects [here](/projects/) and feel free to [contact me](https://www.bettermailto.com/user/620278e0561f820009d840d2).
 
-[^1]: I've missed this goal once, [here are all the replacement posts](/replacement-posts/).
+[^1]: I've missed this goal twice, [here are all the replacement posts](/replacement-posts/).

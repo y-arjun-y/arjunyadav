@@ -5,6 +5,8 @@ meta_description: I recently got access to DALL·E 2, here are some more interes
 meta_image: https://www.arjunyadav.net/dalle-2-astronaut-crying.png
 ---
 
+<small>Note: This post is a replacement post for October 2022.</small>
+
 A continuation of [one of my previous blog post](https://www.arjunyadav.net/blog/results-from-dalle-2-part-1), here are some more interesting results from DALL·E 2!
 
 ### Prompt: An oil pastel of a fish drinking soda through a straw while underwater
