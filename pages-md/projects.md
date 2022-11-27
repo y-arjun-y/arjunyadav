@@ -818,6 +818,20 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 27, 2022</time> Finished [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/):
+
+```py
+class Solution:
+    def pivotInteger(self, n: int) -> int:
+        # https://math.stackexchange.com/a/1842203
+
+        for i in range(1, n+1):
+            if (i*(i+1))//2 == ((n - i + 1)*(i+n)) // 2:
+                return i
+        else:
+            return -1
+```
+
 - <time>Nov 26, 2022</time> Finished [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/):
 
 ```py
