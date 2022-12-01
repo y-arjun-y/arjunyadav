@@ -7,8 +7,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (6)
+### Active (7)
 
+- <a href="#adventofcode">Advent of Code</a>
 - <a href="#introml">Introduction to Machine Learning</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
 - <a href="#brilliant">Brilliant</a>
@@ -61,6 +62,18 @@ Confused? See the <a href="#note">note</a> down below.
 
 ## Ongoing
 
+<hr />
+
+## <span id="adventofcode">Advent of Code</span>
+
+<small>Dec 01, 2022-present</small>
+<small>Currently running an advent of code for my school's Python club. Due to privacy reasons, I'm being incredibly vague.</small>
+
+<hr />
+
+#### Log
+
+- <time>Dec 01, 2022</time> First problem up! Hope to get some responses soon.
 <hr />
 
 ## <span id="introml">[Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning-duke/)</span>
