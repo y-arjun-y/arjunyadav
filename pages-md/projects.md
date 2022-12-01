@@ -66,7 +66,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 ## <span id="adventofcode">Advent of Code</span>
 
-<small>Dec 01, 2022-present</small>
+<small>Dec 01, 2022-present</small>  
 <small>Currently running an advent of code for my school's Python club. Due to privacy reasons, I'm being incredibly vague.</small>
 
 <hr />
