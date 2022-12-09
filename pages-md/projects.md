@@ -29,7 +29,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ### Done (19)
 
-- <a href="#nationalhackathon2022">National Hackathon</time>
+- <a href="#statehackathon2022">"State" Hackathon</time>
 - <a href="#cubing">Cubing</a>
 - <a href="#localhackathon2022">Local Hackathon</time>
 - <a href="#landingpage">Landing Page Project + App Integration</a>
@@ -72,6 +72,22 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 09, 2022</time> Ninth problem up.
+
+- <time>Dec 08, 2022</time> Eighth problem up.
+
+- <time>Dec 07, 2022</time> Seventh problem up.
+
+- <time>Dec 06, 2022</time> Sixth problem up.
+
+- <time>Dec 05, 2022</time> Fifth problem up.
+
+- <time>Dec 04, 2022</time> Fourth problem up.
+
+- <time>Dec 03, 2022</time> Third problem up.
+
+- <time>Dec 02, 2022</time> Second problem up.
 
 - <time>Dec 01, 2022</time> First problem up! Hope to get some responses soon.
 <hr />
@@ -8438,14 +8454,14 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 <hr />
 
-## <span id="nationalhackathon2022">National Hackathon</span>
+## <span id="statehackathon2022">"State" Hackathon</span>
 
 <small>Nov 19, 2022-Nov 19, 2022</small>  
-<small>Led my senior team to a win in a national hackathon! Due to privacy reasons, I was being incredibly vague.</small>
+<small>Led my senior team to a win in a "state" hackathon! Due to privacy reasons, I was being incredibly vague.</small>
 
 #### Log
 
-- <time>Nov 19, 2022</time> Happy to report that we've won the senior category of a national hackathon! Hope to continue this string of hackathon projects very soon.
+- <time>Nov 19, 2022</time> Happy to report that we've won the senior category of a "state" hackathon! Hope to continue this string of hackathon projects very soon.
 
 <hr />
 
