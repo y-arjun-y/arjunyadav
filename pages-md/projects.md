@@ -825,7 +825,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 - <time>Oct 12, 2022</time> Finished my sixth proof-reading (although I unfortunately missed the deadline by a bit). The link to the post will be **here** once done.
 
-- <time>Sep 08, 2022</time> Finished my fifth proof-reading. The link to the post will be **here** once done.
+- <time>Sep 08, 2022</time> Finished my fifth proof-reading. The link to the post will be [here](https://www.cold-takes.com/why-would-ai-aim-to-defeat-humanity/) once done.
 
 - <time>Sep 05, 2022</time> Along with other beta-readers, I got appreciated in [the latest Cold Takes post](https://www.cold-takes.com/beta-readers-are-great/)!
 
