@@ -73,6 +73,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 12, 2022</time> Twelfth problem up.
+
 - <time>Dec 11, 2022</time> Eleventh problem up.
 
 - <time>Dec 10, 2022</time> Tenth problem up. Really like this one.
@@ -850,6 +852,24 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 12, 2022</time> Finished [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/):
+
+```py
+class Solution:
+    def maximumValue(self, strs: List[str]) -> int:
+        max = 0
+
+        for i in strs:
+            if i.isdigit():
+                if int(i) > max:
+                    max = int(i)
+            else:
+                if len(i) > max:
+                    max = len(i)
+
+        return max
+```
 
 - <time>Nov 27, 2022</time> Finished [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/):
 
