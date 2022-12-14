@@ -7,6 +7,8 @@ meta_image: https://www.arjunyadav.net/dalle-2-robot-meditating.png
 
 ![Digital art of a robot meditating - DALL·E 2](/dalle-2-robot-meditating.png)
 
+<small>Note: This post is a [replacement post for October 2022](/replacement-posts/).</small>
+
 I recently finished the Koan series by Henry Shukman on Waking Up. Here are some of the more profound koans I've come across.
 
 - There was an experienced practitioner who decided to return to his life as a fisherman: he packed up his things and walked not too far out of the monastery. He stubbed his toe quite badly and it was that moment that awakened him, and he stumbled his way back to the monastery and become a great teacher.
