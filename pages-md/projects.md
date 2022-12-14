@@ -903,6 +903,23 @@ function getCount(str) {
 
 #### Log
 
+- <time>Dec 14, 2022</time> Finished [Circular Sentence](https://leetcode.com/problems/circular-sentence/):
+
+```py
+class Solution:
+    def isCircularSentence(self, sentence: str) -> bool:
+        words = sentence.split(" ")
+
+        if words[0][0] == words[-1][-1]:
+            for i in range(len(words) - 1):
+                if words[i][-1] != words[i+1][0]:
+                    return False
+            else:
+                return True
+        else:
+            return False
+```
+
 - <time>Dec 12, 2022</time> Finished [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/):
 
 ```py
