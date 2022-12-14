@@ -7,8 +7,10 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (7)
+### Active (9)
 
+- <a href="#codewars">Codewars</a>
+- <a href="#computingcamp2022">Winter Computing Camp</a>
 - <a href="#adventofcode">Advent of Code</a>
 - <a href="#introml">Introduction to Machine Learning</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
@@ -64,6 +66,33 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="codewars">Codewars</span>
+
+<small>Dec 13, 2022-present</small>  
+<small>Practicing different programming languages with CodeWars (<a href="#leetcode">LeetCode</a> is for harder, more Python-oriented problems).</small>
+
+<hr />
+
+#### Log
+
+- <time>Dec 13, 2022</time> Finished a couple of different problems (?) and got to 8 kyu.
+
+<hr />
+
+## <span id="computingcamp2022">Winter Computing Camp</span>
+
+<small>Dec 12, 2022-present</small>  
+<small>Attending a winter computing camp. Due to privacy reasons, I'm being incredibly vague.</small>
+
+<hr />
+
+#### Log
+
+- <time>Dec 13, 2022</time> Second day done! Revised the basics of Python.
+
+- <time>Dec 12, 2022</time> First day done! Learnt about computer networking from a really nice professor. Also, got a great tour of the venue.
+<hr />
+
 ## <span id="adventofcode">Advent of Code</span>
 
 <small>Dec 01, 2022-present</small>  
@@ -72,6 +101,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 13, 2022</time> Twelfth problem up.
 
 - <time>Dec 12, 2022</time> Twelfth problem up.
 
