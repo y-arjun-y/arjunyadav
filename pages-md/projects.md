@@ -75,6 +75,25 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 14, 2022</time> Finished [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/) in JavaScript:
+
+```js
+function getCount(str) {
+  let count = 0;
+  for (let i = 0; i < str.length; i++) {
+    if (
+      str[i] == "a" ||
+      str[i] == "e" ||
+      str[i] == "i" ||
+      str[i] == "o" ||
+      str[i] == "u"
+    )
+      count++;
+  }
+  return count;
+}
+```
+
 - <time>Dec 13, 2022</time> Finished a couple of different problems (?) and got to 8 kyu.
 
 <hr />
