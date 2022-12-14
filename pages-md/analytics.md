@@ -7,8 +7,8 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ### Countries where this website has been accessed
 
-Showcases countries that have contributed to the overall web traffic for the website between 18 Apr, 2022-18 May, 2022.
+Showcases countries that have contributed to the overall web traffic for [arjunyadav.net](/) between Apr 18, 2022-May 18, 2022.
 
-Data from [CloudFlare](https://cloudflare.com). Original SVG was created with [gallpeters](https://gallpeters.vercel.app) (a [project](/projects/#gallpeters) I made). Last updated 18 May, 2022.
+Data from [CloudFlare](https://cloudflare.com). Original SVG was created with [gallpeters](https://gallpeters.vercel.app) (a [project](/projects/#gallpeters) I made). Last updated May 18, 2022.
 
 <img src="/map.svg" />
