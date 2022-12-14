@@ -107,6 +107,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Dec 13, 2022</time> Third day done! Learnt about [Thunkable](https://thunkable.com/) and showed some humility when it came time to program for the Internet of Things session.
+
 - <time>Dec 13, 2022</time> Second day done! Revised the basics of Python.
 
 - <time>Dec 12, 2022</time> First day done! Learnt about computer networking from a really nice professor. Also, got a great tour of the venue.
