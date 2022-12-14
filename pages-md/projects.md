@@ -66,7 +66,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-## <span id="codewars">Codewars</span>
+## <span id="codewars">[Codewars](https://www.codewars.com)</span>
 
 <small>Dec 13, 2022-present</small>  
 <small>Practicing different programming languages with CodeWars (<a href="#leetcode">LeetCode</a> is for harder, more Python-oriented problems).</small>
