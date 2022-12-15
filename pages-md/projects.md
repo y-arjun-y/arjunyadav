@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Oct 30, 2022
+publish_date: Dec 15, 2022
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
