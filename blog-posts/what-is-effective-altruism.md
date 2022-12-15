@@ -8,7 +8,7 @@ meta_image: https://images.unsplash.com/photo-1625043094457-c0e5bb443278?ixid=Mn
 ![Birds - British Library](https://images.unsplash.com/photo-1625043094457-c0e5bb443278?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1808&q=80)
 [Credit for the image above](https://unsplash.com/photos/1G9oXcPCAec).
 
-<small>Note: As of Dec 15, 2022, I don't fully endorse this post anymore. For some really good introductions to Effective Altruism, see <a href="https://effectivealtruism.org">this</a> and <a href="https://80000hours.org/articles/effective-altruism">this</a>.</small>
+<small>Note: As of Dec 15, 2022, I don't fully endorse this post anymore. For some really good introductions to Effective Altruism, see <a href="https://effectivealtruism.org">this</a> and <a href="https://80000hours.org/articles/effective-altruism">this</a>. This post was last edited on Mar 31, 2022.</small>
 
 ## Introduction: Becoming a doctor
 
