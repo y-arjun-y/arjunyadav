@@ -75,6 +75,15 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 15, 2022</time> Finished [Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b/) in JavaScript:
+
+```js
+function isTriangle(a, b, c) {
+  if (a + b > c && b + c > a && a + c > b) return true;
+  else return false;
+}
+```
+
 - <time>Dec 14, 2022</time> Finished [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/) in JavaScript:
 
 ```js
@@ -107,7 +116,7 @@ function getCount(str) {
 
 #### Log
 
-- <time>Dec 13, 2022</time> Third day done! Learnt about [Thunkable](https://thunkable.com/) and showed some humility when it came time to program for the Internet of Things session.
+- <time>Dec 14, 2022</time> Third day done! Learnt about [Thunkable](https://thunkable.com/) and showed some humility when it came time to program for the Internet of Things session.
 
 - <time>Dec 13, 2022</time> Second day done! Revised the basics of Python.
 
@@ -123,7 +132,9 @@ function getCount(str) {
 
 #### Log
 
-- <time>Dec 13, 2022</time> Twelfth problem up.
+- <time>Dec 14, 2022</time> Fourteenth problem up.
+
+- <time>Dec 13, 2022</time> Thirteenth problem up.
 
 - <time>Dec 12, 2022</time> Twelfth problem up.
 
@@ -904,6 +915,20 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Dec 15, 2022</time> Finished [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/):
+
+```py
+class Solution:
+    def numberOfCuts(self, n: int) -> int:
+        if n == 1:
+            return 0
+        else:
+            if n % 2 == 0:
+                return n // 2
+            else:
+                return n
+```
 
 - <time>Dec 14, 2022</time> Finished [Circular Sentence](https://leetcode.com/problems/circular-sentence/):
 
