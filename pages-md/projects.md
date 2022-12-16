@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Dec 15, 2022
+publish_date: Dec 16, 2022
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -142,6 +142,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Dec 16, 2022</time> Fifteenth problem up. Really like this one.
 
 - <time>Dec 15, 2022</time> Fifteenth problem up. Really like this one.
 
@@ -910,6 +912,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Dec 16, 2022</time> Finished my seventh proof-reading (possibly my last for this year - so grateful to have been a part of this). The link to the post will be **here** once done.
 
 - <time>Oct 12, 2022</time> Finished my sixth proof-reading (although I unfortunately missed the deadline by a bit). The link to the post will be [here](https://www.cold-takes.com/high-level-hopes-for-ai-alignment/) once done.
 
