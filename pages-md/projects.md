@@ -6298,6 +6298,8 @@ class Solution:
 
 #### Log
 
+- <time>Dec 16, 2022</time> Been a while. Continued with the Budget App Project and I plan to just finish my Python certification before the end of the year (and early next year, try to finish databases).
+
 - <time>Nov 26, 2022</time> "Continued" with the Budget App Project.
 
 - <time>Nov 18, 2022</time> Continued with the Budget App Project.
