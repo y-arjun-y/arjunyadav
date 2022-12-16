@@ -183,6 +183,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Dec 16, 2022</time> Continued with Week 6.
+
 - <time>Nov 18, 2022</time> Continued with Week 6.
 
 - <time>Nov 09, 2022</time> "Continued" with Week 6.
@@ -336,6 +338,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Dec 16, 2022</time> Continued with Week 5, nearly done after passing a really hard assignment.
 
 - <time>Nov 18, 2022</time> Continued with Week 5.
 
