@@ -898,14 +898,14 @@ function getCount(str) {
 
 ## <span id="coldtakesbetareading">[Cold Takes](https://www.cold-takes.com/) Beta Reading</span>
 
-<small>20 Jan, 2022-present</small>  
+<small>Jan 20, 2022-present</small>  
 <small>I got accepted to beta read Holden Karnofsky's articles for his blog, Cold Takes. Trying to be as useful as I can be! Note that I only update this log when I fully finish proof-reading and when the post has been published. Currently an occasional project.</small>
 
 <hr />
 
 #### Log
 
-- <time>Oct 12, 2022</time> Finished my sixth proof-reading (although I unfortunately missed the deadline by a bit). The link to the post will be **here** once done.
+- <time>Oct 12, 2022</time> Finished my sixth proof-reading (although I unfortunately missed the deadline by a bit). The link to the post will be [here](https://www.cold-takes.com/high-level-hopes-for-ai-alignment/) once done.
 
 - <time>Sep 08, 2022</time> Finished my fifth proof-reading. The link to the post will be [here](https://www.cold-takes.com/why-would-ai-aim-to-defeat-humanity/) once done.
 
