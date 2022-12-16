@@ -7,10 +7,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (9)
+### Active (8)
 
 - <a href="#codewars">Codewars</a>
-- <a href="#computingcamp2022">Winter Computing Camp</a>
 - <a href="#adventofcode">Advent of Code</a>
 - <a href="#introml">Introduction to Machine Learning</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
@@ -29,8 +28,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
 
-### Done (19)
+### Done (20)
 
+- <a href="#computingcamp2022">Winter Computing Camp</a>
 - <a href="#statehackathon2022">"State" Hackathon</time>
 - <a href="#cubing">Cubing</a>
 - <a href="#localhackathon2022">Local Hackathon</time>
@@ -75,6 +75,33 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 16, 2022</time> Finished [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/java) in Java:
+
+```java
+public class Accumul {
+
+    public static String accum(String s) {
+      String res = ""; // result string
+
+      for (int i = 0; i < s.length(); i++) {
+        char chr = s.charAt(i); // getting character at each index
+        res += Character.toUpperCase(chr); // converting character to uppercase
+
+        for (int j = 0; j < i; j++) {
+          char chr_repeat = s.charAt(i); // repeatedly getting the same character based on index
+          res += Character.toLowerCase(chr_repeat); // converting character to lowercase
+        }
+
+        if (i != s.length() - 1) { // as long as not last character, add hyphen
+          res += "-";
+        }
+      }
+
+      return res;
+    }
+}
+```
+
 - <time>Dec 15, 2022</time> Finished [Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b/) in JavaScript:
 
 ```js
@@ -107,22 +134,6 @@ function getCount(str) {
 
 <hr />
 
-## <span id="computingcamp2022">Winter Computing Camp</span>
-
-<small>Dec 12, 2022-present</small>  
-<small>Attending a winter computing camp. Due to privacy reasons, I'm being incredibly vague.</small>
-
-<hr />
-
-#### Log
-
-- <time>Dec 14, 2022</time> Third day done! Learnt about [Thunkable](https://thunkable.com/) and showed some humility when it came time to program for the Internet of Things session.
-
-- <time>Dec 13, 2022</time> Second day done! Revised the basics of Python.
-
-- <time>Dec 12, 2022</time> First day done! Learnt about computer networking from a really nice professor. Also, got a great tour of the venue.
-<hr />
-
 ## <span id="adventofcode">Advent of Code</span>
 
 <small>Dec 01, 2022-present</small>  
@@ -131,6 +142,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Dec 15, 2022</time> Fifteenth problem up. Really like this one.
 
 - <time>Dec 14, 2022</time> Fourteenth problem up.
 
@@ -915,6 +928,34 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Dec 16, 2022</time> Finished [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/):
+
+```py
+class Solution:
+    def digitSum(self, s: str, k: int) -> str:
+        while len(s) > k:
+            if len(s) % k != 0:
+                temp_s = s[:-(len(s) % k)]
+                print(temp_s)
+                splits = []
+
+                for i in range(0, len(temp_s)-1, k):
+                    splits.append(temp_s[i:i+k])
+
+                splits.append(s[-(len(s) % k):])
+
+                s = "".join([str(sum([int(j) for j in i])) for i in splits])
+            else:
+                splits = []
+
+                for i in range(0, len(s)-1, k):
+                    splits.append(s[i:i+k])
+
+                s = "".join([str(sum([int(j) for j in i])) for i in splits])
+
+        return s
+```
 
 - <time>Dec 15, 2022</time> Finished [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/):
 
@@ -8570,6 +8611,24 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 ## Done
 
+<hr />
+
+## <span id="computingcamp2022">Winter Computing Camp</span>
+
+<small>Dec 12, 2022-Dec 15, 2022</small>  
+<small>Attending a winter computing camp. Due to privacy reasons, I'm being incredibly vague.</small>
+
+<hr />
+
+#### Log
+
+- <time>Dec 15, 2022</time> Fourth and final day done! Learnt about machine learning algorithms (such as K-Nearest Neighbors and Decision Tree) and some game development. This was an incredible experience.
+
+- <time>Dec 14, 2022</time> Third day done! Learnt about [Thunkable](https://thunkable.com/) and showed some humility when it came time to program for the Internet of Things session.
+
+- <time>Dec 13, 2022</time> Second day done! Revised the basics of Python.
+
+- <time>Dec 12, 2022</time> First day done! Learnt about computer networking from a really nice professor. Also, got a great tour of the venue.
 <hr />
 
 ## <span id="statehackathon2022">"State" Hackathon</span>
