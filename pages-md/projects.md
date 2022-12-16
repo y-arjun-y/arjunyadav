@@ -524,6 +524,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Dec 16, 2022</time> I come back after about a month and everything has changed lol. Continued (?) with Training a Single Neuron.
+
 - <time>Nov 13, 2022</time> "Continued" with Sigmoid Neuron.
 
 - <time>Nov 06, 2022</time> Continued with Sigmoid Neuron.
