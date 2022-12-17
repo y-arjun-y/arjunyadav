@@ -208,6 +208,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Dec 17, 2022</time> "Continued" with Week 6.
+
 - <time>Dec 16, 2022</time> Continued with Week 6.
 
 - <time>Nov 18, 2022</time> Continued with Week 6.
@@ -363,6 +365,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Dec 17, 2022</time> Finished with Week 5.
 
 - <time>Dec 16, 2022</time> Continued with Week 5, nearly done after passing a really hard assignment.
 
@@ -549,7 +553,9 @@ function getCount(str) {
 
 #### Log
 
-- <time>Dec 16, 2022</time> I come back after about a month and everything has changed lol. Continued (?) with Training a Single Neuron.
+- <time>Dec 17, 2022</time> Continued with Training a Single Neuron.
+
+- <time>Dec 16, 2022</time> I come back after about a month and everything has changed lol. Continued with Training a Single Neuron (?).
 
 - <time>Nov 13, 2022</time> "Continued" with Sigmoid Neuron.
 
