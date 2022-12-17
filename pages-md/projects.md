@@ -75,6 +75,29 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 17, 2022</time> Finished [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/) in Java:
+
+```java
+public class Solution {
+
+  public int solution(int number) {
+    if (number < 0) {
+      return -1; // returning -1 if the number is negative
+    } else {
+      int res = 0;
+
+      for (int i = 1; i < number; i++) {
+        if (i % 3 == 0 || i % 5 == 0) { // only counting the number once if multiple of 15
+          res += i;
+        }
+      }
+
+      return res;
+    }
+  }
+}
+```
+
 - <time>Dec 16, 2022</time> Finished [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/java) in Java:
 
 ```java
@@ -938,6 +961,24 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Dec 17, 2022</time> Finished [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/):
+
+```py
+class Solution:
+    def deleteGreatestValue(self, grid: List[List[int]]) -> int:
+        pairs = []
+
+        while len([j for i in grid for j in i]) > 0:
+            for i in range(len(grid)):
+                pairs.append(max(grid[i]))
+                for j in range(len(grid[i])):
+                    if grid[i][j] == max(grid[i]):
+                        del grid[i][j]
+                        break
+
+        return sum([max(pairs[i:i+len(grid)]) for i in range(0, len(pairs), len(grid))])
+```
 
 - <time>Dec 16, 2022</time> Finished [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/):
 
