@@ -75,6 +75,39 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 18, 2022</time> Finished [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) in Java:
+
+```java
+import java.util.ArrayList;
+
+public class SpinWords {
+
+  public String spinWords(String sentence) {
+    String[] words = sentence.split(" "); // credit - https://www.geeksforgeeks.org/split-string-java-examples/
+    ArrayList<String> tempRes = new ArrayList<String>(); // creating a temp ArrayList for words
+
+   for (int i = 0; i < words.length; i++) {
+      if (words[i].length() >= 5) {
+        String reverseString = "";
+
+        for (int j = words[i].length() - 1; j >= 0; j--) { // inner for-loop for reversing the string
+          reverseString += words[i].charAt(j);
+        }
+
+        tempRes.add(reverseString);
+
+      } else {
+        tempRes.add(words[i]);
+      }
+    }
+
+    String res = String.join(" ", tempRes); // credit - https://stackoverflow.com/questions/599161/best-way-to-convert-an-arraylist-to-a-string
+
+    return res;
+  }
+}
+```
+
 - <time>Dec 17, 2022</time> Finished [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/) in Java:
 
 ```java
@@ -207,6 +240,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Dec 18, 2022</time> Continued with Week 6.
 
 - <time>Dec 17, 2022</time> "Continued" with Week 6.
 
@@ -365,6 +400,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Dec 18, 2022</time> Nearly finished with [Week 6](https://www.coursera.org/learn/multivariate-calculus-machine-learning/home/week/6).
 
 - <time>Dec 17, 2022</time> Finished with Week 5.
 
@@ -967,6 +1004,21 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Dec 18, 2022</time> Finished [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/):
+
+```py
+class Solution:
+    def similarPairs(self, words: List[str]) -> int:
+        count = 0
+
+        for i in range(len(words)):
+            for j in range(len(words)):
+                if j > i and set(words[i]) == set(words[j]):
+                    count += 1
+
+        return count
+```
 
 - <time>Dec 17, 2022</time> Finished [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/):
 
@@ -6354,6 +6406,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Dec 18, 2022</time> Finished with the [Polygon Area Calculator Project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator) project ([here](https://replit.com/@yarjuny/Polygon-Area-Calculator-Project#main.py) it is).
 
 - <time>Dec 16, 2022</time> Been a while. Continued with the Budget App Project and I plan to just finish my Python certification before the end of the year (and early next year, try to finish databases).
 
