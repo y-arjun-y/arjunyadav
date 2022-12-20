@@ -76,6 +76,17 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 20, 2022</time> Finished [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) in Java:
+
+```java
+public class Kata {
+  public static String createPhoneNumber(int[] numbers) {
+   String phoneNumber = "(" + String.valueOf(numbers[0]) + String.valueOf(numbers[1]) + String.valueOf(numbers[2]) + ") " + String.valueOf(numbers[3]) + String.valueOf(numbers[4]) + String.valueOf(numbers[5]) + "-" + String.valueOf(numbers[6]) + String.valueOf(numbers[7]) + String.valueOf(numbers[8]) + String.valueOf(numbers[9]);
+   return phoneNumber;
+  }
+}
+```
+
 - <time>Dec 19, 2022</time> Finished [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) in Java:
 
 ```java
