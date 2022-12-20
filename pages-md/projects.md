@@ -8828,6 +8828,21 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 <hr />
 
+## <span id="gfsmun2022">GFSMUN 2022</span>
+
+<small>Nov 04, 2022-Nov 06, 2022</small>  
+<small>Attended GFSMUN 2022 as part of my school team. Due to privacy reasons, I was being incredibly vague.</small>
+
+#### Log
+
+- <time>Nov 06, 2022</time> Third (and best) day completed! Our bloc's resolution paper got passed, I became the President of Portugal and Cristiano Ronaldo at the same time during crisis (?, also SIUUU) and won honorable mention for my committee.
+
+- <time>Nov 05, 2022</time> Second day completed! Resolution paper, resolution paper.
+
+- <time>Nov 04, 2022</time> First day completed! I gave some pretty good POIs as the Delegate of Portugal, I think?
+
+<hr />
+
 ## <span id="cubing">[Cubing](https://www.worldcubeassociation.org/persons/2019YADA06)</span>
 
 <small>Oct 28, 2021-Oct 21, 2022</small>  
