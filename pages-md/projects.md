@@ -76,6 +76,44 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 19, 2022</time> Finished [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) in Java:
+
+```java
+import java.util.ArrayList;
+
+public class DescendingOrder {
+  public static int sortDesc(final int num) {
+    int temp = num;
+    ArrayList<Integer> digits = new ArrayList<Integer>();
+
+    while (temp != 0) { // while loop for appending digits
+      int digit = temp % 10;
+      digits.add(digit);
+      temp /= 10;
+    }
+
+    for (int i = 0; i < digits.size() - 1; i++) { // for loops for sorting - bubble sort
+      for (int j = 0; j < digits.size() - 1 - i; j++) {
+        if (digits.get(i + j + 1) > digits.get(i)) {
+          int temp_digit = digits.get(i);
+          digits.set(i, digits.get(i + j + 1));
+          digits.set(i + j + 1, temp_digit);
+        }
+      }
+    }
+
+    int res = 0;
+
+    for (int i = 0; i < digits.size(); i++) { // converting list of digits to int
+      int digit = digits.get(i);
+      res = (res * 10) + digit;
+    }
+
+    return res;
+  }
+}
+```
+
 - <time>Dec 18, 2022</time> Finished [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) in Java:
 
 ```java
