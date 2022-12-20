@@ -297,6 +297,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Dec 20, 2022</time> Finished with the searching algorithms in Data Structures (as the whole course is retiring today).
+
 - <time>Dec 19, 2022</time> Continued with Training a Single Neuron.
 
 - <time>Dec 18, 2022</time> Continued with Training a Single Neuron.
