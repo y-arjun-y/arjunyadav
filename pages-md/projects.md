@@ -6174,6 +6174,8 @@ class Solution:
 
 #### Log
 
+- <time>Dec 20, 2022</time> Got started with [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/).
+
 - <time>Dec 19, 2022</time> Finished with the [Probability Calculator Project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator) project ([here](https://replit.com/@yarjuny/Probability-Calculator-Project#main.py) it is) and earned my certification for Scientific Computing with Python (yes, I know the budget app project isn't fully finished, but I wanted to move on). Only three more certifications left!
 
 - <time>Dec 18, 2022</time> Finished with the [Polygon Area Calculator Project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator) project ([here](https://replit.com/@yarjuny/Polygon-Area-Calculator-Project#main.py) it is).
