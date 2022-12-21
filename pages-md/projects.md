@@ -312,6 +312,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Dec 21, 2022</time> Finished with Training a Single Neuron.
+
 - <time>Dec 20, 2022</time> Finished with the searching algorithms in Data Structures (as the whole course is retiring today).
 
 - <time>Dec 19, 2022</time> Continued with Training a Single Neuron.
@@ -6206,6 +6208,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Dec 21, 2022</time> Continued with Data Analysis with Python.
 
 - <time>Dec 20, 2022</time> Got started with [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/).
 
