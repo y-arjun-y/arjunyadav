@@ -76,6 +76,19 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 21, 2022</time> Finished [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) in Python (accidentally left the print statement in my final solution - oh well):
+
+```py
+def solution(s):
+    print(s)
+    if len(s) % 2 != 0:
+        temp_res = [s[i:i+2] for i in range(0, len(s), 2)]
+        temp_res[-1] = temp_res[-1] + "_"
+        return temp_res
+    else:
+        return [s[i:i+2] for i in range(0, len(s), 2)]
+```
+
 - <time>Dec 20, 2022</time> Finished [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) in Java:
 
 ```java
@@ -719,6 +732,22 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Dec 21, 2022</time> Finished [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/):
+
+```py
+class Solution:
+    def numSpecial(self, mat: List[List[int]]) -> int:
+        count = 0
+
+        for j in range(len(mat[0])):
+            for k in range(len(mat)):
+                if mat[k][j] == 1:
+                    if set([mat[i][j] for i in range(len(mat)) if i != k]) == {0} and set([mat[k][i] for i in range(len(mat[0])) if i != j]) == {0}:
+                        count += 1
+
+        return count
+```
 
 - <time>Dec 20, 2022</time> Finished [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors):
 
