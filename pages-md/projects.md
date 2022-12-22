@@ -295,6 +295,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Dec 22, 2022</time> Twenty-second problem up.
+
 - <time>Dec 21, 2022</time> Twenty-first problem up.
 
 - <time>Dec 20, 2022</time> Twentieth problem up.
