@@ -76,6 +76,39 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 22, 2022</time> Finished [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/) in Java:
+
+```java
+import java.util.ArrayList;
+
+public class FindOdd {
+	public static int findIt(int[] a) {
+    ArrayList<Integer> count_al = new ArrayList<Integer>();
+
+  	for (int i = 0; i < a.length; i++) {
+      int number = a[i];
+      int count = 0;
+
+      for (int j = 0; j < a.length; j++) {
+        if (a[j] == number) {
+          count++;
+        }
+      }
+
+      count_al.add(count);
+    }
+
+    for (int i = 0; i < count_al.size(); i++) {
+      if (count_al.get(i) % 2 != 0) {
+        return a[i];
+      }
+    }
+
+    return 0;
+  }
+}
+```
+
 - <time>Dec 21, 2022</time> Finished [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) in Python (accidentally left the print statement in my final solution - oh well):
 
 ```py
