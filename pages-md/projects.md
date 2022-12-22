@@ -770,6 +770,20 @@ function getCount(str) {
 
 #### Log
 
+- <time>Dec 22, 2022</time> Finished [Rings and Rods](https://leetcode.com/problems/rings-and-rods/):
+
+```py
+class Solution:
+    def countPoints(self, rings: str) -> int:
+        count = 0
+
+        for i in range(10):
+            if sorted(set([rings[j] for j in range(len(rings) - 1) if rings[j+1] == str(i)])) == ["B", "G", "R"]:
+                count += 1
+
+        return count
+```
+
 - <time>Dec 21, 2022</time> Finished [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/):
 
 ```py
