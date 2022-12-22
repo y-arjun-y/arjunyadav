@@ -347,6 +347,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Dec 21, 2022</time> Got started with [Hidden Layers](https://brilliant.org/courses/intro-neural-networks/layers-2/hidden-layers/).
+
 - <time>Dec 21, 2022</time> Finished with Training a Single Neuron.
 
 - <time>Dec 20, 2022</time> Finished with the searching algorithms in Data Structures (as the whole course is retiring today).
