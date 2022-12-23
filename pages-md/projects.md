@@ -76,6 +76,22 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 23, 2022</time> Finished [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/) in Python:
+
+```py
+def solution(string, ending):
+    if ending == '':
+        return True
+    else:
+        if ending in string:
+            if string[len(string) - len(ending):] == ending:
+                return True
+            else:
+                return False
+        else:
+            return False
+```
+
 - <time>Dec 22, 2022</time> Finished [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/) in Java:
 
 ```java
