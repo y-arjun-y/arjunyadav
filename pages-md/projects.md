@@ -365,7 +365,9 @@ function getCount(str) {
 
 #### Log
 
-- <time>Dec 21, 2022</time> Got started with [Hidden Layers](https://brilliant.org/courses/intro-neural-networks/layers-2/hidden-layers/).
+- <time>Dec 23, 2022</time> Continued with Hidden Layers.
+
+- <time>Dec 22, 2022</time> Got started with [Hidden Layers](https://brilliant.org/courses/intro-neural-networks/layers-2/hidden-layers/).
 
 - <time>Dec 21, 2022</time> Finished with Training a Single Neuron.
 
@@ -6294,6 +6296,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Dec 23, 2022</time> Continued with Data Analysis with Python.
 
 - <time>Dec 22, 2022</time> Continued with Data Analysis with Python.
 
