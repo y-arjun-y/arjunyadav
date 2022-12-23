@@ -774,6 +774,23 @@ function getCount(str) {
 
 #### Log
 
+- <time>Dec 23, 2022</time> Sigh. Had to see the solution for [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) after a long struggle:
+
+```py
+class Solution:
+    def minTimeToType(self, word: str) -> int:
+        # Credit - https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/solutions/1417570/short-and-straightforward-python-solution/
+        time = 0
+        pointer = "a"
+
+        for i in word:
+            time_to_move = min(abs(ord(pointer) - ord(i)), abs(abs(ord(pointer) - ord(i)) - 26))
+            time += time_to_move + 1
+            pointer = i
+
+        return time
+```
+
 - <time>Dec 22, 2022</time> Finished [Rings and Rods](https://leetcode.com/problems/rings-and-rods/):
 
 ```py
