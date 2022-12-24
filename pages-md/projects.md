@@ -794,6 +794,24 @@ function getCount(str) {
 
 #### Log
 
+- <time>Dec 24, 2022</time> Finished [Min Max Game](https://leetcode.com/problems/min-max-game/):
+
+```py
+class Solution:
+    def minMaxGame(self, nums: List[int]) -> int:
+        while len(nums) > 1:
+            newNums = []
+            
+            for i in range(0, (len(nums) // 2)):
+                if i % 2 == 0:
+                    newNums.append(min(nums[2 * i], nums[(2 * i) + 1]))
+                else:
+                    newNums.append(max(nums[2 * i], nums[2 * i + 1]))
+
+            nums = newNums
+        return nums[0]
+```
+
 - <time>Dec 23, 2022</time> Sigh. Had to see the solution for [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) after a long struggle:
 
 ```py
