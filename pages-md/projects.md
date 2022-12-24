@@ -76,6 +76,13 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 24, 2022</time> Finished [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd) in Python:
+
+```py
+def filter_list(l):
+    return [i for i in l if str(i).isdigit() and isinstance(i, int)]
+```
+
 - <time>Dec 23, 2022</time> Finished [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/) in Python:
 
 ```py
@@ -801,7 +808,7 @@ class Solution:
     def minMaxGame(self, nums: List[int]) -> int:
         while len(nums) > 1:
             newNums = []
-            
+
             for i in range(0, (len(nums) // 2)):
                 if i % 2 == 0:
                     newNums.append(min(nums[2 * i], nums[(2 * i) + 1]))
