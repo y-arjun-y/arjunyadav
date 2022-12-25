@@ -318,51 +318,55 @@ function getCount(str) {
 
 #### Log
 
-- <time>Dec 23, 2022</time> Twenty-third problem up.
+- <time>Dec 25, 2022</time> Twenty-fifth and final problem is up. Really like this one as it's Christmas themed (Merry Christmas by the way!), will send out the results soon.
 
-- <time>Dec 22, 2022</time> Twenty-second problem up.
+- <time>Dec 24, 2022</time> Twenty-fourth problem is up.
 
-- <time>Dec 21, 2022</time> Twenty-first problem up.
+- <time>Dec 23, 2022</time> Twenty-third problem is up.
 
-- <time>Dec 20, 2022</time> Twentieth problem up.
+- <time>Dec 22, 2022</time> Twenty-second problem is up.
 
-- <time>Dec 19, 2022</time> Nineteenth problem up.
+- <time>Dec 21, 2022</time> Twenty-first problem is up.
 
-- <time>Dec 18, 2022</time> Eighteenth problem up.
+- <time>Dec 20, 2022</time> Twentieth problem is up.
 
-- <time>Dec 17, 2022</time> Seventeenth problem up.
+- <time>Dec 19, 2022</time> Nineteenth problem is up.
 
-- <time>Dec 16, 2022</time> Sixteenth problem up.
+- <time>Dec 18, 2022</time> Eighteenth problem is up.
 
-- <time>Dec 15, 2022</time> Fifteenth problem up. Really like this one.
+- <time>Dec 17, 2022</time> Seventeenth problem is up.
 
-- <time>Dec 14, 2022</time> Fourteenth problem up.
+- <time>Dec 16, 2022</time> Sixteenth problem is up.
 
-- <time>Dec 13, 2022</time> Thirteenth problem up.
+- <time>Dec 15, 2022</time> Fifteenth problem is up. Really like this one.
 
-- <time>Dec 12, 2022</time> Twelfth problem up.
+- <time>Dec 14, 2022</time> Fourteenth problem is up.
 
-- <time>Dec 11, 2022</time> Eleventh problem up.
+- <time>Dec 13, 2022</time> Thirteenth problem is up.
 
-- <time>Dec 10, 2022</time> Tenth problem up. Really like this one.
+- <time>Dec 12, 2022</time> Twelfth problem is up.
 
-- <time>Dec 09, 2022</time> Ninth problem up.
+- <time>Dec 11, 2022</time> Eleventh problem is up.
 
-- <time>Dec 08, 2022</time> Eighth problem up.
+- <time>Dec 10, 2022</time> Tenth problem is up. Really like this one.
 
-- <time>Dec 07, 2022</time> Seventh problem up.
+- <time>Dec 09, 2022</time> Ninth problem is up.
 
-- <time>Dec 06, 2022</time> Sixth problem up.
+- <time>Dec 08, 2022</time> Eighth problem is up.
 
-- <time>Dec 05, 2022</time> Fifth problem up.
+- <time>Dec 07, 2022</time> Seventh problem is up.
 
-- <time>Dec 04, 2022</time> Fourth problem up.
+- <time>Dec 06, 2022</time> Sixth problem is up.
 
-- <time>Dec 03, 2022</time> Third problem up.
+- <time>Dec 05, 2022</time> Fifth problem is up.
 
-- <time>Dec 02, 2022</time> Second problem up.
+- <time>Dec 04, 2022</time> Fourth problem is up.
 
-- <time>Dec 01, 2022</time> First problem up! Hope to get some responses soon.
+- <time>Dec 03, 2022</time> Third problem is up.
+
+- <time>Dec 02, 2022</time> Second problem is up.
+
+- <time>Dec 01, 2022</time> First problem is up! Hope to get some responses soon.
 <hr />
 
 ## <span id="brilliant">[Brilliant](https://brilliant.org)</span>
