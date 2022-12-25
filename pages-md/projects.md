@@ -807,6 +807,22 @@ function getCount(str) {
 
 #### Log
 
+- <time>Dec 25, 2022</time> Finished [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/):
+
+```py
+class Solution:
+    def removeAnagrams(self, words: List[str]) -> List[str]:
+        while True in [sorted(words[i]) == sorted(words[i -1]) for i in range(1, len(words))]:
+            for i in range(1, len(words)):
+                if sorted(words[i]) == sorted(words[i - 1]):
+                    del words[i]
+                    break
+            else:
+                return words
+
+        return words
+```
+
 - <time>Dec 24, 2022</time> Finished [Min Max Game](https://leetcode.com/problems/min-max-game/):
 
 ```py
