@@ -76,6 +76,28 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 25, 2022</time> Finished [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e/) in Python:
+
+```py
+from preloaded import MORSE_CODE
+
+def decode_morse(morse_code):
+    # Remember - you can use the preloaded MORSE_CODE dictionary:
+    # For example:
+    # MORSE_CODE['.-'] = 'A'
+    # MORSE_CODE['--...'] = '7'
+    # MORSE_CODE['...-..-'] = '$'
+    temp_morse_code = morse_code.strip().split('   ')
+    decoded_message = []
+
+    for i in temp_morse_code:
+        for j in i.split(' '):
+            decoded_message.append(MORSE_CODE[j])
+        decoded_message.append(" ")
+
+    return "".join(decoded_message).rstrip()
+```
+
 - <time>Dec 24, 2022</time> Finished [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd) in Python:
 
 ```py
@@ -800,7 +822,7 @@ function getCount(str) {
 
 ## <span id="leetcode">[LeetCode](https://leetcode.com/y-arjun-y/)</span>
 
-<small>Nov 13, 2021-present</small>  
+<small>Nov 13, 2021-present</small  >  
 <small>Trying to do a problem every day. All of the general problems are done in [Python](https://python.org).</small>
 
 <hr />
