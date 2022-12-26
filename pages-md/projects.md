@@ -77,6 +77,13 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 26, 2022</time> Finished [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) in Python:
+
+```py
+def high_and_low(numbers):
+    return f"{max([int(i) for i in numbers.split(' ')])} {min([int(i) for i in numbers.split(' ')])}"
+```
+
 - <time>Dec 25, 2022</time> Finished [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e/) in Python:
 
 ```py
