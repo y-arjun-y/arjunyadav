@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Dec 25, 2022
+publish_date: Dec 26, 2022
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -27,8 +27,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
 
-### Done (22)
+### Done (23)
 
+- <a href="#y1d2">y1d2</a>
 - <a href="#introml">Introduction to Machine Learning</a>
 - <a href="#computingcamp2022">Winter Computing Camp</a>
 - <a href="#statehackathon2022">"State" Hackathon</time>
@@ -8889,6 +8890,19 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 <hr />
 
 ## Done
+
+<hr />
+
+## <span id="y1d2">[y1d2](https://y1d2.com)</span>
+
+<small>Dec 21, 2022-Dec 22, 2022</small>  
+<small>Created my brother's current website in the span of ~2 days.</small>
+
+#### Log
+
+- <time>Dec 22, 2022</tine> Finished the second (and final) version of my brother's website.
+
+- <time>Dec 21, 2022</time> Finished the first version of [my brother's website](https://y1d2.com).
 
 <hr />
 
