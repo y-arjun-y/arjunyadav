@@ -830,6 +830,18 @@ function getCount(str) {
 
 #### Log
 
+- <time>Dec 26, 2022</time> Finished [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/):
+
+```py
+class Solution:
+    def threeConsecutiveOdds(self, arr: List[int]) -> bool:
+        for i in range(len(arr) - 2):
+            if arr[i] % 2 != 0 and arr[i+1] % 2 != 0 and arr[i+2] % 2 != 0:
+                return True
+        else:
+            return False
+```
+
 - <time>Dec 25, 2022</time> Finished [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/):
 
 ```py
