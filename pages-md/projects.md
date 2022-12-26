@@ -408,6 +408,10 @@ function getCount(str) {
 
 #### Log
 
+- <time>Dec 26, 2022</time> Continued with Hidden Layers.
+
+- <time>Dec 25, 2022</time> Continued with Hidden Layers.
+
 - <time>Dec 24, 2022</time> Continued with Hidden Layers.
 
 - <time>Dec 23, 2022</time> Continued with Hidden Layers.
@@ -6387,6 +6391,10 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Dec 26, 2022</time> Continued with Data Analysis with Python.
+
+- <time>Dec 25, 2022</time> Continued with Data Analysis with Python.
 
 - <time>Dec 24, 2022</time> Continued with Data Analysis with Python.
 
