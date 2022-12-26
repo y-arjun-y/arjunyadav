@@ -823,7 +823,7 @@ function getCount(str) {
 
 ## <span id="leetcode">[LeetCode](https://leetcode.com/y-arjun-y/)</span>
 
-<small>Nov 13, 2021-present</small  >  
+<small>Nov 13, 2021-present</small>  
 <small>Trying to do a problem every day. All of the general problems are done in [Python](https://python.org).</small>
 
 <hr />
