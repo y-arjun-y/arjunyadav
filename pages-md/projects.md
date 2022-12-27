@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Dec 26, 2022
+publish_date: Dec 27, 2022
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -840,6 +840,24 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Dec 27, 2022</time> Finished [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/):
+
+```py
+class Solution:
+    def countWords(self, words1: List[str], words2: List[str]) -> int:
+        res = []
+
+        for i in words1:
+            if words1.count(i) == 1 and words2.count(i) == 1:
+                res.append(i)
+
+        for i in words2:
+            if words1.count(i) == 1 and words2.count(i) == 1:
+                res.append(i)
+
+        return len(set(res))
+```
 
 - <time>Dec 26, 2022</time> Finished [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/):
 
