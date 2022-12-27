@@ -415,7 +415,9 @@ function getCount(str) {
 
 #### Log
 
-- <time>Dec 26, 2022</time> Continued with Hidden Layers.
+- <time>Dec 27, 2022</time> Got started with [Curve Fitting](https://brilliant.org/courses/intro-neural-networks/layers-2/curve-fitting/).
+
+- <time>Dec 26, 2022</time> Finished with Hidden Layers.
 
 - <time>Dec 25, 2022</time> Continued with Hidden Layers.
 
