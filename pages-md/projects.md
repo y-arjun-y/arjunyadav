@@ -77,6 +77,13 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 27, 2022</time> Finished [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014/) in Python:
+
+```py
+def sum_two_smallest_numbers(numbers):
+    return min(numbers) + min([i for i in numbers if i != min(numbers)])
+```
+
 - <time>Dec 26, 2022</time> Finished [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) in Python:
 
 ```py
