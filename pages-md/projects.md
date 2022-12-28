@@ -77,6 +77,13 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 28, 2022</time> Finished [Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f/) in Python:
+
+```py
+def friend(x):
+	return [i for i in x if len(i) == 4]
+```
+
 - <time>Dec 27, 2022</time> Finished [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014/) in Python:
 
 ```py
@@ -849,6 +856,14 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Dec 28, 2022</time> Finished [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/) (not sure if this is my solution or another's, since this code was written before):
+
+```py
+class Solution:
+    def countVowels(self, word: str) -> int:
+         return sum([(i+1) * (len(word) - i) for i in range(len(word)) if word[i] in ['a', 'e', 'i', 'o', 'u']])
+```
 
 - <time>Dec 27, 2022</time> Finished [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/):
 
