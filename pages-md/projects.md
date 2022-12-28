@@ -6434,6 +6434,8 @@ class Solution:
 
 #### Log
 
+- <time>Dec 28, 2022</time> Got started with the [Demographic Data Analyzer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer) project.
+
 - <time>Dec 27, 2022</time> Finished with the [Mean-Variance-Standard Deviation Calculator](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator) project ([here](https://replit.com/@yarjuny/Mean-Variance-Standard-Deviation-Calculator-Project) it is).
 
 - <time>Dec 26, 2022</time> Continued with Data Analysis with Python.
