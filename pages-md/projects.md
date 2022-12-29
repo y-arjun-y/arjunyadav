@@ -77,6 +77,21 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 29, 2022</time> Finished [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148/solutions) in Python:
+
+```py
+def solution(s):
+    res = ""
+
+    for i in s:
+        if ord(i) >= 65 and ord(i) <= 90:
+            res += f" {i}"
+        else:
+            res += i
+
+    return res
+```
+
 - <time>Dec 28, 2022</time> Finished [Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f/) in Python:
 
 ```py
@@ -858,6 +873,30 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Dec 29, 2022</time> Finished [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/):
+
+```py
+class Solution:
+    def countCharacters(self, words: List[str], chars: str) -> int:
+        def can_be_formed(string, chars):
+            if False in [i in chars for i in string]:
+                return False
+            else:
+                chars_list = [i for i in chars if i in string]
+                chars_dict = {i: chars_list.count(i) for i in sorted(chars)}
+                string_dict = {i: string.count(i) for i in sorted(chars)}
+
+                print(string, chars, string_dict, chars_dict)
+
+                for k, v in string_dict.items():
+                    if chars_dict[k] < v:
+                        return False
+                else:
+                    return True
+
+        return sum([len(i) for i in words if can_be_formed(i, chars)])
+```
 
 - <time>Dec 28, 2022</time> Finished [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/) (not sure if this is my solution or another's, since this code was written before):
 
