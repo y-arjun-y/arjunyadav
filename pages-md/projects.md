@@ -1,14 +1,15 @@
 ---
 title: Projects
-publish_date: Dec 28, 2022
+publish_date: Dec 29, 2022
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
 ## Table of Contents
 
-### Active (6)
+### Active (7)
 
+- <a href="#solaris-2">SOLARIS (Second Edition)</a>
 - <a href="#codewars">Codewars</a>
 - <a href="#adventofcode">Advent of Code</a>
 - <a href="#brilliant">Brilliant</a>
@@ -41,7 +42,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#localaiprogram">Local AI Program</a> (Sa)
 - <a href="#eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</a>
 - <a href="#bearblogreplacementtemplate">Bear Blog Replacement Template</a>
-- <a href="#solaris">SOLARIS (First Edition)</a>
+- <a href="#solaris-1">SOLARIS (First Edition)</a>
 - <a href="#sudoku">Sudoku</a>
 - <a href="#gallpeters">gallpeters</a>
 - <a href="#eadata">Effective Altruism Data</a>
@@ -68,10 +69,25 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="solaris-2">SOLARIS (Second Edition)</span>
+
+<small>Dec 24, 2022-present</small>  
+<small>Trying to co-run the second edition of a logic, rationality and Effective Altruism club that I co-founded.</small>
+
+<hr />
+
+#### Log
+
+- <time>Dec 28, 2022</time> An okay third day, but this part of the syllabus really needs to be re-vamped.
+
+- <time>Dec 26, 2022</time> Second day went better than the first: espicially since we had really good debate responses and rebuttals.
+
+- <time>Dec 24, 2022</time> First day! Along with my co-facilitator, we gave a good overview about rationality.
+
 ## <span id="codewars">[Codewars](https://www.codewars.com)</span>
 
 <small>Dec 13, 2022-present</small>  
-<small>Practicing different programming languages with CodeWars (<a href="#leetcode">LeetCode</a> is for harder, more Python-oriented problems).</small>
+<small>Trying to practice different programming languages with Codewars (<a href="#leetcode">LeetCode</a> is for harder, more Python-oriented problems).</small>
 
 <hr />
 
@@ -371,7 +387,7 @@ function getCount(str) {
 ## <span id="adventofcode">Advent of Code</span>
 
 <small>Dec 01, 2022-present</small>  
-<small>Currently running an advent of code for my school's Python club. Due to privacy reasons, I'm being incredibly vague.</small>
+<small>Trying to Currently running an advent of code for my school's Python club. Due to privacy reasons, I'm being incredibly vague.</small>
 
 <hr />
 
@@ -10773,10 +10789,10 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 - <time>Aug 08, 2022</time> Posted the template on [Show HN](https://news.ycombinator.com/item?id=32382716) and I think I'm quite happy with the final product!
 <hr />
 
-## <span id="solaris">SOLARIS</span>
+## <span id="solaris-1">SOLARIS</span>
 
 <small>Jul 10, 2022-Aug 07, 2022</small>  
-<small>Trying to co-lead a rationality club in my school. We've finished the first edition of SOLARIS!</small>
+<small>Co-founded a rationality club in my school. We've finished running the first edition of SOLARIS!</small>
 
 <hr />
 
