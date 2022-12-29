@@ -437,6 +437,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Dec 29, 2022</time> Continued with Curve Fitting.
+
 - <time>Dec 28, 2022</time> Continued with Curve Fitting.
 
 - <time>Dec 27, 2022</time> Got started with [Curve Fitting](https://brilliant.org/courses/intro-neural-networks/layers-2/curve-fitting/).
