@@ -78,6 +78,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 30, 2022</time> Did some organisational work in the morning, but I couldn't teach today's class due to internet issues. We'll be combining this session and the last day (which I feel is something we should do regardless).
+
 - <time>Dec 28, 2022</time> An okay third day, but this part of the syllabus really needs to be re-vamped.
 
 - <time>Dec 26, 2022</time> Second day went better than the first: espicially since we had really good debate responses and rebuttals.
