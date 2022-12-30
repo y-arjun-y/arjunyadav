@@ -489,6 +489,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Dec 30, 2022</time> Continued with Curve Fitting.
+
 - <time>Dec 29, 2022</time> Continued with Curve Fitting.
 
 - <time>Dec 28, 2022</time> Continued with Curve Fitting.
