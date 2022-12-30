@@ -6547,6 +6547,8 @@ class Solution:
 
 #### Log
 
+- <time>Dec 30, 2022</time> Continued with the Demographic Data Analyzer project. Sort of hit a roadblock, but I'll figure it out (hopefully).
+
 - <time>Dec 29, 2022</time> Continued with the Demographic Data Analyzer project.
 
 - <time>Dec 28, 2022</time> Got started with the [Demographic Data Analyzer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer) project.
