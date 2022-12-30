@@ -93,6 +93,40 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 30, 2022</time> Finished [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/) in Python:
+
+```py
+def zero(operand_num=""): #your code here
+    return eval("0" + operand_num)
+def one(operand_num=""): #your code here
+    return eval("1" + operand_num)
+def two(operand_num=""): #your code here
+    return eval("2" + operand_num)
+def three(operand_num=""): #your code here
+    return eval("3" + operand_num)
+def four(operand_num=""): #your code here
+    return eval("4" + operand_num)
+def five(operand_num=""): #your code here
+    return eval("5" + operand_num)
+def six(operand_num=""): #your code here
+    return eval("6" + operand_num)
+def seven(operand_num=""): #your code here
+    return eval("7" + operand_num)
+def eight(operand_num=""): #your code here
+    return eval("8" + operand_num)
+def nine(operand_num=""): #your code here
+    return eval("9" + operand_num)
+
+def plus(num): #your code here
+    return f"+{num}"
+def minus(num): #your code here
+    return f"-{num}"
+def times(num): #your code here
+    return f"*{num}"
+def divided_by(num): #your code here
+    return f"//{num}"
+```
+
 - <time>Dec 29, 2022</time> Finished [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148/solutions) in Python:
 
 ```py
@@ -891,6 +925,26 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Dec 30, 2022</time> Finished [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/):
+
+```py
+from collections import Counter
+
+class Solution:
+    def areAlmostEqual(self, s1: str, s2: str) -> bool:
+        if Counter(s1) == Counter(s2):
+            count = 0
+
+            for i in range(len(s2)):
+                if s1[i] != s2[i]:
+                    if count == 1.0:
+                        return False
+                    count += 0.5
+
+            return True
+        return False
+```
 
 - <time>Dec 29, 2022</time> Finished [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/):
 
