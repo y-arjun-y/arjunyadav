@@ -504,6 +504,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Dec 31, 2022</time> Finished with Curve Fitting and got started with [Universal Approximator](https://brilliant.org/courses/intro-neural-networks/layers-2/universal-approximator). I hope to make as much progress as I can before April 2023.
+
 - <time>Dec 30, 2022</time> Continued with Curve Fitting.
 
 - <time>Dec 29, 2022</time> Continued with Curve Fitting.
