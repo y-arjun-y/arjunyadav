@@ -95,7 +95,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 31, 2022</time> Finished [Persistent Bugger.](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/) in Python. Hoping to do more Java problems in 2023:
+- <time>Dec 31, 2022</time> Finished [(Multiplicative Persistence)](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/) in Python. Hoping to do more Java problems in 2023:
 
 ```py
 import math
