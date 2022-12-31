@@ -78,6 +78,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 31, 2022</time> Did some more organisational work. Here's to this project becoming even more ambitious in 2023!
+
 - <time>Dec 30, 2022</time> Did some organisational work in the morning, but I couldn't teach today's class due to internet issues. We'll be combining this session and the last day (which I feel is something we should do regardless).
 
 - <time>Dec 28, 2022</time> An okay third day, but this part of the syllabus really needs to be re-vamped.
