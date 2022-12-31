@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Dec 30, 2022
+publish_date: Dec 31, 2022
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -929,6 +929,22 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Dec 31, 2022</time> Finished [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/). Hoping to solve more medium and hard problems in 2023:
+
+```py
+class Solution:
+    def arithmeticTriplets(self, nums: List[int], diff: int) -> int:
+        count = 0
+
+        for i in range(len(nums)):
+            for j in range(i, len(nums)):
+                for k in range(j, len(nums)):
+                    if nums[j] - nums[i] == diff and nums[k] - nums[j] == diff:
+                        count += 1
+
+        return count
+```
 
 - <time>Dec 30, 2022</time> Finished [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/):
 
