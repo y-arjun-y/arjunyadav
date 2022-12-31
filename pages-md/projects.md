@@ -95,6 +95,21 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 31, 2022</time> Finished [Persistent Bugger.](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/) in Python. Hoping to do more Java problems in 2023:
+
+```py
+import math
+
+def persistence(n):
+    count = 0
+
+    while len(str(n)) != 1:
+        n = math.prod([int(i) for i in str(n)])
+        count += 1
+
+    return count
+```
+
 - <time>Dec 30, 2022</time> Finished [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/) in Python:
 
 ```py
