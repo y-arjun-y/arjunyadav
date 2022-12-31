@@ -1,15 +1,15 @@
 ---
 title: Interesting Reads - September-October 2022
 publish_date: Oct 31, 2022
-meta_description: I log everything I read in Notion. In these two months, I've read ? newsletters and ? articles. Here are some of the highlights of this month!
-meta_image: https://images.unsplash.com/photo-1578924824899-c1d49bd3b370?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1942&q=80
+meta_description: I log everything I read in Notion. In these two months, I've read 2 books, 68 newsletters and 20 articles. Here are some of the highlights of this month!
+meta_image: https://www.arjunyadav.net/dalle-2-fish.png
 ---
 
 ![DALL·E 2 - Fish](/dalle-2-fish.png)
 
 <small>Note: This post was published on Nov 02, 2022. Apologizes for being 2 days late.</small>
 
-I log everything I read in Notion. In these two months, I've read 2 books, 68 newsletters, 20 articles.
+I log everything I read in Notion. In these two months, I've read 2 books, 68 newsletters and 20 articles.
 
 Here are some of the highlights of this month!
 
