@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Dec 31, 2022
+publish_date: Jan 01, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -96,6 +96,13 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 01, 2023</time> Finished [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) in Python:
+
+```py
+def move_zeros(lst):
+  return [i for i in lst if i != 0] + [i for i in lst if i == 0]
+```
 
 - <time>Dec 31, 2022</time> Finished [(Multiplicative Persistence)](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/) in Python. Hoping to do more Java problems in 2023:
 
@@ -948,6 +955,35 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 01, 2023</time> Happy new year! Finished [Word Pattern](https://leetcode.com/problems/word-pattern/) in Python:
+
+```py
+class Solution:
+    def wordPattern(self, pattern: str, s: str) -> bool:
+        words = s.split(" ")
+        unique_words = list(dict.fromkeys(words))
+        count_1 = 1
+
+        print(words, unique_words)
+
+        for i in unique_words:
+            words = [str(count_1) if j == i else j for j in words]
+            count_1 += 1
+
+        letters = [i for i in pattern]
+        unique_letters = list(dict.fromkeys(letters))
+        count_2 = 1
+
+        for i in unique_letters:
+            letters = [str(count_2) if j == i else j for j in letters]
+            count_2 += 1
+
+        if words == letters:
+            return True
+        else:
+            return False
+```
 
 - <time>Dec 31, 2022</time> Finished [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/). Hoping to solve more medium and hard problems in 2023:
 
@@ -6585,6 +6621,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Jan 01, 2023</time> Finished the Demographic Data Analyzer Project ([here](https://replit.com/@yarjuny/Demographic-Data-Analyzer-Project) it is).
 
 - <time>Dec 31, 2022</time> Continued with the Demographic Data Analyzer project. Figured out the roadblock. I hope to finish the last three remaining certificates by the first half of 2023.
 
