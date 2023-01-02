@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jan 01, 2023
+publish_date: Jan 02, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -78,6 +78,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 02, 2023</time> Did some organisational work.
+
+- <time>Jan 01, 2023</time> Did some organisational work.
+
 - <time>Dec 31, 2022</time> Did some more organisational work. Here's to this project becoming even more ambitious in 2023!
 
 - <time>Dec 30, 2022</time> Did some organisational work in the morning, but I couldn't teach today's class due to internet issues. We'll be combining this session and the last day (which I feel is something we should do regardless).
@@ -96,6 +100,19 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 02, 2023</time> Finished [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c) in Python:
+
+```py
+def comp(array1, array2):
+    if array1 == None or array2 == None:
+        return False
+
+    if sorted([i**2 for i in array1]) == sorted(array2):
+        return True
+    else:
+        return False
+```
 
 - <time>Jan 01, 2023</time> Finished [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) in Python:
 
@@ -512,6 +529,10 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 02, 2023</time> Continued with Curve Fitting.
+
+- <time>Jan 01, 2023</time> Continued with Curve Fitting.
 
 - <time>Dec 31, 2022</time> Finished with Curve Fitting and got started with [Universal Approximator](https://brilliant.org/courses/intro-neural-networks/layers-2/universal-approximator). I hope to make as much progress as I can before April 2023.
 
@@ -956,7 +977,40 @@ function getCount(str) {
 
 #### Log
 
-- <time>Jan 01, 2023</time> Happy new year! Finished [Word Pattern](https://leetcode.com/problems/word-pattern/) in Python:
+- <time>Jan 02, 2023</time> Finished [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/):
+
+```py
+class Solution:
+    def reorderSpaces(self, text: str) -> str:
+        words = [i for i in text.split(" ") if i != '']
+        spaces = [i for i in text if i.isspace()]
+
+        print(words, spaces)
+
+        if len(words) == 1:
+            return words[0] + "".join(spaces)
+
+        if len(spaces) / (len(words) - 1) == len(spaces) // (len(words) - 1):
+            res = ""
+
+            for i in words[:-1]:
+                res += i + " "*(len(spaces) // (len(words) - 1))
+
+            res += words[-1]
+
+            return res
+        else:
+            res = ""
+
+            for i in words[:-1]:
+                res += i + " "*(len(spaces) // (len(words) - 1))
+
+            res += (words[-1] + " "*(len(spaces) % (len(words) - 1)))
+
+            return res
+```
+
+- <time>Jan 01, 2023</time> Happy new year! Finished [Word Pattern](https://leetcode.com/problems/word-pattern/):
 
 ```py
 class Solution:
@@ -6621,6 +6675,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Jan 02, 2023</time> "Got started" with the [Medicial Data Visualizer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer) project.
 
 - <time>Jan 01, 2023</time> Finished the Demographic Data Analyzer Project ([here](https://replit.com/@yarjuny/Demographic-Data-Analyzer-Project) it is).
 
