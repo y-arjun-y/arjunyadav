@@ -7,7 +7,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (7)
+### Active (8)
 
 - <a href="#solaris-2">SOLARIS (Second Edition)</a>
 - <a href="#codewars">Codewars</a>
@@ -18,7 +18,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#leetcode">LeetCode</a>
 - <a href="#freecodecamp">freeCodeCamp</a>
 
-### Inactive/Paused (8)
+### Inactive/Paused (7)
 
 - <a href="#drums">Drums</a> (F&S)
 - <a href="#kenken">KENKEN</a>
