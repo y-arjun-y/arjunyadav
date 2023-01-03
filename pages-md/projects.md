@@ -977,6 +977,25 @@ function getCount(str) {
 
 #### Log
 
+- <time>Jan 03, 2023</time> Finished [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/):
+
+```py
+class Solution:
+    def minDeletionSize(self, strs: List[str]) -> int:
+        count = 0
+
+        for i in range(len(strs[0])):
+            column = ""
+
+            for j in strs:
+                column += j[i]
+
+            if "".join(sorted(column)) != column:
+                count += 1
+
+        return count
+```
+
 - <time>Jan 02, 2023</time> Finished [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/):
 
 ```py
