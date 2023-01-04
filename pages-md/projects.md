@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jan 03, 2023
+publish_date: Jan 04, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -102,6 +102,22 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 04, 2023</time> Finished [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/) in Python:
+
+```py
+def pig_it(text):
+    res = []
+
+    for i in text.split(" "):
+        if i.isalpha():
+            word = i[1:] + i[0] + "ay"
+            res.append(word)
+        else:
+            res.append(i)
+
+    return " ".join(res)
+```
 
 - <time>Jan 03, 2023</time> Finished [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a/) in Python:
 
@@ -1184,6 +1200,21 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 04, 2023</time> Finished [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/):
+
+```py
+class Solution:
+    def countDigits(self, num: int) -> int:
+        digits = [int(i) for i in str(num)]
+        count = 0
+
+        for i in digits:
+            if num % i == 0:
+                count += 1
+
+        return count
+```
 
 - <time>Jan 03, 2023</time> Finished [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/):
 
