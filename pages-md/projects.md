@@ -557,6 +557,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Jan 04, 2022</time> Continued with Week 1 and got 100% on the practice quiz!
+
 - <time>Jan 03, 2022</time> Continued with Week 1.
 
 - <time>Jan 02, 2022</time> Got started with Week 1 of Principal Component Analysis.
@@ -751,6 +753,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 04, 2023</time> Continued with Universal Approximator.
 
 - <time>Jan 03, 2023</time> Continued with Universal Approximator.
 
