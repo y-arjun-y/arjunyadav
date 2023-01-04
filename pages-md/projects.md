@@ -6934,6 +6934,8 @@ class Solution:
 
 #### Log
 
+- <time>Jan 04, 2023</time> Continued with the Medicial Data Visualizer project.
+
 - <time>Jan 03, 2023</time> "Continued" with the Medicial Data Visualizer project.
 
 - <time>Jan 02, 2023</time> "Got started" with the [Medicial Data Visualizer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer) project.
