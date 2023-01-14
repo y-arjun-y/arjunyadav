@@ -1,14 +1,17 @@
 ---
 title: Projects
-publish_date: Jan 04, 2023
+publish_date: Jan 14, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
 ## Table of Contents
 
-### Active (8)
+### Active (11)
 
+- <a href="#middleschoolcsevent">Middle School CS Event</a>
+- <a href="#eauae">EA UAE</a>
+- <a href="#optx">OptX</a>
 - <a href="#solaris-2">SOLARIS (Second Edition)</a>
 - <a href="#codewars">Codewars</a>
 - <a href="#adventofcode">Advent of Code</a>
@@ -18,17 +21,16 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#leetcode">LeetCode</a>
 - <a href="#freecodecamp">freeCodeCamp</a>
 
-### Inactive/Paused (7)
+### Inactive/Paused (6)
 
 - <a href="#drums">Drums</a> (F&S)
-- <a href="#kenken">KENKEN</a>
 - <a href="#chess">Chess</a> (S)
 - <a href="#agisf">AGI Safety Fundamentals: Technical Track</a> (F)
 - <a href="#guitar">Guitar</a>
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
 
-### Done (23)
+### Done (24)
 
 - <a href="#y1d2">y1d2</a>
 - <a href="#introml">Introduction to Machine Learning</a>
@@ -38,6 +40,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#cubing">Cubing</a>
 - <a href="#localhackathon2022">Local Hackathon</time>
 - <a href="#landingpage">Landing Page Project + App Integration</a>
+- <a href="#kenken">KENKEN</a>
 - <a href="#duolingo">Duolingo</a>
 - <a href="#localaiprogram">Local AI Program</a> (Sa)
 - <a href="#eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</a>
@@ -69,6 +72,49 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="middleschoolcsevent">Middle School CS Event</span>
+
+<small>Jan 13, 2023-present</small>  
+<small>Currently part of the organising team for a middle school computer science event. Trying to make this as successful as possible.</small>
+
+#### Log
+
+- <time>Jan 13, 2023</time> Attended a meeting and worked on the team randomizer.
+
+<hr />
+
+## <span id="eauae">[EA UAE](https://www.instagram.com/effectivealtruism.uae/)</span>
+
+<small>Dec 29, 2022-present</small>  
+<small>A cold email led to me and another person co-founding EA UAE. Trying to make this as successful as possible.</small>
+
+#### Log
+
+- <time>Dec 29, 2022-Jan 14, 2023</time> I think cold emails are an incredibly powerful tool that must be used responsibly. Before this, I thought that I was the "king of cold emails", as it led to the <a href="#eadata">Effective Altruism Data and LPP project</a>. However, I got dethroned when someone cold emailed after seeing <a href="https://forum.effectivealtruism.org/posts/2XF4cFs4txmEdegtT/">this EA Forum question</a> that I wrote quite some time back.
+
+  What was originally me being pessimistic about re-starting EA Dubai led to meetings with EA AUS, [EA NYUAD](https://www.eanyuad.org/) and even an advisor from [CEA](https://www.centreforeffectivealtruism.org/)! So far, we've gotten some EA AUS and EA NYUAD members to join us - and we're on the look out for someone else to help lead this project with us! I'm really excited to see where this project is after exactly half a year (July 14, 2023)!
+
+<hr />
+
+#### Log
+
+- <time>Jan 04, 2023-Jan 14, 2023</time> Well, I initially thought that I would just be a volunteer for OptX's The Symposium 1.0, but roughly a day before the event (Jan 07, 2023), I became one of the newest committee member. In the end, The Symposium 1.0 was an incredible success. Seeing it all unfold was one of the greatest moments in my life.
+
+![OptX - The Symposium 1.0](/optx.jpg)
+
+## <span id="optx">OptX</span>
+
+<small>Jan 04, 2023-present</small>  
+<small>Became part of OptX, my school's student-led initiative to provide opportunities to the youth. Trying to the best job I can.</small>
+
+<hr />
+
+#### Log
+
+- <time>Jan 04, 2023-Jan 14, 2023</time> Well, I initially thought that I would just be a volunteer for OptX's The Symposium 1.0, but roughly a day before the event (Jan 07, 2023), I became one of the newest committee member. In the end, The Symposium 1.0 was an incredible success. Seeing it all unfold was one of the greatest moments in my life.
+
+![OptX - The Symposium 1.0](/optx.jpg)
+
 ## <span id="solaris-2">SOLARIS (Second Edition)</span>
 
 <small>Dec 24, 2022-present</small>  
@@ -77,6 +123,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 05, 2023-Jan 14, 2023</time> Did some more organisational work, held the last (technically fourth) day and sent out the capstone project submission form!
 
 - <time>Jan 04, 2023</time> Did some organisational work.
 
@@ -559,6 +607,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Jan 04, 2022-Jan 11, 2022</time> "Continued" with the course.
+
 - <time>Jan 04, 2022</time> Continued with Week 1 and got 100% on the practice quiz!
 
 - <time>Jan 03, 2022</time> Continued with Week 1.
@@ -755,6 +805,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 04, 2023-Jan 11, 2023</time> Finished with Introduction to Neural Networks.
 
 - <time>Jan 04, 2023</time> Continued with Universal Approximator.
 
@@ -7769,468 +7821,6 @@ class Solution:
 
 <hr />
 
-## <span id="kenken">[KENKEN](http://www.kenkenpuzzle.com/)</span>
-
-<small>Jan 30, 2022-present</small>  
-<small>I was a two-time silver medalist for 2019 and 2020 in my country. Trying to get a similar result for 2022! Note that I have four 5x5s and two 6x6s for this project (previously two 4x4s and four 5x5s). Currently paused.</small>
-
-<hr />
-
-#### Log
-
-- <time>Oct 08, 2022</time> Got selected for the national level!
-
-- <time>Oct 06, 2022</time> 5/6 in ~11 minutes. I've decided to pause this project. If I get selected to the national level, I'll continue this project, else it ends.
-
-  Truth be told, I do not find KENKEN enjoyable anymore. I guess the charm wears off after a while.
-
-- <time>Oct 05, 2022</time> 5/6 in ~7.5 minutes.
-
-- <time>Oct 04, 2022</time> All correct in ~8-9 minutes.
-
-- <time>Oct 01, 2022</time> Had my "state"-level exam which went well.
-
-- <time>Sep 30, 2022</time> Finished the August 2022 weekly challenges: ~10 minutes and ~8 minutes, all correct for both.
-
-- <time>Sep 29, 2022</time> Daily puzzles went well.
-
-- <time>Sep 28, 2022</time> Daily _puzzle_ went alright (saw the solution for the other one).
-
-- <time>Sep 26, 2022</time> Daily _puzzle_ went alright.
-
-- <time>Sep 25, 2022</time> Daily puzzles went okay.
-
-- <time>Sep 22, 2022</time> Sort of skipped today (finished one daily puzzle that I saw the solution to).
-
-- <time>Sep 21, 2022</time> Sort of skipped today (finished one daily puzzle).
-
-- <time>Sep 20, 2022</time> Almost 12 minutes for all correct.
-
-- <time>Sep 19, 2022</time> Sort of skipped today (finished one daily puzzle that I saw the solution to).
-
-- <time>Sep 18, 2022</time> ~7.5 minutes for all correct.
-
-- <time>Sep 17, 2022</time> ~11-12 minutes for 5/6.
-
-- <time>Sep 16, 2022</time> ~12 minutes for all correct.
-
-- <time>Sep 15, 2022</time> ~10 and three-fourths of a minute for all correct.
-
-- <time>Sep 14, 2022</time> Daily puzzles went okay.
-
-- <time>Sep 09, 2022</time> Finished ~2 out of the 6 daily puzzles.
-
-- <time>Aug 31, 2022</time> Sort of skipped today as well.
-
-- <time>Aug 30, 2022</time> Sort of skipped today.
-
-- <time>Aug 29, 2022</time> Daily puzzles went okay.
-
-- <time>Aug 26, 2022</time> Daily puzzles went alright (~3-4 checks).
-
-- <time>Aug 25, 2022</time> ~11 minutes for all correct.
-
-- <time>Aug 24, 2022</time> ~6 minutes for all correct.
-
-- <time>Aug 23, 2022</time> ~11-12 minutes for all correct.
-
-- <time>Aug 22, 2022</time> ~9 minutes for all correct.
-
-- <time>Aug 21, 2022</time> Daily puzzles went okay.
-
-- <time>Aug 20, 2022</time> ~9 minutes for all correct.
-
-- <time>Aug 19, 2022</time> I think daily puzzles went alright?
-
-- <time>Aug 18, 2022</time> ~18 minutes for all correct.
-
-- <time>Aug 17, 2022</time> ~8 minutes for all correct.
-
-- <time>Aug 16, 2022</time> ~9.5 minutes for all correct.
-
-- <time>Aug 15, 2022</time> ~11 minutes for all correct.
-
-- <time>Aug 14, 2022</time> Did not have too much time left in the day for KENKEN, so I just did two hard 6x6s with unlimited checks.
-
-- <time>Aug 13, 2022</time> ~11 minutes for all correct.
-
-- <time>Aug 12, 2022</time> 4 checks for two hard 6x6s.
-
-- <time>Aug 11, 2022</time> ~9 minutes for 5/6.
-
-- <time>Aug 10, 2022</time> Solved a 7x7 for fun!
-
-- <time>Aug 09, 2022</time> Sigh, ~14 minutes for 5/6.
-
-- <time>Aug 08, 2022</time> ~13 minutes for all correct.
-
-- <time>Aug 07, 2022</time> ~11 minutes for all correct.
-
-- <time>Aug 06, 2022</time> For some reason, I just couldn't do today's weekly challenge. I guess I was too distracted. I'll try again tomorrow.
-
-- <time>Aug 05, 2022</time> Daily puzzles went alright.
-
-- <time>Aug 04, 2022</time> Don't do KENKEN when you're tired.
-
-- <time>Aug 03, 2022</time> Daily puzzles went okay.
-
-- <time>Aug 02, 2022</time> Back to sub-10 minutes for all correct!
-
-- <time>Aug 01, 2022</time> Daily puzzles went well.
-
-- <time>Jul 31, 2022</time> 19 seconds shy of 10 minutes with all correct.
-
-- <time>Jul 30, 2022</time> 15 seconds shy of 10 minutes with all correct.
-
-- <time>Jul 29, 2022</time> Daily puzzles went alright (had to basically skip the last one though).
-
-- <time>Jul 28, 2022</time> ~11 minutes for all correct (tried to pause it as I had to get up, didn't work lol).
-
-- <time>Jul 27, 2022</time> Two sub-3s on two hard 6x6s with only one check in the last one.
-
-- <time>Jul 26, 2022</time> ~12 minutes for all correct.
-
-- <time>Jul 25, 2022</time> ~7 minutes for 5/6. All remaining weekly challenges have been completed!
-
-- <time>Jul 24, 2022</time> ~8 minutes for all correct.
-
-- <time>Jul 23, 2022</time> ~8 minutes for all correct.
-
-- <time>Jul 22, 2022</time> ~8 minutes for all correct.
-
-- <time>Jul 21, 2022</time> ~15 minutes for all correct.
-
-- <time>Jul 20, 2022</time> ~9 minutes for 5/6.
-
-- <time>Jul 18, 2022</time> ~13 minutes for all correct.
-
-- <time>Jul 17, 2022</time> ~14 minutes for all correct.
-
-- <time>Jul 16, 2022</time> Just barely got 9 minutes for yesterday's (?) weekly challenge.
-
-- <time>Jul 14, 2022</time> 9 and 10 minutes for all correct.
-
-- <time>Jul 12, 2022</time> 7 minutes for all correct and 9 minutes for 5/6.
-
-- <time>Jul 11, 2022</time> 11 minutes for all correct.
-
-- <time>Jul 06, 2022</time> 5/6.
-
-- <time>Jun 04, 2022</time> 9 minutes for all correct.
-
-- <time>Jun 02, 2022</time> Why is the weekly challenge daily?
-
-- <time>Jun 30, 2022</time> 12 minutes for all correct.
-
-- <time>Jun 28, 2022</time> All correct in ~8 minutes!
-
-- <time>Jun 27, 2022</time> Daily puzzles were alright.
-
-- <time>Jun 26, 2022</time> 15 minutes for a 6x6 wrong.
-
-- <time>Jun 25, 2022</time> Daily puzzles were alright.
-
-- <time>Jun 24, 2022</time> 13 minutes for a 5x5 wrong.
-
-- <time>Jun 22, 2022</time> Daily puzzles went alright.
-
-- <time>Jun 21, 2022</time> I just got through today's weekly challenge lol.
-
-- <time>Jun 20, 2022</time> Oof, got the last 6x6 wrong because I forgot that the sum property of a 6x6 is 21.
-
-- <time>Jun 19, 2022</time> All correct in the Weekly challenge in 8 minutes and 20 seconds. Need to get it down to 7 by the end of this month.
-
-- <time>Jun 18, 2022</time> Sigh, 5/6. Déjà vu?
-
-- <time>Jun 17, 2022</time> Daily puzzles went well.
-
-- <time>Jun 16, 2022</time> Sigh, 5/6.
-
-- <time>Jun 15, 2022</time> Daily puzzles went well.
-
-- <time>Jun 14, 2022</time> Could have gotten all correct in ~8 minutes if it wasn't for a silly mistake in the last 6x6.
-
-- <time>Jun 13, 2022</time> Daily puzzles went okay.
-
-- <time>Jun 12, 2022</time> Sigh, 4/6.
-
-- <time>Jun 11, 2022</time> 5/6. It's both good and bad that I no longer find the hard 6x6s in the daily puzzles difficult.
-
-- <time>Jun 10, 2022</time> All correct in ~5 minutes!
-
-- <time>Jun 09, 2022</time> 5/6 in what felt like forever.
-
-- <time>Jun 08, 2022</time> The website glitched out, so I got to do only one daily puzzle :(
-
-- <time>Jun 07, 2022</time> Sigh. All 6x6s wrong.
-
-- <time>Jun 06, 2022</time> Daily puzzles went okay.
-
-- <time>Jun 05, 2022</time> ~9 minutes again... but with a 6x6 left wrong :(
-
-- <time>Jun 04, 2022</time> ~9 minutes for the weekly challenge. I hope to stabilize to ~7 minutes soon enough.
-
-- <time>Jun 03, 2022</time> Daily puzzles went pretty well.
-
-- <time>Jun 02, 2022</time> Sigh. 11 minutes for 1 6x6 wrong.
-
-- <time>Jun 01, 2022</time> Daily puzzles went well.
-
-- <time>May 31, 2022</time> I somehow got two 5x5s wrong in today's weekly challenge. Should I slow down for 5x5s?
-
-- <time>May 30, 2022</time> Daily puzzles were alright.
-
-- <time>May 29, 2022</time> All correct in exactly 10 minutes lol.
-
-- <time>May 28, 2022</time> Weekly challenge in ~8 minutes... with all the 6x6s wrong.
-
-- <time>May 27, 2022</time> Daily puzzles were pretty bad.
-
-- <time>May 26, 2022</time> All correct in ~7 minutes and 40 seconds in today's weekly challenge.
-
-- <time>May 25, 2022</time> Daily puzzles were okay.
-
-- <time>May 24, 2022</time> All correct in less than 7 minutes in today's weekly challenge!
-
-- <time>May 23, 2022</time> Daily puzzles were alright.
-
-- <time>May 22, 2022</time> Tragic, got the 5x5 wrong but the rest were correct in ~7 minutes :/
-
-- <time>May 21, 2022</time> I DID IT! Just under 6 minutes for all correct in the weekly challenge!
-
-- <time>May 20, 2022</time> Sigh, 8 minutes for the last 6x6 left incomplete.
-
-- <time>May 19, 2022</time> Worst weekly challenge ever: ~8 minutes for three wrong (2 wrong, 1 left unattempted) :(
-
-- <time>May 18, 2022</time> Daily puzzles were meh to alright.
-
-- <time>May 17, 2022</time> Weekly challenge went so poorly (5/6 in more than 10 minutes) :(
-
-- <time>May 16, 2022</time> Daily puzzles were meh.
-
-- <time>May 15, 2022</time> Getting sort of close to the 7 minute mark with the weekly challenges!
-
-- <time>May 14, 2022</time> Same issue, below 10 minutes but left one puzzle as wrong for that (to make matters worse, it was a 5x5).
-
-- <time>May 13, 2022</time> Daily puzzles were alright.
-
-- <time>May 12, 2022</time> ~9 minutes with the last 6x6 incorrect :(
-
-- <time>May 11, 2022</time> ~7 minutes with all correct in the bonus challenge!
-
-- <time>May 10, 2022</time> Weekly challenge took ~10 minutes but with the last 6x6 was incorrect.
-
-- <time>May 09, 2022</time> Daily puzzles were pretty good!
-
-- <time>May 08, 2022</time> Got below 9 minutes in the weekly challenge with all correct!
-
-- <time>May 07, 2022</time> Got all correct in the weekly challenge... in ~14 minutes :(
-
-- <time>May 06, 2022</time> Daily puzzles were meh.
-
-- <time>May 05, 2022</time> Another weekly challenge in 9 minutes, but... I had to leave a 6x6 as incorrect for that :(
-
-- <time>May 04, 2022</time> Daily puzzles were terrible lol.
-
-- <time>May 03, 2022</time> I DID IT! All correct in ~9 minutes! Now I need to do all of it in 7 minutes...
-
-- <time>May 02, 2022</time> Daily puzzles were not bad.
-
-- <time>May 01, 2022</time> Not sure what the exact medical term is, but "the physiological feeling of having no time left in an exam/competitive setting" happened in today's weekly challenge lol. I had ~2 minutes left to reach my goal of completing a weekly challenge in 10 minutes or less and I did it... but all of the 6x6s were wrong. :(
-
-- <time>Apr 30, 2022</time> Weekly challenge was pretty poor (one wrong in 14 minutes) and daily puzzles were half-way decent.
-
-- <time>Apr 29, 2022</time> Daily puzzles went really well for a change.
-
-- <time>Apr 28, 2022</time> Bad day KENKEN-wise, took ~14 minutes for all correct and daily puzzles were pretty bad.
-
-- <time>Apr 27, 2022</time> I've noticed that with hard 6x6 puzzles, I need to often make strenuous guesses or YOLO my way out of it. Sigh.
-
-- <time>Apr 26, 2022</time> Sigh, I was about to finish the weekly challenge in about 10 minutes, but the last 6x6 tripped me up.
-
-- <time>Apr 25, 2022</time> I need to stop using the check button every time I put something down.
-
-- <time>Apr 24, 2022</time> Finished the weekly challenge in under 10 minutes BUT I had to basically skip the last 6x6 for that to happen.
-
-- <time>Apr 23, 2022</time> Not bad, a little more than 10 and a half minutes with all correct for today's weekly challenge (I miraculously got the last 6x6 correct lol).
-
-- <time>Apr 22, 2022</time> Daily puzzles went alright.
-
-- <time>Apr 21, 2022</time> Similar story, ~16-17 minutes but all correct (the first 6x6 was pretty darn hard).
-
-- <time>Apr 20, 2022</time> Even worse, went down to 16 minutes with 1 wrong.
-
-- <time>Apr 19, 2022</time> Dropped down to 15 minutes for the weekly challenge :(
-
-- <time>Apr 18, 2022</time> Daily puzzles went meh.
-
-- <time>Apr 17, 2022</time> Got another one below 10 minutes, though this time it took 9 minutes and 46 seconds (all correct) and the daily puzzles went a bit better.
-
-- <time>Apr 16, 2022</time> Got below 10 minutes on the weekly challenge! (~9 and a half minutes with all correct) and daily puzzles are still meh (I even got one wrong).
-
-- <time>Apr 15, 2022</time> Daily puzzles went laughably bad.
-
-- <time>Apr 14, 2022</time> Weekly challenge (all correct in 12 minutes) and daily puzzles went meh, I hope to get below 10 minutes on the weekly challenge next week.
-
-- <time>Apr 13, 2022</time> Daily puzzles went well.
-
-- <time>Apr 12, 2022</time> Finished the weekly challenge in 11 minutes this time around and finished 2 hard 6x6s.
-
-- <time>Apr 11, 2022</time> Bonus challenge took almost 20 minutes and I couldn't do a second hard 6x6 :(
-
-- <time>Apr 10, 2022</time> Still took more than 10 minutes but got all correct this time. Bonus challenge will be done tomorrow!
-
-- <time>Apr 09, 2022</time> Weekly challenge (5/6) took more than 10 minutes (I don't remember the exact time). Need to bring it down to less than 10 minutes consistently.
-
-- <time>Apr 08, 2022</time> Daily puzzles were decent, I'm really happy at my progress at hard 6x6s.
-
-- <time>Apr 07, 2022</time> Barely got through the weekly challenge in 10 minutes (closer to 11 actually but whatever).
-
-- <time>Apr 06, 2022</time> Daily puzzles went alright.
-
-- <time>Apr 05, 2022</time> Haha, they changed the weekly challenge to four 5x5s and two 6x6s (in the order), finished that with all correct in 15 minutes (which is bad, but it's my first try at it so it's alright) and the first hard 6x6 I did took me 10 minutes lol.
-
-- <time>Apr 04, 2022</time> When solving hard puzzles, your main goal isn't to find the correct position of the numbers right away, but rather you need the fuel: this could be from the row-column sum property, just some simple logic (a +12 cell in a 6x6 always has to contain a 5 and two number that add up to seven), anything really. After that, it's a piece of π.
-
-- <time>Apr 03, 2022</time> 6/6 in 4 and a half minutes! The two hard 6x6s went alright, though I did take a lot of time for both of them.
-
-- <time>Apr 02, 2022</time> Finished weekly challenge (5/6 in 10-ish minutes) and I think I'm ready for hard 6x6s now.
-
-- <time>Apr 01, 2022</time> Daily puzzles went meh.
-
-- <time>Mar 31, 2022</time> Why do I keep blundering a puzzle in the weekly challenge? Also, when will I comfortably transition to hard 6x6s, when will my weekly challenges update? So many questions.
-
-- <time>Mar 30, 2022</time> Daily puzzles went meh, I really hope they update our weekly challenges for the next level puzzles (since I'll be getting 6x6s not 4x4s)
-
-- <time>Mar 29, 2022</time> Made it to the next level (I somehow got the first 4x4 wrong in the school level exam) and got all correct in the weekly challenge today and the daily puzzles went okay.
-
-- <time>Mar 28, 2022</time> For some reason, only one daily puzzle was unlocked, but it went well (one medium 6x6).
-
-- <time>Mar 27, 2022</time> Daily puzzles (two medium 6x6s) went alright.
-
-- <time>Mar 26, 2022</time> Slightly better, 5/6.
-
-- <time>Mar 25, 2022</time> Got 4/6 in my last weekly challenge for this week.
-
-- <time>Mar 24, 2022</time> New PB: Weekly challenge completed in less than 4 minutes, why couldn't have the school exam gone like this?
-
-- <time>Mar 23, 2022</time> No weekly challenge today, but the daily puzzles (two medium 6x6s) went alright.
-
-- <time>Mar 22, 2022</time> Sigh, got 4/6 in the weekly challenge and the daily puzzles (two medium 6x6s) went really poorly.
-
-- <time>Mar 21, 2022</time> Both the bonus weekly challenge (5/6 in about 11 minutes) and the daily puzzles went poorly.
-
-- <time>Mar 20, 2022</time> Finished with the weekly challenge and the daily puzzles, will complete the bonus challenge tomorrow.
-
-- <time>Mar 19, 2022</time> Had my school-level exam. It went pretty terribly (most likely all correct in about 10 minutes) but it's very likely I proceed to the next level. Also finished weekly challenge and daily puzzles.
-
-- <time>Mar 18, 2022</time> Finished with the daily puzzles, went really well.
-
-- <time>Mar 17, 2022</time> Found something interesting in my weekly challenge (which went meh) and my daily puzzles: Notice the below image and the "108x" cage:
-
-<img src="/interesting-kenken.png" alt="Half of an interesting 6x6 KENKEN puzzle" height="350px" />
-
-Now, there is only one possibility which is "3 x 6 x 6 x 1", but what about the position? We can use the fact that 1 has to be on the top row of the cage to our advantage and see that that there are only two possibilities left:
-
-<img src="/interesting-kenken-1.png" alt="Half of an interesting 6x6 KENKEN puzzle" height="350px" />
-
-<img src="/interesting-kenken-2.png" alt="Half of an interesting 6x6 KENKEN puzzle" height="350px" />
-
-But regardless of which possibility is correct, **3 and 6 are always in the bottom row!** So, that leaves 4 in the "9+" cage. Thought it was interesting.
-
-- <time>Mar 16, 2022</time> Back to medium 6x6s.
-
-- <time>Mar 15, 2022</time> Weekly challenge (one wrong in about 10 minutes) and daily puzzles (had to drop back to easy 6x6s) went bad.
-
-- <time>Mar 14, 2022</time> Happy Pi Day, I don't think I'm ready for two hard 6x6s. I mean, I didn't check my medium 6x6 (being overconfident) and got it wrong lol.
-
-- <time>Mar 13, 2022</time> Both the weekly challenge (all correct in > 8 minutes) and daily puzzles went badly. At least I have a bonus challenge for [Pi Day](https://en.wikipedia.org/wiki/Pi_Day).
-
-- <time>Mar 12, 2022</time> Finished the last weekly challenge for this week (doesn't make sense, I know) in 6 and a half minutes. The first hard 6x6 was good but it took a long time to find the second one.
-
-- <time>Mar 11, 2022</time> Going to start doing 2 hard 6x6s for my daily puzzles instead of one medium and one hard.
-
-- <time>Mar 10, 2022</time> Finished the weekly challenge (all correct in ~5-6 minutes) and finished a medium and a hard 6x6 (again, went poorly today).
-
-- <time>Mar 09, 2022</time> Finished a medium 6x6 in ~3 minutes but the hard 6x6 went pretty poorly today.
-
-- <time>Mar 08, 2022</time> Not bad, got done with the weekly challenge (all correct in about 6 minutes) and finished a medium, and a hard 6x6 in ~3 minutes each.
-
-- <time>Mar 07, 2022</time> Finished a medium, 6x6 in less than 2 minutes! Hard 6x6 went pretty well too.
-
-- <time>Mar 06, 2022</time> Finally, the weekly challenge went well (all correct in just shy of 6 minutes) and finished a medium and hard 6x6.
-
-- <time>Mar 05, 2022</time> Finished with the weekly challenge (was going amazingly well until I couldn't solve a dumb 5x5, still did 5/6 in 6 and a half minutes) and finished with one medium 6x6 and a hard 6x6.
-
-- <time>Mar 04, 2022</time> I've started doing one medium 6x6 and one hard 6x6. The hard one takes ~4 minutes so my goal is to get that down to 2 minutes.
-
-- <time>Mar 03, 2022</time> Getting better at 6x6 and today's weekly challenge was meh (one wrong in ~8 minutes)
-
-- <time>Mar 02, 2022</time> Finished with two medium 6x6s, they went fine.
-
-- <time>Mar 01, 2022</time> Weekly challenge was going smoothly till one 5x5 messed up my time. I took a little more than 10 minutes and couldn't get the last one. :(
-
-- <time>Feb 28, 2022</time> Medium 6x6 takes too much time and an easy 6x6 takes too little time to solve!
-
-- <time>Feb 27, 2022</time> Finished the weekly challenge (~10 minutes, all correct) and two medium 6x6. I have this bad habit with my daily puzzles of hitting the "Check" button, so I hit it for the last puzzle and saw I got most cells flipped (i.e. wrong). Ouch.
-
-- <time>Feb 26, 2022</time> Finished the weekly challenge (went meh, ~10 minutes and got one wrong) and a medium and hard 6x6 (the hard one took a long time).
-
-- <time>Feb 25, 2022</time> Finished a hard and medium 6x6 after a lot of cherry-picking lol.
-
-- <time>Feb 24, 2022</time> Solid day, finished the weekly challenge in less than 10 minutes and finished a medium 6x6 and a hard 6x6.
-
-- <time>Feb 23, 2022</time> Finished one medium and one hard 6x6 with all operations! (though they took a long time)
-
-- <time>Feb 22, 2022</time> Can now solve an easy 6x6 with all operations in a little under 3 minutes! Also, today's weekly challenge went alright (all correct but in 10 minutes, got stuck with a puzzle).
-
-- <time>Feb 21, 2022</time> Finished with two puzzles, including a medium 6x6 (with + and -) in only 2 and a half minutes!
-
-- <time>Feb 20, 2022</time> Pretty slow throughout my two weekly challenges (one of them was a bonus and I got one wrong) and my daily puzzles. At least I started with addition and subtraction for 6x6!
-
-- <time>Feb 19, 2022</time> Amazing day! Beat my record (all correct in 5 minutes and 12 seconds) and moved up to easy (not easiest/very easy) 6x6 with only addition.
-
-- <time>Feb 18, 2022</time> No weekly challenge today but I finished a hard 5x5 and a very easy 6x6 (improving in time quite a bit).
-
-- <time>Feb 17, 2022</time> Finished a hard 5x5 and a very easy 6x6 (which took way too long lol) and I think I hit a new record for the weekly challenge, all correct in 5 minutes and 59 seconds!
-
-- <time>Feb 16, 2022</time> Finished two hard 5x5s, going to start doing one 6x6 (starting with all operations + easiest and working my way up) and one hard 5x5 since all the stages above school level have two 6x6s for my category!
-
-- <time>Feb 15, 2022</time> Finished with 5/6 again and (for fun) I did an easy 6x6 (with only addition) and the usual hard 5x5 (both took roughly the same amount of time!)
-
-- <time>Feb 14, 2022</time> Not bad, 5/6 again and finished the two hard 5x5s quite quickly.
-
-- <time>Feb 13, 2022</time> Solid day, 5/6 in the weekly challenge and finished the two hard 5x5s.
-
-- <time>Feb 12, 2022</time> Alright day, finished the two weekly challenges remaining for this week (6/6 in the first one, 4/6 in the other, both times I used a decent amount of time) and finished my two hard 5x5s for the day.
-
-- <time>Feb 11, 2022</time> Nice! A new record, all puzzles correct in only ~6 minutes! Also got both my hard 5x5's done in less than 2 minutes. I already feel ready for the exam.
-
-- <time>Feb 10, 2022</time> Solved the weekly challenge in only 8 minutes! (it also wrongly marked my first 4x4 as incorrect, weird) and I finished one hard 5x5 (blocked me from doing a second one, weird).
-
-- <time>Feb 09, 2022</time> Got done with the last Jan weekly challenge (4/6, pretty meh) and finished two hard 5x5's (last one took a long time).
-
-- <time>Feb 08, 2022</time> Alright day, finished a weekly challenge (5 out of 6) and 2 hard 5x5's (though the last one I had to rely on the check tool a lot).
-
-- <time>Feb 07, 2022</time> Finished a weekly challenge (all correct, used a little more than half the time) and 2 hard 5x5's (all correct).
-
-- <time>Feb 06, 2022</time> Going to finish the early-Jan weekly challenge I missed.
-
-- <time>Feb 05, 2022</time> Awesome day KENKEN-wise, got full on the weekly challenge with 13 minutes to spare and finished two hard 5x5s.
-
-- <time>Feb 04, 2022</time> Very similar to yesterday, finished the weekly challenge (5 out of 6 with exactly 15 minutes left) and the daily puzzles (got the hard 5x5 wrong).
-
-- <time>Feb 03, 2022</time> Finished the weekly challenge (it was alright, 5 out of 6 with about 17 minutes left) and the daily puzzles.
-
-- <time>Feb 02, 2022</time> Not bad, finished both my daily puzzles (though I took a long time).
-
-- <time>Feb 01, 2022</time> Awesome progress! I got done with my two daily puzzles (all correct) and finished with weekly challenge 2 (which I completed in about half the time with all correct!)
-
-- <time>Jan 31, 2022</time> I still got it! A medium-level 4x4 takes me less than a minute, though 5x5's I still have to work on.
-
-- <time>Jan 30, 2022</time> Registered for this year's edition after taking a break in 2021, I'll be getting 2 4x4's and 4 5x5's. Let's see how this project will go!
-<hr />
-
 ## <span id="chess">[Chess](https://lichess.org/@/y_arjun_y)</span>
 
 <small>Oct 28, 2021-present</small>  
@@ -9481,6 +9071,8 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 - <time>Dec 15, 2022</time> Fourth and final day done! Learnt about machine learning algorithms (such as K-Nearest Neighbors and Decision Tree) and some game development. This was an incredible experience.
 
+![Winter Computing Camp](/winter-camp.jpg)
+
 - <time>Dec 14, 2022</time> Third day done! Learnt about [Thunkable](https://thunkable.com/) and showed some humility when it came time to program for the Internet of Things session.
 
 - <time>Dec 13, 2022</time> Second day done! Revised the basics of Python.
@@ -10264,6 +9856,468 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 - <time>Jul 30, 2022</time> Finished (?) with the third draft of the first section.
 
 - <time>Jul 29, 2022</time> Had a productive meeting and got started with the third draft of the first section.
+<hr />
+
+## <span id="kenken">[KENKEN](http://www.kenkenpuzzle.com/)</span>
+
+<small>Jan 30, 2022-Oct 08, 2022</small>  
+<small>I was a two-time silver medalist for 2019 and 2020 in my country. Initially tried to get a similar result for 2022, but ended up losing interest. Note that, for the majority of this project, I got four 5x5s and two 6x6s (thought it was previously two 4x4s and four 5x5s).</small>
+
+<hr />
+
+#### Log
+
+- <time>Oct 08, 2022</time> Got selected for the national level! (Written on Jan 14, 2023 - Though I ended up not going.)
+
+- <time>Oct 06, 2022</time> 5/6 in ~11 minutes. I've decided to pause this project. If I get selected to the national level, I'll continue this project, else it ends.
+
+  Truth be told, I do not find KENKEN enjoyable anymore. I guess the charm wears off after a while.
+
+- <time>Oct 05, 2022</time> 5/6 in ~7.5 minutes.
+
+- <time>Oct 04, 2022</time> All correct in ~8-9 minutes.
+
+- <time>Oct 01, 2022</time> Had my "state"-level exam which went well.
+
+- <time>Sep 30, 2022</time> Finished the August 2022 weekly challenges: ~10 minutes and ~8 minutes, all correct for both.
+
+- <time>Sep 29, 2022</time> Daily puzzles went well.
+
+- <time>Sep 28, 2022</time> Daily _puzzle_ went alright (saw the solution for the other one).
+
+- <time>Sep 26, 2022</time> Daily _puzzle_ went alright.
+
+- <time>Sep 25, 2022</time> Daily puzzles went okay.
+
+- <time>Sep 22, 2022</time> Sort of skipped today (finished one daily puzzle that I saw the solution to).
+
+- <time>Sep 21, 2022</time> Sort of skipped today (finished one daily puzzle).
+
+- <time>Sep 20, 2022</time> Almost 12 minutes for all correct.
+
+- <time>Sep 19, 2022</time> Sort of skipped today (finished one daily puzzle that I saw the solution to).
+
+- <time>Sep 18, 2022</time> ~7.5 minutes for all correct.
+
+- <time>Sep 17, 2022</time> ~11-12 minutes for 5/6.
+
+- <time>Sep 16, 2022</time> ~12 minutes for all correct.
+
+- <time>Sep 15, 2022</time> ~10 and three-fourths of a minute for all correct.
+
+- <time>Sep 14, 2022</time> Daily puzzles went okay.
+
+- <time>Sep 09, 2022</time> Finished ~2 out of the 6 daily puzzles.
+
+- <time>Aug 31, 2022</time> Sort of skipped today as well.
+
+- <time>Aug 30, 2022</time> Sort of skipped today.
+
+- <time>Aug 29, 2022</time> Daily puzzles went okay.
+
+- <time>Aug 26, 2022</time> Daily puzzles went alright (~3-4 checks).
+
+- <time>Aug 25, 2022</time> ~11 minutes for all correct.
+
+- <time>Aug 24, 2022</time> ~6 minutes for all correct.
+
+- <time>Aug 23, 2022</time> ~11-12 minutes for all correct.
+
+- <time>Aug 22, 2022</time> ~9 minutes for all correct.
+
+- <time>Aug 21, 2022</time> Daily puzzles went okay.
+
+- <time>Aug 20, 2022</time> ~9 minutes for all correct.
+
+- <time>Aug 19, 2022</time> I think daily puzzles went alright?
+
+- <time>Aug 18, 2022</time> ~18 minutes for all correct.
+
+- <time>Aug 17, 2022</time> ~8 minutes for all correct.
+
+- <time>Aug 16, 2022</time> ~9.5 minutes for all correct.
+
+- <time>Aug 15, 2022</time> ~11 minutes for all correct.
+
+- <time>Aug 14, 2022</time> Did not have too much time left in the day for KENKEN, so I just did two hard 6x6s with unlimited checks.
+
+- <time>Aug 13, 2022</time> ~11 minutes for all correct.
+
+- <time>Aug 12, 2022</time> 4 checks for two hard 6x6s.
+
+- <time>Aug 11, 2022</time> ~9 minutes for 5/6.
+
+- <time>Aug 10, 2022</time> Solved a 7x7 for fun!
+
+- <time>Aug 09, 2022</time> Sigh, ~14 minutes for 5/6.
+
+- <time>Aug 08, 2022</time> ~13 minutes for all correct.
+
+- <time>Aug 07, 2022</time> ~11 minutes for all correct.
+
+- <time>Aug 06, 2022</time> For some reason, I just couldn't do today's weekly challenge. I guess I was too distracted. I'll try again tomorrow.
+
+- <time>Aug 05, 2022</time> Daily puzzles went alright.
+
+- <time>Aug 04, 2022</time> Don't do KENKEN when you're tired.
+
+- <time>Aug 03, 2022</time> Daily puzzles went okay.
+
+- <time>Aug 02, 2022</time> Back to sub-10 minutes for all correct!
+
+- <time>Aug 01, 2022</time> Daily puzzles went well.
+
+- <time>Jul 31, 2022</time> 19 seconds shy of 10 minutes with all correct.
+
+- <time>Jul 30, 2022</time> 15 seconds shy of 10 minutes with all correct.
+
+- <time>Jul 29, 2022</time> Daily puzzles went alright (had to basically skip the last one though).
+
+- <time>Jul 28, 2022</time> ~11 minutes for all correct (tried to pause it as I had to get up, didn't work lol).
+
+- <time>Jul 27, 2022</time> Two sub-3s on two hard 6x6s with only one check in the last one.
+
+- <time>Jul 26, 2022</time> ~12 minutes for all correct.
+
+- <time>Jul 25, 2022</time> ~7 minutes for 5/6. All remaining weekly challenges have been completed!
+
+- <time>Jul 24, 2022</time> ~8 minutes for all correct.
+
+- <time>Jul 23, 2022</time> ~8 minutes for all correct.
+
+- <time>Jul 22, 2022</time> ~8 minutes for all correct.
+
+- <time>Jul 21, 2022</time> ~15 minutes for all correct.
+
+- <time>Jul 20, 2022</time> ~9 minutes for 5/6.
+
+- <time>Jul 18, 2022</time> ~13 minutes for all correct.
+
+- <time>Jul 17, 2022</time> ~14 minutes for all correct.
+
+- <time>Jul 16, 2022</time> Just barely got 9 minutes for yesterday's (?) weekly challenge.
+
+- <time>Jul 14, 2022</time> 9 and 10 minutes for all correct.
+
+- <time>Jul 12, 2022</time> 7 minutes for all correct and 9 minutes for 5/6.
+
+- <time>Jul 11, 2022</time> 11 minutes for all correct.
+
+- <time>Jul 06, 2022</time> 5/6.
+
+- <time>Jun 04, 2022</time> 9 minutes for all correct.
+
+- <time>Jun 02, 2022</time> Why is the weekly challenge daily?
+
+- <time>Jun 30, 2022</time> 12 minutes for all correct.
+
+- <time>Jun 28, 2022</time> All correct in ~8 minutes!
+
+- <time>Jun 27, 2022</time> Daily puzzles were alright.
+
+- <time>Jun 26, 2022</time> 15 minutes for a 6x6 wrong.
+
+- <time>Jun 25, 2022</time> Daily puzzles were alright.
+
+- <time>Jun 24, 2022</time> 13 minutes for a 5x5 wrong.
+
+- <time>Jun 22, 2022</time> Daily puzzles went alright.
+
+- <time>Jun 21, 2022</time> I just got through today's weekly challenge lol.
+
+- <time>Jun 20, 2022</time> Oof, got the last 6x6 wrong because I forgot that the sum property of a 6x6 is 21.
+
+- <time>Jun 19, 2022</time> All correct in the Weekly challenge in 8 minutes and 20 seconds. Need to get it down to 7 by the end of this month.
+
+- <time>Jun 18, 2022</time> Sigh, 5/6. Déjà vu?
+
+- <time>Jun 17, 2022</time> Daily puzzles went well.
+
+- <time>Jun 16, 2022</time> Sigh, 5/6.
+
+- <time>Jun 15, 2022</time> Daily puzzles went well.
+
+- <time>Jun 14, 2022</time> Could have gotten all correct in ~8 minutes if it wasn't for a silly mistake in the last 6x6.
+
+- <time>Jun 13, 2022</time> Daily puzzles went okay.
+
+- <time>Jun 12, 2022</time> Sigh, 4/6.
+
+- <time>Jun 11, 2022</time> 5/6. It's both good and bad that I no longer find the hard 6x6s in the daily puzzles difficult.
+
+- <time>Jun 10, 2022</time> All correct in ~5 minutes!
+
+- <time>Jun 09, 2022</time> 5/6 in what felt like forever.
+
+- <time>Jun 08, 2022</time> The website glitched out, so I got to do only one daily puzzle :(
+
+- <time>Jun 07, 2022</time> Sigh. All 6x6s wrong.
+
+- <time>Jun 06, 2022</time> Daily puzzles went okay.
+
+- <time>Jun 05, 2022</time> ~9 minutes again... but with a 6x6 left wrong :(
+
+- <time>Jun 04, 2022</time> ~9 minutes for the weekly challenge. I hope to stabilize to ~7 minutes soon enough.
+
+- <time>Jun 03, 2022</time> Daily puzzles went pretty well.
+
+- <time>Jun 02, 2022</time> Sigh. 11 minutes for 1 6x6 wrong.
+
+- <time>Jun 01, 2022</time> Daily puzzles went well.
+
+- <time>May 31, 2022</time> I somehow got two 5x5s wrong in today's weekly challenge. Should I slow down for 5x5s?
+
+- <time>May 30, 2022</time> Daily puzzles were alright.
+
+- <time>May 29, 2022</time> All correct in exactly 10 minutes lol.
+
+- <time>May 28, 2022</time> Weekly challenge in ~8 minutes... with all the 6x6s wrong.
+
+- <time>May 27, 2022</time> Daily puzzles were pretty bad.
+
+- <time>May 26, 2022</time> All correct in ~7 minutes and 40 seconds in today's weekly challenge.
+
+- <time>May 25, 2022</time> Daily puzzles were okay.
+
+- <time>May 24, 2022</time> All correct in less than 7 minutes in today's weekly challenge!
+
+- <time>May 23, 2022</time> Daily puzzles were alright.
+
+- <time>May 22, 2022</time> Tragic, got the 5x5 wrong but the rest were correct in ~7 minutes :/
+
+- <time>May 21, 2022</time> I DID IT! Just under 6 minutes for all correct in the weekly challenge!
+
+- <time>May 20, 2022</time> Sigh, 8 minutes for the last 6x6 left incomplete.
+
+- <time>May 19, 2022</time> Worst weekly challenge ever: ~8 minutes for three wrong (2 wrong, 1 left unattempted) :(
+
+- <time>May 18, 2022</time> Daily puzzles were meh to alright.
+
+- <time>May 17, 2022</time> Weekly challenge went so poorly (5/6 in more than 10 minutes) :(
+
+- <time>May 16, 2022</time> Daily puzzles were meh.
+
+- <time>May 15, 2022</time> Getting sort of close to the 7 minute mark with the weekly challenges!
+
+- <time>May 14, 2022</time> Same issue, below 10 minutes but left one puzzle as wrong for that (to make matters worse, it was a 5x5).
+
+- <time>May 13, 2022</time> Daily puzzles were alright.
+
+- <time>May 12, 2022</time> ~9 minutes with the last 6x6 incorrect :(
+
+- <time>May 11, 2022</time> ~7 minutes with all correct in the bonus challenge!
+
+- <time>May 10, 2022</time> Weekly challenge took ~10 minutes but with the last 6x6 was incorrect.
+
+- <time>May 09, 2022</time> Daily puzzles were pretty good!
+
+- <time>May 08, 2022</time> Got below 9 minutes in the weekly challenge with all correct!
+
+- <time>May 07, 2022</time> Got all correct in the weekly challenge... in ~14 minutes :(
+
+- <time>May 06, 2022</time> Daily puzzles were meh.
+
+- <time>May 05, 2022</time> Another weekly challenge in 9 minutes, but... I had to leave a 6x6 as incorrect for that :(
+
+- <time>May 04, 2022</time> Daily puzzles were terrible lol.
+
+- <time>May 03, 2022</time> I DID IT! All correct in ~9 minutes! Now I need to do all of it in 7 minutes...
+
+- <time>May 02, 2022</time> Daily puzzles were not bad.
+
+- <time>May 01, 2022</time> Not sure what the exact medical term is, but "the physiological feeling of having no time left in an exam/competitive setting" happened in today's weekly challenge lol. I had ~2 minutes left to reach my goal of completing a weekly challenge in 10 minutes or less and I did it... but all of the 6x6s were wrong. :(
+
+- <time>Apr 30, 2022</time> Weekly challenge was pretty poor (one wrong in 14 minutes) and daily puzzles were half-way decent.
+
+- <time>Apr 29, 2022</time> Daily puzzles went really well for a change.
+
+- <time>Apr 28, 2022</time> Bad day KENKEN-wise, took ~14 minutes for all correct and daily puzzles were pretty bad.
+
+- <time>Apr 27, 2022</time> I've noticed that with hard 6x6 puzzles, I need to often make strenuous guesses or YOLO my way out of it. Sigh.
+
+- <time>Apr 26, 2022</time> Sigh, I was about to finish the weekly challenge in about 10 minutes, but the last 6x6 tripped me up.
+
+- <time>Apr 25, 2022</time> I need to stop using the check button every time I put something down.
+
+- <time>Apr 24, 2022</time> Finished the weekly challenge in under 10 minutes BUT I had to basically skip the last 6x6 for that to happen.
+
+- <time>Apr 23, 2022</time> Not bad, a little more than 10 and a half minutes with all correct for today's weekly challenge (I miraculously got the last 6x6 correct lol).
+
+- <time>Apr 22, 2022</time> Daily puzzles went alright.
+
+- <time>Apr 21, 2022</time> Similar story, ~16-17 minutes but all correct (the first 6x6 was pretty darn hard).
+
+- <time>Apr 20, 2022</time> Even worse, went down to 16 minutes with 1 wrong.
+
+- <time>Apr 19, 2022</time> Dropped down to 15 minutes for the weekly challenge :(
+
+- <time>Apr 18, 2022</time> Daily puzzles went meh.
+
+- <time>Apr 17, 2022</time> Got another one below 10 minutes, though this time it took 9 minutes and 46 seconds (all correct) and the daily puzzles went a bit better.
+
+- <time>Apr 16, 2022</time> Got below 10 minutes on the weekly challenge! (~9 and a half minutes with all correct) and daily puzzles are still meh (I even got one wrong).
+
+- <time>Apr 15, 2022</time> Daily puzzles went laughably bad.
+
+- <time>Apr 14, 2022</time> Weekly challenge (all correct in 12 minutes) and daily puzzles went meh, I hope to get below 10 minutes on the weekly challenge next week.
+
+- <time>Apr 13, 2022</time> Daily puzzles went well.
+
+- <time>Apr 12, 2022</time> Finished the weekly challenge in 11 minutes this time around and finished 2 hard 6x6s.
+
+- <time>Apr 11, 2022</time> Bonus challenge took almost 20 minutes and I couldn't do a second hard 6x6 :(
+
+- <time>Apr 10, 2022</time> Still took more than 10 minutes but got all correct this time. Bonus challenge will be done tomorrow!
+
+- <time>Apr 09, 2022</time> Weekly challenge (5/6) took more than 10 minutes (I don't remember the exact time). Need to bring it down to less than 10 minutes consistently.
+
+- <time>Apr 08, 2022</time> Daily puzzles were decent, I'm really happy at my progress at hard 6x6s.
+
+- <time>Apr 07, 2022</time> Barely got through the weekly challenge in 10 minutes (closer to 11 actually but whatever).
+
+- <time>Apr 06, 2022</time> Daily puzzles went alright.
+
+- <time>Apr 05, 2022</time> Haha, they changed the weekly challenge to four 5x5s and two 6x6s (in the order), finished that with all correct in 15 minutes (which is bad, but it's my first try at it so it's alright) and the first hard 6x6 I did took me 10 minutes lol.
+
+- <time>Apr 04, 2022</time> When solving hard puzzles, your main goal isn't to find the correct position of the numbers right away, but rather you need the fuel: this could be from the row-column sum property, just some simple logic (a +12 cell in a 6x6 always has to contain a 5 and two number that add up to seven), anything really. After that, it's a piece of π.
+
+- <time>Apr 03, 2022</time> 6/6 in 4 and a half minutes! The two hard 6x6s went alright, though I did take a lot of time for both of them.
+
+- <time>Apr 02, 2022</time> Finished weekly challenge (5/6 in 10-ish minutes) and I think I'm ready for hard 6x6s now.
+
+- <time>Apr 01, 2022</time> Daily puzzles went meh.
+
+- <time>Mar 31, 2022</time> Why do I keep blundering a puzzle in the weekly challenge? Also, when will I comfortably transition to hard 6x6s, when will my weekly challenges update? So many questions.
+
+- <time>Mar 30, 2022</time> Daily puzzles went meh, I really hope they update our weekly challenges for the next level puzzles (since I'll be getting 6x6s not 4x4s)
+
+- <time>Mar 29, 2022</time> Made it to the next level (I somehow got the first 4x4 wrong in the school level exam) and got all correct in the weekly challenge today and the daily puzzles went okay.
+
+- <time>Mar 28, 2022</time> For some reason, only one daily puzzle was unlocked, but it went well (one medium 6x6).
+
+- <time>Mar 27, 2022</time> Daily puzzles (two medium 6x6s) went alright.
+
+- <time>Mar 26, 2022</time> Slightly better, 5/6.
+
+- <time>Mar 25, 2022</time> Got 4/6 in my last weekly challenge for this week.
+
+- <time>Mar 24, 2022</time> New PB: Weekly challenge completed in less than 4 minutes, why couldn't have the school exam gone like this?
+
+- <time>Mar 23, 2022</time> No weekly challenge today, but the daily puzzles (two medium 6x6s) went alright.
+
+- <time>Mar 22, 2022</time> Sigh, got 4/6 in the weekly challenge and the daily puzzles (two medium 6x6s) went really poorly.
+
+- <time>Mar 21, 2022</time> Both the bonus weekly challenge (5/6 in about 11 minutes) and the daily puzzles went poorly.
+
+- <time>Mar 20, 2022</time> Finished with the weekly challenge and the daily puzzles, will complete the bonus challenge tomorrow.
+
+- <time>Mar 19, 2022</time> Had my school-level exam. It went pretty terribly (most likely all correct in about 10 minutes) but it's very likely I proceed to the next level. Also finished weekly challenge and daily puzzles.
+
+- <time>Mar 18, 2022</time> Finished with the daily puzzles, went really well.
+
+- <time>Mar 17, 2022</time> Found something interesting in my weekly challenge (which went meh) and my daily puzzles: Notice the below image and the "108x" cage:
+
+<img src="/interesting-kenken.png" alt="Half of an interesting 6x6 KENKEN puzzle" height="350px" />
+
+Now, there is only one possibility which is "3 x 6 x 6 x 1", but what about the position? We can use the fact that 1 has to be on the top row of the cage to our advantage and see that that there are only two possibilities left:
+
+<img src="/interesting-kenken-1.png" alt="Half of an interesting 6x6 KENKEN puzzle" height="350px" />
+
+<img src="/interesting-kenken-2.png" alt="Half of an interesting 6x6 KENKEN puzzle" height="350px" />
+
+But regardless of which possibility is correct, **3 and 6 are always in the bottom row!** So, that leaves 4 in the "9+" cage. Thought it was interesting.
+
+- <time>Mar 16, 2022</time> Back to medium 6x6s.
+
+- <time>Mar 15, 2022</time> Weekly challenge (one wrong in about 10 minutes) and daily puzzles (had to drop back to easy 6x6s) went bad.
+
+- <time>Mar 14, 2022</time> Happy Pi Day, I don't think I'm ready for two hard 6x6s. I mean, I didn't check my medium 6x6 (being overconfident) and got it wrong lol.
+
+- <time>Mar 13, 2022</time> Both the weekly challenge (all correct in > 8 minutes) and daily puzzles went badly. At least I have a bonus challenge for [Pi Day](https://en.wikipedia.org/wiki/Pi_Day).
+
+- <time>Mar 12, 2022</time> Finished the last weekly challenge for this week (doesn't make sense, I know) in 6 and a half minutes. The first hard 6x6 was good but it took a long time to find the second one.
+
+- <time>Mar 11, 2022</time> Going to start doing 2 hard 6x6s for my daily puzzles instead of one medium and one hard.
+
+- <time>Mar 10, 2022</time> Finished the weekly challenge (all correct in ~5-6 minutes) and finished a medium and a hard 6x6 (again, went poorly today).
+
+- <time>Mar 09, 2022</time> Finished a medium 6x6 in ~3 minutes but the hard 6x6 went pretty poorly today.
+
+- <time>Mar 08, 2022</time> Not bad, got done with the weekly challenge (all correct in about 6 minutes) and finished a medium, and a hard 6x6 in ~3 minutes each.
+
+- <time>Mar 07, 2022</time> Finished a medium, 6x6 in less than 2 minutes! Hard 6x6 went pretty well too.
+
+- <time>Mar 06, 2022</time> Finally, the weekly challenge went well (all correct in just shy of 6 minutes) and finished a medium and hard 6x6.
+
+- <time>Mar 05, 2022</time> Finished with the weekly challenge (was going amazingly well until I couldn't solve a dumb 5x5, still did 5/6 in 6 and a half minutes) and finished with one medium 6x6 and a hard 6x6.
+
+- <time>Mar 04, 2022</time> I've started doing one medium 6x6 and one hard 6x6. The hard one takes ~4 minutes so my goal is to get that down to 2 minutes.
+
+- <time>Mar 03, 2022</time> Getting better at 6x6 and today's weekly challenge was meh (one wrong in ~8 minutes)
+
+- <time>Mar 02, 2022</time> Finished with two medium 6x6s, they went fine.
+
+- <time>Mar 01, 2022</time> Weekly challenge was going smoothly till one 5x5 messed up my time. I took a little more than 10 minutes and couldn't get the last one. :(
+
+- <time>Feb 28, 2022</time> Medium 6x6 takes too much time and an easy 6x6 takes too little time to solve!
+
+- <time>Feb 27, 2022</time> Finished the weekly challenge (~10 minutes, all correct) and two medium 6x6. I have this bad habit with my daily puzzles of hitting the "Check" button, so I hit it for the last puzzle and saw I got most cells flipped (i.e. wrong). Ouch.
+
+- <time>Feb 26, 2022</time> Finished the weekly challenge (went meh, ~10 minutes and got one wrong) and a medium and hard 6x6 (the hard one took a long time).
+
+- <time>Feb 25, 2022</time> Finished a hard and medium 6x6 after a lot of cherry-picking lol.
+
+- <time>Feb 24, 2022</time> Solid day, finished the weekly challenge in less than 10 minutes and finished a medium 6x6 and a hard 6x6.
+
+- <time>Feb 23, 2022</time> Finished one medium and one hard 6x6 with all operations! (though they took a long time)
+
+- <time>Feb 22, 2022</time> Can now solve an easy 6x6 with all operations in a little under 3 minutes! Also, today's weekly challenge went alright (all correct but in 10 minutes, got stuck with a puzzle).
+
+- <time>Feb 21, 2022</time> Finished with two puzzles, including a medium 6x6 (with + and -) in only 2 and a half minutes!
+
+- <time>Feb 20, 2022</time> Pretty slow throughout my two weekly challenges (one of them was a bonus and I got one wrong) and my daily puzzles. At least I started with addition and subtraction for 6x6!
+
+- <time>Feb 19, 2022</time> Amazing day! Beat my record (all correct in 5 minutes and 12 seconds) and moved up to easy (not easiest/very easy) 6x6 with only addition.
+
+- <time>Feb 18, 2022</time> No weekly challenge today but I finished a hard 5x5 and a very easy 6x6 (improving in time quite a bit).
+
+- <time>Feb 17, 2022</time> Finished a hard 5x5 and a very easy 6x6 (which took way too long lol) and I think I hit a new record for the weekly challenge, all correct in 5 minutes and 59 seconds!
+
+- <time>Feb 16, 2022</time> Finished two hard 5x5s, going to start doing one 6x6 (starting with all operations + easiest and working my way up) and one hard 5x5 since all the stages above school level have two 6x6s for my category!
+
+- <time>Feb 15, 2022</time> Finished with 5/6 again and (for fun) I did an easy 6x6 (with only addition) and the usual hard 5x5 (both took roughly the same amount of time!)
+
+- <time>Feb 14, 2022</time> Not bad, 5/6 again and finished the two hard 5x5s quite quickly.
+
+- <time>Feb 13, 2022</time> Solid day, 5/6 in the weekly challenge and finished the two hard 5x5s.
+
+- <time>Feb 12, 2022</time> Alright day, finished the two weekly challenges remaining for this week (6/6 in the first one, 4/6 in the other, both times I used a decent amount of time) and finished my two hard 5x5s for the day.
+
+- <time>Feb 11, 2022</time> Nice! A new record, all puzzles correct in only ~6 minutes! Also got both my hard 5x5's done in less than 2 minutes. I already feel ready for the exam.
+
+- <time>Feb 10, 2022</time> Solved the weekly challenge in only 8 minutes! (it also wrongly marked my first 4x4 as incorrect, weird) and I finished one hard 5x5 (blocked me from doing a second one, weird).
+
+- <time>Feb 09, 2022</time> Got done with the last Jan weekly challenge (4/6, pretty meh) and finished two hard 5x5's (last one took a long time).
+
+- <time>Feb 08, 2022</time> Alright day, finished a weekly challenge (5 out of 6) and 2 hard 5x5's (though the last one I had to rely on the check tool a lot).
+
+- <time>Feb 07, 2022</time> Finished a weekly challenge (all correct, used a little more than half the time) and 2 hard 5x5's (all correct).
+
+- <time>Feb 06, 2022</time> Going to finish the early-Jan weekly challenge I missed.
+
+- <time>Feb 05, 2022</time> Awesome day KENKEN-wise, got full on the weekly challenge with 13 minutes to spare and finished two hard 5x5s.
+
+- <time>Feb 04, 2022</time> Very similar to yesterday, finished the weekly challenge (5 out of 6 with exactly 15 minutes left) and the daily puzzles (got the hard 5x5 wrong).
+
+- <time>Feb 03, 2022</time> Finished the weekly challenge (it was alright, 5 out of 6 with about 17 minutes left) and the daily puzzles.
+
+- <time>Feb 02, 2022</time> Not bad, finished both my daily puzzles (though I took a long time).
+
+- <time>Feb 01, 2022</time> Awesome progress! I got done with my two daily puzzles (all correct) and finished with weekly challenge 2 (which I completed in about half the time with all correct!)
+
+- <time>Jan 31, 2022</time> I still got it! A medium-level 4x4 takes me less than a minute, though 5x5's I still have to work on.
+
+- <time>Jan 30, 2022</time> Registered for this year's edition after taking a break in 2021, I'll be getting 2 4x4's and 4 5x5's. Let's see how this project will go!
 <hr />
 
 ## <span id="duolingo">[Duolingo](https://duolingo.com)</span>
