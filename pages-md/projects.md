@@ -77,6 +77,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Jan 13, 2023-present</small>  
 <small>Currently part of the organising team for a middle school computer science event. Trying to make this as successful as possible.</small>
 
+<hr />
+
 #### Log
 
 - <time>Jan 13, 2023</time> Attended a meeting and worked on the team randomizer.
@@ -88,6 +90,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Dec 29, 2022-present</small>  
 <small>A cold email led to me and another person co-founding EA UAE. Trying to make this as successful as possible.</small>
 
+<hr />
+
 #### Log
 
 - <time>Dec 29, 2022-Jan 14, 2023</time> I think cold emails are an incredibly powerful tool that must be used responsibly. Before this, I thought that I was the "king of cold emails", as it led to the <a href="#eadata">Effective Altruism Data and LPP project</a>. However, I got dethroned when someone cold emailed after seeing <a href="https://forum.effectivealtruism.org/posts/2XF4cFs4txmEdegtT/">this EA Forum question</a> that I wrote quite some time back.
@@ -95,12 +99,6 @@ Confused? See the <a href="#note">note</a> down below.
   What was originally me being pessimistic about re-starting EA Dubai led to meetings with EA AUS, [EA NYUAD](https://www.eanyuad.org/) and even an advisor from [CEA](https://www.centreforeffectivealtruism.org/)! So far, we've gotten some EA AUS and EA NYUAD members to join us - and we're on the look out for someone else to help lead this project with us! I'm really excited to see where this project is after exactly half a year (July 14, 2023)!
 
 <hr />
-
-#### Log
-
-- <time>Jan 04, 2023-Jan 14, 2023</time> Well, I initially thought that I would just be a volunteer for OptX's The Symposium 1.0, but roughly a day before the event (Jan 07, 2023), I became one of the newest committee member. In the end, The Symposium 1.0 was an incredible success. Seeing it all unfold was one of the greatest moments in my life.
-
-![OptX - The Symposium 1.0](/optx.jpg)
 
 ## <span id="optx">OptX</span>
 
@@ -114,6 +112,8 @@ Confused? See the <a href="#note">note</a> down below.
 - <time>Jan 04, 2023-Jan 14, 2023</time> Well, I initially thought that I would just be a volunteer for OptX's The Symposium 1.0, but roughly a day before the event (Jan 07, 2023), I became one of the newest committee member. In the end, The Symposium 1.0 was an incredible success. Seeing it all unfold was one of the greatest moments in my life.
 
 ![OptX - The Symposium 1.0](/optx.jpg)
+
+<hr />
 
 ## <span id="solaris-2">SOLARIS (Second Edition)</span>
 
@@ -143,6 +143,8 @@ Confused? See the <a href="#note">note</a> down below.
 - <time>Dec 26, 2022</time> Second day went better than the first: espicially since we had really good debate responses and rebuttals.
 
 - <time>Dec 24, 2022</time> First day! Along with my co-facilitator, we gave a good overview about rationality.
+
+<hr />
 
 ## <span id="codewars">[Codewars](https://www.codewars.com)</span>
 
