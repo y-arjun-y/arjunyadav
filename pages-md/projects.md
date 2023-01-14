@@ -100,7 +100,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-## <span id="optx">OptX</span>
+## <span id="optx">[OptX](https://www.instagram.com/optx.uae/)</span>
 
 <small>Jan 04, 2023-present</small>  
 <small>Became part of OptX, my school's student-led initiative to provide opportunities to the youth. Trying to the best job I can.</small>
@@ -1235,7 +1235,9 @@ function getCount(str) {
 
 #### Log
 
-- <time>Dec 16, 2022</time> Finished my seventh proof-reading (possibly my last for this year - so grateful to have been a part of this). The link to the post will be **here** once done.
+- <time>Jan 09, 2023</time> Finished my eighth proof-reading. The link to the post will be **here** once done.
+
+- <time>Dec 16, 2022</time> Finished my seventh proof-reading (possibly my last for this year - so grateful to have been a part of this). The link to the post will be [here](https://www.cold-takes.com/transformative-ai-issues-not-just-misalignment-an-overview/) once done.
 
 - <time>Oct 12, 2022</time> Finished my sixth proof-reading (although I unfortunately missed the deadline by a bit). The link to the post will be [here](https://www.cold-takes.com/high-level-hopes-for-ai-alignment/) once done.
 
