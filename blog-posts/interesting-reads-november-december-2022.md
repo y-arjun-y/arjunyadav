@@ -1,6 +1,6 @@
 ---
 title: Interesting Reads - November-December 2022
-publish_date: Dec 31, 2022
+publish_date: Dec 31, 2022 23:59
 meta_description: I log everything I read in Notion. In these two months, I've read 19 newsletters and 3 articles. Here are some of the highlights of this month!
 meta_image: https://www.arjunyadav.net/dalle-2-robot-sitting.png
 ---
