@@ -155,6 +155,13 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 15, 2023</time> Finished [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c/) in Python:
+
+```py
+def narcissistic(value):
+    return sum([int(i) ** len(str(value)) for i in str(value)]) == value
+```
+
 - <time>Jan 04, 2023</time> Finished [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/) in Python:
 
 ```py
@@ -608,6 +615,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 15, 2022</time> "Continued" with the course.
 
 - <time>Jan 04, 2022-Jan 11, 2022</time> "Continued" with the course.
 
@@ -1262,6 +1271,14 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 15, 2023</time> Finished [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/):
+
+```py
+class Solution:
+    def maximumCount(self, nums: List[int]) -> int:
+        return max(len([i for i in nums if i < 0]), len([i for i in nums if i > 0]))
+```
 
 - <time>Jan 04, 2023</time> Finished [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/):
 
