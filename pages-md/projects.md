@@ -1,20 +1,19 @@
 ---
 title: Projects
-publish_date: Jan 14, 2023
+publish_date: Jan 16, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
 ## Table of Contents
 
-### Active (11)
+### Active (10)
 
 - <a href="#middleschoolcsevent">Middle School CS Event</a>
 - <a href="#eauae">EA UAE</a>
 - <a href="#optx">OptX</a>
 - <a href="#solaris-2">SOLARIS (Second Edition)</a>
 - <a href="#codewars">Codewars</a>
-- <a href="#adventofcode">Advent of Code</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
 - <a href="#brilliant">Brilliant</a>
 - <a href="#coldtakesbetareading">Cold Takes Beta Reading</a> (O)
@@ -30,8 +29,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
 
-### Done (24)
+### Done (25)
 
+- <a href="#adventofcode">Advent of Code</a>
 - <a href="#y1d2">y1d2</a>
 - <a href="#introml">Introduction to Machine Learning</a>
 - <a href="#computingcamp2022">Winter Computing Camp</a>
@@ -81,6 +81,12 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 16, 2023</time> Worked on some documents.
+
+- <time>Jan 15, 2023</time> Attended a meeting and worked on some documents.
+
+- <time>Jan 14, 2023</time> Finished the team randomizer for the most part.
+
 - <time>Jan 13, 2023</time> Attended a meeting and worked on the team randomizer.
 
 <hr />
@@ -93,6 +99,10 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 16, 2023</time> Still working with Airtable.
+
+- <time>Jan 15, 2023</time> Worked with [Airtable](https://airtable.com/).
 
 - <time>Dec 29, 2022-Jan 14, 2023</time> I think cold emails are an incredibly powerful tool that must be used responsibly. Before this, I thought that I was the "king of cold emails", as it led to the <a href="#eadata">Effective Altruism Data and LPP project</a>. However, I got dethroned when someone cold emailed after seeing <a href="https://forum.effectivealtruism.org/posts/2XF4cFs4txmEdegtT/">this EA Forum question</a> that I wrote quite some time back.
 
@@ -124,6 +134,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 16, 2023</time> In discussion regarding the closing ceremony.
+
 - <time>Jan 05, 2023-Jan 14, 2023</time> Did some more organisational work, held the last (technically fourth) day and sent out the capstone project submission form!
 
 - <time>Jan 04, 2023</time> Did some organisational work.
@@ -154,6 +166,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 16, 2023</time> Tried to solve a couple of problems in Python, but to no avail.
 
 - <time>Jan 15, 2023</time> Finished [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c/) in Python:
 
@@ -546,67 +560,6 @@ function getCount(str) {
 - <time>Dec 13, 2022</time> Finished a couple of different problems (?) and got to 8 kyu.
 
 <hr />
-
-## <span id="adventofcode">Advent of Code</span>
-
-<small>Dec 01, 2022-present</small>  
-<small>Trying to Currently running an advent of code for my school's Python club. Due to privacy reasons, I'm being incredibly vague.</small>
-
-<hr />
-
-#### Log
-
-- <time>Dec 25, 2022</time> Twenty-fifth and final problem is up. Really like this one as it's Christmas themed (Merry Christmas by the way!), will send out the results soon.
-
-- <time>Dec 24, 2022</time> Twenty-fourth problem is up.
-
-- <time>Dec 23, 2022</time> Twenty-third problem is up.
-
-- <time>Dec 22, 2022</time> Twenty-second problem is up.
-
-- <time>Dec 21, 2022</time> Twenty-first problem is up.
-
-- <time>Dec 20, 2022</time> Twentieth problem is up.
-
-- <time>Dec 19, 2022</time> Nineteenth problem is up.
-
-- <time>Dec 18, 2022</time> Eighteenth problem is up.
-
-- <time>Dec 17, 2022</time> Seventeenth problem is up.
-
-- <time>Dec 16, 2022</time> Sixteenth problem is up.
-
-- <time>Dec 15, 2022</time> Fifteenth problem is up. Really like this one.
-
-- <time>Dec 14, 2022</time> Fourteenth problem is up.
-
-- <time>Dec 13, 2022</time> Thirteenth problem is up.
-
-- <time>Dec 12, 2022</time> Twelfth problem is up.
-
-- <time>Dec 11, 2022</time> Eleventh problem is up.
-
-- <time>Dec 10, 2022</time> Tenth problem is up. Really like this one.
-
-- <time>Dec 09, 2022</time> Ninth problem is up.
-
-- <time>Dec 08, 2022</time> Eighth problem is up.
-
-- <time>Dec 07, 2022</time> Seventh problem is up.
-
-- <time>Dec 06, 2022</time> Sixth problem is up.
-
-- <time>Dec 05, 2022</time> Fifth problem is up.
-
-- <time>Dec 04, 2022</time> Fourth problem is up.
-
-- <time>Dec 03, 2022</time> Third problem is up.
-
-- <time>Dec 02, 2022</time> Second problem is up.
-
-- <time>Dec 01, 2022</time> First problem is up! Hope to get some responses soon.
-<hr />
-
 ## <span id="mathforml">Mathematics for Machine Learning</span>
 
 <small>Jul 04, 2022-present</small>  
@@ -816,6 +769,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 16, 2023</time> Got started with [Cryptocurrency](https://brilliant.org/courses/cryptocurrency/).
 
 - <time>Jan 04, 2023-Jan 11, 2023</time> Finished with Introduction to Neural Networks.
 
@@ -1271,6 +1226,14 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 16, 2023</time> Finished [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/):
+
+```py
+class Solution:
+    def differenceOfSum(self, nums: List[int]) -> int:
+        return abs(sum(nums) - sum([int(i) for i in "".join([str(i) for i in nums])]))
+```
 
 - <time>Jan 15, 2023</time> Finished [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/):
 
@@ -7013,6 +6976,8 @@ class Solution:
 
 #### Log
 
+- <time>Jan 16, 2023</time> "Continued" with the Medicial Data Visualizer project.
+
 - <time>Jan 04, 2023</time> Continued with the Medicial Data Visualizer project.
 
 - <time>Jan 03, 2023</time> "Continued" with the Medicial Data Visualizer project.
@@ -8904,6 +8869,68 @@ class Solution:
 
 ## Done
 
+<hr />
+
+## <span id="adventofcode">Advent of Code</span>
+
+<small>Dec 01, 2022-Jan 16, 2023</small>  
+<small>Trying to Currently running an advent of code for my school's Python club. Due to privacy reasons, I'm being incredibly vague.</small>
+
+<hr />
+
+#### Log
+
+- <time>Jan 16, 2023</time> Posted the result post!
+
+- <time>Dec 25, 2022</time> Twenty-fifth and final problem is up. Really like this one as it's Christmas themed (Merry Christmas by the way!), will send out the results soon.
+
+- <time>Dec 24, 2022</time> Twenty-fourth problem is up.
+
+- <time>Dec 23, 2022</time> Twenty-third problem is up.
+
+- <time>Dec 22, 2022</time> Twenty-second problem is up.
+
+- <time>Dec 21, 2022</time> Twenty-first problem is up.
+
+- <time>Dec 20, 2022</time> Twentieth problem is up.
+
+- <time>Dec 19, 2022</time> Nineteenth problem is up.
+
+- <time>Dec 18, 2022</time> Eighteenth problem is up.
+
+- <time>Dec 17, 2022</time> Seventeenth problem is up.
+
+- <time>Dec 16, 2022</time> Sixteenth problem is up.
+
+- <time>Dec 15, 2022</time> Fifteenth problem is up. Really like this one.
+
+- <time>Dec 14, 2022</time> Fourteenth problem is up.
+
+- <time>Dec 13, 2022</time> Thirteenth problem is up.
+
+- <time>Dec 12, 2022</time> Twelfth problem is up.
+
+- <time>Dec 11, 2022</time> Eleventh problem is up.
+
+- <time>Dec 10, 2022</time> Tenth problem is up. Really like this one.
+
+- <time>Dec 09, 2022</time> Ninth problem is up.
+
+- <time>Dec 08, 2022</time> Eighth problem is up.
+
+- <time>Dec 07, 2022</time> Seventh problem is up.
+
+- <time>Dec 06, 2022</time> Sixth problem is up.
+
+- <time>Dec 05, 2022</time> Fifth problem is up.
+
+- <time>Dec 04, 2022</time> Fourth problem is up.
+
+- <time>Dec 03, 2022</time> Third problem is up.
+
+- <time>Dec 02, 2022</time> Second problem is up.
+
+- <time>Dec 01, 2022</time> First problem is up! Hope to get some responses soon.
 <hr />
 
 ## <span id="y1d2">[y1d2](https://y1d2.com)</span>
