@@ -81,6 +81,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 17, 2023</time> Discussed about documents.
+
 - <time>Jan 16, 2023</time> Worked on some documents.
 
 - <time>Jan 15, 2023</time> Attended a meeting and worked on some documents.
@@ -99,6 +101,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 17, 2023</time> Sent out an important email.
 
 - <time>Jan 16, 2023</time> Still working with Airtable.
 
@@ -119,6 +123,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 17, 2023</time> Discussed next meeting.
+
 - <time>Jan 04, 2023-Jan 14, 2023</time> Well, I initially thought that I would just be a volunteer for OptX's The Symposium 1.0, but roughly a day before the event (Jan 07, 2023), I became one of the newest committee member. In the end, The Symposium 1.0 was an incredible success. Seeing it all unfold was one of the greatest moments in my life.
 
 ![OptX - The Symposium 1.0](/optx.jpg)
@@ -133,6 +139,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 17, 2023</time> In discussion regarding the closing ceremony.
 
 - <time>Jan 16, 2023</time> In discussion regarding the closing ceremony.
 
@@ -166,6 +174,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 17, 2023</time> Trying to solve [Catching Car Mileage Numbers](https://www.codewars.com/kata/52c4dd683bfd3b434c000292/train/python)
 
 - <time>Jan 16, 2023</time> Tried to solve a couple of problems in Python, but to no avail.
 
@@ -569,6 +579,10 @@ function getCount(str) {
 
 #### Log
 
+- <time>Jan 17, 2022</time> "Continued" with the course.
+
+- <time>Jan 16, 2022</time> "Continued" with the course.
+
 - <time>Jan 15, 2022</time> "Continued" with the course.
 
 - <time>Jan 04, 2022-Jan 11, 2022</time> "Continued" with the course.
@@ -769,6 +783,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 17, 2023</time> Continued with Cryptocurrency.
 
 - <time>Jan 16, 2023</time> Got started with [Cryptocurrency](https://brilliant.org/courses/cryptocurrency/).
 
@@ -1226,6 +1242,33 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 17, 2023</time> Finished [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/):
+
+```py
+class Solution:
+    def categorizeBox(self, length: int, width: int, height: int, mass: int) -> str:
+        is_bulky = False
+        is_heavy = False
+
+        if length >= 1e4 or width >= 1e4 or height >= 1e4 or mass >= 1e4:
+            is_bulky = True
+        elif (length * width * height) >= 1e9:
+            is_bulky = True
+
+        if mass >= 100:
+            is_heavy = True
+
+        if is_bulky and is_heavy:
+            return "Both"
+        elif is_bulky:
+            return "Bulky"
+        elif is_heavy:
+            return "Heavy"
+        else:
+            return "Neither"
+
+```
 
 - <time>Jan 16, 2023</time> Finished [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/):
 
