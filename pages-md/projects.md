@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jan 17, 2023
+publish_date: Jan 18, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -81,6 +81,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 18, 2023</time> Worked on team randomizer and documents.
+
 - <time>Jan 17, 2023</time> Discussed about documents.
 
 - <time>Jan 16, 2023</time> Worked on some documents.
@@ -101,6 +103,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 18, 2023</time> Sent out a message.
 
 - <time>Jan 17, 2023</time> Sent out an important email.
 
@@ -140,6 +144,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 18, 2023</time> Received capstone projects. Closing ceremony will be delayed but for now, will host an online meeting to discuss the projects.
+
 - <time>Jan 17, 2023</time> In discussion regarding the closing ceremony.
 
 - <time>Jan 16, 2023</time> In discussion regarding the closing ceremony.
@@ -174,6 +180,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 18, 2023</time> Still no luck.
 
 - <time>Jan 17, 2023</time> Trying to solve [Catching Car Mileage Numbers](https://www.codewars.com/kata/52c4dd683bfd3b434c000292/train/python)
 
@@ -579,19 +587,21 @@ function getCount(str) {
 
 #### Log
 
-- <time>Jan 17, 2022</time> "Continued" with the course.
+- <time>Jan 18, 2023</time> Continued with the course.
 
-- <time>Jan 16, 2022</time> "Continued" with the course.
+- <time>Jan 17, 2023</time> "Continued" with the course.
 
-- <time>Jan 15, 2022</time> "Continued" with the course.
+- <time>Jan 16, 2023</time> "Continued" with the course.
 
-- <time>Jan 04, 2022-Jan 11, 2022</time> "Continued" with the course.
+- <time>Jan 15, 2023</time> "Continued" with the course.
 
-- <time>Jan 04, 2022</time> Continued with Week 1 and got 100% on the practice quiz!
+- <time>Jan 04, 2023-Jan 11, 2023</time> "Continued" with the course.
 
-- <time>Jan 03, 2022</time> Continued with Week 1.
+- <time>Jan 04, 2023</time> Continued with Week 1 and got 100% on the practice quiz!
 
-- <time>Jan 02, 2022</time> Got started with Week 1 of Principal Component Analysis.
+- <time>Jan 03, 2023</time> Continued with Week 1.
+
+- <time>Jan 02, 2023</time> Got started with Week 1 of Principal Component Analysis.
 
 - <time>Dec 19, 2022</time> Finished with Week 6 and hence finished with the multivariate calculus course! Will (hopefully) start [Principal Component Analysis](https://www.coursera.org/learn/pca-machine-learning) on Jan 2023.
 
@@ -783,6 +793,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 18, 2023</time> Continued with Cryptocurrency.
 
 - <time>Jan 17, 2023</time> Continued with Cryptocurrency.
 
@@ -1242,6 +1254,30 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 18, 2023</time> Finished [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/):
+
+```py
+class Solution:
+    def closetTarget(self, words: List[str], target: str, startIndex: int) -> int:
+        if target not in words:
+            return -1
+        else:
+            index = startIndex
+            backward_index = startIndex
+            count = 0
+
+            while words[index] != target and words[backward_index] != target:
+                count += 1
+
+                if index < len(words) - 1:
+                    index += 1
+                else:
+                    index = 0
+                backward_index -= 1
+
+            return count
+```
 
 - <time>Jan 17, 2023</time> Finished [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/):
 
@@ -7019,13 +7055,15 @@ class Solution:
 
 #### Log
 
-- <time>Jan 16, 2023</time> "Continued" with the Medicial Data Visualizer project.
+- <time>Jan 16, 2023</time> Continued with the Medical Data Visualizer project.
 
-- <time>Jan 04, 2023</time> Continued with the Medicial Data Visualizer project.
+- <time>Jan 16, 2023</time> "Continued" with the Medical Data Visualizer project.
 
-- <time>Jan 03, 2023</time> "Continued" with the Medicial Data Visualizer project.
+- <time>Jan 04, 2023</time> Continued with the Medical Data Visualizer project.
 
-- <time>Jan 02, 2023</time> "Got started" with the [Medicial Data Visualizer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer) project.
+- <time>Jan 03, 2023</time> "Continued" with the Medical Data Visualizer project.
+
+- <time>Jan 02, 2023</time> "Got started" with the [Medical Data Visualizer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer) project.
 
 - <time>Jan 01, 2023</time> Finished the Demographic Data Analyzer Project ([here](https://replit.com/@yarjuny/Demographic-Data-Analyzer-Project) it is).
 
