@@ -587,6 +587,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Jan 19, 2023</time> "Continued" with the course.
+
 - <time>Jan 18, 2023</time> Continued with the course.
 
 - <time>Jan 17, 2023</time> "Continued" with the course.
@@ -793,6 +795,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 19, 2023</time> Continued with Cryptocurrency.
 
 - <time>Jan 18, 2023</time> Continued with Cryptocurrency.
 
