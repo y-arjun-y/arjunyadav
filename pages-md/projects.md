@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jan 18, 2023
+publish_date: Jan 20, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -144,6 +144,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 20, 2023</time> Reviewed the first capstone project.
+
 - <time>Jan 18, 2023</time> Received capstone projects. Closing ceremony will be delayed but for now, will host an online meeting to discuss the projects.
 
 - <time>Jan 17, 2023</time> In discussion regarding the closing ceremony.
@@ -180,6 +182,26 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 20, 2023</time> Finished [Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059/) in Python:
+
+```py
+def cakes(recipe, available):
+    count = 0
+    max_scale = []
+
+    for k, v in recipe.items():
+        if k not in available:
+            max_scale = [0]
+        else:
+            if available[k] < v:
+                max_scale = [0]
+            else:
+                max_scale.append(available[k] // v)
+
+    count = min(max_scale, default=0)
+    return count
+```
 
 - <time>Jan 18, 2023</time> Still no luck.
 
@@ -587,6 +609,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Jan 20, 2023</time> Continued with the course.
+
 - <time>Jan 19, 2023</time> "Continued" with the course.
 
 - <time>Jan 18, 2023</time> Continued with the course.
@@ -795,6 +819,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 20, 2023</time> Continued with Cryptocurrency.
 
 - <time>Jan 19, 2023</time> Continued with Cryptocurrency.
 
@@ -1258,6 +1284,25 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 20, 2023</time> Finished [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/):
+
+```py
+class Solution:
+    def getMaximumGenerated(self, n: int) -> int:
+        if n == 0:
+            return 0
+
+        array = [0] + [1] + [0 for i in range(n-1)]
+
+        for i in range(2, n+1):
+            if i % 2 == 0:
+                array[i] = array[i // 2]
+            else:
+                array[i] = array[i // 2] + array[(i // 2) + 1]
+
+        return max(array)
+```
 
 - <time>Jan 18, 2023</time> Finished [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/):
 
@@ -7059,7 +7104,9 @@ class Solution:
 
 #### Log
 
-- <time>Jan 16, 2023</time> Continued with the Medical Data Visualizer project.
+- <time>Jan 20, 2023</time> Continued with the Medical Data Visualizer project.
+
+- <time>Jan 18, 2023</time> Continued with the Medical Data Visualizer project.
 
 - <time>Jan 16, 2023</time> "Continued" with the Medical Data Visualizer project.
 
