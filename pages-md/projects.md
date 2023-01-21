@@ -81,7 +81,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jan 20, 2023</time> Attended meeting and worked on team randomizer.
+- <time>Jan 21, 2023</time> Attended meetings and worked on the team randomizer.
+
+- <time>Jan 20, 2023</time> Attended meeting and worked on the team randomizer.
 
 - <time>Jan 18, 2023</time> Worked on team randomizer and documents.
 
