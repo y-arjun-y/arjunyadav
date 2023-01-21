@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jan 20, 2023
+publish_date: Jan 21, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -106,6 +106,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 21, 2023</time> Figured out how to get data for Airtable and got started with a post.
+
 - <time>Jan 20, 2023</time> Had a productive meeting!
 
 - <time>Jan 18, 2023</time> Sent out a message.
@@ -148,6 +150,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 21, 2023</time> Finished reviewing two more capstone projects.
+
 - <time>Jan 20, 2023</time> Reviewed the first capstone project.
 
 - <time>Jan 18, 2023</time> Received capstone projects. Closing ceremony will be delayed but for now, will host an online meeting to discuss the projects.
@@ -186,6 +190,26 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 21, 2023</time> Finished [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7) in Python:
+
+```py
+def make_readable(seconds):
+    hours = seconds // 3600
+    minutes = (seconds - (hours * 3600)) // 60
+    seconds_print = seconds - (minutes * 60) - (hours * 3600)
+
+    if len(str(hours)) < 2:
+        hours = "0" + str(hours)
+
+    if len(str(minutes)) < 2:
+        minutes = "0" + str(minutes)
+
+    if len(str(seconds_print)) < 2:
+        seconds_print = "0" + str(seconds_print)
+
+    return f"{hours}:{minutes}:{seconds_print}"
+```
 
 - <time>Jan 20, 2023</time> Finished [Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059/) in Python:
 
@@ -613,6 +637,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Jan 21, 2023</time> Continued with the course.
+
 - <time>Jan 20, 2023</time> Continued with the course.
 
 - <time>Jan 19, 2023</time> "Continued" with the course.
@@ -823,6 +849,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 21, 2023</time> Continued with Cryptocurrency.
 
 - <time>Jan 20, 2023</time> Continued with Cryptocurrency.
 
@@ -1288,6 +1316,21 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 21, 2023</time> Finished [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array):
+
+```py
+class Solution:
+    def findKDistantIndices(self, nums: List[int], key: int, k: int) -> List[int]:
+        k_indices = []
+
+        for i in range(len(nums)):
+            for j in range(len(nums)):
+                if abs(i - j) <= k and nums[j] == key:
+                    k_indices.append(i)
+
+        return sorted(list(dict.fromkeys(k_indices)))
+```
 
 - <time>Jan 20, 2023</time> Finished [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/):
 
@@ -7107,6 +7150,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Jan 21, 2023</time> "Continued" with the Medical Data Visualizer project.
 
 - <time>Jan 20, 2023</time> Continued with the Medical Data Visualizer project.
 
