@@ -81,6 +81,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 22, 2023</time> Presented the team randomizer.
+
 - <time>Jan 21, 2023</time> Attended meetings and worked on the team randomizer.
 
 - <time>Jan 20, 2023</time> Attended meeting and worked on the team randomizer.
@@ -107,6 +109,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 22, 2023</time> For now, finished with Airtable.
 
 - <time>Jan 21, 2023</time> Figured out how to get data for Airtable and got started with a post.
 
@@ -192,6 +196,17 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 22, 2023</time> Finished [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/) in Python:
+
+```py
+def first_non_repeating_letter(string):
+    for i in range(len(string)):
+        if len([j for j in range(len(string)) if string[j].lower() == string[i].lower() and j != i]) == 0:
+            return string[i]
+    else:
+        return ""
+```
 
 - <time>Jan 21, 2023</time> Finished [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7) in Python:
 
@@ -639,6 +654,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Jan 22, 2023</time> Continued with the course.
+
 - <time>Jan 21, 2023</time> Continued with the course.
 
 - <time>Jan 20, 2023</time> Continued with the course.
@@ -851,6 +868,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 22, 2023</time> Continued with Cryptocurrency.
 
 - <time>Jan 21, 2023</time> Continued with Cryptocurrency.
 
@@ -1318,6 +1337,21 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 22, 2023</time> Finished [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/):
+
+```py
+class Solution:
+    def alternateDigitSum(self, n: int) -> int:
+        digit_sum = 0
+        sign = 1
+
+        for i in str(n):
+            digit_sum += sign*(int(i))
+            sign *= -1
+
+        return digit_sum
+```
 
 - <time>Jan 21, 2023</time> Finished [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array):
 
