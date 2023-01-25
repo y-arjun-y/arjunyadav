@@ -1,15 +1,14 @@
 ---
 title: Projects
-publish_date: Jan 21, 2023
+publish_date: Jan 25, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
 ## Table of Contents
 
-### Active (10)
+### Active (9)
 
-- <a href="#middleschoolcsevent">Middle School CS Event</a>
 - <a href="#eauae">EA UAE</a>
 - <a href="#optx">OptX</a>
 - <a href="#solaris-2">SOLARIS (Second Edition)</a>
@@ -29,8 +28,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
 
-### Done (25)
+### Done (26)
 
+- <a href="#middleschoolcsevent">Middle School CS Event</a>
 - <a href="#adventofcode">Advent of Code</a>
 - <a href="#y1d2">y1d2</a>
 - <a href="#introml">Introduction to Machine Learning</a>
@@ -72,35 +72,6 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-## <span id="middleschoolcsevent">Middle School CS Event</span>
-
-<small>Jan 13, 2023-present</small>  
-<small>Currently part of the organising team for a middle school computer science event. Trying to make this as successful as possible.</small>
-
-<hr />
-
-#### Log
-
-- <time>Jan 22, 2023</time> Presented the team randomizer.
-
-- <time>Jan 21, 2023</time> Attended meetings and worked on the team randomizer.
-
-- <time>Jan 20, 2023</time> Attended meeting and worked on the team randomizer.
-
-- <time>Jan 18, 2023</time> Worked on team randomizer and documents.
-
-- <time>Jan 17, 2023</time> Discussed about documents.
-
-- <time>Jan 16, 2023</time> Worked on some documents.
-
-- <time>Jan 15, 2023</time> Attended a meeting and worked on some documents.
-
-- <time>Jan 14, 2023</time> Finished the team randomizer for the most part.
-
-- <time>Jan 13, 2023</time> Attended a meeting and worked on the team randomizer.
-
-<hr />
-
 ## <span id="eauae">[EA UAE](https://www.instagram.com/effectivealtruism.uae/)</span>
 
 <small>Dec 29, 2022-present</small>  
@@ -109,6 +80,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 22, 2023-Jan 25, 2023</time> Sent out the Airtable and, in general, got a lot of work done for this project!
 
 - <time>Jan 22, 2023</time> For now, finished with Airtable.
 
@@ -156,6 +129,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 25, 2023</time> Scheduled the last meeting for a while.
+
 - <time>Jan 21, 2023</time> Finished reviewing two more capstone projects.
 
 - <time>Jan 20, 2023</time> Reviewed the first capstone project.
@@ -196,6 +171,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 25, 2023</time> Couldn't solve a problem today, but that's okay.
 
 - <time>Jan 22, 2023</time> Finished [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/) in Python:
 
@@ -654,6 +631,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Jan 25, 2023</time> "Continued" with the course.
+
 - <time>Jan 22, 2023</time> Continued with the course.
 
 - <time>Jan 21, 2023</time> Continued with the course.
@@ -868,6 +847,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 25, 2023</time> Continued with Cryptocurrency.
 
 - <time>Jan 22, 2023</time> Continued with Cryptocurrency.
 
@@ -1268,7 +1249,7 @@ function getCount(str) {
 
 - <time>May 01, 2022</time> Finished [Pizza Thief](https://brilliant.org/daily-problems/pizza-thief/) (got it correct) and continued with Parallelism.
 
-- <time>Apr 29, 2022</time> Finished [Is It Balanced?](https://brilliant.org/daily-problems/balance-mobile-10/) (got it correct) and got started with [Parallelism](https://brilliant.org/courses/computer-science-essentials/computational-problem-solving-2/parallelism/) (not to self: "embarrassingly parallel" is a real term!)
+- <time>Apr 29, 2022</time> Finished [Is It Balanced?](https://brilliant.org/daily-problems/balance-mobile-10/) (got it correct) and got started with [Parallelism](https://brilliant.org/courses/computer-science-essentials/computational-problem-solving-2/parallelism/) (note to self: "embarrassingly parallel" is a real term!)
 
 - <time>Apr 28, 2022</time> Finished with Repetition.
 
@@ -1337,6 +1318,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 25, 2023</time> Couldn't solve a problem today, but that's okay.
 
 - <time>Jan 22, 2023</time> Finished [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/):
 
@@ -7187,6 +7170,8 @@ class Solution:
 
 #### Log
 
+- <time>Jan 25, 2023</time> "Continued" with the Medical Data Visualizer project.
+
 - <time>Jan 21, 2023</time> "Continued" with the Medical Data Visualizer project.
 
 - <time>Jan 20, 2023</time> Continued with the Medical Data Visualizer project.
@@ -9085,6 +9070,37 @@ class Solution:
 <hr />
 
 ## Done
+
+<hr />
+
+## <span id="middleschoolcsevent">Middle School CS Event</span>
+
+<small>Jan 13, 2023-Jan 24, 2023</small>  
+<small>I was part of the organising team for a middle school computer science event. Tried my best to make this as successful as possible.</small>
+
+<hr />
+
+#### Log
+
+- <time>Jan 23, 2023-Jan 24, 2023</time> Event was a success! Everything ran (mostly) smoothly, I got to teach Python for about an hour (showed me how tiring but rewarding teaching is) and had a really nice sit-down chat towards the end of the second day.
+
+- <time>Jan 22, 2023</time> Presented the team randomizer.
+
+- <time>Jan 21, 2023</time> Attended meetings and worked on the team randomizer.
+
+- <time>Jan 20, 2023</time> Attended meeting and worked on the team randomizer.
+
+- <time>Jan 18, 2023</time> Worked on team randomizer and documents.
+
+- <time>Jan 17, 2023</time> Discussed about documents.
+
+- <time>Jan 16, 2023</time> Worked on some documents.
+
+- <time>Jan 15, 2023</time> Attended a meeting and worked on some documents.
+
+- <time>Jan 14, 2023</time> Finished the team randomizer for the most part.
+
+- <time>Jan 13, 2023</time> Attended a meeting and worked on the team randomizer.
 
 <hr />
 
