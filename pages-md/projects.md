@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jan 25, 2023
+publish_date: Jan 26, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -10042,6 +10042,8 @@ class Solution:
 
 <small>Oct 20, 2022-Oct 20, 2022</small>  
 <small>Participated in a local hackathon and did pretty well with my teammates! Due to privacy reasons, I was being incredibly vague.</small>
+
+<hr />
 
 #### Log
 
