@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jan 26, 2023
+publish_date: Jan 27, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -171,6 +171,13 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 27, 2023</time> Finished [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) in Python:
+
+```py
+def find_uniq(arr):
+    return [i for i in set(arr) if arr.count(i) == 1][0]
+```
 
 - <time>Jan 25, 2023</time> Couldn't solve a problem today, but that's okay.
 
@@ -1318,6 +1325,21 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 27, 2023</time> Finished [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/):
+
+```py
+class Solution:
+    def maxDistance(self, colors: List[int]) -> int:
+        distances = []
+
+        for i in range(len(colors)):
+            for j in range(len(colors)):
+                if colors[i] != colors[j]:
+                    distances.append(abs(i - j))
+
+        return max(distances)
+```
 
 - <time>Jan 25, 2023</time> Couldn't solve a problem today, but that's okay.
 
