@@ -7,11 +7,10 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (9)
+### Active (8)
 
 - <a href="#eauae">EA UAE</a>
 - <a href="#optx">OptX</a>
-- <a href="#solaris-2">SOLARIS (Second Edition)</a>
 - <a href="#codewars">Codewars</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
 - <a href="#brilliant">Brilliant</a>
@@ -21,6 +20,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ### Inactive/Paused (6)
 
+- <a href="#solaris-2">SOLARIS (Second Edition)</a>
 - <a href="#drums">Drums</a> (F&S)
 - <a href="#chess">Chess</a> (S)
 - <a href="#agisf">AGI Safety Fundamentals: Technical Track</a> (F)
@@ -81,6 +81,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 27, 2023</time> Had a productive meeting.
+
 - <time>Jan 22, 2023-Jan 25, 2023</time> Sent out the Airtable and, in general, got a lot of work done for this project!
 
 - <time>Jan 22, 2023</time> For now, finished with Airtable.
@@ -117,49 +119,6 @@ Confused? See the <a href="#note">note</a> down below.
 - <time>Jan 04, 2023-Jan 14, 2023</time> Well, I initially thought that I would just be a volunteer for OptX's The Symposium 1.0, but roughly a day before the event (Jan 07, 2023), I became one of the newest committee member. In the end, The Symposium 1.0 was an incredible success. Seeing it all unfold was one of the greatest moments in my life.
 
 ![OptX - The Symposium 1.0](/optx.jpg)
-
-<hr />
-
-## <span id="solaris-2">SOLARIS (Second Edition)</span>
-
-<small>Dec 24, 2022-present</small>  
-<small>Trying to co-run the second edition of a logic, rationality and Effective Altruism club that I co-founded.</small>
-
-<hr />
-
-#### Log
-
-- <time>Jan 25, 2023</time> Scheduled the last meeting for a while.
-
-- <time>Jan 21, 2023</time> Finished reviewing two more capstone projects.
-
-- <time>Jan 20, 2023</time> Reviewed the first capstone project.
-
-- <time>Jan 18, 2023</time> Received capstone projects. Closing ceremony will be delayed but for now, will host an online meeting to discuss the projects.
-
-- <time>Jan 17, 2023</time> In discussion regarding the closing ceremony.
-
-- <time>Jan 16, 2023</time> In discussion regarding the closing ceremony.
-
-- <time>Jan 05, 2023-Jan 14, 2023</time> Did some more organisational work, held the last (technically fourth) day and sent out the capstone project submission form!
-
-- <time>Jan 04, 2023</time> Did some organisational work.
-
-- <time>Jan 03, 2023</time> Did some organisational work.
-
-- <time>Jan 02, 2023</time> Did some organisational work.
-
-- <time>Jan 01, 2023</time> Did some organisational work.
-
-- <time>Dec 31, 2022</time> Did some more organisational work. Here's to this project becoming even more ambitious in 2023!
-
-- <time>Dec 30, 2022</time> Did some organisational work in the morning, but I couldn't teach today's class due to internet issues. We'll be combining this session and the last day (which I feel is something we should do regardless).
-
-- <time>Dec 28, 2022</time> An okay third day, but this part of the syllabus really needs to be re-vamped.
-
-- <time>Dec 26, 2022</time> Second day went better than the first: espicially since we had really good debate responses and rebuttals.
-
-- <time>Dec 24, 2022</time> First day! Along with my co-facilitator, we gave a good overview about rationality.
 
 <hr />
 
@@ -638,6 +597,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Jan 27, 2023</time> Continued with the course.
+
 - <time>Jan 25, 2023</time> "Continued" with the course.
 
 - <time>Jan 22, 2023</time> Continued with the course.
@@ -854,6 +815,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 27, 2023</time> Continued with Cryptocurrency.
 
 - <time>Jan 25, 2023</time> Continued with Cryptocurrency.
 
@@ -7192,6 +7155,8 @@ class Solution:
 
 #### Log
 
+- <time>Jan 27, 2023</time> "Continued" with the Medical Data Visualizer project.
+
 - <time>Jan 25, 2023</time> "Continued" with the Medical Data Visualizer project.
 
 - <time>Jan 21, 2023</time> "Continued" with the Medical Data Visualizer project.
@@ -8003,6 +7968,51 @@ class Solution:
 <hr />
 
 ## Inactive/Paused
+
+<hr />
+
+## <span id="solaris-2">SOLARIS (Second Edition)</span>
+
+<small>Dec 24, 2022-present</small>  
+<small>Trying to co-run the second edition of a logic, rationality and Effective Altruism club that I co-founded. Currently paused.</small>
+
+<hr />
+
+#### Log
+
+- <time>Jan 27, 2023</time> Had the last meeting for a while, thus marking the end of this project (for now!)
+
+- <time>Jan 25, 2023</time> Scheduled the last meeting for a while.
+
+- <time>Jan 21, 2023</time> Finished reviewing two more capstone projects.
+
+- <time>Jan 20, 2023</time> Reviewed the first capstone project.
+
+- <time>Jan 18, 2023</time> Received capstone projects. Closing ceremony will be delayed but for now, will host an online meeting to discuss the projects.
+
+- <time>Jan 17, 2023</time> In discussion regarding the closing ceremony.
+
+- <time>Jan 16, 2023</time> In discussion regarding the closing ceremony.
+
+- <time>Jan 05, 2023-Jan 14, 2023</time> Did some more organisational work, held the last (technically fourth) day and sent out the capstone project submission form!
+
+- <time>Jan 04, 2023</time> Did some organisational work.
+
+- <time>Jan 03, 2023</time> Did some organisational work.
+
+- <time>Jan 02, 2023</time> Did some organisational work.
+
+- <time>Jan 01, 2023</time> Did some organisational work.
+
+- <time>Dec 31, 2022</time> Did some more organisational work. Here's to this project becoming even more ambitious in 2023!
+
+- <time>Dec 30, 2022</time> Did some organisational work in the morning, but I couldn't teach today's class due to internet issues. We'll be combining this session and the last day (which I feel is something we should do regardless).
+
+- <time>Dec 28, 2022</time> An okay third day, but this part of the syllabus really needs to be re-vamped.
+
+- <time>Dec 26, 2022</time> Second day went better than the first: espicially since we had really good debate responses and rebuttals.
+
+- <time>Dec 24, 2022</time> First day! Along with my co-facilitator, we gave a good overview about rationality.
 
 <hr />
 
