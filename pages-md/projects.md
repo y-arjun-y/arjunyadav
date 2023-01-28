@@ -131,6 +131,13 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 28, 2023</time> Finished [Mean Square Error](https://www.codewars.com/kata/51edd51599a189fe7f000015) in Python:
+
+```py
+def solution(array_a, array_b):
+    return sum((array_a[i] - array_b[i]) ** 2 for i in range(len(array_a))) / len(array_a)
+```
+
 - <time>Jan 27, 2023</time> Finished [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) in Python:
 
 ```py
