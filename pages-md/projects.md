@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jan 27, 2023
+publish_date: Jan 28, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -1288,6 +1288,27 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 28, 2023</time> Finished [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/):
+
+```py
+class Solution:
+    def maximumUnits(self, boxTypes: List[List[int]], truckSize: int) -> int:
+        boxes = sorted(boxTypes, key=lambda x: x[1], reverse=True)
+        sum_of_boxes = 0
+        total = 0
+
+        while sum_of_boxes <= truckSize and len(boxes) > 0:
+            if sum_of_boxes + boxes[0][0] > truckSize:
+                total += (truckSize - sum_of_boxes) * boxes[0][1]
+                return total
+            else:
+                sum_of_boxes += boxes[0][0]
+                total += (boxes[0][0] * boxes[0][1])
+                del boxes[0]
+
+        return total
+```
 
 - <time>Jan 27, 2023</time> Finished [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/):
 
