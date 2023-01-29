@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jan 28, 2023
+publish_date: Jan 29, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -114,6 +114,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 27, 2023</time> Had a productive conversation!
+
 - <time>Jan 17, 2023</time> Discussed next meeting.
 
 - <time>Jan 04, 2023-Jan 14, 2023</time> Well, I initially thought that I would just be a volunteer for OptX's The Symposium 1.0, but roughly a day before the event (Jan 07, 2023), I became one of the newest committee member. In the end, The Symposium 1.0 was an incredible success. Seeing it all unfold was one of the greatest moments in my life.
@@ -130,6 +132,33 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 29, 2023</time> Finished [ISBN-10 Validation](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001) in Python:
+
+```py
+def valid_ISBN10(isbn):
+    if len(isbn) != 10:
+        return False
+
+    first_9 = isbn[:-1]
+    last_digit = isbn[-1]
+
+    total = 0
+
+    try:
+        total += sum([int(first_9[i]) * (i + 1) for i in range(len(first_9))])
+    except:
+        return False
+
+    if last_digit.isdigit():
+        total += int(last_digit) * 10
+    elif last_digit == "X":
+        total += 100
+    else:
+        return False
+
+    return total % 11 == 0
+```
 
 - <time>Jan 28, 2023</time> Finished [Mean Square Error](https://www.codewars.com/kata/51edd51599a189fe7f000015) in Python:
 
@@ -595,6 +624,7 @@ function getCount(str) {
 - <time>Dec 13, 2022</time> Finished a couple of different problems (?) and got to 8 kyu.
 
 <hr />
+
 ## <span id="mathforml">Mathematics for Machine Learning</span>
 
 <small>Jul 04, 2022-present</small>  
@@ -603,6 +633,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 29, 2023</time> Continued with the course.
 
 - <time>Jan 27, 2023</time> Continued with the course.
 
@@ -822,6 +854,10 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 29, 2023</time> Continued with Cryptocurrency.
+
+- <time>Jan 28, 2023</time> Continued with Cryptocurrency.
 
 - <time>Jan 27, 2023</time> Continued with Cryptocurrency.
 
@@ -1295,6 +1331,21 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jan 29, 2023</time> Finished [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/):
+
+```py
+class Solution:
+    def largestInteger(self, num: int) -> int:
+        num = list(str(num))
+
+        for i in range(len(num)):
+            for j in range(i, len(num)):
+                if num[j] > num[i] and int(num[j]) % 2 == int(num[i]) % 2:
+                    num[i], num[j] = num[j], num[i]
+
+        return int("".join(num))
+```
 
 - <time>Jan 28, 2023</time> Finished [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/):
 
