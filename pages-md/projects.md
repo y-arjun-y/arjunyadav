@@ -81,6 +81,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 31, 2023</time> Had two productive meetings.
+
 - <time>Jan 27, 2023</time> Had a productive meeting.
 
 - <time>Jan 22, 2023-Jan 25, 2023</time> Sent out the Airtable and, in general, got a lot of work done for this project!
@@ -855,6 +857,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Jan 30, 2023</time> Continued with Cryptocurrency.
+
 - <time>Jan 29, 2023</time> Continued with Cryptocurrency.
 
 - <time>Jan 28, 2023</time> Continued with Cryptocurrency.
@@ -1331,6 +1335,19 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Feb 01, 2023</time> Finished [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/):
+
+```py
+class Solution:
+    def getCommon(self, nums1: List[int], nums2: List[int]) -> int:
+        if nums1[-1] < nums2[0] or nums2[-1] < nums2[0]:
+            return -1
+        for i in nums1:
+            if i in nums2:
+                return i
+        return -1
+```
 
 - <time>Jan 29, 2023</time> Finished [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/):
 
