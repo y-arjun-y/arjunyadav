@@ -636,7 +636,7 @@ function getCount(str) {
 
 #### Log
 
-- <time>Jan 29, 2023</time> Continued with the course.
+- <time>Feb 01, 2023</time> Continued with the course.
 
 - <time>Jan 27, 2023</time> Continued with the course.
 
