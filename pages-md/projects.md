@@ -81,6 +81,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 01, 2023</time> Did some organisational work.
+
 - <time>Jan 31, 2023</time> Had two productive meetings.
 
 - <time>Jan 27, 2023</time> Had a productive meeting.
