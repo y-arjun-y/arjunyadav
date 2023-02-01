@@ -8078,6 +8078,8 @@ class Solution:
 
 #### Log
 
+- <time>Feb 01, 2023</time> Sent out my three capstone project reviews.
+
 - <time>Jan 27, 2023</time> Had the last meeting for a while, thus marking the end of this project (for now!)
 
 - <time>Jan 25, 2023</time> Scheduled the last meeting for a while.
