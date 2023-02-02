@@ -6278,7 +6278,7 @@ class Solution:
 ## <span id="brilliant">[Brilliant](https://brilliant.org)</span>
 
 <small>Apr 14, 2022-present</small>  
-<small>Trying to learn more about computer science, mathematics and science with Brilliant + trying to complete the [daily challenges](https://brilliant.org/daily-problems/)!</small>
+<small>Trying to learn more about computer science, mathematics and science with Brilliant + trying to complete the [daily challenges](https://brilliant.org/daily-problems/)! Currently paused.</small>
 
 <hr />
 
@@ -6729,7 +6729,7 @@ class Solution:
 ## <span id="codewars">[Codewars](https://www.codewars.com)</span>
 
 <small>Dec 13, 2022-present</small>  
-<small>Trying to practice different programming languages with Codewars (<a href="#leetcode">LeetCode</a> is for harder, more Python-oriented problems).</small>
+<small>Trying to practice different programming languages with Codewars (<a href="#leetcode">LeetCode</a> is for harder, more Python-oriented problems). Currently paused.</small>
 
 <hr />
 
@@ -7230,7 +7230,7 @@ function getCount(str) {
 ## <span id="optx">[OptX](https://www.instagram.com/optx.uae/)</span>
 
 <small>Jan 04, 2023-present</small>  
-<small>Became part of OptX, my school's student-led initiative to provide opportunities to the youth. Trying to the best job I can.</small>
+<small>Became part of OptX, my school's student-led initiative to provide opportunities to the youth. Trying to the best job I can. Currently paused.</small>
 
 <hr />
 
@@ -7245,10 +7245,11 @@ function getCount(str) {
 ![OptX - The Symposium 1.0](/optx.jpg)
 
 <hr />
+
 ## <span id="freecodecamp">[freeCodeCamp](https://freecodecamp.org)</span>
 
 <small>Oct 28, 2021-present</small>  
-<small>Trying to finish freeCodeCamp.org's curriculum by the end of 2022.</small>
+<small>Trying to finish freeCodeCamp.org's curriculum by the end of 2023. Currently paused.</small>
 
 <hr />
 <small>freeCodeCamp.org's start date is the date I started logging, not the date when the project started.</small>
