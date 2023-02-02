@@ -81,6 +81,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 02, 2023</time> Did some organisational work.
+
 - <time>Feb 01, 2023</time> Did some organisational work.
 
 - <time>Jan 31, 2023</time> Had two productive meetings.
@@ -117,6 +119,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 02, 2023</time> Continued with the course.
 
 - <time>Feb 01, 2023</time> Continued with the course.
 
@@ -366,6 +370,14 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 02, 2023</time> Finished [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements):
+
+```py
+class Solution:
+    def countElements(self, nums: List[int]) -> int:
+        return len([i for i in nums if True in [j > i for j in nums] and True in [k < i for k in nums]])
+```
 
 - <time>Feb 01, 2023</time> Finished [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/):
 
