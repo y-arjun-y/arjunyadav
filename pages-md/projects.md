@@ -1,25 +1,25 @@
 ---
 title: Projects
-publish_date: Feb 01, 2023
+publish_date: Feb 02, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
 ## Table of Contents
 
-### Active (8)
+### Active (4)
 
 - <a href="#eauae">EA UAE</a>
-- <a href="#optx">OptX</a>
-- <a href="#codewars">Codewars</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
-- <a href="#brilliant">Brilliant</a>
 - <a href="#coldtakesbetareading">Cold Takes Beta Reading</a> (O)
 - <a href="#leetcode">LeetCode</a>
+
+### Inactive/Paused (11)
+
+- <a href="#brilliant">Brilliant</a>
+- <a href="#codewars">Codewars</a>
+- <a href="#optx">OptX</a>
 - <a href="#freecodecamp">freeCodeCamp</a>
-
-### Inactive/Paused (6)
-
 - <a href="#solaris-2">SOLARIS (Second Edition)</a>
 - <a href="#drums">Drums</a> (F&S)
 - <a href="#chess">Chess</a> (S)
@@ -106,526 +106,6 @@ Confused? See the <a href="#note">note</a> down below.
 - <time>Dec 29, 2022-Jan 14, 2023</time> I think cold emails are an incredibly powerful tool that must be used responsibly. Before this, I thought that I was the "king of cold emails", as it led to the <a href="#eadata">Effective Altruism Data and LPP project</a>. However, I got dethroned when someone cold emailed after seeing <a href="https://forum.effectivealtruism.org/posts/2XF4cFs4txmEdegtT/">this EA Forum question</a> that I wrote quite some time back.
 
   What was originally me being pessimistic about re-starting EA Dubai led to meetings with EA AUS, [EA NYUAD](https://www.eanyuad.org/) and even an advisor from [CEA](https://www.centreforeffectivealtruism.org/)! So far, we've gotten some EA AUS and EA NYUAD members to join us - and we're on the look out for someone else to help lead this project with us! I'm really excited to see where this project is after exactly half a year (July 14, 2023)!
-
-<hr />
-
-## <span id="optx">[OptX](https://www.instagram.com/optx.uae/)</span>
-
-<small>Jan 04, 2023-present</small>  
-<small>Became part of OptX, my school's student-led initiative to provide opportunities to the youth. Trying to the best job I can.</small>
-
-<hr />
-
-#### Log
-
-- <time>Jan 27, 2023</time> Had a productive conversation!
-
-- <time>Jan 17, 2023</time> Discussed next meeting.
-
-- <time>Jan 04, 2023-Jan 14, 2023</time> Well, I initially thought that I would just be a volunteer for OptX's The Symposium 1.0, but roughly a day before the event (Jan 07, 2023), I became one of the newest committee member. In the end, The Symposium 1.0 was an incredible success. Seeing it all unfold was one of the greatest moments in my life.
-
-![OptX - The Symposium 1.0](/optx.jpg)
-
-<hr />
-
-## <span id="codewars">[Codewars](https://www.codewars.com)</span>
-
-<small>Dec 13, 2022-present</small>  
-<small>Trying to practice different programming languages with Codewars (<a href="#leetcode">LeetCode</a> is for harder, more Python-oriented problems).</small>
-
-<hr />
-
-#### Log
-
-- <time>Jan 29, 2023</time> Finished [ISBN-10 Validation](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001) in Python:
-
-```py
-def valid_ISBN10(isbn):
-    if len(isbn) != 10:
-        return False
-
-    first_9 = isbn[:-1]
-    last_digit = isbn[-1]
-
-    total = 0
-
-    try:
-        total += sum([int(first_9[i]) * (i + 1) for i in range(len(first_9))])
-    except:
-        return False
-
-    if last_digit.isdigit():
-        total += int(last_digit) * 10
-    elif last_digit == "X":
-        total += 100
-    else:
-        return False
-
-    return total % 11 == 0
-```
-
-- <time>Jan 28, 2023</time> Finished [Mean Square Error](https://www.codewars.com/kata/51edd51599a189fe7f000015) in Python:
-
-```py
-def solution(array_a, array_b):
-    return sum((array_a[i] - array_b[i]) ** 2 for i in range(len(array_a))) / len(array_a)
-```
-
-- <time>Jan 27, 2023</time> Finished [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) in Python:
-
-```py
-def find_uniq(arr):
-    return [i for i in set(arr) if arr.count(i) == 1][0]
-```
-
-- <time>Jan 25, 2023</time> Couldn't solve a problem today, but that's okay.
-
-- <time>Jan 22, 2023</time> Finished [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/) in Python:
-
-```py
-def first_non_repeating_letter(string):
-    for i in range(len(string)):
-        if len([j for j in range(len(string)) if string[j].lower() == string[i].lower() and j != i]) == 0:
-            return string[i]
-    else:
-        return ""
-```
-
-- <time>Jan 21, 2023</time> Finished [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7) in Python:
-
-```py
-def make_readable(seconds):
-    hours = seconds // 3600
-    minutes = (seconds - (hours * 3600)) // 60
-    seconds_print = seconds - (minutes * 60) - (hours * 3600)
-
-    if len(str(hours)) < 2:
-        hours = "0" + str(hours)
-
-    if len(str(minutes)) < 2:
-        minutes = "0" + str(minutes)
-
-    if len(str(seconds_print)) < 2:
-        seconds_print = "0" + str(seconds_print)
-
-    return f"{hours}:{minutes}:{seconds_print}"
-```
-
-- <time>Jan 20, 2023</time> Finished [Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059/) in Python:
-
-```py
-def cakes(recipe, available):
-    count = 0
-    max_scale = []
-
-    for k, v in recipe.items():
-        if k not in available:
-            max_scale = [0]
-        else:
-            if available[k] < v:
-                max_scale = [0]
-            else:
-                max_scale.append(available[k] // v)
-
-    count = min(max_scale, default=0)
-    return count
-```
-
-- <time>Jan 18, 2023</time> Still no luck.
-
-- <time>Jan 17, 2023</time> Trying to solve [Catching Car Mileage Numbers](https://www.codewars.com/kata/52c4dd683bfd3b434c000292/train/python)
-
-- <time>Jan 16, 2023</time> Tried to solve a couple of problems in Python, but to no avail.
-
-- <time>Jan 15, 2023</time> Finished [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c/) in Python:
-
-```py
-def narcissistic(value):
-    return sum([int(i) ** len(str(value)) for i in str(value)]) == value
-```
-
-- <time>Jan 04, 2023</time> Finished [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/) in Python:
-
-```py
-def pig_it(text):
-    res = []
-
-    for i in text.split(" "):
-        if i.isalpha():
-            word = i[1:] + i[0] + "ay"
-            res.append(word)
-        else:
-            res.append(i)
-
-    return " ".join(res)
-```
-
-- <time>Jan 03, 2023</time> Finished [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a/) in Python:
-
-```py
-def count_smileys(arr):
-    valid_smiley_faces = [':)', ';)', ':-)', ';-)', ':~)', ';~)', ':D', ';D', ':-D', ';-D', ':~D', ';~D', ':D', ';D']
-
-    return len([i for i in arr if i in valid_smiley_faces])
-```
-
-- <time>Jan 02, 2023</time> Finished [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c) in Python:
-
-```py
-def comp(array1, array2):
-    if array1 == None or array2 == None:
-        return False
-
-    if sorted([i**2 for i in array1]) == sorted(array2):
-        return True
-    else:
-        return False
-```
-
-- <time>Jan 01, 2023</time> Finished [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) in Python:
-
-```py
-def move_zeros(lst):
-  return [i for i in lst if i != 0] + [i for i in lst if i == 0]
-```
-
-- <time>Dec 31, 2022</time> Finished [(Multiplicative Persistence)](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/) in Python. Hoping to do more Java problems in 2023:
-
-```py
-import math
-
-def persistence(n):
-    count = 0
-
-    while len(str(n)) != 1:
-        n = math.prod([int(i) for i in str(n)])
-        count += 1
-
-    return count
-```
-
-- <time>Dec 30, 2022</time> Finished [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/) in Python:
-
-```py
-def zero(operand_num=""): #your code here
-    return eval("0" + operand_num)
-def one(operand_num=""): #your code here
-    return eval("1" + operand_num)
-def two(operand_num=""): #your code here
-    return eval("2" + operand_num)
-def three(operand_num=""): #your code here
-    return eval("3" + operand_num)
-def four(operand_num=""): #your code here
-    return eval("4" + operand_num)
-def five(operand_num=""): #your code here
-    return eval("5" + operand_num)
-def six(operand_num=""): #your code here
-    return eval("6" + operand_num)
-def seven(operand_num=""): #your code here
-    return eval("7" + operand_num)
-def eight(operand_num=""): #your code here
-    return eval("8" + operand_num)
-def nine(operand_num=""): #your code here
-    return eval("9" + operand_num)
-
-def plus(num): #your code here
-    return f"+{num}"
-def minus(num): #your code here
-    return f"-{num}"
-def times(num): #your code here
-    return f"*{num}"
-def divided_by(num): #your code here
-    return f"//{num}"
-```
-
-- <time>Dec 29, 2022</time> Finished [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148/solutions) in Python:
-
-```py
-def solution(s):
-    res = ""
-
-    for i in s:
-        if ord(i) >= 65 and ord(i) <= 90:
-            res += f" {i}"
-        else:
-            res += i
-
-    return res
-```
-
-- <time>Dec 28, 2022</time> Finished [Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f/) in Python:
-
-```py
-def friend(x):
-	return [i for i in x if len(i) == 4]
-```
-
-- <time>Dec 27, 2022</time> Finished [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014/) in Python:
-
-```py
-def sum_two_smallest_numbers(numbers):
-    return min(numbers) + min([i for i in numbers if i != min(numbers)])
-```
-
-- <time>Dec 26, 2022</time> Finished [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) in Python:
-
-```py
-def high_and_low(numbers):
-    return f"{max([int(i) for i in numbers.split(' ')])} {min([int(i) for i in numbers.split(' ')])}"
-```
-
-- <time>Dec 25, 2022</time> Finished [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e/) in Python:
-
-```py
-from preloaded import MORSE_CODE
-
-def decode_morse(morse_code):
-    # Remember - you can use the preloaded MORSE_CODE dictionary:
-    # For example:
-    # MORSE_CODE['.-'] = 'A'
-    # MORSE_CODE['--...'] = '7'
-    # MORSE_CODE['...-..-'] = '$'
-    temp_morse_code = morse_code.strip().split('   ')
-    decoded_message = []
-
-    for i in temp_morse_code:
-        for j in i.split(' '):
-            decoded_message.append(MORSE_CODE[j])
-        decoded_message.append(" ")
-
-    return "".join(decoded_message).rstrip()
-```
-
-- <time>Dec 24, 2022</time> Finished [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd) in Python:
-
-```py
-def filter_list(l):
-    return [i for i in l if str(i).isdigit() and isinstance(i, int)]
-```
-
-- <time>Dec 23, 2022</time> Finished [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/) in Python:
-
-```py
-def solution(string, ending):
-    if ending == '':
-        return True
-    else:
-        if ending in string:
-            if string[len(string) - len(ending):] == ending:
-                return True
-            else:
-                return False
-        else:
-            return False
-```
-
-- <time>Dec 22, 2022</time> Finished [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/) in Java:
-
-```java
-import java.util.ArrayList;
-
-public class FindOdd {
-	public static int findIt(int[] a) {
-    ArrayList<Integer> count_al = new ArrayList<Integer>();
-
-  	for (int i = 0; i < a.length; i++) {
-      int number = a[i];
-      int count = 0;
-
-      for (int j = 0; j < a.length; j++) {
-        if (a[j] == number) {
-          count++;
-        }
-      }
-
-      count_al.add(count);
-    }
-
-    for (int i = 0; i < count_al.size(); i++) {
-      if (count_al.get(i) % 2 != 0) {
-        return a[i];
-      }
-    }
-
-    return 0;
-  }
-}
-```
-
-- <time>Dec 21, 2022</time> Finished [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) in Python (accidentally left the print statement in my final solution - oh well):
-
-```py
-def solution(s):
-    print(s)
-    if len(s) % 2 != 0:
-        temp_res = [s[i:i+2] for i in range(0, len(s), 2)]
-        temp_res[-1] = temp_res[-1] + "_"
-        return temp_res
-    else:
-        return [s[i:i+2] for i in range(0, len(s), 2)]
-```
-
-- <time>Dec 20, 2022</time> Finished [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) in Java:
-
-```java
-public class Kata {
-  public static String createPhoneNumber(int[] numbers) {
-   String phoneNumber = "(" + String.valueOf(numbers[0]) + String.valueOf(numbers[1]) + String.valueOf(numbers[2]) + ") " + String.valueOf(numbers[3]) + String.valueOf(numbers[4]) + String.valueOf(numbers[5]) + "-" + String.valueOf(numbers[6]) + String.valueOf(numbers[7]) + String.valueOf(numbers[8]) + String.valueOf(numbers[9]);
-   return phoneNumber;
-  }
-}
-```
-
-- <time>Dec 19, 2022</time> Finished [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) in Java:
-
-```java
-import java.util.ArrayList;
-
-public class DescendingOrder {
-  public static int sortDesc(final int num) {
-    int temp = num;
-    ArrayList<Integer> digits = new ArrayList<Integer>();
-
-    while (temp != 0) { // while loop for appending digits
-      int digit = temp % 10;
-      digits.add(digit);
-      temp /= 10;
-    }
-
-    for (int i = 0; i < digits.size() - 1; i++) { // for loops for sorting - bubble sort
-      for (int j = 0; j < digits.size() - 1 - i; j++) {
-        if (digits.get(i + j + 1) > digits.get(i)) {
-          int temp_digit = digits.get(i);
-          digits.set(i, digits.get(i + j + 1));
-          digits.set(i + j + 1, temp_digit);
-        }
-      }
-    }
-
-    int res = 0;
-
-    for (int i = 0; i < digits.size(); i++) { // converting list of digits to int
-      int digit = digits.get(i);
-      res = (res * 10) + digit;
-    }
-
-    return res;
-  }
-}
-```
-
-- <time>Dec 18, 2022</time> Finished [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) in Java:
-
-```java
-import java.util.ArrayList;
-
-public class SpinWords {
-
-  public String spinWords(String sentence) {
-    String[] words = sentence.split(" "); // credit - https://www.geeksforgeeks.org/split-string-java-examples/
-    ArrayList<String> tempRes = new ArrayList<String>(); // creating a temp ArrayList for words
-
-   for (int i = 0; i < words.length; i++) {
-      if (words[i].length() >= 5) {
-        String reverseString = "";
-
-        for (int j = words[i].length() - 1; j >= 0; j--) { // inner for-loop for reversing the string
-          reverseString += words[i].charAt(j);
-        }
-
-        tempRes.add(reverseString);
-
-      } else {
-        tempRes.add(words[i]);
-      }
-    }
-
-    String res = String.join(" ", tempRes); // credit - https://stackoverflow.com/questions/599161/best-way-to-convert-an-arraylist-to-a-string
-
-    return res;
-  }
-}
-```
-
-- <time>Dec 17, 2022</time> Finished [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/) in Java:
-
-```java
-public class Solution {
-
-  public int solution(int number) {
-    if (number < 0) {
-      return -1; // returning -1 if the number is negative
-    } else {
-      int res = 0;
-
-      for (int i = 1; i < number; i++) {
-        if (i % 3 == 0 || i % 5 == 0) { // only counting the number once if multiple of 15
-          res += i;
-        }
-      }
-
-      return res;
-    }
-  }
-}
-```
-
-- <time>Dec 16, 2022</time> Finished [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/java) in Java:
-
-```java
-public class Accumul {
-
-    public static String accum(String s) {
-      String res = ""; // result string
-
-      for (int i = 0; i < s.length(); i++) {
-        char chr = s.charAt(i); // getting character at each index
-        res += Character.toUpperCase(chr); // converting character to uppercase
-
-        for (int j = 0; j < i; j++) {
-          char chr_repeat = s.charAt(i); // repeatedly getting the same character based on index
-          res += Character.toLowerCase(chr_repeat); // converting character to lowercase
-        }
-
-        if (i != s.length() - 1) { // as long as not last character, add hyphen
-          res += "-";
-        }
-      }
-
-      return res;
-    }
-}
-```
-
-- <time>Dec 15, 2022</time> Finished [Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b/) in JavaScript:
-
-```js
-function isTriangle(a, b, c) {
-  if (a + b > c && b + c > a && a + c > b) return true;
-  else return false;
-}
-```
-
-- <time>Dec 14, 2022</time> Finished [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/) in JavaScript:
-
-```js
-function getCount(str) {
-  let count = 0;
-  for (let i = 0; i < str.length; i++) {
-    if (
-      str[i] == "a" ||
-      str[i] == "e" ||
-      str[i] == "i" ||
-      str[i] == "o" ||
-      str[i] == "u"
-    )
-      count++;
-  }
-  return count;
-}
-```
-
-- <time>Dec 13, 2022</time> Finished a couple of different problems (?) and got to 8 kyu.
 
 <hr />
 
@@ -848,457 +328,6 @@ function getCount(str) {
 - <time>Jul 05, 2022</time> Learnt about operations, modulus and dot product.
 
 - <time>Jul 04, 2022</time> Got started with the course!
-<hr />
-
-## <span id="brilliant">[Brilliant](https://brilliant.org)</span>
-
-<small>Apr 14, 2022-present</small>  
-<small>Trying to learn more about computer science, mathematics and science with Brilliant + trying to complete the [daily challenges](https://brilliant.org/daily-problems/)!</small>
-
-<hr />
-
-#### Log
-
-- <time>Jan 30, 2023</time> Continued with Cryptocurrency.
-
-- <time>Jan 29, 2023</time> Continued with Cryptocurrency.
-
-- <time>Jan 28, 2023</time> Continued with Cryptocurrency.
-
-- <time>Jan 27, 2023</time> Continued with Cryptocurrency.
-
-- <time>Jan 25, 2023</time> Continued with Cryptocurrency.
-
-- <time>Jan 22, 2023</time> Continued with Cryptocurrency.
-
-- <time>Jan 21, 2023</time> Continued with Cryptocurrency.
-
-- <time>Jan 20, 2023</time> Continued with Cryptocurrency.
-
-- <time>Jan 19, 2023</time> Continued with Cryptocurrency.
-
-- <time>Jan 18, 2023</time> Continued with Cryptocurrency.
-
-- <time>Jan 17, 2023</time> Continued with Cryptocurrency.
-
-- <time>Jan 16, 2023</time> Got started with [Cryptocurrency](https://brilliant.org/courses/cryptocurrency/).
-
-- <time>Jan 04, 2023-Jan 11, 2023</time> Finished with Introduction to Neural Networks.
-
-- <time>Jan 04, 2023</time> Continued with Universal Approximator.
-
-- <time>Jan 03, 2023</time> Continued with Universal Approximator.
-
-- <time>Jan 02, 2023</time> Continued with Universal Approximator.
-
-- <time>Jan 01, 2023</time> Continued with Universal Approximator.
-
-- <time>Dec 31, 2022</time> Finished with Curve Fitting and got started with [Universal Approximator](https://brilliant.org/courses/intro-neural-networks/layers-2/universal-approximator). I hope to make as much progress as I can before April 2023.
-
-- <time>Dec 30, 2022</time> Continued with Curve Fitting.
-
-- <time>Dec 29, 2022</time> Continued with Curve Fitting.
-
-- <time>Dec 28, 2022</time> Continued with Curve Fitting.
-
-- <time>Dec 27, 2022</time> Got started with [Curve Fitting](https://brilliant.org/courses/intro-neural-networks/layers-2/curve-fitting/).
-
-- <time>Dec 26, 2022</time> Finished with Hidden Layers.
-
-- <time>Dec 25, 2022</time> Continued with Hidden Layers.
-
-- <time>Dec 24, 2022</time> Continued with Hidden Layers.
-
-- <time>Dec 23, 2022</time> Continued with Hidden Layers.
-
-- <time>Dec 22, 2022</time> Got started with [Hidden Layers](https://brilliant.org/courses/intro-neural-networks/layers-2/hidden-layers/).
-
-- <time>Dec 21, 2022</time> Finished with Training a Single Neuron.
-
-- <time>Dec 20, 2022</time> Finished with the searching algorithms in Data Structures (as the whole course is retiring today).
-
-- <time>Dec 19, 2022</time> Continued with Training a Single Neuron.
-
-- <time>Dec 18, 2022</time> Continued with Training a Single Neuron.
-
-- <time>Dec 17, 2022</time> Continued with Training a Single Neuron.
-
-- <time>Dec 16, 2022</time> I come back after about a month and everything has changed lol. Continued with Training a Single Neuron (?).
-
-- <time>Nov 13, 2022</time> "Continued" with Sigmoid Neuron.
-
-- <time>Nov 06, 2022</time> Continued with Sigmoid Neuron.
-
-- <time>Nov 05, 2022</time> Got started with [Sigmoid Neuron](https://brilliant.org/courses/intro-neural-networks/neurons-2/sigmoid-neuron/).
-
-- <time>Nov 04, 2022</time> Finished with Classification.
-
-- <time>Nov 03, 2022</time> Continued with Classification.
-
-- <time>Nov 02, 2022</time> Got started with [Classification](https://brilliant.org/courses/intro-neural-networks/neurons-2/classification/).
-
-- <time>Nov 01, 2022</time> Finished with Building an XOR Gate.
-
-- <time>Oct 31, 2022</time> Got started with [Building an XOR Gate](https://brilliant.org/courses/intro-neural-networks/neurons-2/building-xor-gate/).
-
-- <time>Oct 30, 2022</time> Finished with Decision Boundaries.
-
-- <time>Oct 29, 2022</time> Continued with Decision Boundaries.
-
-- <time>Oct 28, 2022</time> Got started with [Decision Boundaries](https://brilliant.org/courses/intro-neural-networks/neurons-2/decision-boundaries/).
-
-- <time>Oct 27, 2022</time> Finished with Activation Arithmetic.
-
-- <time>Oct 26, 2022</time> Continued with Activation Arithmetic.
-
-- <time>Oct 25, 2022</time> Continued with Activation Arithmetic.
-
-- <time>Oct 24, 2022</time> Continued with Activation Arithmetic.
-
-- <time>Oct 23, 2022</time> Continued with Activation Arithmetic.
-
-- <time>Oct 22, 2022</time> Got started with [Activation Arithmetic](https://brilliant.org/courses/intro-neural-networks/neurons-2/binary-neurons/).
-
-- <time>Oct 21, 2022</time> Finished with The Decision Box.
-
-- <time>Oct 20, 2022</time> Got started with [The Decision Box](https://brilliant.org/courses/intro-neural-networks/neurons-2/decision-box-2/).
-
-- <time>Oct 19, 2022</time> Finished with Can Computers Learn?
-
-- <time>Oct 18, 2022</time> Continued with Can Computers Learn?
-
-- <time>Oct 17, 2022</time> Got started with [Can Computers Learn?](https://brilliant.org/courses/intro-neural-networks/introduction-65/menace-short/).
-
-- <time>Oct 16, 2022</time> Finished with The Folly of Computer Programming.
-
-- <time>Oct 13, 2022-Oct 15, 2022</time> Finished with The Computer Vision Problem and got started and continued with [The Folly of Computer Programming](https://brilliant.org/courses/intro-neural-networks/introduction-65/folly-computer-programming/).
-
-- <time>Oct 12, 2022</time> Got started with [The Computer Vision Problem](https://brilliant.org/courses/intro-neural-networks/introduction-65/computer-vision-problem/).
-
-- <time>Oct 12, 2022</time> Finished with The [Computer Vision Problem](https://brilliant.org/courses/intro-neural-networks/introduction-65/computer-vision-problem/).
-
-- <time>Oct 11, 2022</time> Finished with Neural Networks.
-
-- <time>Oct 10, 2022</time> Continued with Neural Networks.
-
-- <time>Oct 09, 2022</time> Got started with [Neural Networks](https://brilliant.org/courses/intro-neural-networks/introduction-65/neural-nets-2/)
-
-- <time>Oct 08, 2022</time> Finished with Building Programs and finished with Algorithm Fundamentals!
-
-- <time>Oct 07, 2022</time> Continued with Building Programs.
-
-- <time>Oct 06, 2022</time> Continued with Building Programs.
-
-- <time>Oct 05, 2022</time> Got started (?) with [Building Programs](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/building-programs/).
-
-- <time>Oct 04, 2022</time> Finished with Spellcheck. [Today's daily challenge is literally a 5x5 KENKEN!](https://brilliant.org/daily-problems/calcdoku-19/)
-
-- <time>Oct 03, 2022</time> Continued with Spellcheck.
-
-- <time>Oct 02, 2022</time> Got started with [Spellcheck](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/autocorrect/)
-
-- <time>Oct 01, 2022</time> Finished with Who Benefits?
-
-- <time>Sep 30, 2022</time> Got started with [Who Benefits?](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/who-benefits/)
-
-- <time>Sep 29, 2022</time> Finished with Variants.
-
-- <time>Sep 28, 2022</time> Continued with Variants.
-
-- <time>Sep 27, 2022</time> Continued with Variants.
-
-- <time>Sep 26, 2022</time> Got started with [Variants](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/stable-matching-variants/).
-
-- <time>Sep 25, 2022</time> Finished with Running Time.
-
-- <time>Sep 24, 2022</time> Continued with Running Time.
-
-- <time>Sep 23, 2022</time> Continued with Running Time.
-
-- <time>Sep 22, 2022</time> Continued with Running Time.
-
-- <time>Sep 21, 2022</time> Continued with Running Time.
-
-- <time>Sep 20, 2022</time> Continued with Running Time.
-
-- <time>Sep 19, 2022</time> Got started with [Running Time](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/speed-stable-matching/).
-
-- <time>Sep 18, 2022</time> Finsihed with Termination.
-
-- <time>Sep 17, 2022</time> Continued with Termination.
-
-- <time>Sep 16, 2022</time> Continued with Termination.
-
-- <time>Sep 15, 2022</time> Continued with Termination.
-
-- <time>Sep 14, 2022</time> Continued with Termination.
-
-- <time>Sep 05, 2022</time> Got started with [Termination](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/termination-stable-matching/).
-
-- <time>Sep 04, 2022</time> Finished with Correctness.
-
-- <time>Sep 03, 2022</time> Continued with Correctness.
-
-- <time>Sep 02, 2022</time> Continued with Correctness.
-
-- <time>Sep 01, 2022</time> Continued with Correctness.
-
-- <time>Aug 31, 2022</time> Continued with Correctness.
-
-- <time>Aug 30, 2022</time> Continued with Correctness.
-
-- <time>Aug 29, 2022</time> Got started with [Correctness](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/correctness-stable-matching/).
-
-- <time>Aug 28, 2022</time> Finished with Deferred Acceptance Algorithm.
-
-- <time>Aug 27, 2022</time> Continued with Deferred Acceptance Algorithm.
-
-- <time>Aug 26, 2022</time> Got started with [Deferred Acceptance Algorithm](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/gale-shapley/)
-
-- <time>Aug 25, 2022</time> Finished with Using Greediness.
-
-- <time>Aug 24, 2022</time> Continued with Using Greediness.
-
-- <time>Aug 23, 2022</time> Got started with [Using Greediness](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/greedy-matching/).
-
-- <time>Aug 22, 2022</time> Finished with The Stable Matching Problem.
-
-- <time>Aug 21, 2022</time> Continued with The Stable Matching Problem.
-
-- <time>Aug 20, 2022</time> Continued with The Stable Matching Problem.
-
-- <time>Aug 19, 2022</time> Got started with [The Stable Matching Problem](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/stable-matching).
-
-- <time>Aug 18, 2022</time> Finished with The Mathematics of Big O.
-
-- <time>Aug 17, 2022</time> Continued with The Mathematics of Big O.
-
-- <time>Aug 16, 2022</time> Got started with [The Mathematics of Big O](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/big-o-formally/).
-
-- <time>Aug 15, 2022</time> Finished with Understanding Big O.
-
-- <time>Aug 14, 2022</time> Got started with Understanding Big O.
-
-- <time>Aug 13, 2022</time> Got started with [Understanding Big O](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/more-big-o/).
-
-- <time>Aug 12, 2022</time> Finished [Comparing Algorithms](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/comparing-algos/).
-
-- <time>Aug 11, 2022</time> Finished with Best, Worst and Average Case.
-
-- <time>Aug 10, 2022</time> Continued with Best, Worst and Average Case.
-
-- <time>Aug 09, 2022</time> Continued with Best, Worst and Average Case.
-
-- <time>Aug 07, 2022</time> Got started with [Best, Worst and Average Case](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/best-worst-average/)
-
-- <time>Aug 06, 2022</time> Finished [Counting Operations](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/counting-operations/).
-
-- <time>Aug 05, 2022</time> Finished [Timing Programs with a Stopwatch](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/timing-programs/)
-
-- <time>Aug 04, 2022</time> Finished with [Insertion Sort](https://brilliant.org/courses/computer-science-algorithms/array-algorithms-2/insertion-sort-algo/).
-
-- <time>Aug 03, 2022</time> Finished with Sorting an Array.
-
-- <time>Aug 02, 2022</time> Continued with Sorting an Array.
-
-- <time>Aug 01, 2022</time> Continued with Sorting an Array.
-
-- <time>Jul 31, 2022</time> Got started with [Sorting an Array](https://brilliant.org/courses/computer-science-algorithms/array-algorithms-2/selection-sort/).
-
-- <time>Jul 30, 2022</time> Finished with Binary Search.
-
-- <time>Jul 29, 2022</time> Continued with Binary Search.
-
-- <time>Jul 28, 2022</time> Continued with Binary Search.
-
-- <time>Jul 27, 2022</time> Got started with [Binary Search](https://brilliant.org/courses/computer-science-algorithms/array-algorithms-2/binary-search-algo/) (again).
-
-- <time>Jul 26, 2022</time> Finished with Searching an Array.
-
-- <time>Jul 25, 2022</time> Continued with Searching an Array.
-
-- <time>Jul 24, 2022</time> Continued with Searching an Array.
-
-- <time>Jul 23, 2022</time> Got started with [Searching an Array](https://brilliant.org/courses/computer-science-algorithms/array-algorithms-2/linear-search/).
-
-- <time>Jul 22, 2022</time> Finished with Arrays.
-
-- <time>Jul 21, 2022</time> Continued with Arrays.
-
-- <time>Jul 20, 2022</time> Got started with [Arrays](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/array-algorithms/).
-
-- <time>Jul 19, 2022</time> Finished with Algorithms and Implementations and Computer Science Fundamentals.
-
-- <time>Jul 18, 2022</time> Continued with Algorithms and Implementations.
-
-- <time>Jul 16, 2022</time> Continued with Algorithms and Implementations.
-
-- <time>Jul 15, 2022</time> Got started with [Algorithms and Implementations](https://brilliant.org/courses/computer-science-essentials/algorithmic-thinking-7/algorithms-and-implementations/).
-
-- <time>Jul 07, 2022</time> Finished with Graph Search.
-
-- <time>Jul 06, 2022</time> Continued with Graph Search.
-
-- <time>Jul 05, 2022</time> Got started with [Graph Search](https://brilliant.org/courses/computer-science-essentials/algorithmic-thinking-7/game-graph-search).
-
-- <time>Jul 04, 2022</time> Finished with Representing Games & Puzzles.
-
-- <time>Jul 03, 2022</time> Continued with Representing Games & Puzzles.
-
-- <time>Jul 02, 2022</time> Continued with Representing Games & Puzzles.
-
-- <time>Jul 01, 2022</time> Continued with Representing Games & Puzzles.
-- <time>Jun 30, 2022</time> Got started with [Representing Games & Puzzles](https://brilliant.org/courses/computer-science-essentials/algorithmic-thinking-7/safe-passage/).
-
-- <time>Jun 28, 2022</time> Finished with Thinking with Graphs.
-
-- <time>Jun 27, 2022</time> Continued with Thinking with Graphs. [The four colour theorem](https://en.wikipedia.org/wiki/Four_color_theorem) was explored in [today's daily challenge](https://brilliant.org/daily-problems/coloring-around/).
-
-- <time>Jun 26, 2022</time> Finished with Divide and Conquer and got started with [Thinking with Graphs](https://brilliant.org/courses/computer-science-essentials/algorithmic-thinking-7/thinking-with-graphs)
-
-- <time>Jun 25, 2022</time> Continued with Divide and Conquer.
-
-- <time>Jun 24, 2022</time> Continued with Divide and Conquer.
-
-- <time>Jun 23, 2022</time> Got started with [Divide and Conquer](https://brilliant.org/courses/computer-science-essentials/algorithmic-thinking-7/divide-conquer-20-questions/).
-
-- <time>Jun 22, 2022</time> Finished with Binary Search.
-
-- <time>Jun 21, 2022</time> Finished with Interfaces (though I have to write the notes for it) and got started with [Binary Search](https://brilliant.org/courses/computer-science-essentials/algorithmic-thinking-7/using-binary-search).
-
-- <time>Jun 20, 2022</time> Finished with Abstraction and got started with [Interfaces](https://brilliant.org/courses/computer-science-essentials/computational-problem-solving-2/interfaces/).
-
-- <time>Jun 19, 2022</time> Continued with Abstraction.
-
-- <time>Jun 18, 2022</time> Got started with [Abstraction](https://brilliant.org/courses/computer-science-essentials/computational-problem-solving-2/abstraction/). I'm now going to only mention daily problems if they're interesting/difficult.
-
-- <time>Jun 17, 2022</time> Finished with the daily problem and finished with Naming.
-
-- <time>Jun 16, 2022</time> Finished with the daily problem and continued with Naming.
-
-- <time>Jun 15, 2022</time> Finished [Spots and Stripes](https://brilliant.org/daily-problems/spots-and-stripes/) (got it correct) and continued with Naming.
-
-- <time>Jun 14, 2022</time> Finished the daily problem and continued with Naming.
-
-- <time>Jun 13, 2022</time> Finished [Round the Clock](https://brilliant.org/daily-problems/clock-hand-swap/) (got it correct, though it doesn't really count) and got started with [Naming](https://brilliant.org/courses/computer-science-essentials/computational-problem-solving-2/naming/).
-
-- <time>Jun 12, 2022</time> Finished [Which is Which?](https://brilliant.org/daily-problems/derivatives-matching-3/) (got it correct) and finished with Order and Search (finally!).
-
-- <time>Jun 11, 2022</time> Finished [Hurry to the Honey](https://brilliant.org/daily-problems/hurry-to-honey/) (got it wrong) and continued with Order and Search.
-
-- <time>Jun 10, 2022</time> Finished [Triangles in Line](https://brilliant.org/daily-problems/angle-hunt-10/) (got it correct) and continued with Order and Search.
-
-- <time>Jun 09, 2022</time> Finished [Stop the Car!](https://brilliant.org/daily-problems/stop-the-car/) (got it correct) and continued with Order and Search.
-
-- <time>Jun 08, 2022</time> Finished [Whose Slope?](https://brilliant.org/daily-problems/derivatives-matching-2/) (got it correct) and continued with Order and Search.
-
-- <time>Jun 07, 2022</time> Finished two daily problems and Wrangling with Repetition.
-
-- <time>Jun 06, 2022</time> Finished [Coins in Boxes](https://brilliant.org/daily-problems/coins-in-boxes/) (got it wrong) and got started with [Wrangling with Repetition](https://brilliant.org/courses/computer-science-essentials/tools-of-computer-science-12/wrangling-with-repetition/).
-
-- <time>Jun 05, 2022</time> Finished [Carrrs](https://brilliant.org/daily-problems/carrrs/), [One More Girl](https://brilliant.org/daily-problems/two-girls-in-a-row/) and [Ice Cream Dilemma](https://brilliant.org/daily-problems/ice-cream-dilemma/) (all correct except the first one)
-
-- <time>Jun 04, 2022</time> Finished [Tracing Completely](https://brilliant.org/daily-problems/euler-path-9/), [Make It Traceable](https://brilliant.org/daily-problems/make-traceable/) and [Encircled](https://brilliant.org/daily-problems/encircled/), all of which I got correct.
-
-- <time>Jun 03, 2022</time> Finished [Bookworms](https://brilliant.org/daily-problems/bookworms/) (got it correct) and finished with Matrices for Neural Networks.
-
-- <time>Jun 02, 2022</time> Finished [Impossible Result](https://brilliant.org/daily-problems/os-impossible/) (got it correct) and got started with [Matrices for Neural Networks](https://brilliant.org/practice/matrices-for-neural-networks).
-
-- <time>Jun 01, 2022</time> Finished the daily problem and finished Vectors for Neural Networks.
-
-- <time>May 31, 2022</time> Finished [How Many Elephants?](https://brilliant.org/daily-problems/elephant-pulleys-4/) (got it correct) and got started with a [brush-up on linear algebra](https://brilliant.org/practice/vectors-for-neural-networks/).
-
-- <time>May 30, 2022</time> Finished two daily problems and with Recurrent Neural Networks.
-
-- <time>May 29, 2022</time> Finished [In the Cards](https://brilliant.org/daily-problems/top-bottom-card/) (got it correct) and continued with Recurrent Neural Networks.
-
-- <time>May 28, 2022</time> Finished [The Heaviest Ornament](https://brilliant.org/daily-problems/balance-mobile-8/) (got it correct) and got started with [Recurrent Neural Networks](https://brilliant.org/practice/introduction-to-recurrent-neural-networks).
-
-- <time>May 27, 2022</time> Finished [Different Numbers](https://brilliant.org/daily-problems/number-buncher-14/) (got it correct) and finished with Arrays.
-
-- <time>May 26, 2022</time> Finished the daily problem and got started with [Arrays](https://brilliant.org/practice/arrays/).
-
-- <time>May 25, 2022</time> Finished [Whose Two?](https://brilliant.org/daily-problems/number-bunchers-3/) (got it wrong) and finished with [Treaps](https://brilliant.org/practice/treaps) (got every question for Treaps correct!)
-
-- <time>May 24, 2022</time> Finished [Honeycomb Colors](https://brilliant.org/daily-problems/honeycomb-colors/) (got it correct) and finished with Binary Heaps.
-
-- <time>May 23, 2022</time> Finished [Stack of Circles](https://brilliant.org/daily-problems/stack-of-circles/) (got it correct, really proud of this) and got started with [Binary Heaps](https://brilliant.org/practice/binary-heaps/).
-
-- <time>May 22, 2022</time> Finished [Same or Different](https://brilliant.org/daily-problems/same-or-different/) (got it wrong) and finished with Priority Queues. I got literally everything wrong for Brilliant today lol.
-
-- <time>May 21, 2022</time> Finished [Make Six Twice](https://brilliant.org/daily-problems/grid-fill-17/) (got it correct) and got started with [Priority Queues](https://brilliant.org/practice/priority-queues).
-
-- <time>May 20, 2022</time> Finished [Connected Gears](https://brilliant.org/daily-problems/connected-gears/) (got it correct) and finished with Red Black Trees.
-
-- <time>May 19, 2022</time> Finished [Seeking Chocolate](https://brilliant.org/daily-problems/chocolate-box-path/) (got it wrong, I got the other ant's path completely wrong lol), finished with Tree Rotations and got started with [Red Black Trees](https://brilliant.org/practice/red-black-trees/?chapter=binary-trees).
-
-- <time>May 18, 2022</time> Finished [Comparing Heights](https://brilliant.org/daily-problems/comparing-heights/) (got it wrong) and got started with [Tree Rotations](https://brilliant.org/practice/tree-rotations/?chapter=binary-trees).
-
-- <time>May 17, 2022</time> Finished the daily problem and finished with queues.
-
-- <time>May 16, 2022</time> Finished [Off Balance](https://brilliant.org/daily-problems/balance-puzzle-7/) (got it correct) and got started with [Queues](https://brilliant.org/practice/queues/).
-
-- <time>May 15, 2022</time> Finished [Class Sizes](https://brilliant.org/daily-problems/order-class-size/) (got it wrong) and finished with Stacks.
-
-- <time>May 14, 2022</time> Finished [You Won't Get This Number](https://brilliant.org/daily-problems/os-cant-get-it/) (got it correct) and got started with [Stacks](https://brilliant.org/practice/stacks-2).
-
-- <time>May 13, 2022</time> Finished [Compare the Weights](https://brilliant.org/daily-problems/balance-puzzle-6/) (got it correct) and finished with Binary Search Trees.
-
-- <time>May 12, 2022</time> Finished [Corner to Corner](https://brilliant.org/daily-problems/corner-to-corner/) (got it correct) and got started with [Binary Search Trees](https://brilliant.org/practice/binary-search-trees-2/).
-
-- <time>May 11, 2022</time> Finished [All Roads Lead to Nika](https://brilliant.org/daily-problems/taxicab-distance-1/) (got it correct, though I basically guessed lol) and finished with Traversals (cool stuff!)
-
-- <time>May 10, 2022</time> Finished with [The Smallest Z](https://brilliant.org/daily-problems/smallest-z/) (got it wrong) and got started with [Traversals](https://brilliant.org/practice/traversals-2).
-
-- <time>May 09, 2022</time> Finished with [The Heavier Side](https://brilliant.org/daily-problems/balance-puzzle-9/) (got it wrong) and finished with [Binary Trees](https://brilliant.org/practice/binary-trees/), which I found pretty fun.
-
-- <time>May 08, 2022</time> Finished with [Not Bright Enough](https://brilliant.org/daily-problems/bulb-output-7/) (got it correct) and finished with [Linked Lists](https://brilliant.org/practice/linked-list/) (which I now finally understand for [LeetCode](/#leetcode)!)
-
-- <time>May 07, 2022</time> Finished the daily problem and finished with [Divide and Conquer](https://brilliant.org/practice/divide-and-conquer/).
-
-- <time>May 06, 2022</time> Finished [Blue or Yellow?](https://brilliant.org/daily-problems/angle-hunt-9/) (got it correct) and continued with Order and Search.
-
-- <time>May 05, 2022</time> Finished [Human or Werewolf?](https://brilliant.org/daily-problems/toggle-tags-3/) (got it wrong), finished with Resource Tradeoffs and got started with [Order and Search](https://brilliant.org/courses/computer-science-essentials/computational-problem-solving-2/order-and-search)!
-
-- <time>May 04, 2022</time> Finished [Hexagon to Star](https://brilliant.org/daily-problems/hexagon-to-star/) (got it correct) and continued with Resource Tradeoffs.
-
-- <time>May 03, 2022</time> Finished [Follow the Arrows](https://brilliant.org/daily-problems/circle-fill-15/) (got it wrong) and got started with [Resource Tradeoffs](https://brilliant.org/courses/computer-science-essentials/computational-problem-solving-2/resource-tradeoffs/).
-
-- <time>May 02, 2022</time> Finished [One to Three, Three to One](https://brilliant.org/daily-problems/os-make-15/) (got it correct) and finished with Parallelism.
-
-- <time>May 01, 2022</time> Finished [Pizza Thief](https://brilliant.org/daily-problems/pizza-thief/) (got it correct) and continued with Parallelism.
-
-- <time>Apr 29, 2022</time> Finished [Is It Balanced?](https://brilliant.org/daily-problems/balance-mobile-10/) (got it correct) and got started with [Parallelism](https://brilliant.org/courses/computer-science-essentials/computational-problem-solving-2/parallelism/) (note to self: "embarrassingly parallel" is a real term!)
-
-- <time>Apr 28, 2022</time> Finished with Repetition.
-
-- <time>Apr 27, 2022</time> Finished [Doctor Brilliantstein](https://brilliant.org/daily-problems/doctor-brilliantstein/) (got it right) and finished with Manipulating Numbers and got started with [Repetition](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/repetition-instructions/).
-
-- <time>Apr 26, 2022</time> Finished [Don't Go Breaking My Bike](https://brilliant.org/daily-problems/broken-bike/) (got it right) and continued with Manipulating Numbers.
-
-- <time>Apr 25, 2022</time> Finished [Oh, the Weather Outside Is Frightful](https://brilliant.org/daily-problems/clothing-layers/) (got it wrong) and continued with Manipulating Numbers.
-
-- <time>Apr 24, 2022</time> Finished [And They Were Roommates](https://brilliant.org/daily-problems/they-were-roommates/) (got it correct) and got started with [Manipulating Numbers](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/manipulating-numbers/).
-
-- <time>Apr 23, 2022</time> Finished [the daily challenge](https://brilliant.org/daily-problems/counting-babies/) (got it correct) and finished with Conditional Algorithms.
-
-- <time>Apr 22, 2022</time> Finished [How Many Circles?](https://brilliant.org/daily-problems/balance-puzzle-10/) (got it correct) and continued with Conditional Algorithms.
-
-- <time>Apr 21, 2022</time> Finished [Made to Measure](https://brilliant.org/daily-problems/pour-it-out-16/) (got it correct) and continued with Conditional Algorithms.
-
-- <time>Apr 20, 2022</time> Finished [Pizza Burn](https://brilliant.org/daily-problems/pizza-burn/) (got it correct) and got started with [Conditional Algorithms](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/conditionals).
-
-- <time>Apr 19, 2022</time> Finished [Find the Angle](https://brilliant.org/daily-problems/angle-hunt-8/) (got it correct) and finished [Pseudocode](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/pseudocode/).
-
-- <time>Apr 18, 2022</time> Finished with [El the Elephant](https://brilliant.org/daily-problems/elephant-pulleys-5/) (got it wrong) and Searching for Solutions.
-
-- <time>Apr 17, 2022</time> Finished with [Which Is Shaded More?](https://brilliant.org/daily-problems/which-shade-more/) (got it correct) and got started with [Searching for Solutions](https://brilliant.org/courses/computer-science-essentials/tools-of-computer-science-12/searching-for-solutions-2/).
-
-- <time>Apr 16, 2022</time> Finished with Writing Programs and [Which Is Bigger?](https://brilliant.org/daily-problems/factorial-compare/) (got it correct).
-
-- <time>Apr 15, 2022</time> Finished the daily challenge ([Playing with Matchsticks](https://brilliant.org/daily-problems/matchstick-removal/), got it wrong) and finished the backlog of problems available on the free tier ([Who Won The Race?](https://brilliant.org/daily-problems/who-won-race/) (wrong), [The Nine Nine Plus](https://brilliant.org/daily-problems/grid-fill-nine-cross/) (correct, used my [KENKEN](#kenken) skills), [How Much Can They See?](https://brilliant.org/daily-problems/guard-gallery/) (correct), [Pasta, Pronto](https://brilliant.org/daily-problems/pot-boil/) (wrong), [Cool, Cooler, Coolest](https://brilliant.org/daily-problems/tea-heat-transfer/) (wrong) and finally, [Find the Pattern](https://brilliant.org/daily-problems/visual-pattern/) (correct)).
-
-- <time>Apr 14, 2022</time> Got started with [Computer Science Essentials](https://brilliant.org/courses/computer-science-essentials/) and finished [Making Decisions](https://brilliant.org/courses/computer-science-essentials/tools-of-computer-science-12/making-decisions/). Still on [Writing Programs](https://brilliant.org/courses/computer-science-essentials/tools-of-computer-science-12/interactive-programs).
 <hr />
 
 ## <span id="coldtakesbetareading">[Cold Takes](https://www.cold-takes.com/) Beta Reading</span>
@@ -7242,6 +6271,980 @@ class Solution:
 - <time>Nov 13, 2021</time> Completed a few easy problems, but had to look at the solution for all of them.
 <hr />
 
+## Inactive/Paused
+
+<hr />
+
+## <span id="brilliant">[Brilliant](https://brilliant.org)</span>
+
+<small>Apr 14, 2022-present</small>  
+<small>Trying to learn more about computer science, mathematics and science with Brilliant + trying to complete the [daily challenges](https://brilliant.org/daily-problems/)!</small>
+
+<hr />
+
+#### Log
+
+- <time>Jan 30, 2023</time> Continued with Cryptocurrency.
+
+- <time>Jan 29, 2023</time> Continued with Cryptocurrency.
+
+- <time>Jan 28, 2023</time> Continued with Cryptocurrency.
+
+- <time>Jan 27, 2023</time> Continued with Cryptocurrency.
+
+- <time>Jan 25, 2023</time> Continued with Cryptocurrency.
+
+- <time>Jan 22, 2023</time> Continued with Cryptocurrency.
+
+- <time>Jan 21, 2023</time> Continued with Cryptocurrency.
+
+- <time>Jan 20, 2023</time> Continued with Cryptocurrency.
+
+- <time>Jan 19, 2023</time> Continued with Cryptocurrency.
+
+- <time>Jan 18, 2023</time> Continued with Cryptocurrency.
+
+- <time>Jan 17, 2023</time> Continued with Cryptocurrency.
+
+- <time>Jan 16, 2023</time> Got started with [Cryptocurrency](https://brilliant.org/courses/cryptocurrency/).
+
+- <time>Jan 04, 2023-Jan 11, 2023</time> Finished with Introduction to Neural Networks.
+
+- <time>Jan 04, 2023</time> Continued with Universal Approximator.
+
+- <time>Jan 03, 2023</time> Continued with Universal Approximator.
+
+- <time>Jan 02, 2023</time> Continued with Universal Approximator.
+
+- <time>Jan 01, 2023</time> Continued with Universal Approximator.
+
+- <time>Dec 31, 2022</time> Finished with Curve Fitting and got started with [Universal Approximator](https://brilliant.org/courses/intro-neural-networks/layers-2/universal-approximator). I hope to make as much progress as I can before April 2023.
+
+- <time>Dec 30, 2022</time> Continued with Curve Fitting.
+
+- <time>Dec 29, 2022</time> Continued with Curve Fitting.
+
+- <time>Dec 28, 2022</time> Continued with Curve Fitting.
+
+- <time>Dec 27, 2022</time> Got started with [Curve Fitting](https://brilliant.org/courses/intro-neural-networks/layers-2/curve-fitting/).
+
+- <time>Dec 26, 2022</time> Finished with Hidden Layers.
+
+- <time>Dec 25, 2022</time> Continued with Hidden Layers.
+
+- <time>Dec 24, 2022</time> Continued with Hidden Layers.
+
+- <time>Dec 23, 2022</time> Continued with Hidden Layers.
+
+- <time>Dec 22, 2022</time> Got started with [Hidden Layers](https://brilliant.org/courses/intro-neural-networks/layers-2/hidden-layers/).
+
+- <time>Dec 21, 2022</time> Finished with Training a Single Neuron.
+
+- <time>Dec 20, 2022</time> Finished with the searching algorithms in Data Structures (as the whole course is retiring today).
+
+- <time>Dec 19, 2022</time> Continued with Training a Single Neuron.
+
+- <time>Dec 18, 2022</time> Continued with Training a Single Neuron.
+
+- <time>Dec 17, 2022</time> Continued with Training a Single Neuron.
+
+- <time>Dec 16, 2022</time> I come back after about a month and everything has changed lol. Continued with Training a Single Neuron (?).
+
+- <time>Nov 13, 2022</time> "Continued" with Sigmoid Neuron.
+
+- <time>Nov 06, 2022</time> Continued with Sigmoid Neuron.
+
+- <time>Nov 05, 2022</time> Got started with [Sigmoid Neuron](https://brilliant.org/courses/intro-neural-networks/neurons-2/sigmoid-neuron/).
+
+- <time>Nov 04, 2022</time> Finished with Classification.
+
+- <time>Nov 03, 2022</time> Continued with Classification.
+
+- <time>Nov 02, 2022</time> Got started with [Classification](https://brilliant.org/courses/intro-neural-networks/neurons-2/classification/).
+
+- <time>Nov 01, 2022</time> Finished with Building an XOR Gate.
+
+- <time>Oct 31, 2022</time> Got started with [Building an XOR Gate](https://brilliant.org/courses/intro-neural-networks/neurons-2/building-xor-gate/).
+
+- <time>Oct 30, 2022</time> Finished with Decision Boundaries.
+
+- <time>Oct 29, 2022</time> Continued with Decision Boundaries.
+
+- <time>Oct 28, 2022</time> Got started with [Decision Boundaries](https://brilliant.org/courses/intro-neural-networks/neurons-2/decision-boundaries/).
+
+- <time>Oct 27, 2022</time> Finished with Activation Arithmetic.
+
+- <time>Oct 26, 2022</time> Continued with Activation Arithmetic.
+
+- <time>Oct 25, 2022</time> Continued with Activation Arithmetic.
+
+- <time>Oct 24, 2022</time> Continued with Activation Arithmetic.
+
+- <time>Oct 23, 2022</time> Continued with Activation Arithmetic.
+
+- <time>Oct 22, 2022</time> Got started with [Activation Arithmetic](https://brilliant.org/courses/intro-neural-networks/neurons-2/binary-neurons/).
+
+- <time>Oct 21, 2022</time> Finished with The Decision Box.
+
+- <time>Oct 20, 2022</time> Got started with [The Decision Box](https://brilliant.org/courses/intro-neural-networks/neurons-2/decision-box-2/).
+
+- <time>Oct 19, 2022</time> Finished with Can Computers Learn?
+
+- <time>Oct 18, 2022</time> Continued with Can Computers Learn?
+
+- <time>Oct 17, 2022</time> Got started with [Can Computers Learn?](https://brilliant.org/courses/intro-neural-networks/introduction-65/menace-short/).
+
+- <time>Oct 16, 2022</time> Finished with The Folly of Computer Programming.
+
+- <time>Oct 13, 2022-Oct 15, 2022</time> Finished with The Computer Vision Problem and got started and continued with [The Folly of Computer Programming](https://brilliant.org/courses/intro-neural-networks/introduction-65/folly-computer-programming/).
+
+- <time>Oct 12, 2022</time> Got started with [The Computer Vision Problem](https://brilliant.org/courses/intro-neural-networks/introduction-65/computer-vision-problem/).
+
+- <time>Oct 12, 2022</time> Finished with The [Computer Vision Problem](https://brilliant.org/courses/intro-neural-networks/introduction-65/computer-vision-problem/).
+
+- <time>Oct 11, 2022</time> Finished with Neural Networks.
+
+- <time>Oct 10, 2022</time> Continued with Neural Networks.
+
+- <time>Oct 09, 2022</time> Got started with [Neural Networks](https://brilliant.org/courses/intro-neural-networks/introduction-65/neural-nets-2/)
+
+- <time>Oct 08, 2022</time> Finished with Building Programs and finished with Algorithm Fundamentals!
+
+- <time>Oct 07, 2022</time> Continued with Building Programs.
+
+- <time>Oct 06, 2022</time> Continued with Building Programs.
+
+- <time>Oct 05, 2022</time> Got started (?) with [Building Programs](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/building-programs/).
+
+- <time>Oct 04, 2022</time> Finished with Spellcheck. [Today's daily challenge is literally a 5x5 KENKEN!](https://brilliant.org/daily-problems/calcdoku-19/)
+
+- <time>Oct 03, 2022</time> Continued with Spellcheck.
+
+- <time>Oct 02, 2022</time> Got started with [Spellcheck](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/autocorrect/)
+
+- <time>Oct 01, 2022</time> Finished with Who Benefits?
+
+- <time>Sep 30, 2022</time> Got started with [Who Benefits?](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/who-benefits/)
+
+- <time>Sep 29, 2022</time> Finished with Variants.
+
+- <time>Sep 28, 2022</time> Continued with Variants.
+
+- <time>Sep 27, 2022</time> Continued with Variants.
+
+- <time>Sep 26, 2022</time> Got started with [Variants](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/stable-matching-variants/).
+
+- <time>Sep 25, 2022</time> Finished with Running Time.
+
+- <time>Sep 24, 2022</time> Continued with Running Time.
+
+- <time>Sep 23, 2022</time> Continued with Running Time.
+
+- <time>Sep 22, 2022</time> Continued with Running Time.
+
+- <time>Sep 21, 2022</time> Continued with Running Time.
+
+- <time>Sep 20, 2022</time> Continued with Running Time.
+
+- <time>Sep 19, 2022</time> Got started with [Running Time](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/speed-stable-matching/).
+
+- <time>Sep 18, 2022</time> Finsihed with Termination.
+
+- <time>Sep 17, 2022</time> Continued with Termination.
+
+- <time>Sep 16, 2022</time> Continued with Termination.
+
+- <time>Sep 15, 2022</time> Continued with Termination.
+
+- <time>Sep 14, 2022</time> Continued with Termination.
+
+- <time>Sep 05, 2022</time> Got started with [Termination](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/termination-stable-matching/).
+
+- <time>Sep 04, 2022</time> Finished with Correctness.
+
+- <time>Sep 03, 2022</time> Continued with Correctness.
+
+- <time>Sep 02, 2022</time> Continued with Correctness.
+
+- <time>Sep 01, 2022</time> Continued with Correctness.
+
+- <time>Aug 31, 2022</time> Continued with Correctness.
+
+- <time>Aug 30, 2022</time> Continued with Correctness.
+
+- <time>Aug 29, 2022</time> Got started with [Correctness](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/correctness-stable-matching/).
+
+- <time>Aug 28, 2022</time> Finished with Deferred Acceptance Algorithm.
+
+- <time>Aug 27, 2022</time> Continued with Deferred Acceptance Algorithm.
+
+- <time>Aug 26, 2022</time> Got started with [Deferred Acceptance Algorithm](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/gale-shapley/)
+
+- <time>Aug 25, 2022</time> Finished with Using Greediness.
+
+- <time>Aug 24, 2022</time> Continued with Using Greediness.
+
+- <time>Aug 23, 2022</time> Got started with [Using Greediness](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/greedy-matching/).
+
+- <time>Aug 22, 2022</time> Finished with The Stable Matching Problem.
+
+- <time>Aug 21, 2022</time> Continued with The Stable Matching Problem.
+
+- <time>Aug 20, 2022</time> Continued with The Stable Matching Problem.
+
+- <time>Aug 19, 2022</time> Got started with [The Stable Matching Problem](https://brilliant.org/courses/computer-science-algorithms/stable-matching-2/stable-matching).
+
+- <time>Aug 18, 2022</time> Finished with The Mathematics of Big O.
+
+- <time>Aug 17, 2022</time> Continued with The Mathematics of Big O.
+
+- <time>Aug 16, 2022</time> Got started with [The Mathematics of Big O](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/big-o-formally/).
+
+- <time>Aug 15, 2022</time> Finished with Understanding Big O.
+
+- <time>Aug 14, 2022</time> Got started with Understanding Big O.
+
+- <time>Aug 13, 2022</time> Got started with [Understanding Big O](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/more-big-o/).
+
+- <time>Aug 12, 2022</time> Finished [Comparing Algorithms](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/comparing-algos/).
+
+- <time>Aug 11, 2022</time> Finished with Best, Worst and Average Case.
+
+- <time>Aug 10, 2022</time> Continued with Best, Worst and Average Case.
+
+- <time>Aug 09, 2022</time> Continued with Best, Worst and Average Case.
+
+- <time>Aug 07, 2022</time> Got started with [Best, Worst and Average Case](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/best-worst-average/)
+
+- <time>Aug 06, 2022</time> Finished [Counting Operations](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/counting-operations/).
+
+- <time>Aug 05, 2022</time> Finished [Timing Programs with a Stopwatch](https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/timing-programs/)
+
+- <time>Aug 04, 2022</time> Finished with [Insertion Sort](https://brilliant.org/courses/computer-science-algorithms/array-algorithms-2/insertion-sort-algo/).
+
+- <time>Aug 03, 2022</time> Finished with Sorting an Array.
+
+- <time>Aug 02, 2022</time> Continued with Sorting an Array.
+
+- <time>Aug 01, 2022</time> Continued with Sorting an Array.
+
+- <time>Jul 31, 2022</time> Got started with [Sorting an Array](https://brilliant.org/courses/computer-science-algorithms/array-algorithms-2/selection-sort/).
+
+- <time>Jul 30, 2022</time> Finished with Binary Search.
+
+- <time>Jul 29, 2022</time> Continued with Binary Search.
+
+- <time>Jul 28, 2022</time> Continued with Binary Search.
+
+- <time>Jul 27, 2022</time> Got started with [Binary Search](https://brilliant.org/courses/computer-science-algorithms/array-algorithms-2/binary-search-algo/) (again).
+
+- <time>Jul 26, 2022</time> Finished with Searching an Array.
+
+- <time>Jul 25, 2022</time> Continued with Searching an Array.
+
+- <time>Jul 24, 2022</time> Continued with Searching an Array.
+
+- <time>Jul 23, 2022</time> Got started with [Searching an Array](https://brilliant.org/courses/computer-science-algorithms/array-algorithms-2/linear-search/).
+
+- <time>Jul 22, 2022</time> Finished with Arrays.
+
+- <time>Jul 21, 2022</time> Continued with Arrays.
+
+- <time>Jul 20, 2022</time> Got started with [Arrays](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/array-algorithms/).
+
+- <time>Jul 19, 2022</time> Finished with Algorithms and Implementations and Computer Science Fundamentals.
+
+- <time>Jul 18, 2022</time> Continued with Algorithms and Implementations.
+
+- <time>Jul 16, 2022</time> Continued with Algorithms and Implementations.
+
+- <time>Jul 15, 2022</time> Got started with [Algorithms and Implementations](https://brilliant.org/courses/computer-science-essentials/algorithmic-thinking-7/algorithms-and-implementations/).
+
+- <time>Jul 07, 2022</time> Finished with Graph Search.
+
+- <time>Jul 06, 2022</time> Continued with Graph Search.
+
+- <time>Jul 05, 2022</time> Got started with [Graph Search](https://brilliant.org/courses/computer-science-essentials/algorithmic-thinking-7/game-graph-search).
+
+- <time>Jul 04, 2022</time> Finished with Representing Games & Puzzles.
+
+- <time>Jul 03, 2022</time> Continued with Representing Games & Puzzles.
+
+- <time>Jul 02, 2022</time> Continued with Representing Games & Puzzles.
+
+- <time>Jul 01, 2022</time> Continued with Representing Games & Puzzles.
+- <time>Jun 30, 2022</time> Got started with [Representing Games & Puzzles](https://brilliant.org/courses/computer-science-essentials/algorithmic-thinking-7/safe-passage/).
+
+- <time>Jun 28, 2022</time> Finished with Thinking with Graphs.
+
+- <time>Jun 27, 2022</time> Continued with Thinking with Graphs. [The four colour theorem](https://en.wikipedia.org/wiki/Four_color_theorem) was explored in [today's daily challenge](https://brilliant.org/daily-problems/coloring-around/).
+
+- <time>Jun 26, 2022</time> Finished with Divide and Conquer and got started with [Thinking with Graphs](https://brilliant.org/courses/computer-science-essentials/algorithmic-thinking-7/thinking-with-graphs)
+
+- <time>Jun 25, 2022</time> Continued with Divide and Conquer.
+
+- <time>Jun 24, 2022</time> Continued with Divide and Conquer.
+
+- <time>Jun 23, 2022</time> Got started with [Divide and Conquer](https://brilliant.org/courses/computer-science-essentials/algorithmic-thinking-7/divide-conquer-20-questions/).
+
+- <time>Jun 22, 2022</time> Finished with Binary Search.
+
+- <time>Jun 21, 2022</time> Finished with Interfaces (though I have to write the notes for it) and got started with [Binary Search](https://brilliant.org/courses/computer-science-essentials/algorithmic-thinking-7/using-binary-search).
+
+- <time>Jun 20, 2022</time> Finished with Abstraction and got started with [Interfaces](https://brilliant.org/courses/computer-science-essentials/computational-problem-solving-2/interfaces/).
+
+- <time>Jun 19, 2022</time> Continued with Abstraction.
+
+- <time>Jun 18, 2022</time> Got started with [Abstraction](https://brilliant.org/courses/computer-science-essentials/computational-problem-solving-2/abstraction/). I'm now going to only mention daily problems if they're interesting/difficult.
+
+- <time>Jun 17, 2022</time> Finished with the daily problem and finished with Naming.
+
+- <time>Jun 16, 2022</time> Finished with the daily problem and continued with Naming.
+
+- <time>Jun 15, 2022</time> Finished [Spots and Stripes](https://brilliant.org/daily-problems/spots-and-stripes/) (got it correct) and continued with Naming.
+
+- <time>Jun 14, 2022</time> Finished the daily problem and continued with Naming.
+
+- <time>Jun 13, 2022</time> Finished [Round the Clock](https://brilliant.org/daily-problems/clock-hand-swap/) (got it correct, though it doesn't really count) and got started with [Naming](https://brilliant.org/courses/computer-science-essentials/computational-problem-solving-2/naming/).
+
+- <time>Jun 12, 2022</time> Finished [Which is Which?](https://brilliant.org/daily-problems/derivatives-matching-3/) (got it correct) and finished with Order and Search (finally!).
+
+- <time>Jun 11, 2022</time> Finished [Hurry to the Honey](https://brilliant.org/daily-problems/hurry-to-honey/) (got it wrong) and continued with Order and Search.
+
+- <time>Jun 10, 2022</time> Finished [Triangles in Line](https://brilliant.org/daily-problems/angle-hunt-10/) (got it correct) and continued with Order and Search.
+
+- <time>Jun 09, 2022</time> Finished [Stop the Car!](https://brilliant.org/daily-problems/stop-the-car/) (got it correct) and continued with Order and Search.
+
+- <time>Jun 08, 2022</time> Finished [Whose Slope?](https://brilliant.org/daily-problems/derivatives-matching-2/) (got it correct) and continued with Order and Search.
+
+- <time>Jun 07, 2022</time> Finished two daily problems and Wrangling with Repetition.
+
+- <time>Jun 06, 2022</time> Finished [Coins in Boxes](https://brilliant.org/daily-problems/coins-in-boxes/) (got it wrong) and got started with [Wrangling with Repetition](https://brilliant.org/courses/computer-science-essentials/tools-of-computer-science-12/wrangling-with-repetition/).
+
+- <time>Jun 05, 2022</time> Finished [Carrrs](https://brilliant.org/daily-problems/carrrs/), [One More Girl](https://brilliant.org/daily-problems/two-girls-in-a-row/) and [Ice Cream Dilemma](https://brilliant.org/daily-problems/ice-cream-dilemma/) (all correct except the first one)
+
+- <time>Jun 04, 2022</time> Finished [Tracing Completely](https://brilliant.org/daily-problems/euler-path-9/), [Make It Traceable](https://brilliant.org/daily-problems/make-traceable/) and [Encircled](https://brilliant.org/daily-problems/encircled/), all of which I got correct.
+
+- <time>Jun 03, 2022</time> Finished [Bookworms](https://brilliant.org/daily-problems/bookworms/) (got it correct) and finished with Matrices for Neural Networks.
+
+- <time>Jun 02, 2022</time> Finished [Impossible Result](https://brilliant.org/daily-problems/os-impossible/) (got it correct) and got started with [Matrices for Neural Networks](https://brilliant.org/practice/matrices-for-neural-networks).
+
+- <time>Jun 01, 2022</time> Finished the daily problem and finished Vectors for Neural Networks.
+
+- <time>May 31, 2022</time> Finished [How Many Elephants?](https://brilliant.org/daily-problems/elephant-pulleys-4/) (got it correct) and got started with a [brush-up on linear algebra](https://brilliant.org/practice/vectors-for-neural-networks/).
+
+- <time>May 30, 2022</time> Finished two daily problems and with Recurrent Neural Networks.
+
+- <time>May 29, 2022</time> Finished [In the Cards](https://brilliant.org/daily-problems/top-bottom-card/) (got it correct) and continued with Recurrent Neural Networks.
+
+- <time>May 28, 2022</time> Finished [The Heaviest Ornament](https://brilliant.org/daily-problems/balance-mobile-8/) (got it correct) and got started with [Recurrent Neural Networks](https://brilliant.org/practice/introduction-to-recurrent-neural-networks).
+
+- <time>May 27, 2022</time> Finished [Different Numbers](https://brilliant.org/daily-problems/number-buncher-14/) (got it correct) and finished with Arrays.
+
+- <time>May 26, 2022</time> Finished the daily problem and got started with [Arrays](https://brilliant.org/practice/arrays/).
+
+- <time>May 25, 2022</time> Finished [Whose Two?](https://brilliant.org/daily-problems/number-bunchers-3/) (got it wrong) and finished with [Treaps](https://brilliant.org/practice/treaps) (got every question for Treaps correct!)
+
+- <time>May 24, 2022</time> Finished [Honeycomb Colors](https://brilliant.org/daily-problems/honeycomb-colors/) (got it correct) and finished with Binary Heaps.
+
+- <time>May 23, 2022</time> Finished [Stack of Circles](https://brilliant.org/daily-problems/stack-of-circles/) (got it correct, really proud of this) and got started with [Binary Heaps](https://brilliant.org/practice/binary-heaps/).
+
+- <time>May 22, 2022</time> Finished [Same or Different](https://brilliant.org/daily-problems/same-or-different/) (got it wrong) and finished with Priority Queues. I got literally everything wrong for Brilliant today lol.
+
+- <time>May 21, 2022</time> Finished [Make Six Twice](https://brilliant.org/daily-problems/grid-fill-17/) (got it correct) and got started with [Priority Queues](https://brilliant.org/practice/priority-queues).
+
+- <time>May 20, 2022</time> Finished [Connected Gears](https://brilliant.org/daily-problems/connected-gears/) (got it correct) and finished with Red Black Trees.
+
+- <time>May 19, 2022</time> Finished [Seeking Chocolate](https://brilliant.org/daily-problems/chocolate-box-path/) (got it wrong, I got the other ant's path completely wrong lol), finished with Tree Rotations and got started with [Red Black Trees](https://brilliant.org/practice/red-black-trees/?chapter=binary-trees).
+
+- <time>May 18, 2022</time> Finished [Comparing Heights](https://brilliant.org/daily-problems/comparing-heights/) (got it wrong) and got started with [Tree Rotations](https://brilliant.org/practice/tree-rotations/?chapter=binary-trees).
+
+- <time>May 17, 2022</time> Finished the daily problem and finished with queues.
+
+- <time>May 16, 2022</time> Finished [Off Balance](https://brilliant.org/daily-problems/balance-puzzle-7/) (got it correct) and got started with [Queues](https://brilliant.org/practice/queues/).
+
+- <time>May 15, 2022</time> Finished [Class Sizes](https://brilliant.org/daily-problems/order-class-size/) (got it wrong) and finished with Stacks.
+
+- <time>May 14, 2022</time> Finished [You Won't Get This Number](https://brilliant.org/daily-problems/os-cant-get-it/) (got it correct) and got started with [Stacks](https://brilliant.org/practice/stacks-2).
+
+- <time>May 13, 2022</time> Finished [Compare the Weights](https://brilliant.org/daily-problems/balance-puzzle-6/) (got it correct) and finished with Binary Search Trees.
+
+- <time>May 12, 2022</time> Finished [Corner to Corner](https://brilliant.org/daily-problems/corner-to-corner/) (got it correct) and got started with [Binary Search Trees](https://brilliant.org/practice/binary-search-trees-2/).
+
+- <time>May 11, 2022</time> Finished [All Roads Lead to Nika](https://brilliant.org/daily-problems/taxicab-distance-1/) (got it correct, though I basically guessed lol) and finished with Traversals (cool stuff!)
+
+- <time>May 10, 2022</time> Finished with [The Smallest Z](https://brilliant.org/daily-problems/smallest-z/) (got it wrong) and got started with [Traversals](https://brilliant.org/practice/traversals-2).
+
+- <time>May 09, 2022</time> Finished with [The Heavier Side](https://brilliant.org/daily-problems/balance-puzzle-9/) (got it wrong) and finished with [Binary Trees](https://brilliant.org/practice/binary-trees/), which I found pretty fun.
+
+- <time>May 08, 2022</time> Finished with [Not Bright Enough](https://brilliant.org/daily-problems/bulb-output-7/) (got it correct) and finished with [Linked Lists](https://brilliant.org/practice/linked-list/) (which I now finally understand for [LeetCode](/#leetcode)!)
+
+- <time>May 07, 2022</time> Finished the daily problem and finished with [Divide and Conquer](https://brilliant.org/practice/divide-and-conquer/).
+
+- <time>May 06, 2022</time> Finished [Blue or Yellow?](https://brilliant.org/daily-problems/angle-hunt-9/) (got it correct) and continued with Order and Search.
+
+- <time>May 05, 2022</time> Finished [Human or Werewolf?](https://brilliant.org/daily-problems/toggle-tags-3/) (got it wrong), finished with Resource Tradeoffs and got started with [Order and Search](https://brilliant.org/courses/computer-science-essentials/computational-problem-solving-2/order-and-search)!
+
+- <time>May 04, 2022</time> Finished [Hexagon to Star](https://brilliant.org/daily-problems/hexagon-to-star/) (got it correct) and continued with Resource Tradeoffs.
+
+- <time>May 03, 2022</time> Finished [Follow the Arrows](https://brilliant.org/daily-problems/circle-fill-15/) (got it wrong) and got started with [Resource Tradeoffs](https://brilliant.org/courses/computer-science-essentials/computational-problem-solving-2/resource-tradeoffs/).
+
+- <time>May 02, 2022</time> Finished [One to Three, Three to One](https://brilliant.org/daily-problems/os-make-15/) (got it correct) and finished with Parallelism.
+
+- <time>May 01, 2022</time> Finished [Pizza Thief](https://brilliant.org/daily-problems/pizza-thief/) (got it correct) and continued with Parallelism.
+
+- <time>Apr 29, 2022</time> Finished [Is It Balanced?](https://brilliant.org/daily-problems/balance-mobile-10/) (got it correct) and got started with [Parallelism](https://brilliant.org/courses/computer-science-essentials/computational-problem-solving-2/parallelism/) (note to self: "embarrassingly parallel" is a real term!)
+
+- <time>Apr 28, 2022</time> Finished with Repetition.
+
+- <time>Apr 27, 2022</time> Finished [Doctor Brilliantstein](https://brilliant.org/daily-problems/doctor-brilliantstein/) (got it right) and finished with Manipulating Numbers and got started with [Repetition](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/repetition-instructions/).
+
+- <time>Apr 26, 2022</time> Finished [Don't Go Breaking My Bike](https://brilliant.org/daily-problems/broken-bike/) (got it right) and continued with Manipulating Numbers.
+
+- <time>Apr 25, 2022</time> Finished [Oh, the Weather Outside Is Frightful](https://brilliant.org/daily-problems/clothing-layers/) (got it wrong) and continued with Manipulating Numbers.
+
+- <time>Apr 24, 2022</time> Finished [And They Were Roommates](https://brilliant.org/daily-problems/they-were-roommates/) (got it correct) and got started with [Manipulating Numbers](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/manipulating-numbers/).
+
+- <time>Apr 23, 2022</time> Finished [the daily challenge](https://brilliant.org/daily-problems/counting-babies/) (got it correct) and finished with Conditional Algorithms.
+
+- <time>Apr 22, 2022</time> Finished [How Many Circles?](https://brilliant.org/daily-problems/balance-puzzle-10/) (got it correct) and continued with Conditional Algorithms.
+
+- <time>Apr 21, 2022</time> Finished [Made to Measure](https://brilliant.org/daily-problems/pour-it-out-16/) (got it correct) and continued with Conditional Algorithms.
+
+- <time>Apr 20, 2022</time> Finished [Pizza Burn](https://brilliant.org/daily-problems/pizza-burn/) (got it correct) and got started with [Conditional Algorithms](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/conditionals).
+
+- <time>Apr 19, 2022</time> Finished [Find the Angle](https://brilliant.org/daily-problems/angle-hunt-8/) (got it correct) and finished [Pseudocode](https://brilliant.org/courses/computer-science-algorithms/building-blocks-v3/pseudocode/).
+
+- <time>Apr 18, 2022</time> Finished with [El the Elephant](https://brilliant.org/daily-problems/elephant-pulleys-5/) (got it wrong) and Searching for Solutions.
+
+- <time>Apr 17, 2022</time> Finished with [Which Is Shaded More?](https://brilliant.org/daily-problems/which-shade-more/) (got it correct) and got started with [Searching for Solutions](https://brilliant.org/courses/computer-science-essentials/tools-of-computer-science-12/searching-for-solutions-2/).
+
+- <time>Apr 16, 2022</time> Finished with Writing Programs and [Which Is Bigger?](https://brilliant.org/daily-problems/factorial-compare/) (got it correct).
+
+- <time>Apr 15, 2022</time> Finished the daily challenge ([Playing with Matchsticks](https://brilliant.org/daily-problems/matchstick-removal/), got it wrong) and finished the backlog of problems available on the free tier ([Who Won The Race?](https://brilliant.org/daily-problems/who-won-race/) (wrong), [The Nine Nine Plus](https://brilliant.org/daily-problems/grid-fill-nine-cross/) (correct, used my [KENKEN](#kenken) skills), [How Much Can They See?](https://brilliant.org/daily-problems/guard-gallery/) (correct), [Pasta, Pronto](https://brilliant.org/daily-problems/pot-boil/) (wrong), [Cool, Cooler, Coolest](https://brilliant.org/daily-problems/tea-heat-transfer/) (wrong) and finally, [Find the Pattern](https://brilliant.org/daily-problems/visual-pattern/) (correct)).
+
+- <time>Apr 14, 2022</time> Got started with [Computer Science Essentials](https://brilliant.org/courses/computer-science-essentials/) and finished [Making Decisions](https://brilliant.org/courses/computer-science-essentials/tools-of-computer-science-12/making-decisions/). Still on [Writing Programs](https://brilliant.org/courses/computer-science-essentials/tools-of-computer-science-12/interactive-programs).
+<hr />
+
+## <span id="codewars">[Codewars](https://www.codewars.com)</span>
+
+<small>Dec 13, 2022-present</small>  
+<small>Trying to practice different programming languages with Codewars (<a href="#leetcode">LeetCode</a> is for harder, more Python-oriented problems).</small>
+
+<hr />
+
+#### Log
+
+- <time>Jan 29, 2023</time> Finished [ISBN-10 Validation](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001) in Python:
+
+```py
+def valid_ISBN10(isbn):
+    if len(isbn) != 10:
+        return False
+
+    first_9 = isbn[:-1]
+    last_digit = isbn[-1]
+
+    total = 0
+
+    try:
+        total += sum([int(first_9[i]) * (i + 1) for i in range(len(first_9))])
+    except:
+        return False
+
+    if last_digit.isdigit():
+        total += int(last_digit) * 10
+    elif last_digit == "X":
+        total += 100
+    else:
+        return False
+
+    return total % 11 == 0
+```
+
+- <time>Jan 28, 2023</time> Finished [Mean Square Error](https://www.codewars.com/kata/51edd51599a189fe7f000015) in Python:
+
+```py
+def solution(array_a, array_b):
+    return sum((array_a[i] - array_b[i]) ** 2 for i in range(len(array_a))) / len(array_a)
+```
+
+- <time>Jan 27, 2023</time> Finished [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) in Python:
+
+```py
+def find_uniq(arr):
+    return [i for i in set(arr) if arr.count(i) == 1][0]
+```
+
+- <time>Jan 25, 2023</time> Couldn't solve a problem today, but that's okay.
+
+- <time>Jan 22, 2023</time> Finished [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/) in Python:
+
+```py
+def first_non_repeating_letter(string):
+    for i in range(len(string)):
+        if len([j for j in range(len(string)) if string[j].lower() == string[i].lower() and j != i]) == 0:
+            return string[i]
+    else:
+        return ""
+```
+
+- <time>Jan 21, 2023</time> Finished [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7) in Python:
+
+```py
+def make_readable(seconds):
+    hours = seconds // 3600
+    minutes = (seconds - (hours * 3600)) // 60
+    seconds_print = seconds - (minutes * 60) - (hours * 3600)
+
+    if len(str(hours)) < 2:
+        hours = "0" + str(hours)
+
+    if len(str(minutes)) < 2:
+        minutes = "0" + str(minutes)
+
+    if len(str(seconds_print)) < 2:
+        seconds_print = "0" + str(seconds_print)
+
+    return f"{hours}:{minutes}:{seconds_print}"
+```
+
+- <time>Jan 20, 2023</time> Finished [Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059/) in Python:
+
+```py
+def cakes(recipe, available):
+    count = 0
+    max_scale = []
+
+    for k, v in recipe.items():
+        if k not in available:
+            max_scale = [0]
+        else:
+            if available[k] < v:
+                max_scale = [0]
+            else:
+                max_scale.append(available[k] // v)
+
+    count = min(max_scale, default=0)
+    return count
+```
+
+- <time>Jan 18, 2023</time> Still no luck.
+
+- <time>Jan 17, 2023</time> Trying to solve [Catching Car Mileage Numbers](https://www.codewars.com/kata/52c4dd683bfd3b434c000292/train/python)
+
+- <time>Jan 16, 2023</time> Tried to solve a couple of problems in Python, but to no avail.
+
+- <time>Jan 15, 2023</time> Finished [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c/) in Python:
+
+```py
+def narcissistic(value):
+    return sum([int(i) ** len(str(value)) for i in str(value)]) == value
+```
+
+- <time>Jan 04, 2023</time> Finished [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/) in Python:
+
+```py
+def pig_it(text):
+    res = []
+
+    for i in text.split(" "):
+        if i.isalpha():
+            word = i[1:] + i[0] + "ay"
+            res.append(word)
+        else:
+            res.append(i)
+
+    return " ".join(res)
+```
+
+- <time>Jan 03, 2023</time> Finished [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a/) in Python:
+
+```py
+def count_smileys(arr):
+    valid_smiley_faces = [':)', ';)', ':-)', ';-)', ':~)', ';~)', ':D', ';D', ':-D', ';-D', ':~D', ';~D', ':D', ';D']
+
+    return len([i for i in arr if i in valid_smiley_faces])
+```
+
+- <time>Jan 02, 2023</time> Finished [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c) in Python:
+
+```py
+def comp(array1, array2):
+    if array1 == None or array2 == None:
+        return False
+
+    if sorted([i**2 for i in array1]) == sorted(array2):
+        return True
+    else:
+        return False
+```
+
+- <time>Jan 01, 2023</time> Finished [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) in Python:
+
+```py
+def move_zeros(lst):
+  return [i for i in lst if i != 0] + [i for i in lst if i == 0]
+```
+
+- <time>Dec 31, 2022</time> Finished [(Multiplicative Persistence)](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/) in Python. Hoping to do more Java problems in 2023:
+
+```py
+import math
+
+def persistence(n):
+    count = 0
+
+    while len(str(n)) != 1:
+        n = math.prod([int(i) for i in str(n)])
+        count += 1
+
+    return count
+```
+
+- <time>Dec 30, 2022</time> Finished [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/) in Python:
+
+```py
+def zero(operand_num=""): #your code here
+    return eval("0" + operand_num)
+def one(operand_num=""): #your code here
+    return eval("1" + operand_num)
+def two(operand_num=""): #your code here
+    return eval("2" + operand_num)
+def three(operand_num=""): #your code here
+    return eval("3" + operand_num)
+def four(operand_num=""): #your code here
+    return eval("4" + operand_num)
+def five(operand_num=""): #your code here
+    return eval("5" + operand_num)
+def six(operand_num=""): #your code here
+    return eval("6" + operand_num)
+def seven(operand_num=""): #your code here
+    return eval("7" + operand_num)
+def eight(operand_num=""): #your code here
+    return eval("8" + operand_num)
+def nine(operand_num=""): #your code here
+    return eval("9" + operand_num)
+
+def plus(num): #your code here
+    return f"+{num}"
+def minus(num): #your code here
+    return f"-{num}"
+def times(num): #your code here
+    return f"*{num}"
+def divided_by(num): #your code here
+    return f"//{num}"
+```
+
+- <time>Dec 29, 2022</time> Finished [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148/solutions) in Python:
+
+```py
+def solution(s):
+    res = ""
+
+    for i in s:
+        if ord(i) >= 65 and ord(i) <= 90:
+            res += f" {i}"
+        else:
+            res += i
+
+    return res
+```
+
+- <time>Dec 28, 2022</time> Finished [Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f/) in Python:
+
+```py
+def friend(x):
+	return [i for i in x if len(i) == 4]
+```
+
+- <time>Dec 27, 2022</time> Finished [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014/) in Python:
+
+```py
+def sum_two_smallest_numbers(numbers):
+    return min(numbers) + min([i for i in numbers if i != min(numbers)])
+```
+
+- <time>Dec 26, 2022</time> Finished [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) in Python:
+
+```py
+def high_and_low(numbers):
+    return f"{max([int(i) for i in numbers.split(' ')])} {min([int(i) for i in numbers.split(' ')])}"
+```
+
+- <time>Dec 25, 2022</time> Finished [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e/) in Python:
+
+```py
+from preloaded import MORSE_CODE
+
+def decode_morse(morse_code):
+    # Remember - you can use the preloaded MORSE_CODE dictionary:
+    # For example:
+    # MORSE_CODE['.-'] = 'A'
+    # MORSE_CODE['--...'] = '7'
+    # MORSE_CODE['...-..-'] = '$'
+    temp_morse_code = morse_code.strip().split('   ')
+    decoded_message = []
+
+    for i in temp_morse_code:
+        for j in i.split(' '):
+            decoded_message.append(MORSE_CODE[j])
+        decoded_message.append(" ")
+
+    return "".join(decoded_message).rstrip()
+```
+
+- <time>Dec 24, 2022</time> Finished [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd) in Python:
+
+```py
+def filter_list(l):
+    return [i for i in l if str(i).isdigit() and isinstance(i, int)]
+```
+
+- <time>Dec 23, 2022</time> Finished [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/) in Python:
+
+```py
+def solution(string, ending):
+    if ending == '':
+        return True
+    else:
+        if ending in string:
+            if string[len(string) - len(ending):] == ending:
+                return True
+            else:
+                return False
+        else:
+            return False
+```
+
+- <time>Dec 22, 2022</time> Finished [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/) in Java:
+
+```java
+import java.util.ArrayList;
+
+public class FindOdd {
+	public static int findIt(int[] a) {
+    ArrayList<Integer> count_al = new ArrayList<Integer>();
+
+  	for (int i = 0; i < a.length; i++) {
+      int number = a[i];
+      int count = 0;
+
+      for (int j = 0; j < a.length; j++) {
+        if (a[j] == number) {
+          count++;
+        }
+      }
+
+      count_al.add(count);
+    }
+
+    for (int i = 0; i < count_al.size(); i++) {
+      if (count_al.get(i) % 2 != 0) {
+        return a[i];
+      }
+    }
+
+    return 0;
+  }
+}
+```
+
+- <time>Dec 21, 2022</time> Finished [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) in Python (accidentally left the print statement in my final solution - oh well):
+
+```py
+def solution(s):
+    print(s)
+    if len(s) % 2 != 0:
+        temp_res = [s[i:i+2] for i in range(0, len(s), 2)]
+        temp_res[-1] = temp_res[-1] + "_"
+        return temp_res
+    else:
+        return [s[i:i+2] for i in range(0, len(s), 2)]
+```
+
+- <time>Dec 20, 2022</time> Finished [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) in Java:
+
+```java
+public class Kata {
+  public static String createPhoneNumber(int[] numbers) {
+   String phoneNumber = "(" + String.valueOf(numbers[0]) + String.valueOf(numbers[1]) + String.valueOf(numbers[2]) + ") " + String.valueOf(numbers[3]) + String.valueOf(numbers[4]) + String.valueOf(numbers[5]) + "-" + String.valueOf(numbers[6]) + String.valueOf(numbers[7]) + String.valueOf(numbers[8]) + String.valueOf(numbers[9]);
+   return phoneNumber;
+  }
+}
+```
+
+- <time>Dec 19, 2022</time> Finished [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) in Java:
+
+```java
+import java.util.ArrayList;
+
+public class DescendingOrder {
+  public static int sortDesc(final int num) {
+    int temp = num;
+    ArrayList<Integer> digits = new ArrayList<Integer>();
+
+    while (temp != 0) { // while loop for appending digits
+      int digit = temp % 10;
+      digits.add(digit);
+      temp /= 10;
+    }
+
+    for (int i = 0; i < digits.size() - 1; i++) { // for loops for sorting - bubble sort
+      for (int j = 0; j < digits.size() - 1 - i; j++) {
+        if (digits.get(i + j + 1) > digits.get(i)) {
+          int temp_digit = digits.get(i);
+          digits.set(i, digits.get(i + j + 1));
+          digits.set(i + j + 1, temp_digit);
+        }
+      }
+    }
+
+    int res = 0;
+
+    for (int i = 0; i < digits.size(); i++) { // converting list of digits to int
+      int digit = digits.get(i);
+      res = (res * 10) + digit;
+    }
+
+    return res;
+  }
+}
+```
+
+- <time>Dec 18, 2022</time> Finished [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) in Java:
+
+```java
+import java.util.ArrayList;
+
+public class SpinWords {
+
+  public String spinWords(String sentence) {
+    String[] words = sentence.split(" "); // credit - https://www.geeksforgeeks.org/split-string-java-examples/
+    ArrayList<String> tempRes = new ArrayList<String>(); // creating a temp ArrayList for words
+
+   for (int i = 0; i < words.length; i++) {
+      if (words[i].length() >= 5) {
+        String reverseString = "";
+
+        for (int j = words[i].length() - 1; j >= 0; j--) { // inner for-loop for reversing the string
+          reverseString += words[i].charAt(j);
+        }
+
+        tempRes.add(reverseString);
+
+      } else {
+        tempRes.add(words[i]);
+      }
+    }
+
+    String res = String.join(" ", tempRes); // credit - https://stackoverflow.com/questions/599161/best-way-to-convert-an-arraylist-to-a-string
+
+    return res;
+  }
+}
+```
+
+- <time>Dec 17, 2022</time> Finished [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/) in Java:
+
+```java
+public class Solution {
+
+  public int solution(int number) {
+    if (number < 0) {
+      return -1; // returning -1 if the number is negative
+    } else {
+      int res = 0;
+
+      for (int i = 1; i < number; i++) {
+        if (i % 3 == 0 || i % 5 == 0) { // only counting the number once if multiple of 15
+          res += i;
+        }
+      }
+
+      return res;
+    }
+  }
+}
+```
+
+- <time>Dec 16, 2022</time> Finished [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/java) in Java:
+
+```java
+public class Accumul {
+
+    public static String accum(String s) {
+      String res = ""; // result string
+
+      for (int i = 0; i < s.length(); i++) {
+        char chr = s.charAt(i); // getting character at each index
+        res += Character.toUpperCase(chr); // converting character to uppercase
+
+        for (int j = 0; j < i; j++) {
+          char chr_repeat = s.charAt(i); // repeatedly getting the same character based on index
+          res += Character.toLowerCase(chr_repeat); // converting character to lowercase
+        }
+
+        if (i != s.length() - 1) { // as long as not last character, add hyphen
+          res += "-";
+        }
+      }
+
+      return res;
+    }
+}
+```
+
+- <time>Dec 15, 2022</time> Finished [Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b/) in JavaScript:
+
+```js
+function isTriangle(a, b, c) {
+  if (a + b > c && b + c > a && a + c > b) return true;
+  else return false;
+}
+```
+
+- <time>Dec 14, 2022</time> Finished [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/) in JavaScript:
+
+```js
+function getCount(str) {
+  let count = 0;
+  for (let i = 0; i < str.length; i++) {
+    if (
+      str[i] == "a" ||
+      str[i] == "e" ||
+      str[i] == "i" ||
+      str[i] == "o" ||
+      str[i] == "u"
+    )
+      count++;
+  }
+  return count;
+}
+```
+
+- <time>Dec 13, 2022</time> Finished a couple of different problems (?) and got to 8 kyu.
+
+<hr />
+
+## <span id="optx">[OptX](https://www.instagram.com/optx.uae/)</span>
+
+<small>Jan 04, 2023-present</small>  
+<small>Became part of OptX, my school's student-led initiative to provide opportunities to the youth. Trying to the best job I can.</small>
+
+<hr />
+
+#### Log
+
+- <time>Jan 27, 2023</time> Had a productive conversation!
+
+- <time>Jan 17, 2023</time> Discussed next meeting.
+
+- <time>Jan 04, 2023-Jan 14, 2023</time> Well, I initially thought that I would just be a volunteer for OptX's The Symposium 1.0, but roughly a day before the event (Jan 07, 2023), I became one of the newest committee member. In the end, The Symposium 1.0 was an incredible success. Seeing it all unfold was one of the greatest moments in my life.
+
+![OptX - The Symposium 1.0](/optx.jpg)
+
+<hr />
 ## <span id="freecodecamp">[freeCodeCamp](https://freecodecamp.org)</span>
 
 <small>Oct 28, 2021-present</small>  
@@ -8063,10 +8066,6 @@ class Solution:
 - <time>Oct 29, 2021</time> Continued Basic JavaScript and [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions), the issue was closed as it was an intentional feature.
 
 - <time>Oct 28, 2021</time> Continued [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) and [Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging), and also opened up an [issue about possible duplication](https://github.com/freeCodeCamp/freeCodeCamp/issues/44051).
-<hr />
-
-## Inactive/Paused
-
 <hr />
 
 ## <span id="solaris-2">SOLARIS (Second Edition)</span>
