@@ -81,6 +81,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 03, 2023</time> Did some organisational work. Instagram page is much more lively now!
+
 - <time>Feb 02, 2023</time> Did some organisational work.
 
 - <time>Feb 01, 2023</time> Did some organisational work.
@@ -119,6 +121,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 03, 2023</time> Made good progress on the programming assignment for Week 1.
 
 - <time>Feb 02, 2023</time> Continued with the course.
 
@@ -370,6 +374,22 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 03, 2023</time> Finished [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/):
+
+```py
+class Solution:
+    def countGoodTriplets(self, arr: List[int], a: int, b: int, c: int) -> int:
+        count = 0
+
+        for i in range(len(arr)):
+            for j in range(i+1, len(arr)):
+                for k in range(j+1, len(arr)):
+                    if abs(arr[i] - arr[j]) <= a and abs(arr[j] - arr[k]) <= b and abs(arr[i] - arr[k]) <= c:
+                        count += 1
+
+        return count
+```
 
 - <time>Feb 02, 2023</time> Finished [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements):
 
