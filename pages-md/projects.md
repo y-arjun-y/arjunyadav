@@ -81,6 +81,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 04, 2023</time> Did some organisational work and replied to an email.
+
 - <time>Feb 03, 2023</time> Did some organisational work. Instagram page is much more lively now!
 
 - <time>Feb 02, 2023</time> Did some organisational work.
@@ -121,6 +123,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 04, 2023</time> Continued with the course.
 
 - <time>Feb 03, 2023</time> Made good progress on the programming assignment for Week 1.
 
@@ -374,6 +378,20 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 04, 2023</time> Finished [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/):
+
+```py
+class Solution:
+    def separateDigits(self, nums: List[int]) -> List[int]:
+        res = []
+
+        for i in nums:
+            for j in str(i):
+                res.append(int(j))
+
+        return res
+```
 
 - <time>Feb 03, 2023</time> Finished [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/):
 
