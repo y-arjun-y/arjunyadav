@@ -28,8 +28,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
 
-### Done (26)
+### Done (27)
 
+- <a href="#admun2023">ADMUN 2023</time>
 - <a href="#middleschoolcsevent">Middle School CS Event</a>
 - <a href="#adventofcode">Advent of Code</a>
 - <a href="#y1d2">y1d2</a>
@@ -9271,6 +9272,17 @@ function getCount(str) {
 <hr />
 
 ## Done
+
+<hr />
+
+## <span id="admun2023">ADMUN 2023</span>
+
+<small>Feb 03, 2023-Feb 05, 2023</small>  
+<small>Attended my last MUN, ADMUN 2.3 as part of my school team. Due to privacy reasons, I was being incredibly vague.</small>
+
+#### Log
+
+- <time>Feb 03, 2023-Feb 05, 2023</time> Represented Bangladesh in the Economic and Social Council/Committee and did really well (though sadly, no award - possibly because I could not attend the last day fully, more about that later). Glad that my MUN career ended on a good note.
 
 <hr />
 
