@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Feb 04, 2023
+publish_date: Feb 06, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -81,6 +81,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 05, 2023-Feb 06, 2023</time> Scheduled a meeting.
+
 - <time>Feb 04, 2023</time> Did some organisational work and replied to an email.
 
 - <time>Feb 03, 2023</time> Did some organisational work. Instagram page is much more lively now!
@@ -123,6 +125,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 06, 2023</time> Continued with the course.
 
 - <time>Feb 04, 2023</time> Continued with the course.
 
@@ -378,6 +382,21 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 06, 2023</time> Finished [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/):
+
+```py
+class Solution:
+    def pickGifts(self, gifts: List[int], k: int) -> int:
+        import math
+
+        while k > 0:
+            gifts = sorted(gifts)
+            gifts[-1] = math.floor(math.sqrt(gifts[-1]))
+            k -= 1
+
+        return sum(gifts)
+```
 
 - <time>Feb 04, 2023</time> Finished [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/):
 
