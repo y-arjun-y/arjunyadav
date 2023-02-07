@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Feb 06, 2023
+publish_date: Feb 07, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -82,6 +82,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 07, 2023</time> Did some organisational work.
+
 - <time>Feb 05, 2023-Feb 06, 2023</time> Scheduled a meeting.
 
 - <time>Feb 04, 2023</time> Did some organisational work and replied to an email.
@@ -126,6 +128,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 07, 2023</time> Continued with the course.
 
 - <time>Feb 06, 2023</time> Continued with the course.
 
@@ -383,6 +387,34 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 07, 2023</time> Finished [Count Distinct Numbers on Board
+  ]https://leetcode.com/problems/count-distinct-numbers-on-board/):
+
+```py
+class Solution:
+    def distinctIntegers(self, n: int) -> int:
+        has_stopped = False
+        numbers_count = [n]
+        numbers = [n]
+
+        while not has_stopped:
+            new_numbers = []
+            count = 0
+
+            for i in range(1, n+1):
+                if True in [j % i == 1 for j in numbers]:
+                    new_numbers.append(i)
+                    count += 1
+
+            if count == 0:
+                has_stopped = True
+
+            numbers_count.extend(new_numbers)
+            numbers = new_numbers
+
+        return len(set(numbers_count))
+```
 
 - <time>Feb 06, 2023</time> Finished [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/):
 
