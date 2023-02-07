@@ -388,8 +388,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 07, 2023</time> Finished [Count Distinct Numbers on Board
-  ]https://leetcode.com/problems/count-distinct-numbers-on-board/):
+- <time>Feb 07, 2023</time> Finished [Count Distinct Numbers on Board]https://leetcode.com/problems/count-distinct-numbers-on-board/):
 
 ```py
 class Solution:
