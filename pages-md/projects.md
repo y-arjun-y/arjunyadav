@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Feb 07, 2023
+publish_date: Feb 08, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -82,6 +82,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 08, 2023</time> Did some organisational work for tomorrow.
+
 - <time>Feb 07, 2023</time> Did some organisational work.
 
 - <time>Feb 05, 2023-Feb 06, 2023</time> Scheduled a meeting.
@@ -128,6 +130,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 08, 2023</time> Continued with the course.
 
 - <time>Feb 07, 2023</time> Continued with the course.
 
@@ -387,6 +391,29 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 08, 2023</time> Finished [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/):
+
+```py
+class Solution:
+    def subsetXORSum(self, nums: List[int]) -> int:
+        from itertools import combinations
+
+        total = 0
+        sublists = []
+
+        for i in range(2, len(nums) + 1):
+            sublists.append(list(combinations(nums, i)))
+
+        for i in sublists:
+            for j in i:
+                eval_str = ""
+                for k in j:
+                    eval_str += str(k) + "^"
+                total += eval(eval_str[:-1])
+
+        return total + sum(nums)
+```
 
 - <time>Feb 07, 2023</time> Finished [Count Distinct Numbers on Board]https://leetcode.com/problems/count-distinct-numbers-on-board/):
 
