@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Feb 08, 2023
+publish_date: Feb 09, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -82,6 +82,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 09, 2023</time> Got a great meeting and some communication in!
+
 - <time>Feb 08, 2023</time> Did some organisational work for tomorrow.
 
 - <time>Feb 07, 2023</time> Did some organisational work.
@@ -130,6 +132,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 09, 2023</time> Continued with the course.
 
 - <time>Feb 08, 2023</time> Continued with the course.
 
@@ -391,6 +395,31 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 09, 2023</time> Finished [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/):
+
+```py
+class Solution:
+    def countHillValley(self, nums: List[int]) -> int:
+        filtered_list = []
+        last_num = None
+
+        for i in nums:
+            if i != last_num:
+                filtered_list.append(i)
+                last_num = i
+
+
+        count = 0
+
+        for i in range(1, len(filtered_list) - 1):
+            if filtered_list[i] > filtered_list[i-1] and filtered_list[i] > filtered_list[i+1]:
+                count += 1
+            elif filtered_list[i] < filtered_list[i-1] and filtered_list[i] < filtered_list[i+1]:
+                count += 1
+
+        return count
+```
 
 - <time>Feb 08, 2023</time> Finished [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/):
 
