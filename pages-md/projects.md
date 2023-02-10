@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Feb 09, 2023
+publish_date: Feb 10, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -82,6 +82,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 10, 2023</time> Did some organisational work.
+
 - <time>Feb 09, 2023</time> Got a great meeting and some communication in!
 
 - <time>Feb 08, 2023</time> Did some organisational work for tomorrow.
@@ -132,6 +134,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 10, 2023</time> Continued with the course.
 
 - <time>Feb 09, 2023</time> Continued with the course.
 
@@ -395,6 +399,32 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 10, 2023</time> Finished [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons):
+
+```py
+class Solution:
+    def maxNumberOfBalloons(self, text: str) -> int:
+        chars = [i for i in text if i in "balloon"]
+        chars = {i: chars.count(i) for i in dict.fromkeys(chars)}
+        count = 0
+
+        if 'b' not in chars or 'a' not in chars or 'l' not in chars or 'o' not in chars or 'n' not in chars:
+            return 0
+
+        while True:
+            if chars['b'] >= 1 and chars['a'] >= 1 and chars['l'] >= 2 and chars['o'] >= 2 and  chars['n'] >= 1:
+                count += 1
+                chars['b'] -= 1
+                chars['a'] -= 1
+                chars['l'] -= 2
+                chars['o'] -= 2
+                chars['n'] -= 1
+            else:
+                break
+
+        return count
+```
 
 - <time>Feb 09, 2023</time> Finished [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/):
 
