@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Feb 10, 2023
+publish_date: Feb 11, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -399,6 +399,35 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 11, 2023</time> Finished [Summary Ranges](https://leetcode.com/problems/summary-ranges/):
+
+```py
+class Solution:
+    def summaryRanges(self, nums: List[int]) -> List[str]:
+        nested_nums = []
+        res = []
+
+        for i in nums:
+            if i not in [j for k in nested_nums for j in k]:
+                nested_lst = []
+                count = i
+
+                while count in nums:
+                    nested_lst.append(count)
+                    count += 1
+
+                nested_nums.append(nested_lst)
+
+        for i in nested_nums:
+            if len(i) == 1:
+                res.append(str(i[0]))
+            else:
+                res.append(f'{min(i)}->{max(i)}')
+
+        return res
+
+```
 
 - <time>Feb 10, 2023</time> Finished [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons):
 
