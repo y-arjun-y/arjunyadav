@@ -17,7 +17,7 @@ Always keep your documents organised.
 
 ### Lesson 2 - Designing Instagram posts
 
-I'm somewhat unique in my school, and one of the contributing factors to that is my relationship with Instagram. I do have a few accounts for clubs and projects that I manage, e.x.: [SOLARIS](https://instagram.com/solaris.dpss) but I do not have a personal one (nor a spam one!).
+I'm somewhat unique in my school, and one of the contributing factors to that is my relationship with Instagram. I do have a few accounts for clubs and projects that I manage, e.g.: [SOLARIS](https://instagram.com/solaris.dpss) but I do not have a personal one (nor a spam one!).
 
 Yet, I strongly believe that, regardless of your role in an event, **you must achieve mastery in at least having a feel for what good social media posts look like** (even better if you can learn to design them effectively!).
 
