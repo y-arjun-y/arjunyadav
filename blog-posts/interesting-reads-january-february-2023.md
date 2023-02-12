@@ -19,7 +19,7 @@ Here are some of the highlights of this month!
 
 - The usual Future Perfect round-up: [Why science is slowing down](https://www.vox.com/future-perfect/2023/1/11/23549993/science-research-progress-studies-disruption-technology-artificial-intelligence-biotechnology) and [Operation Warp Speed](https://www.vox.com/future-perfect/2023/1/18/23560407/operation-warp-speed-pandemics-vaccines-covid-white-house-biden-trump) are my favourites.
 
-- Another excellent set of Astral Codex Ten posts ([1](https://astralcodexten.substack.com/p/how-do-ais-political-opinions-change), [2](https://astralcodexten.substack.com/p/crowds-are-wise-and-ones-a-crowd))
+- Another excellent set of Astral Codex Ten posts ([1](https://astralcodexten.substack.com/p/how-do-ais-political-opinions-change), [2](https://astralcodexten.substack.com/p/crowds-are-wise-and-ones-a-crowd)).
 
 ## Articles
 
