@@ -1,6 +1,6 @@
 ---
 title: Interesting Reads - January-February 2023
-publish_date: Feb 12, 2022
+publish_date: Feb 12, 2023
 meta_description: I log everything I read in Notion. In these two months, I've read 1 book, 14 newsletters and 2 articles. Here are some of the highlights of this month!
 meta_image: https://www.arjunyadav.net/aqua.jpeg
 ---
