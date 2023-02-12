@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Feb 11, 2023
+publish_date: Feb 12, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -403,6 +403,25 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 12, 2023</time> Finished [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/description/):
+
+```py
+class Solution:
+    def findTheArrayConcVal(self, nums: List[int]) -> int:
+        concatenation_value = 0
+
+        while len(nums) > 0:
+            if len(nums) > 1:
+                concatenation_value += int(str(nums[0]) + str(nums[-1]))
+                del nums[0]
+                del nums[-1]
+            else:
+                concatenation_value += nums[0]
+                del nums[0]
+
+        return concatenation_value
+```
 
 - <time>Feb 11, 2023</time> Finished [Summary Ranges](https://leetcode.com/problems/summary-ranges/):
 
