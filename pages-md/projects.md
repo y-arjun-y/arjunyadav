@@ -82,6 +82,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 15, 2023</time> Had a great discussion with the executive board and got the introduction meeting date and time _mostly_ sorted out.
+
 - <time>Feb 11, 2023</time> Did some organisational work.
 
 - <time>Feb 10, 2023</time> Did some organisational work.
