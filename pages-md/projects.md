@@ -406,6 +406,22 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 15, 2023</time> Finished [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/):
+
+```py
+class Solution:
+    def findSubarrays(self, nums: List[int]) -> bool:
+        sums = []
+
+        for i in range(len(nums) - 1):
+            if sum(nums[i:i+2]) in sums:
+                return True
+            else:
+                sums.append(sum(nums[i:i+2]))
+
+        return False
+```
+
 - <time>Feb 12, 2023</time> Finished [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/description/):
 
 ```py
