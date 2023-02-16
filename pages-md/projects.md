@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Feb 12, 2023
+publish_date: Feb 16, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -82,6 +82,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 16, 2023</time> We've scheduled the introductory meeting for Saturday. Hope to see everyone there soon!
+
 - <time>Feb 15, 2023</time> Had a great discussion with the executive board and got the introduction meeting date and time _mostly_ sorted out.
 
 - <time>Feb 11, 2023</time> Did some organisational work.
@@ -138,6 +140,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 16, 2023</time> Continued with the course.
 
 - <time>Feb 15, 2023</time> Continued with the course.
 
@@ -409,6 +413,27 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 16, 2023</time> Finished [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/):
+
+```py
+class Solution:
+    def canBeIncreasing(self, nums: List[int]) -> bool:
+        def is_strictly_increasing(lst):
+            for i in range(1, len(lst)):
+                if lst[i - 1] >= lst[i]:
+                    return False
+            return True
+
+        if is_strictly_increasing(nums):
+            return True
+
+        for i in range(len(nums)):
+            if is_strictly_increasing(nums[:i] + nums[i+1:]):
+                return True
+
+        return False
+```
 
 - <time>Feb 15, 2023</time> Finished [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/):
 
