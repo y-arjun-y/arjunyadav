@@ -82,6 +82,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 17, 2023</time> Did some organisational work.
+
 - <time>Feb 16, 2023</time> We've scheduled the introductory meeting for Saturday. Hope to see everyone there soon!
 
 - <time>Feb 15, 2023</time> Had a great discussion with the executive board and got the introduction meeting date and time _mostly_ sorted out.
@@ -140,6 +142,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 17, 2023</time> Continued with the course.
 
 - <time>Feb 16, 2023</time> Continued with the course.
 
@@ -413,6 +417,26 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 17, 2023</time> Finished [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/):
+
+```py
+class Solution:
+    def minimumMoves(self, s: str) -> int:
+        if 'X' not in s:
+            return 0
+        else:
+            count = 0
+
+            while 'X' in s:
+                ind = s.index('X')
+                s_arr = [i for i in s]
+                s_arr[ind:ind+3] = ['O', 'O', 'O']
+                count += 1
+                s = "".join(s_arr)
+
+            return count
+```
 
 - <time>Feb 16, 2023</time> Finished [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/):
 
