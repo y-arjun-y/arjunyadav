@@ -418,6 +418,236 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 18, 2023</time> Did NOT finish [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/):
+
+```py
+class Solution:
+    def calculate(self, s: str) -> int:
+        s = "".join([i for i in s if i != " "])
+
+        def get_operands(st, operator):
+            operand_1 = ""
+            operand_2 = ""
+            start_index = 0
+            end_index = 0
+
+            for i in range(st.index(operator) - 1, -1, -1):
+                if st[i] in "+-/*":
+                    break
+                operand_1 = st[i : st.index(operator)]
+                start_index = i
+
+            for i in range(st.index(operator) + 1, len(st)):
+                if st[i] in "+-/*":
+                    break
+                operand_2 = st[st.index(operator) + 1 : i + 1]
+                end_index = i
+
+            return (operand_1, operand_2, start_index, end_index)
+
+        if "*" in s and "/" in s:
+            if s.index("*") < s.index("/"):
+                while "*" in s:
+                    print("*")
+                    operand_1, operand_2, start_index, end_index = get_operands(s, "*")
+                    print(
+                        operand_1,
+                        operand_2,
+                        start_index,
+                        end_index,
+                        s[start_index : end_index + 1],
+                    )
+                    s = (
+                        s[:start_index]
+                        + str(int(operand_1) * int(operand_2))
+                        + s[end_index + 1 :]
+                    )
+
+                while "/" in s:
+                    print("/")
+                    operand_1, operand_2, start_index, end_index = get_operands(s, "/")
+                    print(
+                        operand_1,
+                        operand_2,
+                        start_index,
+                        end_index,
+                        s[start_index : end_index + 1],
+                    )
+                    s = (
+                        s[:start_index]
+                        + str(int(operand_1) // int(operand_2))
+                        + s[end_index + 1 :]
+                    )
+            else:
+                while "/" in s:
+                    print("/")
+                    operand_1, operand_2, start_index, end_index = get_operands(s, "/")
+                    print(
+                        operand_1,
+                        operand_2,
+                        start_index,
+                        end_index,
+                        s[start_index : end_index + 1],
+                    )
+                    s = (
+                        s[:start_index]
+                        + str(int(operand_1) // int(operand_2))
+                        + s[end_index + 1 :]
+                    )
+
+                while "*" in s:
+                    print("*")
+                    operand_1, operand_2, start_index, end_index = get_operands(s, "*")
+                    print(
+                        operand_1,
+                        operand_2,
+                        start_index,
+                        end_index,
+                        s[start_index : end_index + 1],
+                    )
+                    s = (
+                        s[:start_index]
+                        + str(int(operand_1) * int(operand_2))
+                        + s[end_index + 1 :]
+                    )
+        else:
+            while "*" in s:
+                print("*")
+                operand_1, operand_2, start_index, end_index = get_operands(s, "*")
+                print(
+                    operand_1,
+                    operand_2,
+                    start_index,
+                    end_index,
+                    s[start_index : end_index + 1],
+                )
+                s = (
+                    s[:start_index]
+                    + str(int(operand_1) * int(operand_2))
+                    + s[end_index + 1 :]
+                )
+
+            while "/" in s:
+                print("/")
+                operand_1, operand_2, start_index, end_index = get_operands(s, "/")
+                print(
+                    operand_1,
+                    operand_2,
+                    start_index,
+                    end_index,
+                    s[start_index : end_index + 1],
+                )
+                s = (
+                    s[:start_index]
+                    + str(int(operand_1) // int(operand_2))
+                    + s[end_index + 1 :]
+                )
+
+        if "+" in s and "-" in s:
+            if s.index("+") < s.index("-"):
+                while "+" in s and s.index("+") != 0:
+                    print("+")
+                    operand_1, operand_2, start_index, end_index = get_operands(s, "+")
+                    print(
+                        operand_1,
+                        operand_2,
+                        start_index,
+                        end_index,
+                        s[start_index : end_index + 1],
+                    )
+                    s = (
+                        s[:start_index]
+                        + str(int(operand_1) + int(operand_2))
+                        + s[end_index + 1 :]
+                    )
+
+                while "-" in s and s.index("-") != 0:
+                    print("-")
+                    operand_1, operand_2, start_index, end_index = get_operands(s, "-")
+                    print(
+                        operand_1,
+                        operand_2,
+                        start_index,
+                        end_index,
+                        s[start_index : end_index + 1],
+                    )
+                    s = (
+                        s[:start_index]
+                        + str(int(operand_1) - int(operand_2))
+                        + s[end_index + 1 :]
+                    )
+                    print(s)
+            else:
+                while "-" in s and s.index("-") != 0:
+                    print("-")
+                    operand_1, operand_2, start_index, end_index = get_operands(s, "-")
+                    print(
+                        operand_1,
+                        operand_2,
+                        start_index,
+                        end_index,
+                        s[start_index : end_index + 1],
+                    )
+                    s = (
+                        s[:start_index]
+                        + str(int(operand_1) - int(operand_2))
+                        + s[end_index + 1 :]
+                    )
+                    print(s)
+
+                while "+" in s and s.index("+") != 0:
+                    print("+")
+                    operand_1, operand_2, start_index, end_index = get_operands(s, "+")
+                    print(
+                        operand_1,
+                        operand_2,
+                        start_index,
+                        end_index,
+                        s[start_index : end_index + 1],
+                    )
+                    s = (
+                        s[:start_index]
+                        + str(int(operand_1) + int(operand_2))
+                        + s[end_index + 1 :]
+                    )
+        else:
+            while "-" in s and s.index("-") != 0:
+                print("-")
+                operand_1, operand_2, start_index, end_index = get_operands(s, "-")
+                print(
+                    operand_1,
+                    operand_2,
+                    start_index,
+                    end_index,
+                    s[start_index : end_index + 1],
+                )
+                s = (
+                    s[:start_index]
+                    + str(int(operand_1) - int(operand_2))
+                    + s[end_index + 1 :]
+                )
+                print(s)
+
+            while "+" in s and s.index("+") != 0:
+                print("+")
+                operand_1, operand_2, start_index, end_index = get_operands(s, "+")
+                print(
+                    operand_1,
+                    operand_2,
+                    start_index,
+                    end_index,
+                    s[start_index : end_index + 1],
+                )
+                s = (
+                    s[:start_index]
+                    + str(int(operand_1) + int(operand_2))
+                    + s[end_index + 1 :]
+                )
+
+        return int(s)
+
+```
+
 - <time>Feb 17, 2023</time> Finished [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/):
 
 ```py
