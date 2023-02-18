@@ -143,6 +143,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 18, 2023</time> Continued with the course. My programming assignment for week 2 needs a lot more work (and I haven't even finished my week 1 programming assignment...).
+
 - <time>Feb 17, 2023</time> Continued with the course.
 
 - <time>Feb 16, 2023</time> Continued with the course.
