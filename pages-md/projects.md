@@ -82,6 +82,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 19, 2023</time> Finished meeting notes for yesterday's introductory meeting.
+
+- <time>Feb 18, 2023</time> Had a stellar meeting with EA AUS for our introductory meeting!
+
 - <time>Feb 17, 2023</time> Did some organisational work.
 
 - <time>Feb 16, 2023</time> We've scheduled the introductory meeting for Saturday. Hope to see everyone there soon!
