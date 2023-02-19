@@ -420,6 +420,26 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 19, 2023</time> Finished [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/):
+
+```py
+class Solution:
+    def mergeArrays(self, nums1: List[List[int]], nums2: List[List[int]]) -> List[List[int]]:
+        res = []
+
+        for i in nums1:
+            if i[0] in [j[0] for j in nums2]:
+                res.append([i[0], i[1] + [j for j in nums2 if j[0] == i[0]][0][1]])
+            else:
+                res.append([i[0], i[1]])
+
+        for j in nums2:
+            if j[0] not in [i[0] for i in nums1]:
+                res.append([j[0], j[1]])
+
+        return sorted(res, key=lambda x: x[0])
+```
+
 - <time>Feb 18, 2023</time> Did NOT finish [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/):
 
 ```py
