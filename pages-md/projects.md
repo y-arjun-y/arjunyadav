@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Feb 16, 2023
+publish_date: Mar 04, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -28,8 +28,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
 
-### Done (27)
+### Done (28)
 
+- <a href="#studentcouncil11">Student Council - 11th</time>
 - <a href="#admun2023">ADMUN 2023</time>
 - <a href="#middleschoolcsevent">Middle School CS Event</a>
 - <a href="#adventofcode">Advent of Code</a>
@@ -73,6 +74,19 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="studentcouncil11">Student Council - 11th</span>
+
+<small>Oct 05, 2022-Feb 14, 2023</small>
+<small>I was the Coordinator - Environment for my school. A post that I will cherish having for a long time.</small>
+
+#### Summary
+
+Well, for some reason or the other, I did not decide to log one of the most important projects of my life so far. I became part of the student council, being unsure of what to expect - the uncertainty was amplified by me getting my second preference (though I'm grateful that happened instead of my first preference)
+
+I ended up making the post a lot more influential than it should have been. It's the postholder and not the post. I ended up organising and contributing extensively to a lot of things, small and big (from our national day celebration to our seniors' graduation day to a small impromptu assembly we had when a workshop was being conducted for teachers).
+
+The student council in your junior year should (hopefully!) just be a taste of what's to come next year. But that shouldn't stop you from reminiscing.
+
 ## <span id="eauae">[EA UAE](https://www.instagram.com/effectivealtruism.uae/)</span>
 
 <small>Dec 29, 2022-present</small>  
@@ -81,6 +95,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 20, 2023-Mar 03, 2023</time> Communication work and a meeting with EA NYUAD!
 
 - <time>Feb 19, 2023</time> Finished meeting notes for yesterday's introductory meeting.
 
