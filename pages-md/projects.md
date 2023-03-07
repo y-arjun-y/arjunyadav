@@ -1,29 +1,29 @@
 ---
 title: Projects
-publish_date: Mar 04, 2023
+publish_date: Mar 07, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
 ## Table of Contents
 
-### Active (4)
+### Active (5)
 
+- <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
 - <a href="#coldtakesbetareading">Cold Takes Beta Reading</a> (O)
 - <a href="#leetcode">LeetCode</a>
 
-### Inactive/Paused (11)
+### Inactive/Paused (10)
 
 - <a href="#brilliant">Brilliant</a>
 - <a href="#codewars">Codewars</a>
-- <a href="#optx">OptX</a>
 - <a href="#freecodecamp">freeCodeCamp</a>
 - <a href="#solaris-2">SOLARIS (Second Edition)</a>
-- <a href="#drums">Drums</a> (F&S)
-- <a href="#chess">Chess</a> (S)
-- <a href="#agisf">AGI Safety Fundamentals: Technical Track</a> (F)
+- <a href="#drums">Drums</a>
+- <a href="#chess">Chess</a>
+- <a href="#agisf">AGI Safety Fundamentals: Technical Track</a>
 - <a href="#guitar">Guitar</a>
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
@@ -71,6 +71,29 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 ## Ongoing
+
+<hr />
+
+## <span id="optx">[OptX](https://www.instagram.com/optx.uae/)</span>
+
+<small>Jan 04, 2023-present</small>  
+<small>Became part of OptX, my school's student-led initiative to provide opportunities to the youth. Trying to the best job I can.</small>
+
+<hr />
+
+#### Log
+
+- <time>Mar 07, 2023</time> Another meeting - wrapped up the discussion (mostly) for this year's plan and organised the Notion accordingly.
+
+- <time>Mar 06, 2023</time> Had a fruitful dinner meeting!
+
+- <time>Jan 27, 2023</time> Had a productive conversation!
+
+- <time>Jan 17, 2023</time> Discussed next meeting.
+
+- <time>Jan 04, 2023-Jan 14, 2023</time> Well, I initially thought that I would just be a volunteer for OptX's The Symposium 1.0, but roughly a day before the event (Jan 07, 2023), I became one of the newest committee member. In the end, The Symposium 1.0 was an incredible success. Seeing it all unfold was one of the greatest moments in my life.
+
+![OptX - The Symposium 1.0](/optx.jpg)
 
 <hr />
 
@@ -7795,25 +7818,6 @@ function getCount(str) {
 ```
 
 - <time>Dec 13, 2022</time> Finished a couple of different problems (?) and got to 8 kyu.
-
-<hr />
-
-## <span id="optx">[OptX](https://www.instagram.com/optx.uae/)</span>
-
-<small>Jan 04, 2023-present</small>  
-<small>Became part of OptX, my school's student-led initiative to provide opportunities to the youth. Trying to the best job I can. Currently paused.</small>
-
-<hr />
-
-#### Log
-
-- <time>Jan 27, 2023</time> Had a productive conversation!
-
-- <time>Jan 17, 2023</time> Discussed next meeting.
-
-- <time>Jan 04, 2023-Jan 14, 2023</time> Well, I initially thought that I would just be a volunteer for OptX's The Symposium 1.0, but roughly a day before the event (Jan 07, 2023), I became one of the newest committee member. In the end, The Symposium 1.0 was an incredible success. Seeing it all unfold was one of the greatest moments in my life.
-
-![OptX - The Symposium 1.0](/optx.jpg)
 
 <hr />
 
