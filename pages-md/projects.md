@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Mar 07, 2023
+publish_date: Mar 09, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -178,6 +178,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 09, 2023</time> Trying to finish week 1.
 
 - <time>Mar 08, 2023</time> Finished with week 2, for the most part.
 
@@ -461,6 +463,21 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 09, 2023</time> Finished [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/):
+
+```py
+class Solution:
+    def intersection(self, nums: List[List[int]]) -> List[int]:
+        candidates = [i for j in nums for i in j]
+        res = []
+
+        for i in candidates:
+            if False not in [i in j for j in nums]:
+                res.append(i)
+
+        return sorted(set(res))
+```
 
 - <time>Mar 08, 2023</time> Finished [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/):
 
