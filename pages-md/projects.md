@@ -83,6 +83,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Mar 09, 2023</time> Had a productive meeting and did some organisational work.
+
+- <time>Mar 08, 2023</time> Did some organisational work.
+
 - <time>Mar 07, 2023</time> Another meeting - wrapped up the discussion (mostly) for this year's plan and organised the Notion accordingly.
 
 - <time>Mar 06, 2023</time> Had a fruitful dinner meeting!
@@ -105,6 +109,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 03, 2023-Mar 09, 2023</time> Did some organisational work.
 
 - <time>Feb 20, 2023-Mar 03, 2023</time> Communication work and a meeting with EA NYUAD!
 
@@ -172,6 +178,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 08, 2023</time> Finished with week 2, for the most part.
 
 - <time>Mar 07, 2023</time> Finished my programming assignment for week 2!
 
@@ -453,6 +461,88 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 08, 2023</time> Finished [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/):
+
+```py
+class Solution:
+    def convertTime(self, current: str, correct: str) -> int:
+        current_minutes = int(current[:2]) * 60 + int(current[3:])
+        correct_minutes = int(correct[:2]) * 60 + int(correct[3:])
+        diff = correct_minutes - current_minutes
+        step = 0
+
+        while diff != 0:
+            for i in range(diff // 60):
+                diff -= 60
+                step += 1
+
+            if diff == 0:
+                break
+
+            for i in range(diff // 15):
+                diff -= 15
+                step += 1
+
+            if diff == 0:
+                break
+
+            for i in range(diff // 5):
+                diff -= 5
+                step += 1
+
+            if diff == 0:
+                break
+
+            for i in range(diff // 1):
+                diff -= 1
+                step += 1
+
+        return step
+```
+
+- <time>Mar 07, 2023</time> Finished [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/):
+
+```py
+class Solution:
+    def leftRigthDifference(self, nums: List[int]) -> List[int]:
+        leftSum = [sum(nums[:i]) for i in range(len(nums))]
+        rightSum = [sum(nums[i+1:]) for i in range(len(nums))]
+
+        return [abs(leftSum[i] - rightSum[i]) for i in range(len(nums))]
+```
+
+- <time>Feb 20, 2023</time> Finished [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/):
+
+```py
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def minDiffInBST(self, root: Optional[TreeNode]) -> int:
+        res = []
+
+        def traverse(tree, array):
+            if tree:
+                array.append(tree.val)
+                traverse(tree.left, res)
+                traverse(tree.right, res)
+
+        traverse(root, res)
+
+        res = sorted(list(dict.fromkeys(res)))
+
+        diff = []
+
+        for i in range(len(res)):
+            for j in range(i+1, len(res)):
+                diff.append(abs(res[j] - res[i]))
+
+        return min(diff)
+```
 
 - <time>Feb 19, 2023</time> Finished [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/):
 
