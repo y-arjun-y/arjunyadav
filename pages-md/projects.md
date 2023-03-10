@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Mar 09, 2023
+publish_date: Mar 10, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -178,6 +178,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 10, 2023</time> Figured out the <code>cov_naive(x)</code> function!
 
 - <time>Mar 09, 2023</time> Trying to finish week 1.
 
@@ -463,6 +465,20 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 10, 2023</time> Finished [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/):
+
+```py
+class Solution:
+    def divideString(self, s: str, k: int, fill: str) -> List[str]:
+        temp = [s[i:i+k] for i in range(0, len(s), k)]
+
+        for i in range(len(temp)):
+            if len(temp[i]) != k:
+                temp[i] = temp[i] + fill * (k - len(temp[i]))
+
+        return temp
+```
 
 - <time>Mar 09, 2023</time> Finished [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/):
 
