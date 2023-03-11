@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Mar 10, 2023
+publish_date: Mar 11, 2023
 meta_description: Check out my project logs here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -469,6 +469,16 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 11, 2023</time> Finished [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/), did not expect my first "throwaway" solution to work:
+
+```py
+class Solution:
+    def canBeEqual(self, target: List[int], arr: List[int]) -> bool:
+        if sorted(arr) == sorted(target):
+            return True
+        return False
+```
 
 - <time>Mar 10, 2023</time> Finished [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/):
 
