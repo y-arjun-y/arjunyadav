@@ -1,7 +1,7 @@
 ---
 title: Projects
-publish_date: Mar 11, 2023
-meta_description: Check out my project logs here!
+publish_date: Mar 12, 2023
+meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
@@ -475,6 +475,31 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 12, 2023</time> Finished [Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/):
+
+```py
+class Solution:
+    def sortEvenOdd(self, nums: List[int]) -> List[int]:
+        odd_int = [nums[i] for i in range(len(nums)) if i % 2 != 0]
+        even_int = [nums[i] for i in range(len(nums)) if i % 2 == 0]
+        odd_int.sort(reverse=True)
+        even_int.sort()
+
+        print(odd_int, even_int)
+
+        new_num = []
+
+        for i in range(len(nums) // 2):
+            new_num.append(even_int[i])
+            new_num.append(odd_int[i])
+
+        if len(nums) % 2 != 0:
+            return new_num + [even_int[-1]]
+        else:
+            return new_num
+
+```
 
 - <time>Mar 11, 2023</time> Finished [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/), did not expect my first "throwaway" solution to work:
 
