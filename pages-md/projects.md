@@ -9970,14 +9970,20 @@ function getCount(str) {
 <small>Mar 04, 2023-Mar 04, 2023</small>
 <small>Attended a national maths competition with my schoolmate.</small>
 
+<hr />
+
 #### Log
 
 <time>Mar 04, 2023</time> Attended the first (and last) day of a national maths competition with my schoolmate as a duo. First round went really well (mostly because it was easy + 60 minutes) and got ~7th place, however the second round was extremely hard (and 45 minutes!) so we did not reach top 3. Oh well, the ride to the university + the conversations with him were what mattered the most. Great food though!
+
+<hr />
 
 ## <span id="studentcouncil11">Student Council - 11th</span>
 
 <small>Oct 05, 2022-Feb 14, 2023</small>
 <small>I was the Coordinator - Environment for my school. A post that I will cherish having for a long time.</small>
+
+<hr />
 
 #### Summary
 
@@ -9987,10 +9993,14 @@ I ended up making the post a lot more influential than it should have been. It's
 
 The student council in your junior year should (hopefully!) just be a taste of what's to come next year. But that shouldn't stop you from reminiscing.
 
+<hr />
+
 ## <span id="admun2023">ADMUN 2023</span>
 
 <small>Feb 03, 2023-Feb 05, 2023</small>  
 <small>Attended my last MUN, ADMUN 2.3 as part of my school team. Due to privacy reasons, I was being incredibly vague.</small>
+
+<hr />
 
 #### Log
 
