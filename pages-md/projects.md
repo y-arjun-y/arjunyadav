@@ -455,7 +455,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jan 09, 2023</time> Finished my eighth proof-reading. The link to the post will be **here** once done.
+- <time>Jan 09, 2023</time> Finished my eighth proof-reading. The link to the post will be [here](https://www.cold-takes.com/spreading-messages-to-help-with-the-most-important-century/) once done.
 
 - <time>Dec 16, 2022</time> Finished my seventh proof-reading (possibly my last for this year - so grateful to have been a part of this). The link to the post will be [here](https://www.cold-takes.com/transformative-ai-issues-not-just-misalignment-an-overview/) once done.
 
