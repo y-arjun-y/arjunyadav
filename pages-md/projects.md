@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Mar 12, 2023
+publish_date: Mar 14, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -28,8 +28,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
 
-### Done (28)
+### Done (29)
 
+- <a href="#nationalmathscompetition">National Maths Competition</time>
 - <a href="#studentcouncil11">Student Council - 11th</time>
 - <a href="#admun2023">ADMUN 2023</time>
 - <a href="#middleschoolcsevent">Middle School CS Event</a>
@@ -83,6 +84,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Mar 13, 2023</time> Volunteered with OptX + two other students for Bridges of Giving. An incredibly fulfilling experience to say the least.
+
+![OptX - Bridges of Giving](/optx-aid.jpeg)
+
 - <time>Mar 11, 2023</time> Did _a lot_ of organisational work. Really productive day for this project!
 
 - <time>Mar 10, 2023</time> Did some organisational work.
@@ -101,7 +106,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 - <time>Jan 04, 2023-Jan 14, 2023</time> Well, I initially thought that I would just be a volunteer for OptX's The Symposium 1.0, but roughly a day before the event (Jan 07, 2023), I became one of the newest committee member. In the end, The Symposium 1.0 was an incredible success. Seeing it all unfold was one of the greatest moments in my life.
 
-![OptX - The Symposium 1.0](/optx.jpg)
+![OptX - The Symposium 1.0](/optx-sym1.jpg)
 
 <hr />
 
@@ -475,6 +480,14 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 14, 2023</time> Happy Pi Day! Finished [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/):
+
+```py
+class Solution:
+    def vowelStrings(self, words: List[str], left: int, right: int) -> int:
+        return len([i for i in words[left:right+1] if i[0] in 'aeiouAEIOU' and i[-1] in 'aeiouAEIOU'])
+```
 
 - <time>Mar 12, 2023</time> Finished [Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/):
 
