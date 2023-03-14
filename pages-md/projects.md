@@ -192,6 +192,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Mar 14, 2023</time> "Continued" with the course.
+
 - <time>Mar 11, 2023</time> Finally finished week 1 after finishing week 2.
 
 - <time>Mar 10, 2023</time> Figured out the <code>cov_naive(x)</code> function!
