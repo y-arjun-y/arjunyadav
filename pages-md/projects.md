@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Mar 14, 2023
+publish_date: Mar 15, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -84,6 +84,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Mar 14, 2023-Mar 15, 2023</time> Did some organisational work.
+
 - <time>Mar 13, 2023</time> Volunteered with OptX + two other students for Bridges of Giving. An incredibly fulfilling experience to say the least.
 
 ![OptX - Bridges of Giving](/optx-aid.jpeg)
@@ -118,6 +120,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 12, 2023-Mar 15, 2023</time> Did some organisational work.
 
 - <time>Mar 11, 2023</time> Did some organisational work.
 
@@ -191,6 +195,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 15, 2023</time> "Continued" with the course.
 
 - <time>Mar 14, 2023</time> "Continued" with the course.
 
@@ -482,6 +488,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 15, 2023</time> Got started with [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/).
 
 - <time>Mar 14, 2023</time> Happy Pi Day! Finished [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/):
 
@@ -8837,6 +8845,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Mar 15, 2023</time> Did some organisational work.
 
 - <time>Feb 01, 2023</time> Sent out my three capstone project reviews.
 
