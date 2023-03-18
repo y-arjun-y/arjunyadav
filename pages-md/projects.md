@@ -10365,7 +10365,7 @@ The student council in your junior year should (hopefully!) just be a taste of w
 
 - <time>Dec 13, 2022</time> Second day done! Revised the basics of Python.
 
-- <time>Dec 12, 2022</time> First day done! Learnt about computer networking from a really nice professor. Also, got a great tour of the venue.
+- <time>Dec 12, 2022</time> First day done! Learnt about computer networking from a really nice professor. Also, got a great tour of the university.
 <hr />
 
 ## <span id="statehackathon2022">"State" Hackathon</span>
