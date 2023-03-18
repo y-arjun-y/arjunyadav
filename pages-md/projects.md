@@ -62,7 +62,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 <hr /> 
 F - Friday, Sa - Saturday, S - Sunday, O - Occasional
 <hr />
-~2 projects await summaries.
+~2 projects (potentially 3) await summaries.
 <hr />
 
 #### Navigation Tips
