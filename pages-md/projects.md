@@ -59,8 +59,11 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#eabristol">EA Bristol Website Re-design</a>
 - <a href="#eaindepth">Effective Altruism In-Depth Fellowship</a>
 - <a href="#eaglobal2021">EA Global: London 2021</a>
-
+<hr /> 
 F - Friday, Sa - Saturday, S - Sunday, O - Occasional
+<hr />
+~2 projects await summaries.
+<hr />
 
 #### Navigation Tips
 
