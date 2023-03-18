@@ -8457,6 +8457,8 @@ function getCount(str) {
 
 #### Log
 
+- <time>Mar 16, 2023-Mar 18, 2023</time> Did some organisational work.
+
 - <time>Mar 15, 2023</time> Did some organisational work.
 
 - <time>Feb 01, 2023</time> Sent out my three capstone project reviews.
