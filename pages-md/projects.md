@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Mar 18, 2023
+publish_date: Mar 19, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -497,6 +497,14 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 19, 2023</time> Finished [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) but I had to look at the solution:
+
+```sql
+# Please write a DELETE statement and DO NOT write a SELECT statement.
+# Write your MySQL query statement below
+DELETE p1 FROM Person p1, Person p2 WHERE p1.Email = p2.Email AND p1.Id > p2.Id
+```
 
 - <time>Mar 18, 2023</time> Finished [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) and [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/):
 
