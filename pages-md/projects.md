@@ -128,6 +128,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Mar 20, 2023</time> Did some organisational work.
+
 - <time>Mar 16, 2023-Mar 18, 2023</time> Did some organisational work.
 
 - <time>Mar 12, 2023-Mar 15, 2023</time> Did some organisational work.
@@ -204,6 +206,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 20, 2023</time> Continued with Week 3
 
 - <time>Mar 19, 2023</time> "Continued" with Week 3
 
