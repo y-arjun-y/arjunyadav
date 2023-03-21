@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Mar 20, 2023
+publish_date: Mar 21, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -505,6 +505,32 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 21, 2023</time> Finished [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/):
+
+```py
+class Solution:
+    def passThePillow(self, n: int, time: int) -> int:
+        res = 1
+        temp = 1
+        bounce = False
+
+        while temp <= time:
+            if res < n and not bounce:
+                res += 1
+                if res >= n:
+                    bounce = True
+            elif res == 1:
+                bounce = False
+                res += 1
+            else:
+                res -= 1
+
+            temp += 1
+
+        return res
+
+```
 
 - <time>Mar 20, 2023</time> Finished [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/):
 
