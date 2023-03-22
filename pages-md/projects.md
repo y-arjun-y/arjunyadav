@@ -1,14 +1,15 @@
 ---
 title: Projects
-publish_date: Mar 21, 2023
+publish_date: Mar 22, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
 ## Table of Contents
 
-### Active (6)
+### Active (7)
 
+- <a href="#studencouncil12">Student Council - 12th</a>
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
@@ -78,6 +79,19 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="studentcouncil12">Student Council - 12th</span>
+
+<small>Mar 22, 2023-present</small>  
+<small>Became the vice head boy of my school. Trying to the best job I can.</small>
+
+<hr />
+
+#### Log
+
+- <time>Mar 22, 2023</time> Finished initial organising work and informed a section of the council about an upcoming task.
+
+<hr />
+
 ## <span id="optx">[OptX](https://www.instagram.com/optx.uae/)</span>
 
 <small>Jan 04, 2023-present</small>  
@@ -86,6 +100,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 22, 2023</time> Had a productive meeting.
 
 - <time>Mar 19, 2023</time> Did some organisational work.
 
@@ -127,6 +143,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 22, 2023</time> Did some organisational work.
 
 - <time>Mar 20, 2023</time> Did some organisational work.
 
@@ -505,6 +523,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 22, 2023</time> Got started with [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/). Nearly done.
 
 - <time>Mar 21, 2023</time> Finished [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/):
 
