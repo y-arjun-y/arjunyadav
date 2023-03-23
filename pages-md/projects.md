@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Mar 22, 2023
+publish_date: Mar 23, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -523,6 +523,26 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 23, 2023</time> Finished (not really) with Valid Mountain Array:
+
+```py
+class Solution:
+    def validMountainArray(self, arr: List[int]) -> bool:
+        if len(arr) < 3:
+            return False
+        elif sorted(arr) == arr or sorted(arr, reverse=True) == arr:
+            return False
+        else:
+            for mountain_index in range(2, len(arr)):
+                elem_before = arr[:mountain_index]
+                elem_after = arr[mountain_index:]
+
+                if (len(elem_before) == len(set(elem_before)) and len(elem_after) == len(set(elem_after))) and (sorted(elem_before) == elem_before and sorted(elem_after, reverse=True) == elem_after):
+                    return True
+            else:
+                return False
+```
 
 - <time>Mar 22, 2023</time> Got started with [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/). Nearly done.
 
