@@ -524,6 +524,24 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Mar 24, 2023</time> Finished [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/):
+
+```py
+class Solution:
+    def findRotation(self, mat: List[List[int]], target: List[List[int]]) -> bool:
+        import numpy as np
+
+        matrix = np.array(mat)
+        first_rotation = np.rot90(matrix)
+        second_rotation = np.rot90(first_rotation)
+        third_rotation = np.rot90(second_rotation)
+
+        if (matrix.tolist() == target) or (first_rotation.tolist() == target) or (second_rotation.tolist() == target) or (third_rotation.tolist() == target):
+            return True
+        else:
+            return False
+```
+
 - <time>Mar 23, 2023</time> Finished (not really) with Valid Mountain Array:
 
 ```py
