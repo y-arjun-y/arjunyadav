@@ -105,6 +105,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Mar 24, 2023</time> Did _a lot_ of organisational work.
+
 - <time>Mar 22, 2023</time> Did some organisational work.
 
 - <time>Mar 19, 2023</time> Did some organisational work.
@@ -147,6 +149,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 24, 2023</time> Short-listed the restaurant!
 
 - <time>Mar 22, 2023</time> Did some organisational work.
 
