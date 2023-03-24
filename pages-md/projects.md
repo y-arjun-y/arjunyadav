@@ -63,7 +63,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 <hr /> 
 F - Friday, Sa - Saturday, S - Sunday, O - Occasional
 <hr />
-~2 projects (potentially 3) await summaries.
+~1 project awaits a summary.
 <hr />
 
 #### Navigation Tips
@@ -82,11 +82,13 @@ Confused? See the <a href="#note">note</a> down below.
 ## <span id="studentcouncil12">Student Council - 12th</span>
 
 <small>Mar 22, 2023-present</small>  
-<small>Became the vice head boy of my school. Trying to the best job I can.</small>
+<small>Became the vice head boy of my school. Trying to the best job I can. Also, environment club work (head of events)!</small>
 
 <hr />
 
 #### Log
+
+- Summary of Environment Club Work: Will merge this log with this one. After my [student council work in 11th](#student-council-11th), I mostly just had meetings, an application form for this academic year (which I finished) and a run!
 
 - <time>Mar 23, 2023-Mar 24, 2023</time> Did some organisational work.
 
