@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Mar 25, 2023</time> Worked on compiling designs and setting up voting, and also contacted someone.
+
 - Summary of Environment Club Work: Will merge this log with this one. After my [student council work in 11th](#student-council-11th), I mostly just had meetings, an application form for this academic year (which I finished) and a run!
 
 - <time>Mar 23, 2023-Mar 24, 2023</time> Did some organisational work.
@@ -104,6 +106,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 24, 2023</time> Did the arithmetic mean of organisational work between Mar 22, 2023 and Mar 24, 2023.
 
 - <time>Mar 24, 2023</time> Did _a lot_ of organisational work.
 
