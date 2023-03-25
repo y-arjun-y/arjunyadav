@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Mar 24, 2023
+publish_date: Mar 25, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -531,6 +531,21 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 25, 2023</time> Finished [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/):
+
+```py
+class Solution:
+    def maxRepeating(self, sequence: str, word: str) -> int:
+        count = 0
+        copy = word
+
+        while word in sequence or word == sequence:
+            word += copy
+            count += 1
+
+        return count
+```
 
 - <time>Mar 24, 2023</time> Finished [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/):
 
