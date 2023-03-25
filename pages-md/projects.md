@@ -154,6 +154,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Mar 25, 2023</time> Did some organisational work.
+
 - <time>Mar 24, 2023</time> Short-listed the restaurant!
 
 - <time>Mar 22, 2023</time> Did some organisational work.
