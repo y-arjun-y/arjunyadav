@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Mar 26, 2023-Mar 27, 2023</time> Colour - so trivial yet so important.
+
 - <time>Mar 25, 2023</time> Worked on compiling designs and setting up voting, and also contacted someone.
 
 - Summary of Environment Club Work: Will merge this log with this one. After my [student council work in 11th](#student-council-11th), I mostly just had meetings, an application form for this academic year (which I finished) and a run!
@@ -106,6 +108,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 27, 2023</time> Did some organisational work.
 
 - <time>Mar 24, 2023</time> Did the arithmetic mean of organisational work between Mar 22, 2023 and Mar 24, 2023.
 
@@ -153,6 +157,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 26, 2023-Mar 27, 2023</time> Did some organisational work - closing on the actual booking.
 
 - <time>Mar 25, 2023</time> Did some organisational work.
 
@@ -537,6 +543,29 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 27, 2023</time> Finished [Monotonic Array](https://leetcode.com/problems/monotonic-array/):
+
+```py
+class Solution:
+    def isMonotonic(self, nums: List[int]) -> bool:
+        if len(set(nums)) == 1:
+            return True
+        else:
+            while True:
+                if nums[0] > nums[1]:
+                    for i in range(2, len(nums)):
+                        if nums[i] > nums[i - 1]:
+                            return False
+                    return True
+                elif nums[0] < nums[1]:
+                    for i in range(2, len(nums)):
+                        if nums[i] < nums[i - 1]:
+                            return False
+                    return True
+                else:
+                    nums = nums[1:]
+```
 
 - <time>Mar 25, 2023</time> Finished [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/):
 
