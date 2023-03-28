@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Mar 27, 2023
+publish_date: Mar 28, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -82,17 +82,19 @@ Confused? See the <a href="#note">note</a> down below.
 ## <span id="studentcouncil12">Student Council - 12th</span>
 
 <small>Mar 22, 2023-present</small>  
-<small>Became the vice head boy of my school. Trying to the best job I can. Also, environment club work (head of events)!</small>
+<small>Became the vice head boy of my school. Trying to the best job I can. Also, environment club work (head of events) and another project (summary for that will come in May 2023)</small>
 
 <hr />
 
 #### Log
 
-- <time>Mar 26, 2023-Mar 27, 2023</time> Colour - so trivial yet so important.
+- <time>Mar 28, 2023</time> Compiled the top 8. Waiting for results.
+
+- <time>Mar 26, 2023-Mar 27, 2023</time> Colour - so trivial yet so important. Also, all applications are now sorted (EC)
 
 - <time>Mar 25, 2023</time> Worked on compiling designs and setting up voting, and also contacted someone.
 
-- Summary of Environment Club Work: Will merge this log with this one. After my [student council work in 11th](#student-council-11th), I mostly just had meetings, an application form for this academic year (which I finished) and a run!
+- Summary of Environment Club (EC) Work: Will merge this log with this one. After my [student council work in 11th](#student-council-11th), I mostly just had meetings, an application form for this academic year (which I finished) and a run!
 
 - <time>Mar 23, 2023-Mar 24, 2023</time> Did some organisational work.
 
@@ -543,6 +545,29 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 28, 2023</time> Finished [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/):
+
+```py
+class Codec:
+
+    def encode(self, longUrl: str) -> str:
+        self.count = 0
+        self.url = {}
+        self.url[longUrl] = str(self.count)
+        self.count += 1
+
+        return self.url[longUrl]
+
+
+    def decode(self, shortUrl: str) -> str:
+        return list(self.url.keys())[list(self.url.values()).index(shortUrl)]
+
+
+# Your Codec object will be instantiated and called as such:
+# codec = Codec()
+# codec.decode(codec.encode(url))
+```
 
 - <time>Mar 27, 2023</time> Finished [Monotonic Array](https://leetcode.com/problems/monotonic-array/):
 
