@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Mar 28, 2023
+publish_date: Mar 29, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -88,7 +88,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 28, 2023</time> Compiled the top 8. Waiting for results.
+- <time>Mar 28, 2023</time> Compiled the top 8. Waiting for results (+ more democracy!)
 
 - <time>Mar 26, 2023-Mar 27, 2023</time> Colour - so trivial yet so important. Also, all applications are now sorted (EC)
 
@@ -110,6 +110,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 28, 2023</time> Did some organisational work and had a meeting.
 
 - <time>Mar 27, 2023</time> Did some organisational work.
 
@@ -160,7 +162,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 26, 2023-Mar 27, 2023</time> Did some organisational work - closing on the actual booking.
+- <time>Mar 28, 2023</time> Did some organisational work.
+
+- <time>Mar 26, 2023-Mar 27, 2023</time> Did some organisational work - closing in on the actual booking.
 
 - <time>Mar 25, 2023</time> Did some organisational work.
 
@@ -545,6 +549,25 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 29, 2023</time> Finished [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/):
+
+```py
+class Solution:
+    def maximumPopulation(self, logs: List[List[int]]) -> int:
+        births = [i[0] for i in logs]
+        deaths = [i[1] for i in logs]
+
+        count = 0
+        res = {}
+
+        for i in range(1950, 2051):
+            count += births.count(i)
+            count -= deaths.count(i)
+            res[i] = count
+
+        return max(res.items(), key=lambda x: x[1])[0]
+```
 
 - <time>Mar 28, 2023</time> Finished [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/):
 
