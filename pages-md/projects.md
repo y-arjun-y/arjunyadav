@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Mar 29, 2023
+publish_date: Mar 30, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -555,6 +555,25 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 30, 2023</time> Finished [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/):
+
+```py
+class Solution:
+    def checkXMatrix(self, grid: List[List[int]]) -> bool:
+        for i in range(len(grid)):
+            for j in range(len(grid)):
+                if i == j:
+                    if grid[i][j] == 0:
+                        return False
+                elif i + j == len(grid) - 1:
+                    if grid[i][j] == 0:
+                        return False
+                else:
+                    if grid[i][j] != 0:
+                        return False
+        return True
+```
 
 - <time>Mar 29, 2023</time> Finished [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/):
 
