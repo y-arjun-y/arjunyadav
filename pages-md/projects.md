@@ -556,6 +556,26 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Mar 31, 2023</time> Finished [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/):
+
+```py
+class Solution:
+    def kItemsWithMaximumSum(self, numOnes: int, numZeros: int, numNegOnes: int, k: int) -> int:
+        lst = []
+
+        for i in range(numOnes):
+            lst.append(1)
+
+        for i in range(numZeros):
+            lst.append(0)
+
+        for i in range(numNegOnes):
+            lst.append(-1)
+
+        lst = sorted(lst, reverse=True)
+        return sum(lst[:k])
+```
+
 - <time>Mar 30, 2023</time> Finished [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/):
 
 ```py
