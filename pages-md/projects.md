@@ -88,6 +88,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Mar 31, 2023</time> Did some organisational work.
+
+- <time>Mar 30, 2023</time> Had a productive meeting for event in May.
+
 - <time>Mar 29, 2023</time> Top 6 now - also need to get better videos tomorrow...
 
 - <time>Mar 28, 2023</time> Compiled the top 8. Waiting for results (+ more democracy!). Also, (a pretty fun but productive) meeting for event in May.
@@ -112,6 +116,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 30, 2023</time> Had a productive meeting.
 
 - <time>Mar 29, 2023</time> Re-scheduled a meeting.
 
@@ -165,6 +171,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 30, 2023-Mar 31, 2023</time> Postponed - but it'll happen.
 
 - <time>Mar 29, 2023</time> I think we have a winner, folks...
 
