@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 01, 2023</time> Sent out the video draft (that another person worked on!) for the event in May and helped to sort out a mini-crisis.
+
 - <time>Mar 31, 2023</time> Did some organisational work.
 
 - <time>Mar 30, 2023</time> Had a productive meeting for event in May.
@@ -116,6 +118,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 31, 2023-Apr 01, 2023</time> Did some organisational work and got some more great advice!
 
 - <time>Mar 30, 2023</time> Had a productive meeting.
 
@@ -171,6 +175,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 01, 2023</time> Did some organisational work.
 
 - <time>Mar 30, 2023-Mar 31, 2023</time> Postponed - but it'll happen.
 
