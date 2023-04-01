@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Mar 31, 2023
+publish_date: Apr 01, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -563,6 +563,42 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 01, 2023</time> Finished [Design Parking System](https://leetcode.com/problems/design-parking-system/):
+
+```py
+class ParkingSystem:
+
+    def __init__(self, big: int, medium: int, small: int):
+        self.max_big = big
+        self.max_med = medium
+        self.max_small = small
+
+    def addCar(self, carType: int) -> bool:
+        if carType == 1:
+            if self.max_big >= 1:
+                self.max_big -= 1
+                return True
+            else:
+                return False
+        elif carType == 2:
+            if self.max_med >= 1:
+                self.max_med -= 1
+                return True
+            else:
+                return False
+        else:
+            if self.max_small >= 1:
+                self.max_small -= 1
+                return True
+            else:
+                return False
+
+
+# Your ParkingSystem object will be instantiated and called as such:
+# obj = ParkingSystem(big, medium, small)
+# param_1 = obj.addCar(carType)
+```
 
 - <time>Mar 31, 2023</time> Finished [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/):
 
