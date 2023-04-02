@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Apr 01, 2023
+publish_date: Apr 02, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -569,6 +569,19 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 02, 2023</time> Finished [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/):
+
+```py
+class Solution:
+    def minNumber(self, nums1: List[int], nums2: List[int]) -> int:
+        combined_nums = [i for i in nums1 if i in nums2]
+        min_combined = min(combined_nums, default=1000000)
+        min_1 = int(str(min(nums1)) + str(min(nums2)))
+        min_2 = int(str(min(nums2)) + str(min(nums1)))
+
+        return min(min_combined, min_1, min_2)
+```
 
 - <time>Apr 01, 2023</time> Finished [Design Parking System](https://leetcode.com/problems/design-parking-system/):
 
