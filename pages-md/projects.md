@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Apr 02, 2023
+publish_date: Apr 03, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -569,6 +569,25 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 03, 2023</time> Finished [Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/):
+
+```py
+class Solution:
+    def findTheLongestBalancedSubstring(self, s: str) -> int:
+        if len(s) % 2 == 0:
+            for i in range(len(s), 1, -2):
+                if "0"*(i // 2) + "1"*(i // 2) in s:
+                    return i
+            else:
+                return 0
+        else:
+            for i in range(len(s)-1, 1, -2):
+                if "0"*(i // 2) + "1"*(i // 2) in s:
+                    return i
+            else:
+                return 0
+```
 
 - <time>Apr 02, 2023</time> Finished [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/):
 
