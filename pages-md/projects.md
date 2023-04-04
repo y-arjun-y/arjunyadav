@@ -570,6 +570,19 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 04, 2023</time> Finished [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/):
+
+```py
+class Solution:
+    def decode(self, encoded: List[int], first: int) -> List[int]:
+        res = [first]
+
+        for i in range(len(encoded)):
+            res.append(res[i] ^ encoded[i])
+
+        return res
+```
+
 - <time>Apr 03, 2023</time> Finished [Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/):
 
 ```py
