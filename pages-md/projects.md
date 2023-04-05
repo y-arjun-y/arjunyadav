@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Apr 03, 2023
+publish_date: Apr 05, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 01, 2023-Apr 05, 2023</time> Lots of voting and discussions - but we're done with colour scheme.
+
 - <time>Apr 01, 2023</time> Sent out the video draft (that another person worked on!) for the event in May and helped to sort out a mini-crisis.
 
 - <time>Mar 31, 2023</time> Did some organisational work.
@@ -119,7 +121,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 31, 2023-Apr 01, 2023</time> Did some organisational work and got some more great advice!
+- <time>Apr 01, 2023-Apr 05, 2023</time> Did some organisational work, had a productive-ish meeting and got some more great advice!
+
+- <time>Mar 31, 2023-Apr 01, 2023</time> Did some organisational work and got some great advice!
 
 - <time>Mar 30, 2023</time> Had a productive meeting.
 
@@ -175,6 +179,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 01, 2023-Apr 05, 2023</time> Got the poster and form out - going to check the situation tomorrow and (mostly regardless) finalize everything.
 
 - <time>Apr 01, 2023</time> Did some organisational work.
 
@@ -569,6 +575,26 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 05, 2023</time> Finished [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/):
+
+```py
+class Solution:
+    def rearrangeCharacters(self, s: str, target: str) -> int:
+        if len(s) < len(target):
+            return 0
+
+        li = [i for i in s if i in target]
+
+        if len(li) < len(target):
+            return 0
+        elif False in [i in li for i in target]:
+            return 0
+
+        dict_li = {i: li.count(i) // target.count(i) for i in set(li)}
+
+        return min(dict_li.values(), default=0)
+```
 
 - <time>Apr 04, 2023</time> Finished [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/):
 
