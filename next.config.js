@@ -15,6 +15,11 @@ const nextConfig = {
         destination: "https://youtu.be/sWqDIZxO-nU?t=20",
         permanent: false,
       },
+      {
+        source: "/resume",
+        destination: "/resume.pdf",
+        permanent: false,
+      },
     ];
   },
 };
