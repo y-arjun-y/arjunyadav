@@ -9,7 +9,7 @@ export default function Navbar() {
           <a href="/">Home</a>
           <a href="/blog/">Blog</a>
           <a href="/projects/">Projects</a>
-          <a href="/resume/">Résumé</a>
+          <a href="/resume.pdf">Résumé</a>
           <a href="/analytics/">Analytics</a>
           <a href="/interesting-reads/">Interesting Reads</a>
           <a href="/replacement-posts/">Replacement Posts</a>
