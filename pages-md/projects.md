@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Apr 05, 2023
+publish_date: Apr 07, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -9,7 +9,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ### Active (7)
 
-- <a href="#studencouncil12">Student Council - 12th</a>
+- <a href="#studencouncil12">Student Council - 12th + Head of Events</a>
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
@@ -79,7 +79,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-## <span id="studentcouncil12">Student Council - 12th</span>
+## <span id="studentcouncil12">Student Council - 12th + Head of Events</span>
 
 <small>Mar 22, 2023-present</small>  
 <small>Became the vice head boy of my school. Trying to the best job I can. Also, environment club work (head of events) and another project (summary for that will come in May 2023)</small>
@@ -87,6 +87,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 06, 2023-Apr 07, 2023</time> Finished a document and getting some ideas for EC!
 
 - <time>Apr 01, 2023-Apr 05, 2023</time> Lots of voting and discussions - but we're done with colour scheme.
 
@@ -120,6 +122,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 06, 2023-Apr 07, 2023</time> Did some organisational work.
 
 - <time>Apr 01, 2023-Apr 05, 2023</time> Did some organisational work, had a productive-ish meeting and got some more great advice!
 
@@ -179,6 +183,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 06, 2023-Apr 07, 2023</time> I think we're good to go!
 
 - <time>Apr 01, 2023-Apr 05, 2023</time> Got the poster and form out - going to check the situation tomorrow and (mostly regardless) finalize everything.
 
@@ -575,6 +581,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 07, 2023</time> Close to finishing [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/).
 
 - <time>Apr 05, 2023</time> Finished [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/):
 
