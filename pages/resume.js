@@ -1,7 +1,7 @@
-export default function Custom404() {
+export default function resume() {
   return (
     <>
-      <embed src="/resume.pdf" width="800px" height="2100px" />
+      <embed src="/resume.pdf" width="100%" height="950px" />
     </>
   );
 }
