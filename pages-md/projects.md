@@ -582,6 +582,15 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 08, 2023</time> Never mind, finished [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/):
+
+```py
+class Solution:
+    def frequencySort(self, nums: List[int]) -> List[int]:
+        nums.sort(reverse=True)
+        return sorted(nums, key=lambda x: nums.count(x))
+```
+
 - <time>Apr 07, 2023</time> Close to finishing [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/).
 
 - <time>Apr 05, 2023</time> Finished [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/):
