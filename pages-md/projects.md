@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 08, 2023</time> Had a fruitful discussion with the design team!
+
 - <time>Apr 06, 2023-Apr 07, 2023</time> Finished a document and getting some ideas for EC!
 
 - <time>Apr 01, 2023-Apr 05, 2023</time> Lots of voting and discussions - but we're done with colour scheme.
@@ -122,6 +124,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 08, 2023</time> Did some organisational work and had a productive meeting.
 
 - <time>Apr 06, 2023-Apr 07, 2023</time> Did some organisational work.
 
@@ -183,6 +187,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 08, 2023</time> Did some organisational work (we might get a graphic designer on board!)
 
 - <time>Apr 06, 2023-Apr 07, 2023</time> I think we're good to go!
 
