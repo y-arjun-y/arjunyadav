@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Apr 08, 2023
+publish_date: Apr 09, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -587,6 +587,31 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 09, 2023</time> Finished [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) (the square root tricked made it not time out):
+
+```py
+class Solution:
+    def diagonalPrime(self, nums: List[List[int]]) -> int:
+        def is_prime(num):
+            if num <= 1:
+                return False
+
+            for i in range(2, int(num**0.5)+1):
+                if num % i == 0:
+                    return False
+            return True
+
+        primes = []
+
+        for i in range(len(nums)):
+            if is_prime(nums[i][len(nums) - i - 1]):
+                primes.append(nums[i][len(nums) - i - 1])
+            if is_prime(nums[i][i]):
+                primes.append(nums[i][i])
+
+        return max(primes, default=0)
+```
 
 - <time>Apr 08, 2023</time> Never mind, finished [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/):
 
