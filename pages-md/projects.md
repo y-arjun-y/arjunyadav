@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Apr 09, 2023
+publish_date: Apr 11, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 09, 2023-Apr 11, 2023</time> Did a lot of organisational work and generally, got a lot done!
+
 - <time>Apr 08, 2023</time> Had a fruitful discussion with the design team!
 
 - <time>Apr 06, 2023-Apr 07, 2023</time> Finished a document and getting some ideas for EC!
@@ -124,6 +126,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 09, 2023-Apr 11, 2023</time> One of our smaller events had a lot of progress happen pretty spontaneously, and sent out an important message.
 
 - <time>Apr 08, 2023</time> Did some organisational work and had a productive meeting.
 
@@ -187,6 +191,10 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 09, 2023-Apr 11, 2023</time> Our first event happened on Apr 10, 2023!
+
+![EA UAE](/ea-uae.jpg)
 
 - <time>Apr 08, 2023</time> Did some organisational work (we might get a graphic designer on board!)
 
@@ -587,6 +595,19 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 11, 2023</time> Finished [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list):
+
+```py
+class Solution:
+    def decompressRLElist(self, nums: List[int]) -> List[int]:
+        res = []
+
+        for i in range(0, len(nums), 2):
+            res.extend([nums[i + 1]] * nums[i])
+
+        return res
+```
 
 - <time>Apr 09, 2023</time> Finished [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) (the square root tricked made it not time out):
 
