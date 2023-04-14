@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Apr 11, 2023
+publish_date: Apr 14, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -595,6 +595,32 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 14, 2023</time> Finished [Function Composition](https://leetcode.com/problems/function-composition/):
+
+```js
+/**
+ * @param {Function[]} functions
+ * @return {Function}
+ */
+var compose = function (functions) {
+  return function (x) {
+    functions.reverse();
+    let num = x;
+
+    for (let i = 0; i < functions.length; i++) {
+      num = functions[i](num);
+    }
+
+    return num;
+  };
+};
+
+/**
+ * const fn = compose([x => x + 1, x => 2 * x])
+ * fn(4) // 9
+ */
+```
 
 - <time>Apr 11, 2023</time> Finished [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list):
 
