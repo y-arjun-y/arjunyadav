@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Apr 14, 2023
+publish_date: Apr 16, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 11, 2023-Apr 16 2023</time> Communication is key.
+
 - <time>Apr 09, 2023-Apr 11, 2023</time> Did a lot of organisational work and generally, got a lot done!
 
 - <time>Apr 08, 2023</time> Had a fruitful discussion with the design team!
@@ -126,6 +128,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 12, 2023-Apr 16, 2023</time> First event in some time coming up very soon!
 
 - <time>Apr 09, 2023-Apr 11, 2023</time> One of our smaller events had a lot of progress happen pretty spontaneously, and sent out an important message.
 
@@ -191,6 +195,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 12, 2023-Apr 16, 2023</time> Had a productive meeting and thinking about the next meet-up.
 
 - <time>Apr 09, 2023-Apr 11, 2023</time> Our first event happened on Apr 10, 2023!
 
@@ -595,6 +601,48 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 16, 2023</time> Finished [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/):
+
+```py
+class Solution:
+    def findColumnWidth(self, grid: List[List[int]]) -> List[int]:
+        cols = []
+        j = 0
+
+        while j < len(grid[0]):
+            col = []
+            for i in grid:
+                col.append(str(i[j]))
+            cols.append(col)
+            j += 1
+
+        return [len(max(i, key=lambda x: len(x))) for i in cols]
+```
+
+- <time>Apr 15, 2023</time> Finished [Counter](https://leetcode.com/problems/counter/):
+
+```js
+/**
+ * @param {number} n
+ * @return {Function} counter
+ */
+var createCounter = function (n) {
+  count = -1;
+
+  return function () {
+    count += 1;
+    return n + count;
+  };
+};
+
+/**
+ * const counter = createCounter(10)
+ * counter() // 10
+ * counter() // 11
+ * counter() // 12
+ */
+```
 
 - <time>Apr 14, 2023</time> Finished [Function Composition](https://leetcode.com/problems/function-composition/):
 
