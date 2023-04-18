@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 17, 2023- Apr 17, 2023</time> Got a lot of work done for an event.
+
 - <time>Apr 11, 2023-Apr 16 2023</time> Communication is key.
 
 - <time>Apr 09, 2023-Apr 11, 2023</time> Did a lot of organisational work and generally, got a lot done!
@@ -128,6 +130,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 17, 2023-Apr 18, 2023</time> Everything seems to be in place...
 
 - <time>Apr 12, 2023-Apr 16, 2023</time> First event in some time coming up very soon!
 
@@ -195,6 +199,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 18, 2023</time> Got a Graphic Designer on board!
 
 - <time>Apr 12, 2023-Apr 16, 2023</time> Had a productive meeting and thinking about the next meet-up.
 
@@ -601,6 +607,14 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 17, 2023-Apr 18, 2023</time> Finished [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/):
+
+```py
+class Solution:
+    def rowAndMaximumOnes(self, mat: List[List[int]]) -> List[int]:
+        return [mat.index(max(mat, key=lambda x: x.count(1))), max(mat, key=lambda x: x.count(1)).count(1)]
+```
 
 - <time>Apr 16, 2023</time> Finished [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/):
 
