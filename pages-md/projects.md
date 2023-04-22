@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Apr 16, 2023
+publish_date: Apr 22, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -88,7 +88,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 17, 2023- Apr 17, 2023</time> Got a lot of work done for an event.
+- <time>Apr 19, 2023-Apr 22, 2023</time> Did some organisational work.
+
+- <time>Apr 17, 2023-Apr 19, 2023</time> Got a lot of work and recording done for an event.
 
 - <time>Apr 11, 2023-Apr 16 2023</time> Communication is key.
 
@@ -131,7 +133,11 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 17, 2023-Apr 18, 2023</time> Everything seems to be in place...
+- <time>Apr 20, 2023</time> Oh, it happened alright! It was a massive success, thank you to everyone who attended!
+
+![OptX Iftar Distribution Event](/optx-polaroid.png/)
+
+- <time>Apr 17, 2023-Apr 19, 2023</time> Everything seems to be in place...
 
 - <time>Apr 12, 2023-Apr 16, 2023</time> First event in some time coming up very soon!
 
@@ -199,6 +205,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 19, 2023-Apr 22, 2023</time> Did some organisational work.
 
 - <time>Apr 18, 2023</time> Got a Graphic Designer on board!
 
@@ -607,6 +615,42 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 22, 2023</time> Finished [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/):
+
+```js
+/**
+ * @param {number[]} arr
+ * @param {Function} fn
+ * @return {number[]}
+ */
+var map = function (arr, fn) {
+  for (let i = 0; i < arr.length; i++) {
+    arr[i] = fn(arr[i], i);
+  }
+
+  return arr;
+};
+```
+
+- <time>Apr 21, 2023</time> Finished [Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/):
+
+```py
+class Solution:
+    def maxDivScore(self, nums: List[int], divisors: List[int]) -> int:
+        res_temp = []
+
+        for i in divisors:
+            count = 0
+            for j in nums:
+                if j % i == 0:
+                    count += 1
+            res_temp.append((i, count))
+
+        res_temp.sort()
+        return max(res_temp, key=lambda x: x[1])[0]
+
+```
 
 - <time>Apr 17, 2023-Apr 18, 2023</time> Finished [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/):
 
