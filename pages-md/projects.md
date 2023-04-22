@@ -133,6 +133,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 21, 2023-Apr 22, 2023</time> Worked on finalizing the certificates and gave some feedback for the reel.
+
 - <time>Apr 20, 2023</time> Oh, it happened alright! It was a massive success, thank you to everyone who attended!
 
 ![OptX Iftar Distribution Event](/optx-polaroid.png/)
