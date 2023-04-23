@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Apr 22, 2023
+publish_date: Apr 23, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -617,6 +617,27 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 23, 2023</time> Finished [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/):
+
+```js
+/**
+ * @param {number[]} arr
+ * @param {Function} fn
+ * @return {number[]}
+ */
+var filter = function (arr, fn) {
+  let res = [];
+
+  for (let i = 0; i < arr.length; i++) {
+    if (fn(arr[i], i)) {
+      res.push(arr[i]);
+    }
+  }
+
+  return res;
+};
+```
 
 - <time>Apr 22, 2023</time> Finished [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/):
 
