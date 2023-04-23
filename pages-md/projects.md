@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 23, 2023</time> Sorted out a technical issue + got content/photos for a post idea that I came up with! (worked on the main document a bit as well)
+
 - <time>Apr 19, 2023-Apr 22, 2023</time> Did some organisational work.
 
 - <time>Apr 17, 2023-Apr 19, 2023</time> Got a lot of work and recording done for an event.
@@ -132,6 +134,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 23, 2023</time> Still finalizing certificates...
 
 - <time>Apr 21, 2023-Apr 22, 2023</time> Worked on finalizing the certificates and gave some feedback for the reel.
 
@@ -207,6 +211,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 23, 2023</time> Sent an email.
 
 - <time>Apr 19, 2023-Apr 22, 2023</time> Did some organisational work.
 
