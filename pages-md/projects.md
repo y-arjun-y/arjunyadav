@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Apr 23, 2023
+publish_date: Apr 25, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 24, 2023-Apr 25, 2023</time> Worked on a video, event should go smoothly for tomorrow and day after.
+
 - <time>Apr 23, 2023</time> Sorted out a technical issue + got content/photos for a post idea that I came up with! (worked on the main document a bit as well)
 
 - <time>Apr 19, 2023-Apr 22, 2023</time> Did some organisational work.
@@ -134,6 +136,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 25, 2023</time> Got back from a contact.
 
 - <time>Apr 23, 2023</time> Still finalizing certificates...
 
@@ -623,6 +627,31 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 25, 2023</time> Tried my hand at [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/).
+
+- <time>Apr 24, 2023</time> Finished [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/):
+
+```py
+class Solution:
+    def lastStoneWeight(self, stones: List[int]) -> int:
+        stones.sort(reverse=True)
+
+        while len(stones) > 1:
+            if stones[0] == stones[1]:
+                stones.pop(0)
+                stones.pop(0)
+            elif stones[0] != stones[1]:
+                stones[0] = stones[0] - stones[1]
+                stones.pop(1)
+            stones.sort(reverse=True)
+
+        if len(stones) == 0:
+            return 0
+        else:
+            return stones[0]
+
+```
 
 - <time>Apr 23, 2023</time> Finished [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/):
 
