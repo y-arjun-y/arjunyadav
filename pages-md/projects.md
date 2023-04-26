@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 26, 2023</time> Got a speech ready and many rehersals (my knee can atest) done + dance was conducted somewhat successfully and an awesome Instagram post.
+
 - <time>Apr 24, 2023-Apr 25, 2023</time> Worked on a video, event should go smoothly for tomorrow and day after.
 
 - <time>Apr 23, 2023</time> Sorted out a technical issue + got content/photos for a post idea that I came up with! (worked on the main document a bit as well)
@@ -136,6 +138,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 26, 2023</time> Sent some really important messages.
 
 - <time>Apr 25, 2023</time> Got back from a contact.
 
@@ -627,6 +631,14 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 26, 2023</time> Finished [Sum Multiples](https://leetcode.com/problems/sum-multiples/):
+
+```py
+class Solution:
+    def sumOfMultiples(self, n: int) -> int:
+        return sum([i for i in range(1, n+1) if i % 3 == 0 or i % 5 == 0 or i % 7 == 0])
+```
 
 - <time>Apr 25, 2023</time> Tried my hand at [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/).
 
