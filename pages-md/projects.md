@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Apr 25, 2023
+publish_date: Apr 28, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -88,6 +88,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 28, 2023</time> Incredible day.
+
+![Investiture Ceremony](/investiture.png/)
+
 - <time>Apr 26, 2023</time> Got a speech ready and many rehersals (my knee can atest) done + dance was conducted somewhat successfully and an awesome Instagram post.
 
 - <time>Apr 24, 2023-Apr 25, 2023</time> Worked on a video, event should go smoothly for tomorrow and day after.
@@ -138,6 +142,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 28, 2023</time> Finished sending out the certificates.
 
 - <time>Apr 26, 2023</time> Sent some really important messages.
 
@@ -219,6 +225,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 28, 2023</time> Got a meeting mostly organised.
 
 - <time>Apr 23, 2023</time> Sent an email.
 
@@ -631,6 +639,14 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 28, 2023</time> Finished [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/):
+
+```py
+class Solution:
+    def findDelayedArrivalTime(self, arrivalTime: int, delayedTime: int) -> int:
+        return (arrivalTime + delayedTime) % 24
+```
 
 - <time>Apr 26, 2023</time> Finished [Sum Multiples](https://leetcode.com/problems/sum-multiples/):
 
