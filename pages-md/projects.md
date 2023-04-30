@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Apr 28, 2023
+publish_date: Apr 30, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 29, 2023</time> Got some important messages + a template out yesterday.
+
 - <time>Apr 28, 2023</time> Incredible day.
 
 ![Investiture Ceremony](/investiture.png/)
@@ -142,6 +144,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 29, 2023</time> Follow-up, follow-up...
 
 - <time>Apr 28, 2023</time> Finished sending out the certificates.
 
@@ -225,6 +229,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 29, 2023</time> Successful meeting!
 
 - <time>Apr 28, 2023</time> Got a meeting mostly organised.
 
@@ -639,6 +645,45 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 30, 2023</time> Finished [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/):
+
+```py
+class Solution:
+    def isWinner(self, player1: List[int], player2: List[int]) -> int:
+        score_1 = player1[0]
+        score_2 = player2[0]
+
+        if len(player1) > 1:
+            if player1[0] == 10:
+                score_1 += 2*player1[1]
+            else:
+                score_1 += player1[1]
+
+            if player2[0] == 10:
+                score_2 += 2*player2[1]
+            else:
+                score_2 += player2[1]
+
+        for i in range(2, len(player1)):
+            if 10 in player1[i-2:i]:
+                score_1 += 2*player1[i]
+            else:
+                score_1 += player1[i]
+
+        for i in range(2, len(player2)):
+            if 10 in player2[i-2:i]:
+                score_2 += 2*player2[i]
+            else:
+                score_2 += player2[i]
+
+        if score_1 > score_2:
+            return 1
+        elif score_2 > score_1:
+            return 2
+        else:
+            return 0
+```
 
 - <time>Apr 28, 2023</time> Finished [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/):
 
