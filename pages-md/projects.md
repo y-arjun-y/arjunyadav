@@ -230,6 +230,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 30, 2023</time> Did some organisational work.
+
 - <time>Apr 29, 2023</time> Successful meeting!
 
 - <time>Apr 28, 2023</time> Got a meeting mostly organised.
