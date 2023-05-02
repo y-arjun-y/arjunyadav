@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Apr 30, 2023
+publish_date: May 01, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 30, 2023-May 01, 2023</time> Did some organisational work and a morning event.
+
 - <time>Apr 29, 2023</time> Got some important messages + a template out yesterday.
 
 - <time>Apr 28, 2023</time> Incredible day.
@@ -144,6 +146,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 30, 2023-May 01, 2023</time> Breakthrough!
 
 - <time>Apr 29, 2023</time> Follow-up, follow-up...
 
@@ -229,6 +233,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 01, 2023</time> Did some organisational work.
 
 - <time>Apr 30, 2023</time> Did some organisational work.
 
@@ -647,6 +653,23 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 01, 2023</time> Not sure why my solution for [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) didn't pass:
+
+```py
+class Solution:
+    def minAbsoluteSumDiff(self, nums1: List[int], nums2: List[int]) -> int:
+        if nums1 == nums2:
+            return 0
+        else:
+            index = max(range(len(nums2)), key=lambda x: abs(nums1[x] - nums2[x]))
+            nums1_copy = nums1.copy()
+            nums1_copy.remove(nums1[index])
+            replacement = min(nums1_copy, key=lambda x: abs(x - nums2[index]))
+            nums1[index] = replacement
+
+            return sum([abs(nums1[i] - nums2[i]) for i in range(len(nums2))])
+```
 
 - <time>Apr 30, 2023</time> Finished [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/):
 
