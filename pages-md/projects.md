@@ -654,6 +654,22 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 02, 2023</time> Finished [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/):
+
+```py
+class Solution:
+    def maximizeSum(self, nums: List[int], k: int) -> int:
+        score = 0
+
+        while k > 0:
+            nums.sort()
+            score += nums[-1]
+            nums[-1] += 1
+            k -= 1
+
+        return score
+```
+
 - <time>May 01, 2023</time> Not sure why my solution for [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) didn't pass:
 
 ```py
