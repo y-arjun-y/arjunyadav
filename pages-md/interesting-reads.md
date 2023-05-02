@@ -1,12 +1,13 @@
 ---
 title: Interesting Reads
-publish_date: Feb 12, 2023
+publish_date: May 02, 2023
 meta_description: I log everything I read in Notion, and every month, I publish some of the more interesting things I've read. Here are all of those posts.
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
 I log everything I read[^1] in Notion, and every month, I publish some of the more interesting things I've read. Here are all of those posts.
 
+- <time>May 05, 2023</time> [Interesting Reads - March and April 2023](/blog/interesting-reads-march-april-2023)
 - <time>Feb 12, 2023</time> [Interesting Reads - January and February 2023](/blog/interesting-reads-january-february-2023)
 - <time>Dec 31, 2022</time> [Interesting Reads - November and December 2022](/blog/interesting-reads-november-december-2022)
 - <time>Oct 31, 2022</time> [Interesting Reads - September and October 2022](/blog/interesting-reads-september-october-2022)
