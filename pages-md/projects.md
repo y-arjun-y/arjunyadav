@@ -88,7 +88,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 30, 2023-May 01, 2023</time> Did some organisational work and a morning event.
+- <time>May 02, 2023</time> Did some organisational work and a morning event.
+
+- <time>Apr 30, 2023-May 01, 2023</time> Did some organisational work and partook in a successful morning event.
 
 - <time>Apr 29, 2023</time> Got some important messages + a template out yesterday.
 
@@ -146,6 +148,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 02, 2023</time> Breakthrough! (x2)
 
 - <time>Apr 30, 2023-May 01, 2023</time> Breakthrough!
 
@@ -233,6 +237,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 02, 2023</time> Did some organisational work.
 
 - <time>May 01, 2023</time> Did some organisational work.
 
