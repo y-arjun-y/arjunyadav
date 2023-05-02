@@ -5,7 +5,7 @@ meta_description: I log everything I read in Notion. In these two months, I've r
 meta_image: https://www.arjunyadav.net/farm.jpeg
 ---
 
-<small>Note: This post was last edited on Feb 18, 2023</time>
+<small>Note: This post was last edited on Feb 18, 2023</small>
 
 ![Farm](/farm.jpeg)
 
