@@ -667,6 +667,7 @@ Confused? See the <a href="#note">note</a> down below.
 #### Log
 
 - <time>May 03, 2023</time> Finished [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/):
+
 ```sql
 # Write your MySQL query statement below
 SELECT DISTINCT employee_id, department_id FROM Employee WHERE primary_flag = 'Y';
