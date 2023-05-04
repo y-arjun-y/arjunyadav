@@ -151,6 +151,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 04, 2023</time> Really successful meeting!
+
 - <time>May 03, 2023</time> Did some organisational work.
 
 - <time>May 02, 2023</time> Breakthrough! (x2)
@@ -241,6 +243,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 04, 2023</time> Did some organisational work.
 
 - <time>May 03, 2023</time> Did some organisational work.
 
