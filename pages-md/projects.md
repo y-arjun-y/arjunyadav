@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: May 02, 2023
+publish_date: May 04, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 03, 2023-May 04, 2023</time> Did some organisational work and a lot of writing for a proposal.
+
 - <time>May 02, 2023</time> Did some organisational work and a morning event.
 
 - <time>Apr 30, 2023-May 01, 2023</time> Did some organisational work and partook in a successful morning event.
@@ -148,6 +150,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 03, 2023</time> Did some organisational work.
 
 - <time>May 02, 2023</time> Breakthrough! (x2)
 
@@ -237,6 +241,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 03, 2023</time> Did some organisational work.
 
 - <time>May 02, 2023</time> Did some organisational work.
 
@@ -659,6 +665,12 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 03, 2023</time> Finished [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/):
+```sql
+# Write your MySQL query statement below
+SELECT DISTINCT employee_id, department_id FROM Employee WHERE primary_flag = 'Y';
+```
 
 - <time>May 02, 2023</time> Finished [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/):
 
