@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: May 04, 2023
+publish_date: May 05, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -670,7 +670,25 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 03, 2023</time> Finished [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/):
+- <time>May 05, 2023</time> Finished [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/):
+
+```js
+/**
+ * @return {Function}
+ */
+var createHelloWorld = function () {
+  return function (...args) {
+    return "Hello World";
+  };
+};
+
+/**
+ * const f = createHelloWorld();
+ * f(); // "Hello World"
+ */
+```
+
+- <time>May 04, 2023</time> Finished [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/):
 
 ```sql
 # Write your MySQL query statement below
