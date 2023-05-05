@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 05, 2023</time> Did some organisational work.
+
 - <time>May 03, 2023-May 04, 2023</time> Did some organisational work and a lot of writing for a proposal.
 
 - <time>May 02, 2023</time> Did some organisational work and a morning event.
@@ -150,6 +152,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 04, 2023</time> Did some organisational work.
 
 - <time>May 04, 2023</time> Really successful meeting!
 
@@ -243,6 +247,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 05, 2023</time> Did some organisational work.
 
 - <time>May 04, 2023</time> Did some organisational work.
 
