@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: May 05, 2023
+publish_date: May 06, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -675,6 +675,19 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 06, 2023</time> Finished [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/):
+
+```py
+class Solution:
+    def minMaxDifference(self, num: int) -> int:
+        num_str = str(num)
+
+        max_num = max([int(num_str.replace(i, '9')) for i in num_str])
+        min_num = min([int(num_str.replace(i, '0')) for i in num_str])
+
+        return max_num - min_num
+```
 
 - <time>May 05, 2023</time> Finished [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/):
 
