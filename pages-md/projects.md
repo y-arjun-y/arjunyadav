@@ -684,6 +684,14 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 07, 2023</time> Finished [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array/):
+
+```py
+class Solution:
+    def distinctDifferenceArray(self, nums: List[int]) -> List[int]:
+        return [len(set(nums[:i+1])) - len(set(nums[i+1:])) for i in range(len(nums))]
+```
+
 - <time>May 06, 2023</time> Finished [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/):
 
 ```py
@@ -11006,7 +11014,7 @@ The student council in your junior year should (hopefully!) just be a taste of w
 
 #### Log
 
-- <time>Dec 22, 2022</tine> Finished the second (and final) version of my brother's website.
+- <time>Dec 22, 2022</time> Finished the second (and final) version of my brother's website.
 
 - <time>Dec 21, 2022</time> Finished the first version of [my brother's website](https://y1d2.com).
 
