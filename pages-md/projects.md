@@ -1,13 +1,13 @@
 ---
 title: Projects
-publish_date: May 06, 2023
+publish_date: May 07, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
 ## Table of Contents
 
-### Active (7)
+### Active (6)
 
 - <a href="#studencouncil12">Student Council - 12th + Head of Events</a>
 - <a href="#optx">OptX</a>
@@ -15,7 +15,6 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#mathforml">Mathematics for Machine Learning</a>
 - <a href="#coldtakesbetareading">Cold Takes Beta Reading</a> (O)
 - <a href="#leetcode">LeetCode</a>
-- <a href="#freecodecamp">freeCodeCamp</a>
 
 ### Inactive/Paused (8)
 
@@ -28,8 +27,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
 
-### Done (30)
+### Done (31)
 
+- <a href="#freecodecamp">freeCodeCamp</a>
 - <a href="#nationalmathscompetition">National Maths Competition</time>
 - <a href="#studentcouncil11">Student Council - 11th</time>
 - <a href="#admun2023">ADMUN 2023</time>
@@ -383,11 +383,13 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 20, 2023</time> Continued with Week 3
+- <time>May 07, 2023</time> Continued with Week 3.
 
-- <time>Mar 19, 2023</time> "Continued" with Week 3
+- <time>Mar 20, 2023</time> Continued with Week 3.
 
-- <time>Mar 18, 2023</time> Continued with Week 3
+- <time>Mar 19, 2023</time> "Continued" with Week 3.
+
+- <time>Mar 18, 2023</time> Continued with Week 3.
 
 - <time>Mar 15, 2023</time> "Continued" with the course.
 
@@ -4829,7 +4831,7 @@ class Solution:
 
 - <time>Jun 17, 2022</time> Finished [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/), but I had to look at the solution (mine had the correct logic, but the wrong return type):
 
-```
+```py
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -8443,831 +8445,6 @@ function getCount(str) {
 
 <hr />
 
-## <span id="freecodecamp">[freeCodeCamp](https://freecodecamp.org)</span>
-
-<small>Oct 28, 2021-present</small>  
-<small>Trying to finish freeCodeCamp.org's curriculum by the end of 2023.</small>
-
-<hr />
-<small>freeCodeCamp.org's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Mar 18, 2023</time> Continued with the Data Analysis with Python course.
-
-- <time>Jan 27, 2023</time> "Continued" with the Medical Data Visualizer project.
-
-- <time>Jan 25, 2023</time> "Continued" with the Medical Data Visualizer project.
-
-- <time>Jan 21, 2023</time> "Continued" with the Medical Data Visualizer project.
-
-- <time>Jan 20, 2023</time> Continued with the Medical Data Visualizer project.
-
-- <time>Jan 18, 2023</time> Continued with the Medical Data Visualizer project.
-
-- <time>Jan 16, 2023</time> "Continued" with the Medical Data Visualizer project.
-
-- <time>Jan 04, 2023</time> Continued with the Medical Data Visualizer project.
-
-- <time>Jan 03, 2023</time> "Continued" with the Medical Data Visualizer project.
-
-- <time>Jan 02, 2023</time> "Got started" with the [Medical Data Visualizer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer) project.
-
-- <time>Jan 01, 2023</time> Finished the Demographic Data Analyzer Project ([here](https://replit.com/@yarjuny/Demographic-Data-Analyzer-Project) it is).
-
-- <time>Dec 31, 2022</time> Continued with the Demographic Data Analyzer project. Figured out the roadblock. I hope to finish the last three remaining certificates by the first half of 2023.
-
-- <time>Dec 30, 2022</time> Continued with the Demographic Data Analyzer project. Sort of hit a roadblock, but I'll figure it out (hopefully).
-
-- <time>Dec 29, 2022</time> Continued with the Demographic Data Analyzer project.
-
-- <time>Dec 28, 2022</time> Got started with the [Demographic Data Analyzer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer) project.
-
-- <time>Dec 27, 2022</time> Finished with the [Mean-Variance-Standard Deviation Calculator](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator) project ([here](https://replit.com/@yarjuny/Mean-Variance-Standard-Deviation-Calculator-Project) it is).
-
-- <time>Dec 26, 2022</time> Continued with Data Analysis with Python.
-
-- <time>Dec 25, 2022</time> Continued with Data Analysis with Python.
-
-- <time>Dec 24, 2022</time> Continued with Data Analysis with Python.
-
-- <time>Dec 23, 2022</time> Continued with Data Analysis with Python.
-
-- <time>Dec 22, 2022</time> Continued with Data Analysis with Python.
-
-- <time>Dec 21, 2022</time> Continued with Data Analysis with Python.
-
-- <time>Dec 20, 2022</time> Got started with [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/).
-
-- <time>Dec 19, 2022</time> Finished with the [Probability Calculator Project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator) project ([here](https://replit.com/@yarjuny/Probability-Calculator-Project#main.py) it is) and earned my certification for Scientific Computing with Python (yes, I know the budget app project isn't fully finished, but I wanted to move on). Only three more certifications left!
-
-- <time>Dec 18, 2022</time> Finished with the [Polygon Area Calculator Project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator) project ([here](https://replit.com/@yarjuny/Polygon-Area-Calculator-Project#main.py) it is).
-
-- <time>Dec 16, 2022</time> Been a while. Continued with the Budget App Project and I plan to just finish my Python certification before the end of the year (and early next year, try to finish databases).
-
-- <time>Nov 26, 2022</time> "Continued" with the Budget App Project.
-
-- <time>Nov 18, 2022</time> Continued with the Budget App Project.
-
-- <time>Nov 16, 2022</time> "Continued" with the Budget App Project.
-
-- <time>Nov 15, 2022</time> Continued with the Budget App Project.
-
-- <time>Nov 13, 2022</time> Continued with the Budget App Project.
-
-- <time>Nov 12, 2022</time> Continued with the Budget App Project. Should finish up this upcoming week.
-
-- <time>Nov 11, 2022</time> Continued with the Budget App Project.
-
-- <time>Nov 10, 2022</time> Continued with the Budget App Project.
-
-- <time>Nov 09, 2022</time> Continued with the Budget App Project.
-
-- <time>Nov 08, 2022</time> Continued with the Budget App Project.
-
-- <time>Nov 04, 2022</time> Continued with the Budget App Project.
-
-- <time>Nov 03, 2022</time> Continued with the Budget App Project.
-
-- <time>Nov 02, 2022</time> Continued with the Budget App Project.
-
-- <time>Nov 01, 2022</time> Continued with the Budget App Project.
-
-- <time>Oct 31, 2022</time> Continued with the Budget App Project.
-
-- <time>Oct 30, 2022</time> Continued with the Budget App Project.
-
-- <time>Oct 29, 2022</time> Got started with the [Budget App Project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app).
-
-- <time>Oct 28, 2022</time> 1 year since this project started! Finished with the Time Calculator Project, [here it is](https://replit.com/@yarjuny/Time-Calculator-Project).
-
-- <time>Oct 27, 2022</time> Continued with the Time Calculator Project. Writing down my logic really helped, really close now (just need to fix the AM/PM and -12 logic for 24-hour format).
-
-- <time>Oct 26, 2022</time> "Continued" with the Time Calculator Project.
-
-- <time>Oct 25, 2022</time> Continued with the Time Calculator Project. Need to map out my logic on paper tomorrow to see where I'm going wrong.
-
-- <time>Oct 24, 2022</time> Continued with the Time Calculator Project. Getting somewhat close.
-
-- <time>Oct 23, 2022</time> Continued with the Time Calculator Project.
-
-- <time>Oct 22, 2022</time> Continued with the Time Calculator Project.
-
-- <time>Oct 21, 2022</time> Continued with the Time Calculator Project.
-
-- <time>Oct 20, 2022</time> Continued with the Time Calculator Project.
-
-- <time>Oct 19, 2022</time> Continued with the Time Calculator Project.
-
-- <time>Oct 18, 2022</time> Continued with the Time Calculator Project.
-
-- <time>Oct 17, 2022</time> Never mind, I won't finish the project today, but I made some great progress! I think I just need to fix the AM/PM and calculate next days.
-
-- <time>Oct 16, 2022</time> Continued with the Time Calculator Project. I'll try to finish this project by Oct 17.
-
-- <time>Oct 11, 2022</time> Got started with the [Time Calculator Project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator).
-
-- <time>Oct 10, 2022</time> Finished with the Arithmetic Formatter project! [Here it is](https://replit.com/@yarjuny/Arithmetic-Formatter-Project).
-
-- <time>Oct 09, 2022</time> Continued with the Arithmetic Formatter project. Still can't get the test cases to pass but I think I'm getting close.
-
-- <time>Oct 08, 2022</time> Continued with the Arithmetic Formatter project. I can't get my solution to pass the test cases (even though the output looks to be correct) for some reason, will keep trying tomorrow.
-
-- <time>Oct 07, 2022</time> Continued with the Arithmetic Formatter project and fixed the alignment of the numbers! Will finish the project tomorrow.
-
-- <time>Oct 06, 2022</time> Continued with the Arithmetic Formatter project.
-
-- <time>Oct 05, 2022</time> Continued with the Arithmetic Formatter project. I'm sort of close to fixing the arrangement.
-
-- <time>Oct 04, 2022</time> Continued with the Arithmetic Formatter project.
-
-- <time>Oct 02, 2022</time> Continued with the Arithmetic Formatter project.
-
-- <time>Oct 01, 2022</time> Continued with the Arithmetic Formatter project.
-
-- <time>Sep 30, 2022</time> "Continued" with the Arithmetic Formatter project.
-
-- <time>Sep 29, 2022</time> Continued with the Arithmetic Formatter project.
-
-- <time>Sep 28, 2022</time> Continued with the Arithmetic Formatter project.
-
-- <time>Sep 27, 2022</time> Got started with [Relational Database](https://www.freecodecamp.org/learn/relational-database/).
-
-- <time>Sep 26, 2022</time> Continued with Responsive Web Design.
-
-- <time>Sep 25, 2022</time> Continued (?) with the Arithmetic Formatter project and continued with Responsive Web Design.
-
-- <time>Sep 24, 2022</time> Continued with Responsive Web Design.
-
-- <time>Sep 23, 2022</time> Continued with Responsive Web Design.
-
-- <time>Sep 22, 2022</time> Continued with Responsive Web Design.
-
-- <time>Sep 21, 2022</time> Continued with Responsive Web Design.
-
-- <time>Sep 20, 2022</time> Continued with Responsive Web Design.
-
-- <time>Sep 19, 2022</time> Continued with Responsive Web Design.
-
-- <time>Sep 18, 2022</time> Progress! I finally got the problems to print horizontally for the Arithmetic Formatter project. Also continued with Responsive Web Design.
-
-- <time>Sep 17, 2022</time> "Continued" with the Arithmetic Formatter project and continued with Responsive Web Design.
-
-- <time>Sep 16, 2022</time> Continued with the Arithmetic Formatter project and continued with Responsive Web Design.
-
-- <time>Sep 15, 2022</time> Continued with the Arithmetic Formatter project and continued with Responsive Web Design.
-
-- <time>Sep 14, 2022</time> Continued with the Arithmetic Formatter project and continued with Responsive Web Design.
-
-- <time>Sep 13, 2022</time> Continued with Responsive Web Design.
-
-- <time>Sep 12, 2022</time> Continued with Responsive Web Design.
-
-- <time>Sep 11, 2022</time> Continued with Responsive Web Design.
-
-- <time>Sep 10, 2022</time> Continued with Responsive Web Design.
-
-- <time>Sep 09, 2022</time> Continued with Responsive Web Design.
-
-- <time>Sep 08, 2022</time> Continued with Responsive Web Design.
-
-- <time>Sep 07, 2022</time> Continued with Responsive Web Design.
-
-- <time>Sep 06, 2022</time> Continued with Responsive Web Design.
-
-- <time>Sep 05, 2022</time> Continued with Responsive Web Design.
-
-- <time>Sep 04, 2022</time> Continued with Responsive Web Design.
-
-- <time>Sep 03, 2022</time> Continued with Responsive Web Design.
-
-- <time>Sep 02, 2022</time> Continued with Responsive Web Design.
-
-- <time>Sep 01, 2022</time> Continued with Responsive Web Design.
-
-- <time>Aug 31, 2022</time> Continued with Responsive Web Design.
-
-- <time>Aug 30, 2022</time> Continued with Responsive Web Design.
-
-- <time>Aug 29, 2022</time> Continued with Responsive Web Design.
-
-- <time>Aug 28, 2022</time> Continued with Responsive Web Design.
-
-- <time>Aug 27, 2022</time> Continued with Responsive Web Design.
-
-- <time>Aug 26, 2022</time> Continued with Responsive Web Design.
-
-- <time>Aug 25, 2022</time> Continued with the Arithmetic Formatter project and continued with Responsive Web Design.
-
-- <time>Aug 24, 2022</time> Continued with Responsive Web Design.
-
-- <time>Aug 23, 2022</time> Finished with error handling (?) for the [Arithmetic Formatter project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter) and continued with Responsive Web Design.
-
-- <time>Aug 22, 2022</time> Finished with the Scientific Computing with Python lectures. On to the projects!
-
-- <time>Aug 21, 2022</time> Continued with Responsive Web Design.
-
-- <time>Aug 20, 2022</time> Continued with Responsive Web Design.
-
-- <time>Aug 19, 2022</time> Continued with Responsive Web Design.
-
-- <time>Aug 18, 2022</time> Continued with Responsive Web Design.
-
-- <time>Aug 17, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Aug 16, 2022</time> Continued with Responsive Web Design.
-
-- <time>Aug 15, 2022</time> Continued with Responsive Web Design.
-
-- <time>Aug 14, 2022</time> Continued with Responsive Web Design.
-
-- <time>Aug 13, 2022</time> Continued with Responsive Web Design.
-
-- <time>Aug 12, 2022</time> Continued with Responsive Web Design.
-
-- <time>Aug 11, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Aug 10, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Aug 09, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Aug 08, 2022</time> Continued with Responsive Web Design.
-
-- <time>Aug 07, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Aug 06, 2022</time> Contunued with Scientific Computing with Python. Nearly done with the videos.
-
-- <time>Aug 05, 2022</time> Contunued with Scientific Computing with Python. Never repeat string data more than once.
-
-- <time>Aug 04, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Aug 03, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Aug 02, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Aug 01, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 31, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 30, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 29, 2022</time> Continued with Scientific Computing with Python. JSON all the way.
-
-- <time>Jul 28, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 27, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 26, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 25, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jul 24, 2022</time> Continued with Scientific Computing with Python. [RFC](https://www.ietf.org/standards/rfcs/) is a nice easter egg.
-
-- <time>Jul 23, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 22, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 21, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 20, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 19, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 18, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 17, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 16, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 15, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 14, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jul 13, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jul 12, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 11, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jul 10, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jul 09, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 08, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 07, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 06, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 05, 2022</time> Continued with Scientific Computing with Python. I think the website went down?
-
-- <time>Jul 04, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jul 03, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jul 02, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jul 01, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jun 30, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jun 29, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jun 28, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jun 27, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jun 26, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jun 25, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jun 24, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jun 23, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jun 22, 2022</time> Continued with Scientific Computing with Python.
-
-- <time>Jun 21, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jun 20, 2022</time> Got started with [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/).
-
-- <time>Jun 19, 2022</time> Finally, finished with the American/British English Translator project ([here](https://replit.com/@yarjuny/American-British-English-Translator) it is) and finished with Quality Assurance. Oh, and also continued with Responsive Web Design.
-
-- <time>Jun 18, 2022</time> Continued with the translator project (two more test cases left, though I'll be honest and say that I sort of skipped the other two test cases) and with Responsive Web Design.
-
-- <time>Jun 17, 2022</time> Continued with the translator project (four more test cases to go) and with Responsive Web Design.
-
-- <time>Jun 16, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jun 15, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jun 14, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jun 13, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jun 12, 2022</time> "Continued" with the translator project and with Responsive Web Design.
-
-- <time>Jun 11, 2022</time> Continued with the translator project (though progress has been sort of slow) and with Responsive Web Design.
-
-- <time>Jun 10, 2022</time> Continued with the translator project (sort of fixed the RegEx and figured out how to make the text green) and with Responsive Web Design.
-
-- <time>Jun 09, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jun 08, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jun 07, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jun 06, 2022</time> Continued with the translator project (sort of finished the British to American English part, on to getting the text green lol) and with Responsive Web Design.
-
-- <time>Jun 05, 2022</time> Continued with the translator project (did some [VSCode](https://vscode.dev/) magic to flip the JS objects for the British to American English part) and with Responsive Web Design.
-
-- <time>Jun 04, 2022</time> Continued with Responsive Web Design.
-
-- <time>Jun 03, 2022</time> Continued with the translator project (I need to figure out the highlight functionality, how do I insert a `<span>` element within the Express `res`?) and with Responsive Web Design.
-
-- <time>Jun 02, 2022</time> Continued with the translator project and with Responsive Web Design.
-
-- <time>Jun 01, 2022</time> Continued with the translator project (the American to British English part is very buggy but it sort of works) and with Responsive Web Design.
-
-- <time>May 31, 2022</time> Continued with Responsive Web Design.
-
-- <time>May 30, 2022</time> Continued with Responsive Web Design.
-
-- <time>May 29, 2022</time> Continued with the translator project (working on the American to British English part) and with Responsive Web Design.
-
-- <time>May 28, 2022</time> Sort of got started with the last project for Quality Assurance, [American-British English Translator](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator) and continued with Responsive Web Design.
-
-- <time>May 27, 2022</time> Finished with the Sudoku Solver project ([here](https://sudoku-solver-project.yarjuny.repl.co/) it is) and continued with Responsive Web Design.
-
-- <time>May 26, 2022</time> One more test case left and continued with Responsive Web Design.
-
-- <time>May 25, 2022</time> Three more tests cases left and continued with Responsive Web Design.
-
-- <time>May 24, 2022</time> Four more tests cases left for the Sudoku Solver project! Also continued with Responsive Web Design.
-
-- <time>May 23, 2022</time> Continued with the Sudoku Solver project (about half way done with all the `/api/check` test cases) and with Responsive Web Design.
-
-- <time>May 22, 2022</time> Continued with the Sudoku Solver project (I've got an annoying glitch for the region placement check) and with Responsive Web Design.
-
-- <time>May 21, 2022</time> Continued with the Sudoku Solver project and with Responsive Web Design.
-
-- <time>May 20, 2022</time> Continued with the Sudoku Solver project and with Responsive Web Design.
-
-- <time>May 19, 2022</time> Continued with the Sudoku Solver project (finished the solve part with [this algorithm](https://www.geeksforgeeks.org/sudoku-backtracking-7/), which I referred to due to [this](https://forum.freecodecamp.org/t/freecodecamp-sudoku-solver-man-that-was-tough/506490/2)) and with Responsive Web Design.
-
-- <time>May 18, 2022</time> Continued with the Sudoku Solver project and with Responsive Web Design.
-
-- <time>May 17, 2022</time> Continued with the Sudoku Solver project (finished translating the helper function from ([1](https://trinket.io/python/ae539dcb34), [2](https://medium.com/swlh/simple-sudoku-with-backtracking-bb4813ddabb1)) for the main [backtracking](https://www.geeksforgeeks.org/backtracking-introduction/) function) and continued with Responsive Web Design.
-
-- <time>May 15, 2022</time> Continued with the Sudoku Solver project (got the regex stuff to work and got started with the solving part) and continued with Responsive Web Design.
-
-- <time>May 15, 2022</time> Continued with the Sudoku Solver project and continued with beta Responsive Web Design.
-
-- <time>May 14, 2022</time> Got started with the [Sudoku Solver project](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver) and finished with a section for beta Responsive Web Design (which recently graduated to the default Responsive Web Design!)
-
-- <time>May 13, 2022</time> Finished with the Personal Library project by intentionally leaving a test case broken :/ ([here](https://personal-library-project.yarjuny.repl.co/) it is) Also continued with beta Responsive Web Design.
-
-- <time>May 12, 2022</time> AAAAAAAAAA This is a really complicated situation: I wrote all the functional tests and a) Replit keeps crashing after all the tests pass (unless I do a weird port trick) b) Even though the `POST` comment test case works without the tests, it refuses to pass after all the tests pass. This is probably the second or third most frustrating project I worked on (the most frustrating was probably the JavaScript calculator)
-
-- <time>May 11, 2022</time> Got the comment `POST` test case to pass, on to the `GET` test case. Also continued with beta Responsive Web Design.
-- <time>May 10, 2022</time> The comment array seems to be less broken and continued with beta Responsive Web Design.
-
-- <time>May 09, 2022</time> Got the delete all test case to pass and the comment array is, uh, there? (it's really broken). I also continued with beta responsive web design.
-
-- <time>May 08, 2022</time> Continued with beta Responsive Web Design but didn't make a ton of progress with the Personal Library project (the comment system looks a bit daunting, I don't think I've worked with arrays in MongoDB before)
-
-- <time>May 07, 2022</time> Got started with the [Personal Library project](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/personal-library) and continued with beta Responsive Web Design.
-
-- <time>May 06, 2022</time> Finished the Issue Tracker project ([here](https://issue-tracker.yarjuny.repl.co/) it is) and continued with beta Responsive Web Design.
-
-- <time>May 05, 2022</time> `DELETE` is done and continued with beta Responsive Web Design.
-
-- <time>May 04, 2022</time> I now only have the `PUT` and `DELETE` functionality to program + the tests! Also continued with beta Responsive Web Design.
-
-- <time>May 03, 2022</time> Got a decent amount of tests cases for the Issue Tracker project (I need to fix a schema glitch for the `GET` request) and continued with beta Responsive Web Design.
-
-- <time>May 02, 2022</time> Continued with the Issue Tracker project and continued with beta Responsive Web Design.
-
-- <time>May 01, 2022</time> Got started with the [Issue Tracker Project](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker) and continued with beta Responsive Web Design.
-
-- <time>Apr 30, 2022</time> I finally got done with the Metric-Imperial Converter Project ([here](https://metric-imperial-converter-project.yarjuny.repl.co/) it is) and continued with beta Responsive Web Design.
-
-- <time>Apr 29, 2022</time> AAAAAAAAAA I finished all the tests but freeCodeCamp keeps failing the 16 units test test, it feels like I've tried everything to fixed it.
-
-- <time>Apr 28, 2022</time> Finished those last two non-test test cases and continued with beta Responsive Web Design. I don't like how we're (to my knowledge) force to use [eval](https://stackoverflow.com/a/18269921/15329048) for this project.
-
-- <time>Apr 27, 2022</time> Excluding the the two test cases for the test (which I'm dreading lol), I only have two more tests! Also continued with beta Responsive Web Design.
-
-- <time>Apr 26, 2022</time> Continued with the Metric-Imperial Converter project and beta Responsive Web Design.
-
-- <time>Apr 25, 2022</time> Continued with the Metric-Imperial Converter project and beta Responsive Web Design.
-
-- <time>Apr 24, 2022</time> Got the "all incoming units..." test to pass and continued with beta Responsive Web Design (which I did for yesterday also, oops).
-
-- <time>Apr 23, 2022</time> Got the "invalid unit" test to pass, need to get the "invalid number" and "invalid number and unit" tests to pass.
-
-- <time>Apr 22, 2022</time> Got a decent amount of test cases to pass after adding rounding to 5 decimal places and continued with beta Responsive Web Design.
-
-- <time>Apr 21, 2022</time> Continued with the Metric-Imperial Converter project and beta Responsive Web Design.
-
-- <time>Apr 20, 2022</time> Continued with the Metric-Imperial Converter project and beta Responsive Web Design.
-
-- <time>Apr 19, 2022</time> Continued with the Metric-Imperial Converter project and beta Responsive Web Design.
-
-- <time>Apr 18, 2022</time> Continued with the Metric-Imperial Converter project (got most of the converter to work) and beta Responsive Web Design (I'm only going to do one challenge from now so I don't run out of them lol).
-
-- <time>Apr 17, 2022</time> Continued with the Metric-Imperial Converter project and beta Responsive Web Design (also, this is pretty late but the issue I opened on the 4th got resolved).
-
-- <time>Apr 16, 2022</time> Continued with the Metric-Imperial Converter project and beta Responsive Web Design.
-
-- <time>Apr 15, 2022</time> Got started with the [Metric-Imperial Converter project](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter) and continued with beta Responsive Web Design.
-
-- <time>Apr 14, 2022</time> Finished all the coding challenges for Advanced Node and Express. I didn't like the chat application part, mainly because the test cases were too lenient and you could pass a lot of them with a non-functional project. Anyways, I also continued with beta Responsive Web Design.
-
-- <time>Apr 13, 2022</time> Continued with Advanced Node and Express and with beta Responsive Web Design (finished a section).
-
-- <time>Apr 12, 2022</time> Continued with Advanced Node and Express and with beta Responsive Web Design.
-
-- <time>Apr 11, 2022</time> Continued with Advanced Node and Express and with beta Responsive Web Design. Why did I never discover [Passport](https://www.passportjs.org/) during the bettermailto project?
-
-- <time>Apr 10, 2022</time> Continued with Advanced Node and Express and with beta Responsive Web Design.
-
-- <time>Apr 09, 2022</time> Continued with Advanced Node and Express and with beta Responsive Web Design. Why is [CSS grid](https://www.w3schools.com/css/css_grid.asp) so complicated?
-
-- <time>Apr 08, 2022</time> Continued with Advanced Node and Express and with beta Responsive Web Design.
-
-- <time>Apr 07, 2022</time> Continued with Advanced Node and Express and with beta Responsive Web Design.
-
-- <time>Apr 06, 2022</time> Continued with Advanced Node and Express and with beta Responsive Web Design.
-
-- <time>Apr 05, 2022</time> Continued with Advanced Node and Express and with beta Responsive Web Design.
-
-- <time>Apr 04, 2022</time> Got started with Advanced Node and Express, continued with beta Responsive Web Design and [opened an issue on GitHub](https://github.com/freeCodeCamp/freeCodeCamp/issues/45619).
-
-- <time>Apr 03, 2022</time> Finished Quality Assurance and Testing with Chai and continued with beta Responsive Web Design! I finally understand what all this Chai business does. Going to start with [Advanced Node and Express](https://www.freecodecamp.org/learn/quality-assurance/#advanced-node-and-express) from tomorrow.
-
-- <time>Apr 02, 2022</time> Just realized that I lost my ~180-day streak (probably because of time zones), though it doesn't really matter. Continued with beta Responsive Web Design and Quality Assurance.
-
-- <time>Apr 01, 2022</time> Continued with beta Responsive Web Design and Quality Assurance.
-
-- <time>Mar 31, 2022</time> Continued with beta Responsive Web Design and Quality Assurance.
-
-- <time>Mar 30, 2022</time> Continued with beta Responsive Web Design and Quality Assurance.
-
-- <time>Mar 29, 2022</time> Continued with beta Responsive Web Design and got started with Quality Assurance again (as I've forgotten a lot about it and I need that knowledge for my Information Security project)
-
-- <time>Mar 28, 2022</time> Continued with beta Responsive Web Design.
-
-- <time>Mar 27, 2022</time> Continued with beta Responsive Web Design.
-
-- <time>Mar 26, 2022</time> Continued with beta Responsive Web Design.
-
-- <time>Mar 25, 2022</time> Continued with beta Responsive Web Design.
-
-- <time>Mar 24, 2022</time> Couldn't get much of anything done for the project, but continued with beta Responsive Web Design.
-
-- <time>Mar 23, 2022</time> Dang it, I forgot about the tests that I had to write. This project is deceivingly big. Anyways, made a bit of progress on the project and continued with beta Responsive Web Design (also, [beta Relational Database](https://www.freecodecamp.org/learn/relational-database/) looks really cool).
-
-- <time>Mar 22, 2022</time> Sort of got multiple stocks to work (the query parameter if-else conditions aren't very good though), I think I can technically submit the project now, but it's obviously not complete (need to implement the like and rel_likes features)
-
-- <time>Mar 21, 2022</time> Fixed an [axios](https://www.npmjs.com/package/axios) glitch where it would take two refreshes to get the stock price. Got started with two stocks and continued with beta Responsive Web Design.
-
-- <time>Mar 20, 2022</time> Progress on Stock Price Checker has been slow, why is it so hard to make a [GET request](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET) in node.js?
-
-- <time>Mar 19, 2022</time> Continued with the Stock Price Checker and Responsive Web Design.
-
-- <time>Mar 18, 2022</time> Got started with the [Stock Price Checker project](https://www.freecodecamp.org/learn/information-security/information-security-projects/stock-price-checker) and finished a project within beta Responsive Web Design!
-
-- <time>Mar 17, 2022</time> Finally finished with the Python section of Information Security. Definitely my least favourite part of freeCodeCamp so far. Anyways, continued with beta Responsive Web Design and the [Information Security projects](https://www.freecodecamp.org/learn/information-security/#information-security-projects) look fun.
-
-- <time>Mar 16, 2022</time> Continued with beta Responsive Web Design. Yeah, I know I've been skimping on Information Security. It'll come soon.
-
-- <time>Mar 15, 2022</time> Continued with beta Responsive Web Design.
-
-- <time>Mar 14, 2022</time> Continued with beta Responsive Web Design.
-
-- <time>Mar 13, 2022</time> Continued with beta Responsive Web Design.
-
-- <time>Mar 12, 2022</time> Finished with the tutorial project and continued with beta Responsive Web Design.
-
-- <time>Mar 11, 2022</time> Got started with [the tutorial project](https://www.freecodecamp.org/learn/information-security/python-for-penetration-testing/developing-an-nmap-scanner-part-1) and continued with beta Responsive Web Design.
-
-- <time>Mar 10, 2022</time> Learnt how to [create a TCP client](https://www.freecodecamp.org/learn/information-security/python-for-penetration-testing/creating-a-tcp-client) and continued with beta Responsive Web Design.
-
-- <time>Mar 09, 2022</time> Back to learning, finished with [Understanding Sockets and Creating a TCP Server](https://www.freecodecamp.org/learn/information-security/python-for-penetration-testing/understanding-sockets-and-creating-a-tcp-server) and continued with beta Responsive Web Design.
-
-- <time>Mar 08, 2022</time> Haha I did it! [Earned my fifth certificate](https://www.freecodecamp.org/certification/arjunyadav/back-end-development-and-apis) ([here's the project](https://replit.com/@yarjuny/Exercise-Tracker-Project)) and continued with beta Responsive Web Design.
-
-- <time>Mar 07, 2022</time> [This forum post](https://forum.freecodecamp.org/t/cant-add-more-than-one-exercise-in-mongodb-exercise-tracker/490874/3) should help with my glitch and continued with beta Responsive Web Design.
-
-- <time>Mar 06, 2022</time> I think I know why my exercise tracker project's last test case doesn't pass, I can't save multiple exercises! I'll fix that soon and I've continued with beta Responsive Web Design.
-
-- <time>Mar 05, 2022</time> The last test case was close to ending me so I opened up [a forum post](https://forum.freecodecamp.org/t/cannot-pass-the-last-test-case-for-exercise-tracker/499507) about it and continued with beta Responsive Web Design.
-
-- <time>Mar 04, 2022</time> The last test case is so dang annoying but I think I'm nearly done with it. Continued with beta Responsive Web Design.
-
-- <time>Mar 03, 2022</time> One more test case left for the project! Also, continued with beta Responsive Web Design.
-
-- <time>Mar 02, 2022</time> Made decent progress on the project and continued with beta Responsive Web Design.
-
-- <time>Mar 01, 2022</time> My opinion on Mongoose has changed, it's actually pretty neat. Got a little less than half of the test cases done and continued with beta Responsive Web Design.
-
-- <time>Feb 28, 2022</time> Got started with the behemoth of a project that is the [Exercise Tracker](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/exercise-tracker) and continued with beta Responsive Web Design.
-
-- <time>Feb 27, 2022</time> Finished with the URL Shortener Project ([here it is](https://replit.com/@yarjuny/URL-Shortener-Microservice-Project)) and finished with a section of beta Responsive Web Design.
-
-- <time>Feb 26, 2022</time> Nearly done with the [URL Shortener project](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice) and continued with beta Responsive Web Design.
-
-- <time>Feb 25, 2022</time> Finished with the [File Metadata Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice) project ([here it is](https://replit.com/@yarjuny/File-Metadata-Microservice-Project)) and continued with beta Responsive Web Design. The last two projects I have might take a bit of time...
-
-- <time>Feb 24, 2022</time> Finished with the [Request Header Parser Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice) project (just had to find the [HTTP request headers](https://flaviocopes.com/http-request-headers/), [here's my project link on replit](https://replit.com/@yarjuny/Request-Header-Parser-Microservice-Project)) and continued with beta Responsive Web Design.
-
-- <time>Feb 23, 2022</time> Finished with the Timestamp project ([here it is](https://replit.com/@yarjuny/Timestamp-Microservice-Project)) and continued with beta Responsive Web Design.
-
-- <time>Feb 22, 2022</time> Almost finished with the Timestamp project and my project in beta Responsive Web Design (which I continued with) got reset when the FCC team changed the layout!
-
-- <time>Feb 21, 2022</time> Got started with the [Timestamp Microservice project](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice) and finished with a section in beta Responsive Web Design.
-
-- <time>Feb 20, 2022</time> Finished with MongoDB and Mongoose and finished with the challenge portion of Back End Development and APIs! Back to working on projects.
-
-- <time>Feb 19, 2022</time> Continued with MongoDB and Mongoose.
-
-- <time>Feb 18, 2022</time> Started with [MongoDB and Mongoose](https://www.freecodecamp.org/learn/back-end-development-and-apis/#mongodb-and-mongoose/) and finished a project in beta Responsive Web Design.
-
-- <time>Feb 17, 2022</time> Finished Basic Node and Express, I think I finally got it down now.
-
-- <time>Feb 16, 2022</time> Got started with [Basic Node and Express](https://www.freecodecamp.org/learn/back-end-development-and-apis/#basic-node-and-express).
-
-- <time>Feb 15, 2022</time> Back to learning, got started with [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) and finished with [Managing Packages with NPM](https://www.freecodecamp.org/learn/back-end-development-and-apis/#managing-packages-with-npm) (you can find all the back-end learning on my [replit](https://replit.com/@yarjuny) in the appropriate folder).
-
-- <time>Feb 14, 2022</time> I did it! [Earned my data visualization certificate](https://www.freecodecamp.org/certification/arjunyadav/data-visualization) ([here's the last project](https://codepen.io/y_arjun_y/full/wvPeNgq)) and continued with beta Responsive Web Design.
-
-- <time>Feb 13, 2022</time> Well, I figured it out the treemap project [thanks to the D3 creator, Mike](https://bl.ocks.org/mbostock/4063582). Just need to add the legend and the tooltip. Should be done in ~2 days.
-
-- <time>Feb 12, 2022</time> Got started with the Treemap project and continue with beta Responsive Web Design.
-
-- <time>Feb 11, 2022</time> Map done! Couldn't get the tooltip test cases to pass for some reason, but [here it is](https://codepen.io/y_arjun_y/full/PoOGzrO). I'll work on [the last project](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-treemap-diagram) tomorrow. Also continued with beta Responsive Web Design.
-
-- <time>Feb 10, 2022</time> Only 3 more test cases left to pass! Also finished a project in beta Responsive Web Design.
-
-- <time>Feb 09, 2022</time> LET'S GO I got the map all coloured in (the colour scheme is a little different, but that's fine), going to try to wrap this up in about 2 days.
-
-- <time>Feb 08, 2022</time> Okay, colouring will be impossible if I don't use FCC's map data. Figuring out how to replace the pre-existing map data with that. Also continued with beta Responsive Web Design.
-
-- <time>Feb 07, 2022</time> In the process of figuring out how to color in the map. Also continued with beta Responsive Web Design.
-
-- <time>Feb 06, 2022</time> Figured out the map! Also continued with beta Responsive Web Design and finished a section within it!
-
-- <time>Feb 05, 2022</time> Still figuring out the whole map thing, though [I think I found my answer](https://forum.freecodecamp.org/t/drawing-us-map-in-d3-chloropleth/481354). Also continued with beta Responsive Web Design.
-
-- <time>Feb 04, 2022</time> Got started with the map project, wondering if I can use [a package](https://github.com/d3-node/choropleth-us-counties) to draw the US map instead of converting the data they gave into an [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG) (which is too complicated). Also continued with beta Responsive Web Design.
-
-- <time>Feb 03, 2022</time> Finished with the heatmap project ([here's the link to it](https://codepen.io/y_arjun_y/full/MWOWMMQ))! Will start with [the penultimate project](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-choropleth-map) tomorrow. Also continued with beta Responsive Web Design.
-
-- <time>Feb 02, 2022</time> So close to submitting my heatmap project, just need another day to make the y-axis show the month name, not the number and to add text below the legend (also, figured out the legend!) and I also continued with beta Responsive Web Design.
-
-- <time>Feb 01, 2022</time> Got more than half of the test cases to pass, though I still need to figure out how to make a legend. Also continued with beta Responsive Web Design.
-
-- <time>Jan 31, 2022</time> Made amazing progress! The heatmap is basically complete, just need to add a legend, fix the tooltip and pass the tests. I also continued with the beta Responsive Web Design.
-
-- <time>Jan 30, 2022</time> Made good progress with the heatmap project, I got the axes set properly, it's just the squares that need work now. Also finished two projects within beta Responsive Web Design!
-
-- <time>Jan 29, 2022</time> Sort of fixed the data issue with [this less obscure website](https://jsonbin.io) (I say sort of because the free account only has 10000 requests before it goes down, which is decent, but the tests that I run might exhaust that, not entirely sure) and continued with beta Responsive Web Design.
-
-- <time>Jan 28, 2022</time> The same issue that came up with the bar chart project has come up again, I can't seem to find a place to store edited data. Since the FCC data is nested, it's really hard to work with, so I "unnested" it and stored it on this [obscure website](https://extendsclass.com/json-storage.html), but the data stored there doesn't seem to be permanent, so now I have to work on both my heatmap project and my bar chart project again.
-
-  Oh, I also continued with beta Responsive Web Design.
-
-- <time>Jan 27, 2022</time> Made a bit of progress on the heat map and continued with beta Responsive Web Design.
-
-- <time>Jan 26, 2022</time> Finished the scatterplot project! Yeah, there are two test cases left, but they have the same issue as the bar chart project. [Here's the project](https://codepen.io/y_arjun_y/full/VwMQEMm). Also got started on [the Heat Map project](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-heat-map) and continued with beta Responsive Web Design.
-
-- <time>Jan 25, 2022</time> Didn't have much time today, so I could only continue the beta Responsive Web Design.
-
-- <time>Jan 24, 2022</time> Got done with the legend, the only tests I have left relate to the annoying D3 attributes.
-
-- <time>Jan 23, 2022</time> Again made great progress, I only have 5 test cases left to pass for my scatterplot project and continued with beta Responsive Web Design.
-
-- <time>Jan 22, 2022</time> Made amazing progress, got the whole y-axis done and added the circles for the scatterplot. Just need to get the test cases to pass.
-
-- <time>Jan 21, 2022</time> Got the y-axis almost complete and continued with beta Responsive Web Design.
-
-- <time>Jan 20, 2022</time> Couldn't continue with my scatterplot (will try to finish it in the weekend) but I continued with beta Responsive Web Design. Someone in an EA [Slack](https://slack.com/) channel talked about FCC!
-
-- <time>Jan 19, 2022</time> For some reason, it's really complicated to get minute and second formatted time on a y-axis (like this: 31:24), will continue work on it tomorrow. Also continued with beta Responsive Web Design.
-
-- <time>Jan 18, 2022</time> Got started with [the scatterplot project](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph) and continued with beta Responsive Web Design.
-
-- <time>Jan 17, 2022</time> Couldn't fix that issue, but that's alright. Submitted my bar chart project! (see it [here](https://codepen.io/y_arjun_y/full/QWqKjdj)) and continued beta Responsive Web Design.
-
-- <time>Jan 16, 2022</time> Got every test case to pass, except for one... I'll work on that tomorrow and if I can't get it, I'll just submit it. Anyways, I also continued beta Responsive Web Design.
-
-- <time>Jan 15, 2022</time> Finished the tooltip, now I just need to pass all the test cases. Also continued the beta Responsive Web Design.
-
-- <time>Jan 14, 2022</time> Partially added the logic for a tooltip in my bar chart project and continued with beta Responsive Web Design.
-
-- <time>Jan 13, 2022</time> Continued with beta Responsive Web Design.
-
-- <time>Jan 12, 2022</time> Got half of the test cases to pass for my project and continued beta Responsive Web Design.
-
-- <time>Jan 11, 2022</time> Now I made some good progress, I decided to use [JSON](https://www.json.org/json-en.html) (as it was easier to store on the web) and everything except the tooltips is done.
-
-- <time>Jan 10, 2022</time> Wasn't able to make much progress with my bar chart project as I wasted a lot of my time trying to figure out how to host my custom data file, anyways, I continued with beta Responsive Web Design.
-
-- <time>Jan 09, 2022</time> Made good progress with [my bar chart project](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart) (though the x-axis is fully destroyed) and continued with beta Responsive Web Design.
-
-- <time>Jan 08, 2022</time> Continued with data visualization and the beta Responsive Web Design.
-
-- <time>Jan 07, 2022</time> I'll update [the 25 + 5 Clock code](https://codepen.io/y_arjun_y/full/VwMQGvg) if any changes come up, but for now, [I've earned my Front End Development Libraries certificate!](https://www.freecodecamp.org/certification/arjunyadav/front-end-development-libraries) Will push on with data visualization tomorrow.
-
-- <time>Jan 06, 2022</time> Finished the HTML part of beta Responsive Web Design and [opened up a forum post](https://forum.freecodecamp.org/t/unable-to-pass-many-user-stories-for-25-5-clock-even-though-they-should-all-pass/491388) about my issues with my project.
-
-- <time>Jan 05, 2022</time> Continued with beta Responsive Web Design, still have ~6 test cases left even though I should pass them. This annoying script error bug has been there for almost 2 days.
-
-- <time>Jan 04, 2022</time> Continued with beta Responsive Web Design, only 6 more test cases. Also, 100-day streak!
-
-- <time>Jan 03, 2022</time> Continued with beta Responsive Web Design and I only have 8 more test cases to pass for my 25 + 5 clock!
-
-- <time>Jan 02, 2022</time> Continued with beta Responsive Web Design and sort of made the timer functional, though there is some weird script error.
-
-- <time>Jan 01, 2022</time> Continued with beta Responsive Web Design and made a breakthrough with my 25 + 5 project, I figured out that there should be two states for seconds, one for math and another to be displayed. Hopefully, I'll get this project complete and earn my certificate by the end of this week!
-
-- <time>Dec 31, 2021</time> Continued with the beta version of Responsive Web Design and my 25 + 5 Clock project. Hope to get almost fully through FCC in 2022!
-
-- <time>Dec 30, 2021</time> These front-end projects take so, so long. And if you take a few days to build them, your streak gets wrecked. So I was desperate, I was so tired from my [25 + 5 Clock project](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock) that I started to do my data visualization projects, thinking they would be faster to do than the front-end projects (they weren't).
-
-  But then, just as I was about to give up, I saw... [this](https://www.freecodecamp.org/learn/2022/responsive-web-design/). This not only saved my streak for today, but my streak for years to come as I can speedrun this on the side and finish my projects without melting my brain by trying to do it all in one day.
-
-  Thank you, whoever thought of this. (Side note: This is actually a cool idea on its own, I really dig the new design on these challenges.)
-
-- <time>Dec 29, 2021</time> Finished the [JavaScript Calculator project](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator) (see it [here](https://codepen.io/y_arjun_y/full/QWqQwWG))
-
-- <time>Dec 28, 2021</time> Finished the Markdown Previewer project and [the Drum Machine project](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-drum-machine) (see it [here](https://codepen.io/y_arjun_y/pen/XWeVZxd)), only two more projects left till I earn my certification!
-
-- <time>Dec 27, 2021</time> Finished Random Quote Machine project and partially completed [the Markdown Previewer project](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer) (see it [here](https://codepen.io/y_arjun_y/pen/abLEdje)).
-
-- <time>Dec 26, 2021</time> Sigh, I spent almost 2 hours just to end up with [a half baked Random Quote Machine submission](https://codepen.io/y_arjun_y/full/KKXmJXq). I'll work on it tomorrow.
-
-- <time>Dec 25, 2021</time> Finished the JavaScript part of the curriculum.
-
-- <time>Dec 24, 2021</time> Completed [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register) and [earned my certification](https://www.freecodecamp.org/certification/arjunyadav/javascript-algorithms-and-data-structures)!
-
-- <time>Dec 23, 2021</time> Completed [Roman Numeral Converter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter).
-
-- <time>Dec 22, 2021</time> Continued with the JavaScript questions I left.
-
-- <time>Dec 21, 2021</time> Continued with the JavaScript questions I left.
-
-- <time>Dec 20, 2021</time> Continued with the JavaScript questions I left.
-
-- <time>Dec 19, 2021</time> Continued with the JavaScript questions I left.
-
-- <time>Dec 18, 2021</time> Started with [Random Quote Machine](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine) and continued with the JavaScript questions I left.
-
-- <time>Dec 17, 2021</time> Finished [React and Redux](https://www.freecodecamp.org/learn/front-end-development-libraries#react-and-redux).
-
-- <time>Dec 16, 2021</time> Continued with the JavaScript questions I left and completed the projects [Caesar Cipher](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher) and [Telephone Number Validator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator).
-
-- <time>Dec 15, 2021</time> Continued with the JavaScript questions I left.
-
-- <time>Dec 14, 2021</time> Continued with the JavaScript questions I left.
-
-- <time>Dec 13, 2021</time> Continued with the JavaScript questions I left.
-
-- <time>Dec 12, 2021</time> Continued with the JavaScript questions I left, it's nice to see my [LeetCode](https://arjunyadav.net/projects#leetcode) practicing paying off (kinda).
-
-- <time>Dec 11, 2021</time> Continuing with the JavaScript questions I left, hope to earn my JavaScript certification soon!
-
-- <time>Dec 10, 2021</time> Finished Redux.
-
-- <time>Dec 09, 2021</time> Completed [my last responsive web design project](https://codepen.io/y_arjun_y/full/QWqEMgm) and [earned my certification](https://www.freecodecamp.org/certification/arjunyadav/responsive-web-design)!
-
-- <time>Dec 08, 2021</time> Going to take some time out to finish my pending projects, won't look good on my heat map, but oh well. Finished my [Technical Documentation project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page) ([here's the project](https://codepen.io/y_arjun_y/full/rNGORbE)).
-
-- <time>Dec 07, 2021</time> Continued with Quality Assurance.
-
-- <time>Dec 06, 2021</time> Continued with Quality Assurance and JavaScript.
-
-- <time>Dec 05, 2021</time> My PR got accepted! Also started with [Quality Assurance](https://www.freecodecamp.org/learn/quality-assurance/).
-
-- <time>Dec 04, 2021</time> Continued with Information Security and unfinished challenges. Also [opened up a PR to fix a grammar issue in Information Security](https://github.com/freeCodeCamp/freeCodeCamp/pull/44381).
-
-- <time>Dec 03, 2021</time> Continued with Information Security and finished off some challenges I left previously.
-
-- <time>Dec 02, 2021</time> Finished JSON APIs and AJAX and started with [Information Security](https://www.freecodecamp.org/learn/information-security/), this stuff is incredibly useful! I wish I learnt about [Helmet.js](https://helmetjs.github.io/) earlier.
-
-- <time>Dec 01, 2021</time> Finished with D3 and nearly finished [JSON APIs and AJAX](https://www.freecodecamp.org/learn/data-visualization/#json-apis-and-ajax).
-
-- <time>Nov 30, 2021</time> Continued with D3 and held a perfect streak for the whole month!
-
-- <time>Nov 29, 2021</time> Continued with D3.
-
-- <time>Nov 28, 2021</time> Finished my [kanyewest.com's Donda Stem Player re-creation](https://codepen.io/y-arjun-y/pen/vYJoqWV) and continued with D3.
-
-- <time>Nov 27, 2021</time> Continued with Redux and started with [React with Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/#react-and-redux) and [Data Visualization with D3](https://www.freecodecamp.org/learn/data-visualization/#data-visualization-with-d3) just to get my points up. I hate how the difficulty skyrockets after Responsive Web Design. At least [I had fun re-creating kanyewest.com's Donda Stem Player for my Responsive Web Design Project](https://codepen.io/y-arjun-y/pen/vYJoqWV).
-
-- <time>Nov 26, 2021</time> Continued with Redux.
-
-- <time>Nov 25, 2021</time> Finished with React and started with [Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux).
-
-- <time>Nov 24, 2021</time> Continued with React.
-
-- <time>Nov 23, 2021</time> Continued with React.
-
-- <time>Nov 22, 2021</time> Continued with React.
-
-- <time>Nov 21, 2021</time> Continued with React.
-
-- <time>Nov 20, 2021</time> Started with [React](https://www.freecodecamp.org/learn/front-end-development-libraries/#react).
-
-- <time>Nov 19, 2021</time> Finished with SASS, thinking of using it in my <a href="#bettermailto">bettermailto project</a>)!
-
-- <time>Nov 18, 2021</time> Finished jQuery and moved on to [SASS](https://www.freecodecamp.org/learn/front-end-development-libraries/#sass).
-
-- <time>Nov 17, 2021</time> Continued with jQuery.
-
-- <time>Nov 16, 2021</time> Finished Bootstrap and moved on to [jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery).
-
-- <time>Nov 15, 2021</time> Continued with Bootstrap.
-
-- <time>Nov 14, 2021</time> Continued with Bootstrap.
-
-- <time>Nov 13, 2021</time> Continued with [Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures) and [Functional Programming in JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) and [Bootstrap](https://www.freecodecamp.org/learn/front-end-development-libraries/#bootstrap).
-
-- <time>Nov 12, 2021</time> Continued with Basic Data Structures in JS.
-
-- <time>Nov 11, 2021</time> Started [Basic Data Structures in JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures).
-
-- <time>Nov 10, 2021</time> JS is so frustrating sometimes.
-
-- <time>Nov 09, 2021</time> Finished OOP in JS.
-
-- <time>Nov 08, 2021</time> Continued with OOP in JS, pretty cool stuff!
-
-- <time>Nov 07, 2021</time> Much shorter this time around, continued with [OOP (object-oriented programming) in JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming).
-
-- <time>Nov 06, 2021</time> Why did this take so long? Continued with JS.
-
-- <time>Nov 05, 2021</time> I got done with the [Counting Cards problem in JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/counting-cards). I also continued with ES6.
-
-- <time>Nov 04, 2021</time> Continued with Regular Expressions and finished Debugging.
-
-- <time>Nov 03, 2021</time> Continued with Regular Expressions.
-
-- <time>Nov 02, 2021</time> Continued with ES6 and Regular Expressions.
-
-- <time>Nov 01, 2021</time> Continued with Basic JavaScript and started [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6). I really need to continue with my [Web Design projects](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects) and finish the [JS curriculum](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) items I skipped.
-
-- <time>Oct 31, 2021</time> Continued Basic JavaScript.
-
-- <time>Oct 30, 2021</time> Continued Basic JavaScript and Regular Expressions.
-
-- <time>Oct 29, 2021</time> Continued Basic JavaScript and [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions), the issue was closed as it was an intentional feature.
-
-- <time>Oct 28, 2021</time> Continued [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) and [Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging), and also opened up an [issue about possible duplication](https://github.com/freeCodeCamp/freeCodeCamp/issues/44051).
-<hr />
-
 ## <span id="solaris-2">SOLARIS (Second Edition)</span>
 
 <small>Dec 24, 2022-present</small>  
@@ -10406,6 +9583,833 @@ function getCount(str) {
 
 ## Done
 
+<hr />
+
+## <span id="freecodecamp">[freeCodeCamp](https://freecodecamp.org)</span>
+
+<small>Oct 28, 2021-Mar 18, 2023</small>  
+<small>Trying to finish freeCodeCamp.org's curriculum by the end of 2023.</small>
+
+<hr />
+<small>freeCodeCamp.org's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>May 07, 2023</time> Happy to call an end to this project - really proud of all the certificates that I've earned and the mini-projects I made for them. As I mentioned in one of my blog posts for 2022, I won't (and have not yet) hesitate to recommend freeCodeCamp to anyone who wishes to learn how to code.
+
+- <time>Mar 18, 2023</time> Continued with the Data Analysis with Python course.
+
+- <time>Jan 27, 2023</time> "Continued" with the Medical Data Visualizer project.
+
+- <time>Jan 25, 2023</time> "Continued" with the Medical Data Visualizer project.
+
+- <time>Jan 21, 2023</time> "Continued" with the Medical Data Visualizer project.
+
+- <time>Jan 20, 2023</time> Continued with the Medical Data Visualizer project.
+
+- <time>Jan 18, 2023</time> Continued with the Medical Data Visualizer project.
+
+- <time>Jan 16, 2023</time> "Continued" with the Medical Data Visualizer project.
+
+- <time>Jan 04, 2023</time> Continued with the Medical Data Visualizer project.
+
+- <time>Jan 03, 2023</time> "Continued" with the Medical Data Visualizer project.
+
+- <time>Jan 02, 2023</time> "Got started" with the [Medical Data Visualizer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer) project.
+
+- <time>Jan 01, 2023</time> Finished the Demographic Data Analyzer Project ([here](https://replit.com/@yarjuny/Demographic-Data-Analyzer-Project) it is).
+
+- <time>Dec 31, 2022</time> Continued with the Demographic Data Analyzer project. Figured out the roadblock. I hope to finish the last three remaining certificates by the first half of 2023.
+
+- <time>Dec 30, 2022</time> Continued with the Demographic Data Analyzer project. Sort of hit a roadblock, but I'll figure it out (hopefully).
+
+- <time>Dec 29, 2022</time> Continued with the Demographic Data Analyzer project.
+
+- <time>Dec 28, 2022</time> Got started with the [Demographic Data Analyzer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer) project.
+
+- <time>Dec 27, 2022</time> Finished with the [Mean-Variance-Standard Deviation Calculator](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator) project ([here](https://replit.com/@yarjuny/Mean-Variance-Standard-Deviation-Calculator-Project) it is).
+
+- <time>Dec 26, 2022</time> Continued with Data Analysis with Python.
+
+- <time>Dec 25, 2022</time> Continued with Data Analysis with Python.
+
+- <time>Dec 24, 2022</time> Continued with Data Analysis with Python.
+
+- <time>Dec 23, 2022</time> Continued with Data Analysis with Python.
+
+- <time>Dec 22, 2022</time> Continued with Data Analysis with Python.
+
+- <time>Dec 21, 2022</time> Continued with Data Analysis with Python.
+
+- <time>Dec 20, 2022</time> Got started with [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/).
+
+- <time>Dec 19, 2022</time> Finished with the [Probability Calculator Project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator) project ([here](https://replit.com/@yarjuny/Probability-Calculator-Project#main.py) it is) and earned my certification for Scientific Computing with Python (yes, I know the budget app project isn't fully finished, but I wanted to move on). Only three more certifications left!
+
+- <time>Dec 18, 2022</time> Finished with the [Polygon Area Calculator Project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator) project ([here](https://replit.com/@yarjuny/Polygon-Area-Calculator-Project#main.py) it is).
+
+- <time>Dec 16, 2022</time> Been a while. Continued with the Budget App Project and I plan to just finish my Python certification before the end of the year (and early next year, try to finish databases).
+
+- <time>Nov 26, 2022</time> "Continued" with the Budget App Project.
+
+- <time>Nov 18, 2022</time> Continued with the Budget App Project.
+
+- <time>Nov 16, 2022</time> "Continued" with the Budget App Project.
+
+- <time>Nov 15, 2022</time> Continued with the Budget App Project.
+
+- <time>Nov 13, 2022</time> Continued with the Budget App Project.
+
+- <time>Nov 12, 2022</time> Continued with the Budget App Project. Should finish up this upcoming week.
+
+- <time>Nov 11, 2022</time> Continued with the Budget App Project.
+
+- <time>Nov 10, 2022</time> Continued with the Budget App Project.
+
+- <time>Nov 09, 2022</time> Continued with the Budget App Project.
+
+- <time>Nov 08, 2022</time> Continued with the Budget App Project.
+
+- <time>Nov 04, 2022</time> Continued with the Budget App Project.
+
+- <time>Nov 03, 2022</time> Continued with the Budget App Project.
+
+- <time>Nov 02, 2022</time> Continued with the Budget App Project.
+
+- <time>Nov 01, 2022</time> Continued with the Budget App Project.
+
+- <time>Oct 31, 2022</time> Continued with the Budget App Project.
+
+- <time>Oct 30, 2022</time> Continued with the Budget App Project.
+
+- <time>Oct 29, 2022</time> Got started with the [Budget App Project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app).
+
+- <time>Oct 28, 2022</time> 1 year since this project started! Finished with the Time Calculator Project, [here it is](https://replit.com/@yarjuny/Time-Calculator-Project).
+
+- <time>Oct 27, 2022</time> Continued with the Time Calculator Project. Writing down my logic really helped, really close now (just need to fix the AM/PM and -12 logic for 24-hour format).
+
+- <time>Oct 26, 2022</time> "Continued" with the Time Calculator Project.
+
+- <time>Oct 25, 2022</time> Continued with the Time Calculator Project. Need to map out my logic on paper tomorrow to see where I'm going wrong.
+
+- <time>Oct 24, 2022</time> Continued with the Time Calculator Project. Getting somewhat close.
+
+- <time>Oct 23, 2022</time> Continued with the Time Calculator Project.
+
+- <time>Oct 22, 2022</time> Continued with the Time Calculator Project.
+
+- <time>Oct 21, 2022</time> Continued with the Time Calculator Project.
+
+- <time>Oct 20, 2022</time> Continued with the Time Calculator Project.
+
+- <time>Oct 19, 2022</time> Continued with the Time Calculator Project.
+
+- <time>Oct 18, 2022</time> Continued with the Time Calculator Project.
+
+- <time>Oct 17, 2022</time> Never mind, I won't finish the project today, but I made some great progress! I think I just need to fix the AM/PM and calculate next days.
+
+- <time>Oct 16, 2022</time> Continued with the Time Calculator Project. I'll try to finish this project by Oct 17.
+
+- <time>Oct 11, 2022</time> Got started with the [Time Calculator Project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator).
+
+- <time>Oct 10, 2022</time> Finished with the Arithmetic Formatter project! [Here it is](https://replit.com/@yarjuny/Arithmetic-Formatter-Project).
+
+- <time>Oct 09, 2022</time> Continued with the Arithmetic Formatter project. Still can't get the test cases to pass but I think I'm getting close.
+
+- <time>Oct 08, 2022</time> Continued with the Arithmetic Formatter project. I can't get my solution to pass the test cases (even though the output looks to be correct) for some reason, will keep trying tomorrow.
+
+- <time>Oct 07, 2022</time> Continued with the Arithmetic Formatter project and fixed the alignment of the numbers! Will finish the project tomorrow.
+
+- <time>Oct 06, 2022</time> Continued with the Arithmetic Formatter project.
+
+- <time>Oct 05, 2022</time> Continued with the Arithmetic Formatter project. I'm sort of close to fixing the arrangement.
+
+- <time>Oct 04, 2022</time> Continued with the Arithmetic Formatter project.
+
+- <time>Oct 02, 2022</time> Continued with the Arithmetic Formatter project.
+
+- <time>Oct 01, 2022</time> Continued with the Arithmetic Formatter project.
+
+- <time>Sep 30, 2022</time> "Continued" with the Arithmetic Formatter project.
+
+- <time>Sep 29, 2022</time> Continued with the Arithmetic Formatter project.
+
+- <time>Sep 28, 2022</time> Continued with the Arithmetic Formatter project.
+
+- <time>Sep 27, 2022</time> Got started with [Relational Database](https://www.freecodecamp.org/learn/relational-database/).
+
+- <time>Sep 26, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 25, 2022</time> Continued (?) with the Arithmetic Formatter project and continued with Responsive Web Design.
+
+- <time>Sep 24, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 23, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 22, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 21, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 20, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 19, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 18, 2022</time> Progress! I finally got the problems to print horizontally for the Arithmetic Formatter project. Also continued with Responsive Web Design.
+
+- <time>Sep 17, 2022</time> "Continued" with the Arithmetic Formatter project and continued with Responsive Web Design.
+
+- <time>Sep 16, 2022</time> Continued with the Arithmetic Formatter project and continued with Responsive Web Design.
+
+- <time>Sep 15, 2022</time> Continued with the Arithmetic Formatter project and continued with Responsive Web Design.
+
+- <time>Sep 14, 2022</time> Continued with the Arithmetic Formatter project and continued with Responsive Web Design.
+
+- <time>Sep 13, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 12, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 11, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 10, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 09, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 08, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 07, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 06, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 05, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 04, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 03, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 02, 2022</time> Continued with Responsive Web Design.
+
+- <time>Sep 01, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 31, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 30, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 29, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 28, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 27, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 26, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 25, 2022</time> Continued with the Arithmetic Formatter project and continued with Responsive Web Design.
+
+- <time>Aug 24, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 23, 2022</time> Finished with error handling (?) for the [Arithmetic Formatter project](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter) and continued with Responsive Web Design.
+
+- <time>Aug 22, 2022</time> Finished with the Scientific Computing with Python lectures. On to the projects!
+
+- <time>Aug 21, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 20, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 19, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 18, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 17, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Aug 16, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 15, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 14, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 13, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 12, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 11, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Aug 10, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Aug 09, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Aug 08, 2022</time> Continued with Responsive Web Design.
+
+- <time>Aug 07, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Aug 06, 2022</time> Contunued with Scientific Computing with Python. Nearly done with the videos.
+
+- <time>Aug 05, 2022</time> Contunued with Scientific Computing with Python. Never repeat string data more than once.
+
+- <time>Aug 04, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Aug 03, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Aug 02, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Aug 01, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 31, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 30, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 29, 2022</time> Continued with Scientific Computing with Python. JSON all the way.
+
+- <time>Jul 28, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 27, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 26, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 25, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jul 24, 2022</time> Continued with Scientific Computing with Python. [RFC](https://www.ietf.org/standards/rfcs/) is a nice easter egg.
+
+- <time>Jul 23, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 22, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 21, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 20, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 19, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 18, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 17, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 16, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 15, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 14, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jul 13, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jul 12, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 11, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jul 10, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jul 09, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 08, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 07, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 06, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 05, 2022</time> Continued with Scientific Computing with Python. I think the website went down?
+
+- <time>Jul 04, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jul 03, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jul 02, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jul 01, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jun 30, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jun 29, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jun 28, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jun 27, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jun 26, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jun 25, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jun 24, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jun 23, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jun 22, 2022</time> Continued with Scientific Computing with Python.
+
+- <time>Jun 21, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jun 20, 2022</time> Got started with [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/).
+
+- <time>Jun 19, 2022</time> Finally, finished with the American/British English Translator project ([here](https://replit.com/@yarjuny/American-British-English-Translator) it is) and finished with Quality Assurance. Oh, and also continued with Responsive Web Design.
+
+- <time>Jun 18, 2022</time> Continued with the translator project (two more test cases left, though I'll be honest and say that I sort of skipped the other two test cases) and with Responsive Web Design.
+
+- <time>Jun 17, 2022</time> Continued with the translator project (four more test cases to go) and with Responsive Web Design.
+
+- <time>Jun 16, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jun 15, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jun 14, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jun 13, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jun 12, 2022</time> "Continued" with the translator project and with Responsive Web Design.
+
+- <time>Jun 11, 2022</time> Continued with the translator project (though progress has been sort of slow) and with Responsive Web Design.
+
+- <time>Jun 10, 2022</time> Continued with the translator project (sort of fixed the RegEx and figured out how to make the text green) and with Responsive Web Design.
+
+- <time>Jun 09, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jun 08, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jun 07, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jun 06, 2022</time> Continued with the translator project (sort of finished the British to American English part, on to getting the text green lol) and with Responsive Web Design.
+
+- <time>Jun 05, 2022</time> Continued with the translator project (did some [VSCode](https://vscode.dev/) magic to flip the JS objects for the British to American English part) and with Responsive Web Design.
+
+- <time>Jun 04, 2022</time> Continued with Responsive Web Design.
+
+- <time>Jun 03, 2022</time> Continued with the translator project (I need to figure out the highlight functionality, how do I insert a `<span>` element within the Express `res`?) and with Responsive Web Design.
+
+- <time>Jun 02, 2022</time> Continued with the translator project and with Responsive Web Design.
+
+- <time>Jun 01, 2022</time> Continued with the translator project (the American to British English part is very buggy but it sort of works) and with Responsive Web Design.
+
+- <time>May 31, 2022</time> Continued with Responsive Web Design.
+
+- <time>May 30, 2022</time> Continued with Responsive Web Design.
+
+- <time>May 29, 2022</time> Continued with the translator project (working on the American to British English part) and with Responsive Web Design.
+
+- <time>May 28, 2022</time> Sort of got started with the last project for Quality Assurance, [American-British English Translator](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator) and continued with Responsive Web Design.
+
+- <time>May 27, 2022</time> Finished with the Sudoku Solver project ([here](https://sudoku-solver-project.yarjuny.repl.co/) it is) and continued with Responsive Web Design.
+
+- <time>May 26, 2022</time> One more test case left and continued with Responsive Web Design.
+
+- <time>May 25, 2022</time> Three more tests cases left and continued with Responsive Web Design.
+
+- <time>May 24, 2022</time> Four more tests cases left for the Sudoku Solver project! Also continued with Responsive Web Design.
+
+- <time>May 23, 2022</time> Continued with the Sudoku Solver project (about half way done with all the `/api/check` test cases) and with Responsive Web Design.
+
+- <time>May 22, 2022</time> Continued with the Sudoku Solver project (I've got an annoying glitch for the region placement check) and with Responsive Web Design.
+
+- <time>May 21, 2022</time> Continued with the Sudoku Solver project and with Responsive Web Design.
+
+- <time>May 20, 2022</time> Continued with the Sudoku Solver project and with Responsive Web Design.
+
+- <time>May 19, 2022</time> Continued with the Sudoku Solver project (finished the solve part with [this algorithm](https://www.geeksforgeeks.org/sudoku-backtracking-7/), which I referred to due to [this](https://forum.freecodecamp.org/t/freecodecamp-sudoku-solver-man-that-was-tough/506490/2)) and with Responsive Web Design.
+
+- <time>May 18, 2022</time> Continued with the Sudoku Solver project and with Responsive Web Design.
+
+- <time>May 17, 2022</time> Continued with the Sudoku Solver project (finished translating the helper function from ([1](https://trinket.io/python/ae539dcb34), [2](https://medium.com/swlh/simple-sudoku-with-backtracking-bb4813ddabb1)) for the main [backtracking](https://www.geeksforgeeks.org/backtracking-introduction/) function) and continued with Responsive Web Design.
+
+- <time>May 15, 2022</time> Continued with the Sudoku Solver project (got the regex stuff to work and got started with the solving part) and continued with Responsive Web Design.
+
+- <time>May 15, 2022</time> Continued with the Sudoku Solver project and continued with beta Responsive Web Design.
+
+- <time>May 14, 2022</time> Got started with the [Sudoku Solver project](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver) and finished with a section for beta Responsive Web Design (which recently graduated to the default Responsive Web Design!)
+
+- <time>May 13, 2022</time> Finished with the Personal Library project by intentionally leaving a test case broken :/ ([here](https://personal-library-project.yarjuny.repl.co/) it is) Also continued with beta Responsive Web Design.
+
+- <time>May 12, 2022</time> AAAAAAAAAA This is a really complicated situation: I wrote all the functional tests and a) Replit keeps crashing after all the tests pass (unless I do a weird port trick) b) Even though the `POST` comment test case works without the tests, it refuses to pass after all the tests pass. This is probably the second or third most frustrating project I worked on (the most frustrating was probably the JavaScript calculator)
+
+- <time>May 11, 2022</time> Got the comment `POST` test case to pass, on to the `GET` test case. Also continued with beta Responsive Web Design.
+- <time>May 10, 2022</time> The comment array seems to be less broken and continued with beta Responsive Web Design.
+
+- <time>May 09, 2022</time> Got the delete all test case to pass and the comment array is, uh, there? (it's really broken). I also continued with beta responsive web design.
+
+- <time>May 08, 2022</time> Continued with beta Responsive Web Design but didn't make a ton of progress with the Personal Library project (the comment system looks a bit daunting, I don't think I've worked with arrays in MongoDB before)
+
+- <time>May 07, 2022</time> Got started with the [Personal Library project](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/personal-library) and continued with beta Responsive Web Design.
+
+- <time>May 06, 2022</time> Finished the Issue Tracker project ([here](https://issue-tracker.yarjuny.repl.co/) it is) and continued with beta Responsive Web Design.
+
+- <time>May 05, 2022</time> `DELETE` is done and continued with beta Responsive Web Design.
+
+- <time>May 04, 2022</time> I now only have the `PUT` and `DELETE` functionality to program + the tests! Also continued with beta Responsive Web Design.
+
+- <time>May 03, 2022</time> Got a decent amount of tests cases for the Issue Tracker project (I need to fix a schema glitch for the `GET` request) and continued with beta Responsive Web Design.
+
+- <time>May 02, 2022</time> Continued with the Issue Tracker project and continued with beta Responsive Web Design.
+
+- <time>May 01, 2022</time> Got started with the [Issue Tracker Project](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker) and continued with beta Responsive Web Design.
+
+- <time>Apr 30, 2022</time> I finally got done with the Metric-Imperial Converter Project ([here](https://metric-imperial-converter-project.yarjuny.repl.co/) it is) and continued with beta Responsive Web Design.
+
+- <time>Apr 29, 2022</time> AAAAAAAAAA I finished all the tests but freeCodeCamp keeps failing the 16 units test test, it feels like I've tried everything to fixed it.
+
+- <time>Apr 28, 2022</time> Finished those last two non-test test cases and continued with beta Responsive Web Design. I don't like how we're (to my knowledge) force to use [eval](https://stackoverflow.com/a/18269921/15329048) for this project.
+
+- <time>Apr 27, 2022</time> Excluding the the two test cases for the test (which I'm dreading lol), I only have two more tests! Also continued with beta Responsive Web Design.
+
+- <time>Apr 26, 2022</time> Continued with the Metric-Imperial Converter project and beta Responsive Web Design.
+
+- <time>Apr 25, 2022</time> Continued with the Metric-Imperial Converter project and beta Responsive Web Design.
+
+- <time>Apr 24, 2022</time> Got the "all incoming units..." test to pass and continued with beta Responsive Web Design (which I did for yesterday also, oops).
+
+- <time>Apr 23, 2022</time> Got the "invalid unit" test to pass, need to get the "invalid number" and "invalid number and unit" tests to pass.
+
+- <time>Apr 22, 2022</time> Got a decent amount of test cases to pass after adding rounding to 5 decimal places and continued with beta Responsive Web Design.
+
+- <time>Apr 21, 2022</time> Continued with the Metric-Imperial Converter project and beta Responsive Web Design.
+
+- <time>Apr 20, 2022</time> Continued with the Metric-Imperial Converter project and beta Responsive Web Design.
+
+- <time>Apr 19, 2022</time> Continued with the Metric-Imperial Converter project and beta Responsive Web Design.
+
+- <time>Apr 18, 2022</time> Continued with the Metric-Imperial Converter project (got most of the converter to work) and beta Responsive Web Design (I'm only going to do one challenge from now so I don't run out of them lol).
+
+- <time>Apr 17, 2022</time> Continued with the Metric-Imperial Converter project and beta Responsive Web Design (also, this is pretty late but the issue I opened on the 4th got resolved).
+
+- <time>Apr 16, 2022</time> Continued with the Metric-Imperial Converter project and beta Responsive Web Design.
+
+- <time>Apr 15, 2022</time> Got started with the [Metric-Imperial Converter project](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter) and continued with beta Responsive Web Design.
+
+- <time>Apr 14, 2022</time> Finished all the coding challenges for Advanced Node and Express. I didn't like the chat application part, mainly because the test cases were too lenient and you could pass a lot of them with a non-functional project. Anyways, I also continued with beta Responsive Web Design.
+
+- <time>Apr 13, 2022</time> Continued with Advanced Node and Express and with beta Responsive Web Design (finished a section).
+
+- <time>Apr 12, 2022</time> Continued with Advanced Node and Express and with beta Responsive Web Design.
+
+- <time>Apr 11, 2022</time> Continued with Advanced Node and Express and with beta Responsive Web Design. Why did I never discover [Passport](https://www.passportjs.org/) during the bettermailto project?
+
+- <time>Apr 10, 2022</time> Continued with Advanced Node and Express and with beta Responsive Web Design.
+
+- <time>Apr 09, 2022</time> Continued with Advanced Node and Express and with beta Responsive Web Design. Why is [CSS grid](https://www.w3schools.com/css/css_grid.asp) so complicated?
+
+- <time>Apr 08, 2022</time> Continued with Advanced Node and Express and with beta Responsive Web Design.
+
+- <time>Apr 07, 2022</time> Continued with Advanced Node and Express and with beta Responsive Web Design.
+
+- <time>Apr 06, 2022</time> Continued with Advanced Node and Express and with beta Responsive Web Design.
+
+- <time>Apr 05, 2022</time> Continued with Advanced Node and Express and with beta Responsive Web Design.
+
+- <time>Apr 04, 2022</time> Got started with Advanced Node and Express, continued with beta Responsive Web Design and [opened an issue on GitHub](https://github.com/freeCodeCamp/freeCodeCamp/issues/45619).
+
+- <time>Apr 03, 2022</time> Finished Quality Assurance and Testing with Chai and continued with beta Responsive Web Design! I finally understand what all this Chai business does. Going to start with [Advanced Node and Express](https://www.freecodecamp.org/learn/quality-assurance/#advanced-node-and-express) from tomorrow.
+
+- <time>Apr 02, 2022</time> Just realized that I lost my ~180-day streak (probably because of time zones), though it doesn't really matter. Continued with beta Responsive Web Design and Quality Assurance.
+
+- <time>Apr 01, 2022</time> Continued with beta Responsive Web Design and Quality Assurance.
+
+- <time>Mar 31, 2022</time> Continued with beta Responsive Web Design and Quality Assurance.
+
+- <time>Mar 30, 2022</time> Continued with beta Responsive Web Design and Quality Assurance.
+
+- <time>Mar 29, 2022</time> Continued with beta Responsive Web Design and got started with Quality Assurance again (as I've forgotten a lot about it and I need that knowledge for my Information Security project)
+
+- <time>Mar 28, 2022</time> Continued with beta Responsive Web Design.
+
+- <time>Mar 27, 2022</time> Continued with beta Responsive Web Design.
+
+- <time>Mar 26, 2022</time> Continued with beta Responsive Web Design.
+
+- <time>Mar 25, 2022</time> Continued with beta Responsive Web Design.
+
+- <time>Mar 24, 2022</time> Couldn't get much of anything done for the project, but continued with beta Responsive Web Design.
+
+- <time>Mar 23, 2022</time> Dang it, I forgot about the tests that I had to write. This project is deceivingly big. Anyways, made a bit of progress on the project and continued with beta Responsive Web Design (also, [beta Relational Database](https://www.freecodecamp.org/learn/relational-database/) looks really cool).
+
+- <time>Mar 22, 2022</time> Sort of got multiple stocks to work (the query parameter if-else conditions aren't very good though), I think I can technically submit the project now, but it's obviously not complete (need to implement the like and rel_likes features)
+
+- <time>Mar 21, 2022</time> Fixed an [axios](https://www.npmjs.com/package/axios) glitch where it would take two refreshes to get the stock price. Got started with two stocks and continued with beta Responsive Web Design.
+
+- <time>Mar 20, 2022</time> Progress on Stock Price Checker has been slow, why is it so hard to make a [GET request](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET) in node.js?
+
+- <time>Mar 19, 2022</time> Continued with the Stock Price Checker and Responsive Web Design.
+
+- <time>Mar 18, 2022</time> Got started with the [Stock Price Checker project](https://www.freecodecamp.org/learn/information-security/information-security-projects/stock-price-checker) and finished a project within beta Responsive Web Design!
+
+- <time>Mar 17, 2022</time> Finally finished with the Python section of Information Security. Definitely my least favourite part of freeCodeCamp so far. Anyways, continued with beta Responsive Web Design and the [Information Security projects](https://www.freecodecamp.org/learn/information-security/#information-security-projects) look fun.
+
+- <time>Mar 16, 2022</time> Continued with beta Responsive Web Design. Yeah, I know I've been skimping on Information Security. It'll come soon.
+
+- <time>Mar 15, 2022</time> Continued with beta Responsive Web Design.
+
+- <time>Mar 14, 2022</time> Continued with beta Responsive Web Design.
+
+- <time>Mar 13, 2022</time> Continued with beta Responsive Web Design.
+
+- <time>Mar 12, 2022</time> Finished with the tutorial project and continued with beta Responsive Web Design.
+
+- <time>Mar 11, 2022</time> Got started with [the tutorial project](https://www.freecodecamp.org/learn/information-security/python-for-penetration-testing/developing-an-nmap-scanner-part-1) and continued with beta Responsive Web Design.
+
+- <time>Mar 10, 2022</time> Learnt how to [create a TCP client](https://www.freecodecamp.org/learn/information-security/python-for-penetration-testing/creating-a-tcp-client) and continued with beta Responsive Web Design.
+
+- <time>Mar 09, 2022</time> Back to learning, finished with [Understanding Sockets and Creating a TCP Server](https://www.freecodecamp.org/learn/information-security/python-for-penetration-testing/understanding-sockets-and-creating-a-tcp-server) and continued with beta Responsive Web Design.
+
+- <time>Mar 08, 2022</time> Haha I did it! [Earned my fifth certificate](https://www.freecodecamp.org/certification/arjunyadav/back-end-development-and-apis) ([here's the project](https://replit.com/@yarjuny/Exercise-Tracker-Project)) and continued with beta Responsive Web Design.
+
+- <time>Mar 07, 2022</time> [This forum post](https://forum.freecodecamp.org/t/cant-add-more-than-one-exercise-in-mongodb-exercise-tracker/490874/3) should help with my glitch and continued with beta Responsive Web Design.
+
+- <time>Mar 06, 2022</time> I think I know why my exercise tracker project's last test case doesn't pass, I can't save multiple exercises! I'll fix that soon and I've continued with beta Responsive Web Design.
+
+- <time>Mar 05, 2022</time> The last test case was close to ending me so I opened up [a forum post](https://forum.freecodecamp.org/t/cannot-pass-the-last-test-case-for-exercise-tracker/499507) about it and continued with beta Responsive Web Design.
+
+- <time>Mar 04, 2022</time> The last test case is so dang annoying but I think I'm nearly done with it. Continued with beta Responsive Web Design.
+
+- <time>Mar 03, 2022</time> One more test case left for the project! Also, continued with beta Responsive Web Design.
+
+- <time>Mar 02, 2022</time> Made decent progress on the project and continued with beta Responsive Web Design.
+
+- <time>Mar 01, 2022</time> My opinion on Mongoose has changed, it's actually pretty neat. Got a little less than half of the test cases done and continued with beta Responsive Web Design.
+
+- <time>Feb 28, 2022</time> Got started with the behemoth of a project that is the [Exercise Tracker](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/exercise-tracker) and continued with beta Responsive Web Design.
+
+- <time>Feb 27, 2022</time> Finished with the URL Shortener Project ([here it is](https://replit.com/@yarjuny/URL-Shortener-Microservice-Project)) and finished with a section of beta Responsive Web Design.
+
+- <time>Feb 26, 2022</time> Nearly done with the [URL Shortener project](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice) and continued with beta Responsive Web Design.
+
+- <time>Feb 25, 2022</time> Finished with the [File Metadata Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice) project ([here it is](https://replit.com/@yarjuny/File-Metadata-Microservice-Project)) and continued with beta Responsive Web Design. The last two projects I have might take a bit of time...
+
+- <time>Feb 24, 2022</time> Finished with the [Request Header Parser Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice) project (just had to find the [HTTP request headers](https://flaviocopes.com/http-request-headers/), [here's my project link on replit](https://replit.com/@yarjuny/Request-Header-Parser-Microservice-Project)) and continued with beta Responsive Web Design.
+
+- <time>Feb 23, 2022</time> Finished with the Timestamp project ([here it is](https://replit.com/@yarjuny/Timestamp-Microservice-Project)) and continued with beta Responsive Web Design.
+
+- <time>Feb 22, 2022</time> Almost finished with the Timestamp project and my project in beta Responsive Web Design (which I continued with) got reset when the FCC team changed the layout!
+
+- <time>Feb 21, 2022</time> Got started with the [Timestamp Microservice project](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice) and finished with a section in beta Responsive Web Design.
+
+- <time>Feb 20, 2022</time> Finished with MongoDB and Mongoose and finished with the challenge portion of Back End Development and APIs! Back to working on projects.
+
+- <time>Feb 19, 2022</time> Continued with MongoDB and Mongoose.
+
+- <time>Feb 18, 2022</time> Started with [MongoDB and Mongoose](https://www.freecodecamp.org/learn/back-end-development-and-apis/#mongodb-and-mongoose/) and finished a project in beta Responsive Web Design.
+
+- <time>Feb 17, 2022</time> Finished Basic Node and Express, I think I finally got it down now.
+
+- <time>Feb 16, 2022</time> Got started with [Basic Node and Express](https://www.freecodecamp.org/learn/back-end-development-and-apis/#basic-node-and-express).
+
+- <time>Feb 15, 2022</time> Back to learning, got started with [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) and finished with [Managing Packages with NPM](https://www.freecodecamp.org/learn/back-end-development-and-apis/#managing-packages-with-npm) (you can find all the back-end learning on my [replit](https://replit.com/@yarjuny) in the appropriate folder).
+
+- <time>Feb 14, 2022</time> I did it! [Earned my data visualization certificate](https://www.freecodecamp.org/certification/arjunyadav/data-visualization) ([here's the last project](https://codepen.io/y_arjun_y/full/wvPeNgq)) and continued with beta Responsive Web Design.
+
+- <time>Feb 13, 2022</time> Well, I figured it out the treemap project [thanks to the D3 creator, Mike](https://bl.ocks.org/mbostock/4063582). Just need to add the legend and the tooltip. Should be done in ~2 days.
+
+- <time>Feb 12, 2022</time> Got started with the Treemap project and continue with beta Responsive Web Design.
+
+- <time>Feb 11, 2022</time> Map done! Couldn't get the tooltip test cases to pass for some reason, but [here it is](https://codepen.io/y_arjun_y/full/PoOGzrO). I'll work on [the last project](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-treemap-diagram) tomorrow. Also continued with beta Responsive Web Design.
+
+- <time>Feb 10, 2022</time> Only 3 more test cases left to pass! Also finished a project in beta Responsive Web Design.
+
+- <time>Feb 09, 2022</time> LET'S GO I got the map all coloured in (the colour scheme is a little different, but that's fine), going to try to wrap this up in about 2 days.
+
+- <time>Feb 08, 2022</time> Okay, colouring will be impossible if I don't use FCC's map data. Figuring out how to replace the pre-existing map data with that. Also continued with beta Responsive Web Design.
+
+- <time>Feb 07, 2022</time> In the process of figuring out how to color in the map. Also continued with beta Responsive Web Design.
+
+- <time>Feb 06, 2022</time> Figured out the map! Also continued with beta Responsive Web Design and finished a section within it!
+
+- <time>Feb 05, 2022</time> Still figuring out the whole map thing, though [I think I found my answer](https://forum.freecodecamp.org/t/drawing-us-map-in-d3-chloropleth/481354). Also continued with beta Responsive Web Design.
+
+- <time>Feb 04, 2022</time> Got started with the map project, wondering if I can use [a package](https://github.com/d3-node/choropleth-us-counties) to draw the US map instead of converting the data they gave into an [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG) (which is too complicated). Also continued with beta Responsive Web Design.
+
+- <time>Feb 03, 2022</time> Finished with the heatmap project ([here's the link to it](https://codepen.io/y_arjun_y/full/MWOWMMQ))! Will start with [the penultimate project](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-choropleth-map) tomorrow. Also continued with beta Responsive Web Design.
+
+- <time>Feb 02, 2022</time> So close to submitting my heatmap project, just need another day to make the y-axis show the month name, not the number and to add text below the legend (also, figured out the legend!) and I also continued with beta Responsive Web Design.
+
+- <time>Feb 01, 2022</time> Got more than half of the test cases to pass, though I still need to figure out how to make a legend. Also continued with beta Responsive Web Design.
+
+- <time>Jan 31, 2022</time> Made amazing progress! The heatmap is basically complete, just need to add a legend, fix the tooltip and pass the tests. I also continued with the beta Responsive Web Design.
+
+- <time>Jan 30, 2022</time> Made good progress with the heatmap project, I got the axes set properly, it's just the squares that need work now. Also finished two projects within beta Responsive Web Design!
+
+- <time>Jan 29, 2022</time> Sort of fixed the data issue with [this less obscure website](https://jsonbin.io) (I say sort of because the free account only has 10000 requests before it goes down, which is decent, but the tests that I run might exhaust that, not entirely sure) and continued with beta Responsive Web Design.
+
+- <time>Jan 28, 2022</time> The same issue that came up with the bar chart project has come up again, I can't seem to find a place to store edited data. Since the FCC data is nested, it's really hard to work with, so I "unnested" it and stored it on this [obscure website](https://extendsclass.com/json-storage.html), but the data stored there doesn't seem to be permanent, so now I have to work on both my heatmap project and my bar chart project again.
+
+  Oh, I also continued with beta Responsive Web Design.
+
+- <time>Jan 27, 2022</time> Made a bit of progress on the heat map and continued with beta Responsive Web Design.
+
+- <time>Jan 26, 2022</time> Finished the scatterplot project! Yeah, there are two test cases left, but they have the same issue as the bar chart project. [Here's the project](https://codepen.io/y_arjun_y/full/VwMQEMm). Also got started on [the Heat Map project](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-heat-map) and continued with beta Responsive Web Design.
+
+- <time>Jan 25, 2022</time> Didn't have much time today, so I could only continue the beta Responsive Web Design.
+
+- <time>Jan 24, 2022</time> Got done with the legend, the only tests I have left relate to the annoying D3 attributes.
+
+- <time>Jan 23, 2022</time> Again made great progress, I only have 5 test cases left to pass for my scatterplot project and continued with beta Responsive Web Design.
+
+- <time>Jan 22, 2022</time> Made amazing progress, got the whole y-axis done and added the circles for the scatterplot. Just need to get the test cases to pass.
+
+- <time>Jan 21, 2022</time> Got the y-axis almost complete and continued with beta Responsive Web Design.
+
+- <time>Jan 20, 2022</time> Couldn't continue with my scatterplot (will try to finish it in the weekend) but I continued with beta Responsive Web Design. Someone in an EA [Slack](https://slack.com/) channel talked about FCC!
+
+- <time>Jan 19, 2022</time> For some reason, it's really complicated to get minute and second formatted time on a y-axis (like this: 31:24), will continue work on it tomorrow. Also continued with beta Responsive Web Design.
+
+- <time>Jan 18, 2022</time> Got started with [the scatterplot project](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph) and continued with beta Responsive Web Design.
+
+- <time>Jan 17, 2022</time> Couldn't fix that issue, but that's alright. Submitted my bar chart project! (see it [here](https://codepen.io/y_arjun_y/full/QWqKjdj)) and continued beta Responsive Web Design.
+
+- <time>Jan 16, 2022</time> Got every test case to pass, except for one... I'll work on that tomorrow and if I can't get it, I'll just submit it. Anyways, I also continued beta Responsive Web Design.
+
+- <time>Jan 15, 2022</time> Finished the tooltip, now I just need to pass all the test cases. Also continued the beta Responsive Web Design.
+
+- <time>Jan 14, 2022</time> Partially added the logic for a tooltip in my bar chart project and continued with beta Responsive Web Design.
+
+- <time>Jan 13, 2022</time> Continued with beta Responsive Web Design.
+
+- <time>Jan 12, 2022</time> Got half of the test cases to pass for my project and continued beta Responsive Web Design.
+
+- <time>Jan 11, 2022</time> Now I made some good progress, I decided to use [JSON](https://www.json.org/json-en.html) (as it was easier to store on the web) and everything except the tooltips is done.
+
+- <time>Jan 10, 2022</time> Wasn't able to make much progress with my bar chart project as I wasted a lot of my time trying to figure out how to host my custom data file, anyways, I continued with beta Responsive Web Design.
+
+- <time>Jan 09, 2022</time> Made good progress with [my bar chart project](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart) (though the x-axis is fully destroyed) and continued with beta Responsive Web Design.
+
+- <time>Jan 08, 2022</time> Continued with data visualization and the beta Responsive Web Design.
+
+- <time>Jan 07, 2022</time> I'll update [the 25 + 5 Clock code](https://codepen.io/y_arjun_y/full/VwMQGvg) if any changes come up, but for now, [I've earned my Front End Development Libraries certificate!](https://www.freecodecamp.org/certification/arjunyadav/front-end-development-libraries) Will push on with data visualization tomorrow.
+
+- <time>Jan 06, 2022</time> Finished the HTML part of beta Responsive Web Design and [opened up a forum post](https://forum.freecodecamp.org/t/unable-to-pass-many-user-stories-for-25-5-clock-even-though-they-should-all-pass/491388) about my issues with my project.
+
+- <time>Jan 05, 2022</time> Continued with beta Responsive Web Design, still have ~6 test cases left even though I should pass them. This annoying script error bug has been there for almost 2 days.
+
+- <time>Jan 04, 2022</time> Continued with beta Responsive Web Design, only 6 more test cases. Also, 100-day streak!
+
+- <time>Jan 03, 2022</time> Continued with beta Responsive Web Design and I only have 8 more test cases to pass for my 25 + 5 clock!
+
+- <time>Jan 02, 2022</time> Continued with beta Responsive Web Design and sort of made the timer functional, though there is some weird script error.
+
+- <time>Jan 01, 2022</time> Continued with beta Responsive Web Design and made a breakthrough with my 25 + 5 project, I figured out that there should be two states for seconds, one for math and another to be displayed. Hopefully, I'll get this project complete and earn my certificate by the end of this week!
+
+- <time>Dec 31, 2021</time> Continued with the beta version of Responsive Web Design and my 25 + 5 Clock project. Hope to get almost fully through FCC in 2022!
+
+- <time>Dec 30, 2021</time> These front-end projects take so, so long. And if you take a few days to build them, your streak gets wrecked. So I was desperate, I was so tired from my [25 + 5 Clock project](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock) that I started to do my data visualization projects, thinking they would be faster to do than the front-end projects (they weren't).
+
+  But then, just as I was about to give up, I saw... [this](https://www.freecodecamp.org/learn/2022/responsive-web-design/). This not only saved my streak for today, but my streak for years to come as I can speedrun this on the side and finish my projects without melting my brain by trying to do it all in one day.
+
+  Thank you, whoever thought of this. (Side note: This is actually a cool idea on its own, I really dig the new design on these challenges.)
+
+- <time>Dec 29, 2021</time> Finished the [JavaScript Calculator project](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator) (see it [here](https://codepen.io/y_arjun_y/full/QWqQwWG))
+
+- <time>Dec 28, 2021</time> Finished the Markdown Previewer project and [the Drum Machine project](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-drum-machine) (see it [here](https://codepen.io/y_arjun_y/pen/XWeVZxd)), only two more projects left till I earn my certification!
+
+- <time>Dec 27, 2021</time> Finished Random Quote Machine project and partially completed [the Markdown Previewer project](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer) (see it [here](https://codepen.io/y_arjun_y/pen/abLEdje)).
+
+- <time>Dec 26, 2021</time> Sigh, I spent almost 2 hours just to end up with [a half baked Random Quote Machine submission](https://codepen.io/y_arjun_y/full/KKXmJXq). I'll work on it tomorrow.
+
+- <time>Dec 25, 2021</time> Finished the JavaScript part of the curriculum.
+
+- <time>Dec 24, 2021</time> Completed [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register) and [earned my certification](https://www.freecodecamp.org/certification/arjunyadav/javascript-algorithms-and-data-structures)!
+
+- <time>Dec 23, 2021</time> Completed [Roman Numeral Converter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter).
+
+- <time>Dec 22, 2021</time> Continued with the JavaScript questions I left.
+
+- <time>Dec 21, 2021</time> Continued with the JavaScript questions I left.
+
+- <time>Dec 20, 2021</time> Continued with the JavaScript questions I left.
+
+- <time>Dec 19, 2021</time> Continued with the JavaScript questions I left.
+
+- <time>Dec 18, 2021</time> Started with [Random Quote Machine](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine) and continued with the JavaScript questions I left.
+
+- <time>Dec 17, 2021</time> Finished [React and Redux](https://www.freecodecamp.org/learn/front-end-development-libraries#react-and-redux).
+
+- <time>Dec 16, 2021</time> Continued with the JavaScript questions I left and completed the projects [Caesar Cipher](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher) and [Telephone Number Validator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator).
+
+- <time>Dec 15, 2021</time> Continued with the JavaScript questions I left.
+
+- <time>Dec 14, 2021</time> Continued with the JavaScript questions I left.
+
+- <time>Dec 13, 2021</time> Continued with the JavaScript questions I left.
+
+- <time>Dec 12, 2021</time> Continued with the JavaScript questions I left, it's nice to see my [LeetCode](https://arjunyadav.net/projects#leetcode) practicing paying off (kinda).
+
+- <time>Dec 11, 2021</time> Continuing with the JavaScript questions I left, hope to earn my JavaScript certification soon!
+
+- <time>Dec 10, 2021</time> Finished Redux.
+
+- <time>Dec 09, 2021</time> Completed [my last responsive web design project](https://codepen.io/y_arjun_y/full/QWqEMgm) and [earned my certification](https://www.freecodecamp.org/certification/arjunyadav/responsive-web-design)!
+
+- <time>Dec 08, 2021</time> Going to take some time out to finish my pending projects, won't look good on my heat map, but oh well. Finished my [Technical Documentation project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page) ([here's the project](https://codepen.io/y_arjun_y/full/rNGORbE)).
+
+- <time>Dec 07, 2021</time> Continued with Quality Assurance.
+
+- <time>Dec 06, 2021</time> Continued with Quality Assurance and JavaScript.
+
+- <time>Dec 05, 2021</time> My PR got accepted! Also started with [Quality Assurance](https://www.freecodecamp.org/learn/quality-assurance/).
+
+- <time>Dec 04, 2021</time> Continued with Information Security and unfinished challenges. Also [opened up a PR to fix a grammar issue in Information Security](https://github.com/freeCodeCamp/freeCodeCamp/pull/44381).
+
+- <time>Dec 03, 2021</time> Continued with Information Security and finished off some challenges I left previously.
+
+- <time>Dec 02, 2021</time> Finished JSON APIs and AJAX and started with [Information Security](https://www.freecodecamp.org/learn/information-security/), this stuff is incredibly useful! I wish I learnt about [Helmet.js](https://helmetjs.github.io/) earlier.
+
+- <time>Dec 01, 2021</time> Finished with D3 and nearly finished [JSON APIs and AJAX](https://www.freecodecamp.org/learn/data-visualization/#json-apis-and-ajax).
+
+- <time>Nov 30, 2021</time> Continued with D3 and held a perfect streak for the whole month!
+
+- <time>Nov 29, 2021</time> Continued with D3.
+
+- <time>Nov 28, 2021</time> Finished my [kanyewest.com's Donda Stem Player re-creation](https://codepen.io/y-arjun-y/pen/vYJoqWV) and continued with D3.
+
+- <time>Nov 27, 2021</time> Continued with Redux and started with [React with Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/#react-and-redux) and [Data Visualization with D3](https://www.freecodecamp.org/learn/data-visualization/#data-visualization-with-d3) just to get my points up. I hate how the difficulty skyrockets after Responsive Web Design. At least [I had fun re-creating kanyewest.com's Donda Stem Player for my Responsive Web Design Project](https://codepen.io/y-arjun-y/pen/vYJoqWV).
+
+- <time>Nov 26, 2021</time> Continued with Redux.
+
+- <time>Nov 25, 2021</time> Finished with React and started with [Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux).
+
+- <time>Nov 24, 2021</time> Continued with React.
+
+- <time>Nov 23, 2021</time> Continued with React.
+
+- <time>Nov 22, 2021</time> Continued with React.
+
+- <time>Nov 21, 2021</time> Continued with React.
+
+- <time>Nov 20, 2021</time> Started with [React](https://www.freecodecamp.org/learn/front-end-development-libraries/#react).
+
+- <time>Nov 19, 2021</time> Finished with SASS, thinking of using it in my <a href="#bettermailto">bettermailto project</a>)!
+
+- <time>Nov 18, 2021</time> Finished jQuery and moved on to [SASS](https://www.freecodecamp.org/learn/front-end-development-libraries/#sass).
+
+- <time>Nov 17, 2021</time> Continued with jQuery.
+
+- <time>Nov 16, 2021</time> Finished Bootstrap and moved on to [jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery).
+
+- <time>Nov 15, 2021</time> Continued with Bootstrap.
+
+- <time>Nov 14, 2021</time> Continued with Bootstrap.
+
+- <time>Nov 13, 2021</time> Continued with [Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures) and [Functional Programming in JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) and [Bootstrap](https://www.freecodecamp.org/learn/front-end-development-libraries/#bootstrap).
+
+- <time>Nov 12, 2021</time> Continued with Basic Data Structures in JS.
+
+- <time>Nov 11, 2021</time> Started [Basic Data Structures in JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures).
+
+- <time>Nov 10, 2021</time> JS is so frustrating sometimes.
+
+- <time>Nov 09, 2021</time> Finished OOP in JS.
+
+- <time>Nov 08, 2021</time> Continued with OOP in JS, pretty cool stuff!
+
+- <time>Nov 07, 2021</time> Much shorter this time around, continued with [OOP (object-oriented programming) in JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming).
+
+- <time>Nov 06, 2021</time> Why did this take so long? Continued with JS.
+
+- <time>Nov 05, 2021</time> I got done with the [Counting Cards problem in JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/counting-cards). I also continued with ES6.
+
+- <time>Nov 04, 2021</time> Continued with Regular Expressions and finished Debugging.
+
+- <time>Nov 03, 2021</time> Continued with Regular Expressions.
+
+- <time>Nov 02, 2021</time> Continued with ES6 and Regular Expressions.
+
+- <time>Nov 01, 2021</time> Continued with Basic JavaScript and started [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6). I really need to continue with my [Web Design projects](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects) and finish the [JS curriculum](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) items I skipped.
+
+- <time>Oct 31, 2021</time> Continued Basic JavaScript.
+
+- <time>Oct 30, 2021</time> Continued Basic JavaScript and Regular Expressions.
+
+- <time>Oct 29, 2021</time> Continued Basic JavaScript and [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions), the issue was closed as it was an intentional feature.
+
+- <time>Oct 28, 2021</time> Continued [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) and [Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging), and also opened up an [issue about possible duplication](https://github.com/freeCodeCamp/freeCodeCamp/issues/44051).
 <hr />
 
 ## <span id="nationalmathscompetition">National Maths Competition</span>
