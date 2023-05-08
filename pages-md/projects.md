@@ -686,6 +686,51 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 08, 2023</time> Finished [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/):
+
+```py
+class Solution:
+    def minOperations(self, s: str) -> int:
+        if len(s) == 1:
+            return 0
+        else:
+            count_1 = 0
+
+            if s[0] == '0':
+                compare = "1"
+            else:
+                compare = "0"
+
+            for i in range(1, len(s)):
+                if s[i] != compare:
+                    count_1 += 1
+
+                if compare == "0":
+                    compare = "1"
+                else:
+                    compare = "0"
+
+            count_2 = 1
+
+            if s[0] == "0":
+                s = "1" + s[1:]
+                compare = "0"
+            else:
+                s = "0" + s[1:]
+                compare = "1"
+
+            for i in range(1, len(s)):
+                if s[i] != compare:
+                    count_2 += 1
+
+                if compare == "0":
+                    compare = "1"
+                else:
+                    compare = "0"
+
+            return min(count_1, count_2)
+```
+
 - <time>May 07, 2023</time> Finished [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array/):
 
 ```py
