@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: May 07, 2023
+publish_date: May 08, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 08, 2023</time> Did some (really important!) organisational work.
+
 - <time>May 07, 2023</time> Did some organisational work.
 
 - <time>May 06, 2023</time> Did some organisational work.
@@ -156,6 +158,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 08, 2023</time> Did some organisational work.
 
 - <time>May 05, 2023-May 07, 2023</time> Did some organisational work.
 
@@ -254,7 +258,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 06, 2023</time> Did some organisational work.
+- <time>May 06, 2023-May 08, 2023</time> Did some organisational work.
 
 - <time>May 05, 2023</time> Did some organisational work.
 
