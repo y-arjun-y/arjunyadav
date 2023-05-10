@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: May 08, 2023
+publish_date: May 10, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -689,6 +689,13 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 10, 2023</time> Finished [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/):
+
+```sql
+# Write your MySQL query statement below
+SELECT teacher_id, COUNT(DISTINCT subject_id) as cnt FROM Teacher GROUP BY teacher_id;
+```
 
 - <time>May 08, 2023</time> Finished [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/):
 
