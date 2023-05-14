@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: May 10, 2023
+publish_date: May 14, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -27,8 +27,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
 
-### Done (31)
+### Done (32)
 
+- <a href="#ygss2023">YGSS 2023</a>
 - <a href="#freecodecamp">freeCodeCamp</a>
 - <a href="#nationalmathscompetition">National Maths Competition</time>
 - <a href="#studentcouncil11">Student Council - 11th</time>
@@ -87,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 09, 2023-May 14, 2023</time> Did some (really, really important) organisational work.
 
 - <time>May 08, 2023</time> Did some (really important!) organisational work.
 
@@ -158,6 +161,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 09, 2023-May 14, 2023</time> Did some organisational work.
 
 - <time>May 08, 2023</time> Did some organisational work.
 
@@ -257,6 +262,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 09, 2023-May 14, 2023</time> Did some organisational work. Going to go ahead with outreach + social media work.
 
 - <time>May 06, 2023-May 08, 2023</time> Did some organisational work.
 
@@ -9648,6 +9655,21 @@ function getCount(str) {
 <hr />
 
 ## Done
+
+<hr />
+
+## <span id="ygss2023">YGSS 2023</span>
+
+<small>May 12, 2023-May 14, 2023</small>  
+<small>I was a resource head for the Earth and Climate Change Council and a member of the IT team. Won best counci.l</small>
+
+<hr />
+
+#### Summary
+
+What an incredible event, so glad to have been (somewhat) randomly selected for ECC - I'd like to think I was a pretty darn good resource head, and won best council with my incredible directors, co-resource head, IT and press member.
+
+![ECC](/ecc.jpeg)
 
 <hr />
 
