@@ -9667,7 +9667,7 @@ function getCount(str) {
 
 #### Summary
 
-What an incredible event, so glad to have been (somewhat) randomly selected for ECC - I'd like to think I was a pretty darn good resource head, and won best council with my incredible directors, co-resource head, IT and press member.
+What an incredible event, so glad to have been (somewhat) randomly selected for ECC - I'd like to think I was a pretty darn good resource head, and won best council with my incredible directors, co-resource head, IT and press members.
 
 ![ECC](/ecc.jpeg)
 
