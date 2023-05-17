@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: May 14, 2023
+publish_date: May 17, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -89,6 +89,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 15, 2023-May 17, 2023</time> Did some (really^3 important) organisational work.
+
 - <time>May 09, 2023-May 14, 2023</time> Did some (really, really important) organisational work.
 
 - <time>May 08, 2023</time> Did some (really important!) organisational work.
@@ -161,6 +163,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 15, 2023-May 17, 2023</time> Did some organisational work.
 
 - <time>May 09, 2023-May 14, 2023</time> Did some organisational work.
 
@@ -262,6 +266,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 15, 2023-May 17, 2023</time> Did some organisational work.
 
 - <time>May 09, 2023-May 14, 2023</time> Did some organisational work. Going to go ahead with outreach + social media work.
 
@@ -696,6 +702,62 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 17, 2023</time> Finished [Chunk Array](https://leetcode.com/problems/chunk-array/):
+
+```js
+/**
+ * @param {Array} arr
+ * @param {number} size
+ * @return {Array[]}
+ */
+var chunk = function (arr, size) {
+  let iteration = Math.floor(arr.length / size);
+  let res = [];
+  let start = 0;
+  let count = 0;
+
+  while (count < iteration) {
+    let temp = [];
+
+    for (let i = start; i < start + size; i++) {
+      temp.push(arr[i]);
+    }
+
+    res.push(temp);
+    start += size;
+    count += 1;
+  }
+
+  let final = [];
+
+  for (let i = start; i < arr.length; i++) {
+    final.push(arr[i]);
+  }
+
+  res.push(final);
+
+  if (size == 1 || Math.floor(arr.length / size) == arr.length / size) {
+    res.pop();
+  }
+
+  return res;
+};
+```
+
+- <time>May 16, 2023</time> Finished [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/):
+
+```py
+class Solution:
+    def countSeniors(self, details: List[str]) -> int:
+        count = 0
+
+        for i in details:
+            if int(i[11:13]) > 60:
+                count += 1
+
+        return count
+```
 
 - <time>May 10, 2023</time> Finished [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/):
 
