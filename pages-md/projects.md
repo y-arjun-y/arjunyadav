@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: May 17, 2023
+publish_date: May 18, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -89,6 +89,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 18, 2023</time> Cameraman, anyone? Also, won best speaker for a motion in a debate, and lot's of environment work.
+
 - <time>May 15, 2023-May 17, 2023</time> Did some (really^3 important) organisational work.
 
 - <time>May 09, 2023-May 14, 2023</time> Did some (really, really important) organisational work.
@@ -164,7 +166,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 15, 2023-May 17, 2023</time> Did some organisational work.
+- <time>May 15, 2023-May 18, 2023</time> Did some organisational work.
 
 - <time>May 09, 2023-May 14, 2023</time> Did some organisational work.
 
@@ -267,7 +269,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 15, 2023-May 17, 2023</time> Did some organisational work.
+- <time>May 15, 2023-May 18, 2023</time> Did some organisational work.
 
 - <time>May 09, 2023-May 14, 2023</time> Did some organisational work. Going to go ahead with outreach + social media work.
 
@@ -702,6 +704,33 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 18, 2023</time> Finished [Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/):
+
+```py
+class Solution:
+    def circularGameLosers(self, n: int, k: int) -> List[int]:
+        lst = [1]
+        friend = 1
+        count = 1
+
+        while True:
+            friend += count*k
+
+            if friend > n:
+                friend %= n
+                if friend == 0:
+                    friend = n
+
+            if friend in lst:
+                break
+            else:
+                lst.append(friend)
+
+            count += 1
+
+        return [i for i in range(1, n+1) if i not in lst]
+```
 
 - <time>May 17, 2023</time> Finished [Chunk Array](https://leetcode.com/problems/chunk-array/):
 
@@ -9729,7 +9758,9 @@ function getCount(str) {
 
 #### Summary
 
-What an incredible event, so glad to have been (somewhat) randomly selected for ECC - I'd like to think I was a pretty darn good resource head, and won best council with my incredible directors, co-resource head, IT and press members.
+This whole project should be prefaced by the sheer amount of work that had gone into it: from my main work as a resource head for the Earth and Climate Change council: working on the agenda document, the background guide and the video with my co-resource head and directors - as well as helping out with the website as part of the IT team.
+
+With that being said, what an incredible event, so glad to have been (somewhat) randomly selected for ECC - I'd like to think I was a pretty darn good resource head, and won best council with my incredible directors, co-resource head, IT and press members.
 
 ![ECC](/ecc.jpeg)
 
