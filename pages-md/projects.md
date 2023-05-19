@@ -89,6 +89,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 19, 2023</time> Got a lot of work done for both projects. Really happy!
+
 - <time>May 18, 2023</time> Cameraman, anyone? Also, won best speaker for a motion in a debate, and lot's of environment work.
 
 - <time>May 15, 2023-May 17, 2023</time> Did some (really^3 important) organisational work.
@@ -166,7 +168,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 15, 2023-May 18, 2023</time> Did some organisational work.
+- <time>May 15, 2023-May 19, 2023</time> Did some organisational work.
 
 - <time>May 09, 2023-May 14, 2023</time> Did some organisational work.
 
@@ -269,7 +271,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 15, 2023-May 18, 2023</time> Did some organisational work.
+- <time>May 15, 2023-May 19, 2023</time> Did some organisational work.
 
 - <time>May 09, 2023-May 14, 2023</time> Did some organisational work. Going to go ahead with outreach + social media work.
 
