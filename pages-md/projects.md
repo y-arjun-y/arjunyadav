@@ -705,6 +705,23 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 19, 2023</time> Finished [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/):
+
+```py
+class Solution:
+    def maxAscendingSum(self, nums: List[int]) -> int:
+        subarrs = []
+
+        for i in range(len(nums)):
+            subarrs_temp = [nums[i:j] for j in range(i+1, len(nums)+1)]
+
+            for k in subarrs_temp:
+                if sorted(k) == k and list(dict.fromkeys(k)) == k:
+                    subarrs.append(k)
+
+        return sum(max(subarrs, key=lambda x: sum(x)))
+```
+
 - <time>May 18, 2023</time> Finished [Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/):
 
 ```py
