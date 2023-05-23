@@ -89,6 +89,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 20, 2023-May 23, 2023</time> Nearly done with a lot of smaller projects for this.
+
 - <time>May 19, 2023</time> Got a lot of work done for both projects. Really happy!
 
 - <time>May 18, 2023</time> Cameraman, anyone? Also, won best speaker for a motion in a debate, and lot's of environment work.
@@ -167,6 +169,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 20, 2023-May 23, 2023</time> Had some interesting discussions.
 
 - <time>May 15, 2023-May 19, 2023</time> Did some organisational work.
 
@@ -271,7 +275,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 15, 2023-May 19, 2023</time> Did some organisational work.
+- <time>May 15, 2023-May 23, 2023</time> Did some organisational work.
 
 - <time>May 09, 2023-May 14, 2023</time> Did some organisational work. Going to go ahead with outreach + social media work.
 
@@ -706,6 +710,34 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 21, 2023</time> Finished [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/):
+
+```py
+/**
+ * @param {Function} fn
+ * @return {Function}
+ */
+var once = function(fn) {
+    count = 0
+
+    return function(...args){
+        if (count < 1) {
+            count += 1
+            return fn(...args)
+        }
+
+    }
+};
+
+/**
+ * let fn = (a,b,c) => (a + b + c)
+ * let onceFn = once(fn)
+ *
+ * onceFn(1,2,3); // 6
+ * onceFn(2,3,6); // returns undefined without calling fn
+ */
+```
 
 - <time>May 19, 2023</time> Finished [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/):
 
