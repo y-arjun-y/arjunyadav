@@ -89,7 +89,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 20, 2023-May 23, 2023</time> Nearly done with a lot of smaller projects for this.
+- <time>May 20, 2023-May 23, 2023</time> Nearly (or fully?) done with a lot of smaller projects for this.
 
 - <time>May 19, 2023</time> Got a lot of work done for both projects. Really happy!
 
