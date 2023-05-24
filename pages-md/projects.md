@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: May 23, 2023
+publish_date: May 24, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -710,6 +710,23 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 24, 2023</time> Finished [Count Special Quadruples](https://leetcode.com/problems/count-special-quadruplets/):
+
+```py
+class Solution:
+    def countQuadruplets(self, nums: List[int]) -> int:
+        count = 0
+
+        for i in range(len(nums)):
+            for j in range(i+1, len(nums)):
+                for k in range(j+1, len(nums)):
+                    for z in range(k+1, len(nums)):
+                        if nums[i] + nums[j] + nums[k] == nums[z]:
+                            count += 1
+
+        return count
+```
 
 - <time>May 21, 2023</time> Finished [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/):
 
