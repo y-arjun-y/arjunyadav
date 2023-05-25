@@ -89,7 +89,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 20, 2023-May 23, 2023</time> Nearly (or fully?) done with a lot of smaller projects for this.
+- <time>May 20, 2023-May 24, 2023</time> Nearly (or fully?) done with a lot of smaller projects for this.
 
 - <time>May 19, 2023</time> Got a lot of work done for both projects. Really happy!
 
@@ -170,7 +170,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 20, 2023-May 23, 2023</time> Had some interesting discussions.
+- <time>May 20, 2023-May 24, 2023</time> Had some interesting discussions.
 
 - <time>May 15, 2023-May 19, 2023</time> Did some organisational work.
 
@@ -275,7 +275,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 15, 2023-May 23, 2023</time> Did some organisational work.
+- <time>May 15, 2023-May 24, 2023</time> Did some organisational work.
 
 - <time>May 09, 2023-May 14, 2023</time> Did some organisational work. Going to go ahead with outreach + social media work.
 
