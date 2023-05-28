@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: May 24, 2023
+publish_date: May 28, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -89,6 +89,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 25, 2023-May 28, 2023</time> All done (soon).
+
 - <time>May 20, 2023-May 24, 2023</time> Nearly (or fully?) done with a lot of smaller projects for this.
 
 - <time>May 19, 2023</time> Got a lot of work done for both projects. Really happy!
@@ -170,7 +172,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 20, 2023-May 24, 2023</time> Had some interesting discussions.
+- <time>May 20, 2023-May 28, 2023</time> Had some interesting discussions.
 
 - <time>May 15, 2023-May 19, 2023</time> Did some organisational work.
 
@@ -274,6 +276,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 25, 2023-May 28, 2023</time> Did some organisational work.
 
 - <time>May 15, 2023-May 24, 2023</time> Did some organisational work.
 
@@ -710,6 +714,90 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 28, 2023</time> Finished [Difference of Number of Distinct Values on Diagonals](https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/):
+
+```py
+class Solution:
+    def differenceOfDistinctValues(self, grid: List[List[int]]) -> List[List[int]]:
+        def getTopLeft(grid, r, c):
+            res = []
+            r -= 1
+            c -= 1
+
+            while r >= 0 and c >= 0:
+                res.append(grid[r][c])
+                r -= 1
+                c -= 1
+
+            return len(set(res))
+
+        def getBottomRight(grid, r, c):
+            res = []
+            r += 1
+            c += 1
+
+            while r < len(grid) and c < len(grid[0]):
+                res.append(grid[r][c])
+                r += 1
+                c += 1
+
+            return len(set(res))
+
+        res = []
+
+        for i in range(len(grid)):
+            temp = []
+
+            for j in range(len(grid[0])):
+                temp.append(abs(getTopLeft(grid, i, j) - getBottomRight(grid, i, j)))
+
+            res.append(temp)
+
+        return res
+
+
+```
+
+- <time>May 27, 2023</time> Finsihed [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/):
+
+```py
+/**
+ * @return {number}
+ */
+var argumentsLength = function(...args) {
+    return args.length;
+};
+
+/**
+ * argumentsLength(1, 2, 3); // 3
+ */
+```
+
+- <time>May 26, 2023</time> Finished [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/):
+
+```py
+
+class Solution:
+    def largestLocal(self, grid: List[List[int]]) -> List[List[int]]:
+        import numpy as np
+        grid = np.array(grid)
+        res = []
+        count = 0
+
+        while count < len(grid) - 2:
+            temp = []
+            end = 3
+
+            while end <= len(grid):
+                temp.append(np.amax(grid[count:count+3, end-3:end]))
+                end += 1
+
+            res.append(temp)
+            count += 1
+
+        return res
+```
 
 - <time>May 24, 2023</time> Finished [Count Special Quadruples](https://leetcode.com/problems/count-special-quadruplets/):
 
