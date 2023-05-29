@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: May 28, 2023
+publish_date: May 29, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -89,6 +89,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 29, 2023</time> Still a bit left, but got the video fixed (yay!)
+
 - <time>May 25, 2023-May 28, 2023</time> All done (soon).
 
 - <time>May 20, 2023-May 24, 2023</time> Nearly (or fully?) done with a lot of smaller projects for this.
@@ -171,6 +173,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 29, 2023</time> Did some organisational work.
 
 - <time>May 20, 2023-May 28, 2023</time> Had some interesting discussions.
 
@@ -276,6 +280,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 29, 2023</time> Sent out a message.
 
 - <time>May 25, 2023-May 28, 2023</time> Did some organisational work.
 
@@ -714,6 +720,21 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 29, 2023</time> Did NOT finish [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/):
+
+```py
+class Solution:
+    def numEquivDominoPairs(self, dominoes: List[List[int]]) -> int:
+        count = 0
+
+        for i in range(len(dominoes)):
+            for j in range(i+1, len(dominoes)):
+                if (dominoes[i][0] == dominoes[j][0] and dominoes[i][1] == dominoes[j][1]) or (dominoes[i][0] == dominoes[j][1] and dominoes[i][1] == dominoes[j][0]):
+                    count += 1
+
+        return count
+```
 
 - <time>May 28, 2023</time> Finished [Difference of Number of Distinct Values on Diagonals](https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/):
 
