@@ -89,6 +89,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 30, 2023</time> Much smoother, in a way.
+
 - <time>May 29, 2023</time> Still a bit left, but got the video fixed (yay!)
 
 - <time>May 25, 2023-May 28, 2023</time> All done (soon).
@@ -173,6 +175,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 30, 2023</time> Got some leads!
 
 - <time>May 29, 2023</time> Did some organisational work.
 
@@ -281,7 +285,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 29, 2023</time> Sent out a message.
+- <time>May 29, 2023-May 30, 2023</time> Sent out message(s).
 
 - <time>May 25, 2023-May 28, 2023</time> Did some organisational work.
 
