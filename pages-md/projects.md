@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: May 31, 2023
+publish_date: Jun 01, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 01, 2023</time> Done (for now).
 
 - <time>May 30, 2023-May 31, 2023</time> Much smoother, in a way.
 
@@ -285,7 +287,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 29, 2023-May 30, 2023</time> Sent out message(s).
+- <time>May 29, 2023-Jun 01, 2023</time> Sent out message(s).
 
 - <time>May 25, 2023-May 28, 2023</time> Did some organisational work.
 
@@ -724,6 +726,26 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 01, 2023</time> Finished [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/):
+
+```py
+class Solution:
+    def buyChoco(self, prices: List[int], money: int) -> int:
+        min_sum = 201
+
+        for i in range(len(prices)):
+            for j in range(i+1, len(prices)):
+                if (prices[i] + prices[j]) <= money and (prices[i] + prices[j]) < min_sum:
+                    min_sum = (prices[i] + prices[j])
+
+
+        if min_sum == 201:
+            return money
+
+        return money - min_sum
+
+```
 
 - <time>May 29, 2023</time> Did NOT finish [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/):
 
