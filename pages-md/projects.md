@@ -178,6 +178,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jun 01, 2023-Jun 03, 2023</time> Followed on with a lead.
+
 - <time>May 30, 2023-May 31, 2023</time> Got some leads (and sent out a template)!
 
 - <time>May 29, 2023</time> Did some organisational work.
@@ -287,7 +289,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 29, 2023-Jun 01, 2023</time> Sent out message(s).
+- <time>May 29, 2023-Jun 02, 2023</time> Sent out message(s).
 
 - <time>May 25, 2023-May 28, 2023</time> Did some organisational work.
 
@@ -726,6 +728,43 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 03, 2023</time> Finished [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/):
+
+```js
+/**
+ * @return {Generator<number>}
+ */
+var fibGenerator = function* () {
+  let start_value = -1;
+  let next_value = 1;
+  let value = start_value;
+
+  while (true) {
+    value = start_value + next_value;
+    start_value = next_value;
+    next_value = value;
+    yield next_value;
+  }
+};
+
+/**
+ * const gen = fibGenerator();
+ * gen.next().value; // 0
+ * gen.next().value; // 1
+ */
+```
+
+- <time>Jun 02, 2023</time> Finished [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/):
+
+```py
+class Solution:
+    def specialArray(self, nums: List[int]) -> int:
+        for i in range(0, max(nums)+1):
+            if len([j for j in nums if j >= i]) == i:
+                return i
+        return -1
+```
 
 - <time>Jun 01, 2023</time> Finished [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/):
 
