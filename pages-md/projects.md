@@ -289,7 +289,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 29, 2023-Jun 02, 2023</time> Sent out message(s).
+- <time>May 29, 2023-Jun 04, 2023</time> Sent out message(s).
 
 - <time>May 25, 2023-May 28, 2023</time> Did some organisational work.
 
