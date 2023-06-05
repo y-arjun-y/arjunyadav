@@ -729,6 +729,14 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jun 05, 2023</time> Finished [Minimize String Length](https://leetcode.com/problems/minimize-string-length/):
+
+```py
+class Solution:
+    def minimizedStringLength(self, s: str) -> int:
+        return len(set(s))
+```
+
 - <time>Jun 03, 2023</time> Finished [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/):
 
 ```js
