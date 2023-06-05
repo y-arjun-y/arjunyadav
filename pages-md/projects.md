@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jun 01, 2023
+publish_date: Jun 05, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -178,6 +178,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jun 05, 2023</time> Did some organisational work.
+
 - <time>Jun 01, 2023-Jun 03, 2023</time> Followed on with a lead.
 
 - <time>May 30, 2023-May 31, 2023</time> Got some leads (and sent out a template)!
@@ -289,7 +291,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 29, 2023-Jun 04, 2023</time> Sent out message(s).
+- <time>May 29, 2023-Jun 05, 2023</time> Sent out message(s).
 
 - <time>May 25, 2023-May 28, 2023</time> Did some organisational work.
 
