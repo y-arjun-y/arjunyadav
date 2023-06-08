@@ -12,7 +12,6 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#studencouncil12">Student Council - 12th + Head of Events</a>
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
-- <a href="#mathforml">Mathematics for Machine Learning</a>
 - <a href="#coldtakesbetareading">Cold Takes Beta Reading</a> (O)
 - <a href="#leetcode">LeetCode</a>
 
@@ -179,6 +178,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 08, 2023</time> Discussed about (a) moot.
 
 - <time>Jun 07, 2023</time> Did some organisational work.
 
