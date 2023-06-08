@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jun 05, 2023
+publish_date: Jun 08, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 08, 2023</time> Checklist!
 
 - <time>Jun 01, 2023</time> Done (for now).
 
@@ -177,6 +179,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 07, 2023</time> Did some organisational work.
 
 - <time>Jun 05, 2023</time> Did some organisational work.
 
@@ -291,7 +295,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 29, 2023-Jun 05, 2023</time> Sent out message(s).
+- <time>May 29, 2023-Jun 08, 2023</time> Sent out message(s).
 
 - <time>May 25, 2023-May 28, 2023</time> Did some organisational work.
 
@@ -730,6 +734,24 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 08, 2023</time> Finished [Is Object Empty](https://leetcode.com/problems/is-object-empty/):
+
+```js
+/**
+ * @param {Object | Array} obj
+ * @return {boolean}
+ */
+var isEmpty = function (obj) {
+  let count = 0;
+
+  for (let key in obj) {
+    count++;
+  }
+
+  return count == 0;
+};
+```
 
 - <time>Jun 05, 2023</time> Finished [Minimize String Length](https://leetcode.com/problems/minimize-string-length/):
 
