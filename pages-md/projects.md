@@ -179,6 +179,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jun 09, 2023</time> Conducted more research.
+
 - <time>Jun 08, 2023</time> Discussed about (a) moot.
 
 - <time>Jun 07, 2023</time> Did some organisational work.
@@ -296,7 +298,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 29, 2023-Jun 08, 2023</time> Sent out message(s).
+- <time>May 29, 2023-Jun 09, 2023</time> Sent out message(s).
 
 - <time>May 25, 2023-May 28, 2023</time> Did some organisational work.
 
