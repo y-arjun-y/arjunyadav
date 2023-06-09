@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jun 08, 2023
+publish_date: Jun 09, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -735,6 +735,14 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 09, 2023</time> Finished [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) (finally!):
+
+```py
+class Solution:
+    def isAlienSorted(self, words: List[str], order: str) -> bool:
+        return words == sorted(words, key=lambda word: [order.index(word[i]) for i in range(len(word))])
+```
 
 - <time>Jun 08, 2023</time> Finished [Is Object Empty](https://leetcode.com/problems/is-object-empty/):
 
