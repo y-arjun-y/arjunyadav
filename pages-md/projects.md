@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jun 10, 2023</time> Polls!
+
 - <time>Jun 08, 2023</time> Checklist!
 
 - <time>Jun 01, 2023</time> Done (for now).
@@ -179,7 +181,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 09, 2023</time> Conducted more research.
+- <time>Jun 09, 2023-Jun 10, 2023</time> Conducted more research.
 
 - <time>Jun 08, 2023</time> Discussed about (a) moot.
 
@@ -297,6 +299,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 10, 2023</time> Oddly, a lot of work for this project today.
 
 - <time>May 29, 2023-Jun 09, 2023</time> Sent out message(s).
 
