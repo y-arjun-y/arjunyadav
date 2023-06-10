@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jun 09, 2023
+publish_date: Jun 10, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -737,6 +737,22 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 10, 2023</time> Finished [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/):
+
+```py
+class Solution:
+    def countBalls(self, lowLimit: int, highLimit: int) -> int:
+        dict_boxes = {}
+
+        for i in range(lowLimit, highLimit+1):
+            if sum([int(i) for i in list(str(i))]) in dict_boxes:
+                dict_boxes[sum([int(i) for i in list(str(i))])] += 1
+            else:
+                dict_boxes[sum([int(i) for i in list(str(i))])] = 1
+
+        return dict_boxes[max(dict_boxes, key=dict_boxes.get)]
+```
 
 - <time>Jun 09, 2023</time> Finished [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) (finally!):
 
