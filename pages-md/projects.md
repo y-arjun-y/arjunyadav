@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jun 10, 2023
+publish_date: Jun 13, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -181,7 +181,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 09, 2023-Jun 10, 2023</time> Conducted more research.
+- <time>Jun 09, 2023-Jun 11, 2023</time> Conducted more research.
 
 - <time>Jun 08, 2023</time> Discussed about (a) moot.
 
@@ -299,6 +299,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 12, 2023</time> Some really great news about our webinar!
 
 - <time>Jun 10, 2023</time> Oddly, a lot of work for this project today.
 
