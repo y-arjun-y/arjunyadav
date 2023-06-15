@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jun 14, 2023
+publish_date: Jun 15, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -195,7 +195,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 12, 2023-Jun 14, 2023</time> Did some organisational work.
+- <time>Jun 12, 2023-Jun 15, 2023</time> Did some organisational work.
 
 - <time>Jun 09, 2023-Jun 11, 2023</time> Conducted more research.
 
@@ -759,6 +759,24 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 15, 2023</time> Finished [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/):
+
+```py
+class Solution:
+    def decrypt(self, code: List[int], k: int) -> List[int]:
+        if k == 0:
+            return [0]*len(code)
+        else:
+            code_modified = code*(abs(k)+1)
+            if k > 0:
+                return [sum(code_modified[i+1:i+1+k]) for i in range(len(code))]
+            else:
+                return [sum(code_modified[-len(code)+k+i:-len(code)+i]) for i in range(len(code))]
+
+
+
+```
 
 - <time>Jun 14, 2023</time> Finished [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/):
 
