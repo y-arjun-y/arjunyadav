@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jun 13, 2023
+publish_date: Jun 14, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -9,6 +9,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ### Active (6)
 
+- <a href="#ausresearch">AUS CSE Research Assistant</a>
 - <a href="#studencouncil12">Student Council - 12th + Head of Events</a>
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
@@ -78,6 +79,19 @@ Confused? See the <a href="#note">note</a> down below.
 ## Ongoing
 
 <hr />
+
+## <span id="ausresearch">AUS CSE Research Assistant</span>
+
+<small>Jun 12, 2023-present</small>  
+<small>Currently a research assistant for the computer science and engineering department at the American University of Sharjah.</small>
+
+<hr />
+
+#### Log
+
+- <time>Jun 12, 2023</time> First day! Learnt a lot about transformers
+
+![AUS.jpg](/AUS.jpg)
 
 ## <span id="studentcouncil12">Student Council - 12th + Head of Events</span>
 
@@ -180,6 +194,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 12, 2023-Jun 14, 2023</time> Did some organisational work.
 
 - <time>Jun 09, 2023-Jun 11, 2023</time> Conducted more research.
 
@@ -300,7 +316,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 12, 2023</time> Some really great news about our webinar!
+- <time>Jun 12, 2023-Jun 14, 2023</time> Some really great news about our webinar!
 
 - <time>Jun 10, 2023</time> Oddly, a lot of work for this project today.
 
@@ -743,6 +759,46 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 14, 2023</time> Finished [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/):
+
+```py
+class Solution:
+    def findNonMinOrMax(self, nums: List[int]) -> int:
+        nums = [i for i in nums if i != min(nums) and i != max(nums)]
+
+        if len(nums) == 0:
+            return -1
+        else:
+            return nums[0]
+```
+
+- <time>Jun 13, 2023</time> Finished [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/):
+
+```py
+class Solution:
+    def equalPairs(self, grid: List[List[int]]) -> int:
+        import numpy as np
+
+        grid = np.array(grid)
+        count = 0
+
+        for i in range(len(grid)):
+            for j in range(len(grid)):
+                if np.array_equal(grid[i], grid[:, j]):
+                    count += 1
+
+        return count
+
+```
+
+- <time>Jun 11, 2023</time> Finished [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/):
+
+```py
+class Solution:
+    def isFascinating(self, n: int) -> bool:
+        return sorted(str(n) + str(2*n) + str(3*n)) == ['1', '2', '3', '4', '5', '6', '7', '8', '9']
+```
 
 - <time>Jun 10, 2023</time> Finished [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/):
 

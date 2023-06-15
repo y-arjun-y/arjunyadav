@@ -671,7 +671,7 @@ Ranking the webpages on the internet based on of how _well connected_ they are i
 
 Say we had five pages connected like this:
 
-![PageRank Example](/pagerank.png)
+![PageRank Example](/PageRank.png)
 
 We can say that the probability vector for webpage A being clicked from web pages A, B, C, D and E are:
 
