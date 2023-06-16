@@ -195,7 +195,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 12, 2023-Jun 15, 2023</time> Did some organisational work.
+- <time>Jun 12, 2023-Jun 16, 2023</time> Did some organisational work.
 
 - <time>Jun 09, 2023-Jun 11, 2023</time> Conducted more research.
 
@@ -315,6 +315,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 15, 2023-Jun 16, 2023</time> Outreach, in the literal definition of the word.
 
 - <time>Jun 12, 2023-Jun 14, 2023</time> Some really great news about our webinar!
 
@@ -759,6 +761,24 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 16, 2023</time> Finished [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/):
+
+```py
+class Solution:
+    def numberOfMatches(self, n: int) -> int:
+        total_matches = 0
+
+        while n > 1:
+            if n % 2 == 0:
+                total_matches += (n // 2)
+                n = n // 2
+            else:
+                total_matches += (n - 1) // 2
+                n = ((n - 1) // 2) + 1
+
+        return total_matches
+```
 
 - <time>Jun 15, 2023</time> Finished [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/):
 
