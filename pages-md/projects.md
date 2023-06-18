@@ -102,6 +102,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jun 17, 2023 - Jun 18, 2023</time> Did some organisational work.
+
 - <time>Jun 10, 2023</time> Polls!
 
 - <time>Jun 08, 2023</time> Checklist!
@@ -315,6 +317,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 18, 2023</time> Did some organisational work.
 
 - <time>Jun 17, 2023</time> Webinar was a moderate success, and sent out some important messages!
 
@@ -763,6 +767,25 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 18, 2023</time> Finished [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/):
+
+```py
+class Solution:
+    def distanceTraveled(self, mainTank: int, additionalTank: int) -> int:
+        dist = 0
+
+        while mainTank > 0:
+            if mainTank >= 5 and additionalTank >= 1:
+                dist += 50
+                mainTank -= 4
+                additionalTank -= 1
+            else:
+                dist += 10
+                mainTank -= 1
+
+        return dist
+```
 
 - <time>Jun 16, 2023</time> Finished [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/):
 
