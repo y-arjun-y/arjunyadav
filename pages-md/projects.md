@@ -102,7 +102,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 17, 2023 - Jun 18, 2023</time> Did some organisational work.
+- <time>Jun 17, 2023-Jun 18, 2023</time> Did some organisational work.
 
 - <time>Jun 10, 2023</time> Polls!
 
