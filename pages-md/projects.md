@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jun 17, 2023
+publish_date: Jun 18, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -102,7 +102,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 17, 2023-Jun 18, 2023</time> Did some organisational work.
+- <time>Jun 17, 2023-Jun 18, 2023</time> Did some organisational work, lots of work for tomorrow!
 
 - <time>Jun 10, 2023</time> Polls!
 
@@ -196,6 +196,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 18, 2023</time> Got some really important discussions in.
 
 - <time>Jun 12, 2023-Jun 17, 2023</time> Did some organisational work.
 
