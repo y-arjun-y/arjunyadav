@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jun 18, 2023
+publish_date: Jun 20, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -769,6 +769,17 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 20, 2023</time> Finished [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/):
+
+```py
+class Solution:
+    def trimMean(self, arr: List[int]) -> float:
+        # Credit - https://leetcode.com/problems/mean-of-array-after-removing-some-elements/solutions/2344789/python-short-simple/
+        percentile = (5*len(arr)) // 100
+        arr.sort()
+        return sum(arr[percentile:len(arr)-percentile]) / (len(arr)-(percentile*2))
+```
 
 - <time>Jun 18, 2023</time> Finished [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/):
 
