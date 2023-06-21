@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jun 20, 2023
+publish_date: Jun 21, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -320,7 +320,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 18, 2023</time> Did some organisational work.
+- <time>Jun 18, 2023-Jun 21, 2023</time> Did some organisational work.
 
 - <time>Jun 17, 2023</time> Webinar was a moderate success, and sent out some important messages!
 
