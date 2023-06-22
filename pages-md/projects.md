@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jun 21, 2023
+publish_date: Jun 22, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -89,6 +89,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jun 22, 2023</time> Read two academic papers.
+
+- <time>Jun 21, 2023</time> Read three academic papers.
+
 - <time>Jun 12, 2023</time> First day! Learnt a lot about transformers
 
 ![AUS.jpg](/AUS.jpg)
@@ -102,7 +106,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 17, 2023-Jun 18, 2023</time> Did some organisational work, lots of work for tomorrow!
+- <time>Jun 19, 2023-Jun 21, 2023</time> Got it done.
+
+- <time>Jun 17, 2023-Jun 18, 2023</time> Did some organisational work, lots of work for this week!
 
 - <time>Jun 10, 2023</time> Polls!
 
@@ -196,6 +202,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 22, 2023</time> Had a really important meeting with a lawyer!
 
 - <time>Jun 18, 2023</time> Got some really important discussions in.
 
@@ -320,7 +328,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 18, 2023-Jun 21, 2023</time> Did some organisational work.
+- <time>Jun 18, 2023-Jun 22, 2023</time> Did some organisational work.
 
 - <time>Jun 17, 2023</time> Webinar was a moderate success, and sent out some important messages!
 
