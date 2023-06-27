@@ -786,6 +786,23 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jun 27, 2023</time> Finished [Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/):
+
+```py
+class Solution:
+    def countBeautifulPairs(self, nums: List[int]) -> int:
+        import math
+
+        count = 0
+
+        for i in range(len(nums)):
+            for j in range(i+1, len(nums)):
+                if math.gcd(int(str(nums[i])[0]), int(str(nums[j])[-1])) == 1:
+                    count += 1
+
+        return count
+```
+
 - <time>Jun 26, 2023</time> Finished [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/):
 
 ```py
