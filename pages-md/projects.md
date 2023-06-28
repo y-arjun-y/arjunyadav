@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jun 27, 2023
+publish_date: Jun 28, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -791,6 +791,27 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 28, 2023</time> Finished [DI String Match](https://leetcode.com/problems/di-string-match/):
+
+```py
+class Solution:
+    def diStringMatch(self, s: str) -> List[int]:
+        n = len(s)
+        lst = []
+        min = 0
+        max = n
+
+        for i in s:
+            if i == 'I':
+                lst.append(min)
+                min += 1
+            elif i == "D":
+                lst.append(max)
+                max -= 1
+
+        return lst + [min]
+```
 
 - <time>Jun 27, 2023</time> Finished [Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/):
 
