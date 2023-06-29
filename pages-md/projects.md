@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jun 28, 2023
+publish_date: Jun 29, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -209,7 +209,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 27, 2023</time> Emails!
+- <time>Jun 27, 2023-Jun 28, 2023</time> Emails!
 
 - <time>Jun 26, 2023</time> Got the discussion rolling again.
 
@@ -338,7 +338,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 27, 2023</time> Got started with the next steps.
+- <time>Jun 27, 2023-Jun 28, 2023</time> Got started with the next steps.
 
 - <time>Jun 26, 2023</time> Had the most productive meeting yet! Really excited to get a lot of work done for this project over the summer.
 
@@ -791,6 +791,41 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 29, 2023</time> Finished [Counter II](https://leetcode.com/problems/counter-ii/) (just to learn the syntax) and [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/):
+
+```py
+/**
+ * @param {string} val
+ * @return {Object}
+ */
+var expect = function(val) {
+    var val_1 = val;
+
+    return {
+        toBe: (val_2) => {
+            if (val_1 === val_2) {
+                return true;
+            } else {
+                throw "Not Equal";
+            }
+        },
+        notToBe: (val_2) => {
+             if (val !== val_2) {
+                return true;
+            } else {
+                throw "Equal";
+            }
+        }
+    }
+
+};
+
+/**
+ * expect(5).toBe(5); // true
+ * expect(5).notToBe(5); // throws "Equal"
+ */
+```
 
 - <time>Jun 28, 2023</time> Finished [DI String Match](https://leetcode.com/problems/di-string-match/):
 
