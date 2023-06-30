@@ -89,7 +89,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 25, 2023-Jun 26, 2023</time> Thoroughly went through a repository - really interesting stuff! Only one roadblock is the difference between two models, but I'm sure I'll figure that out tomorrow.
+- <time>Jun 30, 2023</time> Finished my notes on the repository and, in my efforts of trying to get the results on CIFAR-10, ran into a bug that I could not squash in time. Will continue tomorrow.
+
+- <time>Jun 25, 2023-Jun 27, 2023</time> Thoroughly went through a repository - really interesting stuff! Only one roadblock is the difference between two models, but I'm sure I'll figure that out tomorrow.
 
 - <time>Jun 22, 2023</time> Read two academic papers.
 
@@ -338,7 +340,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 29, 2023</time> Learnt something interesting!
+- <time>Jun 29, 2023-Jun 30, 2023</time> Learnt something interesting!
 
 - <time>Jun 27, 2023-Jun 28, 2023</time> Got started with the next steps.
 
@@ -794,7 +796,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 30, 2023</time> Finished [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/):
+- <time>Jun 30, 2023</time> Finished [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/ ):
 
 ```py
 # Write your MySQL query statement below
