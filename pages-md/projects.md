@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jun 29, 2023
+publish_date: Jun 30, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -793,6 +793,13 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 30, 2023</time> Finished [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/):
+
+```py
+# Write your MySQL query statement below
+SELECT a.query_name, ROUND(AVG(a.rating / a.position), 2) as quality, ROUND(((SELECT COUNT(b.query_name) FROM Queries b WHERE rating < 3 AND a.query_name = b.query_name) / COUNT(a.query_name)) * 100, 2) as poor_query_percentage FROM Queries a GROUP BY a.query_name;
+```
 
 - <time>Jun 29, 2023</time> Finished [Counter II](https://leetcode.com/problems/counter-ii/) (just to learn the syntax) and [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/):
 
