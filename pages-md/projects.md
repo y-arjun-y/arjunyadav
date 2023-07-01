@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jun 30, 2023
+publish_date: Jul 01, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -796,7 +796,14 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 30, 2023</time> Finished [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/ ):
+- <time>Jul 01, 2023</time> Finished [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/):
+
+```py
+# Write your MySQL query statement below
+SELECT a.employee_id FROM Employees a WHERE (SELECT COUNT(employee_id) FROM Employees WHERE employee_id = a.manager_id) = 0 AND a.salary < 30000 AND a.manager_id IS NOT NULL ORDER BY employee_id;
+```
+
+- <time>Jun 30, 2023</time> Finished [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/):
 
 ```py
 # Write your MySQL query statement below
