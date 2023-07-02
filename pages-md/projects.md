@@ -798,6 +798,13 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jul 02, 2023</time> Finished [Students and Examinations](https://leetcode.com/problems/students-and-examinations):
+
+```sql
+# Write your MySQL query statement below
+SELECT s.student_id, student_name, su.subject_name, (SELECT COUNT(*) FROM Examinations e WHERE e.student_id = s.student_id AND e.subject_name = su.subject_name) as attended_exams FROM Students s JOIN Subjects su ORDER BY student_id, subject_name;
+```
+
 - <time>Jul 01, 2023</time> Finished [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/):
 
 ```py
