@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 01, 2023
+publish_date: Jul 02, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -88,6 +88,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 01, 2023</time> More time needed.
 
 - <time>Jun 30, 2023</time> Finished my notes on the repository and, in my efforts of trying to get the results on CIFAR-10, ran into a bug that I could not squash in time. Will continue tomorrow.
 
