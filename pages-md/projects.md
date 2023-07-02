@@ -89,6 +89,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jul 02, 2023</time> Closer.
+
 - <time>Jul 01, 2023</time> More time needed.
 
 - <time>Jun 30, 2023</time> Finished my notes on the repository and, in my efforts of trying to get the results on CIFAR-10, ran into a bug that I could not squash in time. Will continue tomorrow.
