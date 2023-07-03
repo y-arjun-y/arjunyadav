@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 02, 2023
+publish_date: Jul 03, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -799,6 +799,27 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 03, 2023</time> Finished [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/), honestly, original solution should have worked:
+
+```py
+class Solution:
+    def countTriples(self, n: int) -> int:
+        def count(n, li=1):
+            if n == 1 or n == 2 or n == 3 or n == 4:
+                return 0
+
+            count_i = 0
+
+            for i in range(li, n+1):
+                for j in range(i+1, n+1):
+                    if (i**2) + (j**2) == n**2:
+                        count_i += 1
+
+            return (count_i*2) + count(n-1, last_i)
+
+        return count(n)
+```
 
 - <time>Jul 02, 2023</time> Finished [Students and Examinations](https://leetcode.com/problems/students-and-examinations):
 
