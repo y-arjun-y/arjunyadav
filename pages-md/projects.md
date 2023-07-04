@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 03, 2023
+publish_date: Jul 04, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -799,6 +799,13 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 04, 2023</time> Finished [Average Selling Price](https://leetcode.com/problems/average-selling-price/):
+
+```sql
+# Write your MySQL query statement below
+SELECT p.product_id, ROUND(SUM(p.price * u.units) / SUM(u.units), 2) as average_price FROM UnitsSold u, Prices p WHERE u.product_id = p.product_id AND u.purchase_date BETWEEN p.start_date AND p.end_date GROUP BY u.product_id;
+```
 
 - <time>Jul 03, 2023</time> Finished [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/), honestly, original solution should have worked:
 
