@@ -27,8 +27,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
 
-### Done (32)
+### Done (33)
 
+- <a href="#gfsmun2023">GFSMUN 2023</a>
 - <a href="#ygss2023">YGSS 2023</a>
 - <a href="#freecodecamp">freeCodeCamp</a>
 - <a href="#nationalmathscompetition">National Maths Competition</time>
@@ -10365,6 +10366,19 @@ function getCount(str) {
 <hr />
 
 ## Done
+
+<hr />
+
+## <span id="gfsmun2023">GFSMUN 2023</span>
+
+<small>Jun 23, 2022-Jun 25, 2023</small>  
+<small>Attended GFSMUN 2023 as part of my school team, and won best speaker!</small>
+
+#### Summary
+
+From ditching a portion of the first day (and missing my chance for a GSL) for prom to the odd crisis where I became Mark Zuckerberg to me beefing with the delegate of Nigeria (who won best delegate, well deserved!), GFSMUN III and the United Nations Office for Outer Space Affairs was one heck of a MUN and committee respectively. Shout out to my incredible chairs (who nit-picked on the number of hours I stated on my first position paper lol)
+
+![GFSMUN III](/gfsmuniii.jpeg)
 
 <hr />
 
