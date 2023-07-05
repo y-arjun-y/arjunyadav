@@ -114,6 +114,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jul 04, 2023</time> Helped to get a message out.
+
 - <time>Jun 27, 2023-Jun 29, 2023</time> Jackets!
 
 - <time>Jun 26, 2023</time> Did some organisational work.
@@ -214,6 +216,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 04, 2023</time> Got some discussions in.
 
 - <time>Jun 27, 2023-Jun 29, 2023</time> Emails!
 
@@ -343,6 +347,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 04, 2023</time> Continued with my tasks assigned to me.
 
 - <time>Jun 29, 2023-Jun 30, 2023</time> Learnt something interesting!
 
