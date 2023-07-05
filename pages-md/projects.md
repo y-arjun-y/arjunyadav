@@ -806,6 +806,13 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jul 05, 2023</time> Finished [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/):
+
+```sql
+# Write your MySQL query statement below
+SELECT DISTINCT product_name, (SELECT SUM(unit) FROM Orders o WHERE o.product_id = p.product_id AND MONTH(order_date) = 2) as unit FROM Products p, Orders o WHERE p.product_id = o.product_id AND (SELECT SUM(unit) FROM Orders o WHERE o.product_id = p.product_id AND MONTH(order_date) = 2) >= 100;
+```
+
 - <time>Jul 04, 2023</time> Finished [Average Selling Price](https://leetcode.com/problems/average-selling-price/):
 
 ```sql
