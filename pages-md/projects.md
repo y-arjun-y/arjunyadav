@@ -7,7 +7,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (7)
+### Active (6)
 
 - <a href="#ausresearch">AUS CSE Research Assistant</a>
 - <a href="#studencouncil12">Student Council - 12th + Head of Events</a>
