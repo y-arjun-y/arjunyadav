@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 05, 2023
+publish_date: Jul 06, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -812,6 +812,13 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 06, 2023</time> Finished [Project Employees I](https://leetcode.com/problems/project-employees-i/):
+
+```sql
+# Write your MySQL query statement below
+SELECT project_id, ROUND(SUM(experience_years) / COUNT(name), 2) AS average_years FROM Project NATURAL JOIN Employee GROUP BY project_id;
+```
 
 - <time>Jul 05, 2023</time> Finished [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/):
 
