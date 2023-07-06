@@ -7,7 +7,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (6)
+### Active (7)
 
 - <a href="#ausresearch">AUS CSE Research Assistant</a>
 - <a href="#studencouncil12">Student Council - 12th + Head of Events</a>
@@ -90,6 +90,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jul 06, 2023</time> I did it! Finally got some results on ImageNette (a smaller version of ImageNet) and while they're not very good, at least I'm somewhere tangible now!
+
 - <time>Jul 05, 2023</time> So close.
 
 - <time>Jul 02, 2023</time> Closer.
@@ -117,7 +119,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 04, 2023</time> Helped to get a message out.
+- <time>Jul 04, 2023-Jul 05, 2023</time> Helped to get a message out.
 
 - <time>Jun 27, 2023-Jun 29, 2023</time> Jackets!
 
@@ -219,6 +221,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 06, 2023</time> Really productive day, a certain social media competition coming soon!
 
 - <time>Jul 05, 2023</time> Messages!
 
@@ -352,6 +356,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 06, 2023</time> Got a discussion going upon sending a EA Forum post.
 
 - <time>Jul 05, 2023</time> Meeting scheduled!
 
