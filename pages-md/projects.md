@@ -90,6 +90,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jul 07, 2023</time> Need to train it on the larger dataset tomorrow, had some troubles with it today.
+
 - <time>Jul 06, 2023</time> I did it! Finally got some results on ImageNette (a smaller version of ImageNet) and while they're not very good, at least I'm somewhere tangible now!
 
 - <time>Jul 05, 2023</time> So close.
@@ -221,6 +223,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 07, 2023</time> Sent the guidelines.
 
 - <time>Jul 06, 2023</time> Really productive day, a certain social media competition coming soon!
 
@@ -356,6 +360,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 07, 2023</time> Really fruitful meeting!
 
 - <time>Jul 06, 2023</time> Got a discussion going upon sending a EA Forum post.
 
