@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 06, 2023
+publish_date: Jul 07, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -818,6 +818,15 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 07, 2023</time> Finished [Swap Salary](https://leetcode.com/problems/swap-salary/):
+
+```sql
+# Write your MySQL query statement below
+UPDATE Salary SET sex = CASE WHEN sex = 'f' THEN 'm'
+                        WHEN sex = 'm' THEN 'f'
+END;
+```
 
 - <time>Jul 06, 2023</time> Finished [Project Employees I](https://leetcode.com/problems/project-employees-i/):
 
