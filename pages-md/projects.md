@@ -137,6 +137,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jul 08, 2023</time> Training, will see its results by tonight (hopefully, else it might time out)
+
 - <time>Jul 07, 2023</time> Need to train it on the larger dataset tomorrow, had some troubles with it today.
 
 - <time>Jul 06, 2023</time> I did it! Finally got some results on ImageNette (a smaller version of ImageNet) and while they're not very good, at least I'm somewhere tangible now!
@@ -273,7 +275,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 07, 2023</time> Sent the guidelines.
+- <time>Jul 07, 2023-Jul 08, 2023</time> Sent the guidelines.
 
 - <time>Jul 06, 2023</time> Really productive day, a certain social media competition coming soon!
 
@@ -845,6 +847,13 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 08, 2023</time> Finished [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/):
+
+```sql
+# Write your MySQL query statement below
+SELECT player_id, MIN(event_date) as first_login FROM Activity GROUP BY player_id;
+```
 
 - <time>Jul 07, 2023</time> Finished [Swap Salary](https://leetcode.com/problems/swap-salary/):
 
