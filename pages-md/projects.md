@@ -105,7 +105,7 @@ Confused? See the <a href="#note">note</a> down below.
 ## <span id="oceanbuster">Ocean Buster</span>
 
 <small>Jul 08, 2023-present</small>  
-<small>Currently a blog writer and editor at Ocean Buster, an new organisation dedicated to effectively tackling ocean pollution.</small>
+<small>Currently a blog writer and editor at Ocean Buster, a new organisation dedicated to effectively tackling ocean pollution.</small>
 
 <hr />
 
@@ -8781,6 +8781,7 @@ class Solution:
 
 ## Occasional
 
+<hr />
 ## <span id="coldtakesbetareading">[Cold Takes](https://www.cold-takes.com/) Beta Reading</span>
 
 <small>Jan 20, 2022-present</small>  
@@ -14898,6 +14899,7 @@ category=android.intent.category.DEFAULT
 
 ## Abandoned
 
+<hr />
 ## <span id="agisf">AGI Safety Fundamentals: Technical Track</span>
 
 <small>Sep 02, 2022-Sep 09, 2023</small>  
