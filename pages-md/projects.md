@@ -1,34 +1,37 @@
 ---
 title: Projects
-publish_date: Jul 07, 2023
+publish_date: Jul 08, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
 ## Table of Contents
 
-### Active (6)
+### Active (8)
 
+- <a href="#solaris-3">SOLARIS (Third Edition)</a>
+- <a href="#oceanbuster">Ocean Buster</a>
+- <a href="#tedx2023">TEDxYouth@DPSS 2023</a>
 - <a href="#ausresearch">AUS CSE Research Assistant</a>
 - <a href="#studencouncil12">Student Council - 12th + Head of Events</a>
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
-- <a href="#coldtakesbetareading">Cold Takes Beta Reading</a> (O)
 - <a href="#leetcode">LeetCode</a>
 
-### Inactive/Paused (8)
+### Occasional (2)
+
+- <a href="#coldtakesbetareading">Cold Takes Beta Reading</a>
+- <a href="#drums">Drums</a>
+
+### Inactive (3)
 
 - <a href="#codewars">Codewars</a>
-- <a href="#solaris-2">SOLARIS (Second Edition)</a>
-- <a href="#drums">Drums</a>
 - <a href="#chess">Chess</a>
-- <a href="#agisf">AGI Safety Fundamentals: Technical Track</a>
 - <a href="#guitar">Guitar</a>
-- <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
-- <a href="#fastai">fast.ai</a>
 
-### Done (33)
+### Done (34)
 
+- <a href="#solaris-2">SOLARIS (Second Edition)</a>
 - <a href="#gfsmun2023">GFSMUN 2023</a>
 - <a href="#ygss2023">YGSS 2023</a>
 - <a href="#freecodecamp">freeCodeCamp</a>
@@ -62,6 +65,13 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#eabristol">EA Bristol Website Re-design</a>
 - <a href="#eaindepth">Effective Altruism In-Depth Fellowship</a>
 - <a href="#eaglobal2021">EA Global: London 2021</a>
+
+### Abandoned (3)
+
+- <a href="#agisf">AGI Safety Fundamentals: Technical Track</a>
+- <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
+- <a href="#fastai">fast.ai</a>
+
 <hr /> 
 F - Friday, Sa - Saturday, S - Sunday, O - Occasional
 <hr />
@@ -77,7 +87,44 @@ F - Friday, Sa - Saturday, S - Sunday, O - Occasional
 Confused? See the <a href="#note">note</a> down below.
 <hr />
 
-## Ongoing
+## Active
+
+<hr />
+
+## <span id="solaris-3">SOLARIS (Third Edition)</span>
+
+<small>Jul 08, 2023-present</small>  
+<small>One last rodeo this summer! Excited to be teaching our ten incredible students.</small>
+
+<hr />
+
+- <time>Jul 08, 2023</time> With all the prep work out of the way, just a couple days left before the first class!
+
+<hr />
+
+## <span id="oceanbuster">Ocean Buster</span>
+
+<small>Jul 08, 2023-present</small>  
+<small>Currently a blog writer and editor at Ocean Buster, an new organisation dedicated to effectively tackling ocean pollution.</small>
+
+<hr />
+
+#### Log
+
+- <time>Jul 08, 2023</time> Got accepted! Interesting to see where this project goes (especially considering my Cold Takes project has been inactive for about half a year).
+
+<hr />
+
+## <span id="tedx2023">TEDxYouth@DPSS 2023</span>
+
+<small>Jul 08, 2023-present</small>  
+<small>1/3 of the event organisers for our school's second TEDx!</small>
+
+<hr />
+
+#### Log
+
+- <time>Jul 08, 2023</time> From a rocky start (with me sending out a pretty poorly worded message out) to getting settled in to the role to forming our incredible two teams leaves us at this moment right now: with about two months left for the event, things are going to start picking up a lot of momentum now!
 
 <hr />
 
@@ -111,6 +158,8 @@ Confused? See the <a href="#note">note</a> down below.
 - <time>Jun 12, 2023</time> First day! Learnt a lot about transformers
 
 ![AUS.jpg](/AUS.jpg)
+
+<hr />
 
 ## <span id="studentcouncil12">Student Council - 12th + Head of Events</span>
 
@@ -786,34 +835,6 @@ Confused? See the <a href="#note">note</a> down below.
 - <time>Jul 05, 2022</time> Learnt about operations, modulus and dot product.
 
 - <time>Jul 04, 2022</time> Got started with the course!
-<hr />
-
-## <span id="coldtakesbetareading">[Cold Takes](https://www.cold-takes.com/) Beta Reading</span>
-
-<small>Jan 20, 2022-present</small>  
-<small>I got accepted to beta read Holden Karnofsky's articles for his blog, Cold Takes. Trying to be as useful as I can be! Note that I only update this log when I fully finish proof-reading and when the post has been published. Currently an occasional project.</small>
-
-<hr />
-
-#### Log
-
-- <time>Jan 09, 2023</time> Finished my eighth proof-reading. The link to the post will be [here](https://www.cold-takes.com/spreading-messages-to-help-with-the-most-important-century/) once done.
-
-- <time>Dec 16, 2022</time> Finished my seventh proof-reading (possibly my last for this year - so grateful to have been a part of this). The link to the post will be [here](https://www.cold-takes.com/transformative-ai-issues-not-just-misalignment-an-overview/) once done.
-
-- <time>Oct 12, 2022</time> Finished my sixth proof-reading (although I unfortunately missed the deadline by a bit). The link to the post will be [here](https://www.cold-takes.com/high-level-hopes-for-ai-alignment/) once done.
-
-- <time>Sep 08, 2022</time> Finished my fifth proof-reading. The link to the post will be [here](https://www.cold-takes.com/why-would-ai-aim-to-defeat-humanity/) once done.
-
-- <time>Sep 05, 2022</time> Along with other beta-readers, I got appreciated in [the latest Cold Takes post](https://www.cold-takes.com/beta-readers-are-great/)!
-
-- <time>May 25, 2022</time> Been a while, but finished my fourth proof-reading. The link to the post will be [here](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/) once done.
-
-- <time>Feb 20, 2022</time> Finished my third proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/debating-myself-on-whether-extra-lives-lived-are-as-good-as-deaths-prevented/) once done.
-
-- <time>Feb 04, 2022</time> Finished my second proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/defending-one-dimensional-ethics/) once done.
-
-- <time>Jan 20, 2022</time> Got accepted (!) and finished proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/future-proof-ethics/) when it's done (for privacy reasons).
 <hr />
 
 ## <span id="leetcode">[LeetCode](https://leetcode.com/y-arjun-y/)</span>
@@ -8758,7 +8779,64 @@ class Solution:
 - <time>Nov 13, 2021</time> Completed a few easy problems, but had to look at the solution for all of them.
 <hr />
 
-## Inactive/Paused
+## Occasional
+
+## <span id="coldtakesbetareading">[Cold Takes](https://www.cold-takes.com/) Beta Reading</span>
+
+<small>Jan 20, 2022-present</small>  
+<small>I got accepted to beta read Holden Karnofsky's articles for his blog, Cold Takes. Trying to be as useful as I can be! Note that I only update this log when I fully finish proof-reading and when the post has been published. Currently an occasional project.</small>
+
+<hr />
+
+#### Log
+
+- <time>Jan 09, 2023</time> Finished my eighth proof-reading. The link to the post will be [here](https://www.cold-takes.com/spreading-messages-to-help-with-the-most-important-century/) once done.
+
+- <time>Dec 16, 2022</time> Finished my seventh proof-reading (possibly my last for this year - so grateful to have been a part of this). The link to the post will be [here](https://www.cold-takes.com/transformative-ai-issues-not-just-misalignment-an-overview/) once done.
+
+- <time>Oct 12, 2022</time> Finished my sixth proof-reading (although I unfortunately missed the deadline by a bit). The link to the post will be [here](https://www.cold-takes.com/high-level-hopes-for-ai-alignment/) once done.
+
+- <time>Sep 08, 2022</time> Finished my fifth proof-reading. The link to the post will be [here](https://www.cold-takes.com/why-would-ai-aim-to-defeat-humanity/) once done.
+
+- <time>Sep 05, 2022</time> Along with other beta-readers, I got appreciated in [the latest Cold Takes post](https://www.cold-takes.com/beta-readers-are-great/)!
+
+- <time>May 25, 2022</time> Been a while, but finished my fourth proof-reading. The link to the post will be [here](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/) once done.
+
+- <time>Feb 20, 2022</time> Finished my third proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/debating-myself-on-whether-extra-lives-lived-are-as-good-as-deaths-prevented/) once done.
+
+- <time>Feb 04, 2022</time> Finished my second proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/defending-one-dimensional-ethics/) once done.
+
+- <time>Jan 20, 2022</time> Got accepted (!) and finished proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/future-proof-ethics/) when it's done (for privacy reasons).
+<hr />
+
+## <span id="drums">Drums</span>
+
+<small>Aug 02, 2022-present</small>  
+<small>Trying to get better every day and [have some fun as well](https://www.youtube.com/watch?v=Y2AEvI0z_ec). Currently an occasional project.</small>
+
+<hr />
+<small>Drums' start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Jul 08, 2023</time> Played some Radiohead songs. This is a lot more fun than I remember!
+
+- <time>Dec 20, 2022</time> Sort of messed around for a bit.
+
+- <time>Aug 13, 2022</time> Played [Fever by The Black Keys](https://www.youtube.com/watch?v=tk5m_TAD_AM).
+
+- <time>Aug 12, 2022</time> Played [I Want to Break Free by Queen](https://www.youtube.com/watch?v=wIqa9uVnXCQ).
+
+- <time>Aug 06, 2022</time> Finished learning Back in Black by AC/DC. The snare-kick-hi-hat pattern was the only thing I had to get down.
+
+- <time>Aug 04, 2022</time> Played [Back in Black by AC/DC](https://www.youtube.com/watch?v=pAgnJDJN4VA).
+
+- <time>Aug 02, 2022</time> Played [Yellow by Coldplay](https://www.youtube.com/watch?v=fviwj5P1FCc).
+
+<hr />
+
+## Inactive
 
 <hr />
 
@@ -9263,82 +9341,6 @@ function getCount(str) {
 
 <hr />
 
-## <span id="solaris-2">SOLARIS (Second Edition)</span>
-
-<small>Dec 24, 2022-present</small>  
-<small>Trying to co-run the second edition of a logic, rationality and Effective Altruism club that I co-founded. Currently inactive/paused.</small>
-
-<hr />
-
-#### Log
-
-- <time>Mar 16, 2023-Mar 18, 2023</time> Did some organisational work.
-
-- <time>Mar 15, 2023</time> Did some organisational work.
-
-- <time>Feb 01, 2023</time> Sent out my three capstone project reviews.
-
-- <time>Jan 27, 2023</time> Had the last meeting for a while, thus marking the end of this project (for now!)
-
-- <time>Jan 25, 2023</time> Scheduled the last meeting for a while.
-
-- <time>Jan 21, 2023</time> Finished reviewing two more capstone projects.
-
-- <time>Jan 20, 2023</time> Reviewed the first capstone project.
-
-- <time>Jan 18, 2023</time> Received capstone projects. Closing ceremony will be delayed but for now, will host an online meeting to discuss the projects.
-
-- <time>Jan 17, 2023</time> In discussion regarding the closing ceremony.
-
-- <time>Jan 16, 2023</time> In discussion regarding the closing ceremony.
-
-- <time>Jan 05, 2023-Jan 14, 2023</time> Did some more organisational work, held the last (technically fourth) day and sent out the capstone project submission form!
-
-- <time>Jan 04, 2023</time> Did some organisational work.
-
-- <time>Jan 03, 2023</time> Did some organisational work.
-
-- <time>Jan 02, 2023</time> Did some organisational work.
-
-- <time>Jan 01, 2023</time> Did some organisational work.
-
-- <time>Dec 31, 2022</time> Did some more organisational work. Here's to this project becoming even more ambitious in 2023!
-
-- <time>Dec 30, 2022</time> Did some organisational work in the morning, but I couldn't teach today's class due to internet issues. We'll be combining this session and the last day (which I feel is something we should do regardless).
-
-- <time>Dec 28, 2022</time> An okay third day, but this part of the syllabus really needs to be re-vamped.
-
-- <time>Dec 26, 2022</time> Second day went better than the first: espicially since we had really good debate responses and rebuttals.
-
-- <time>Dec 24, 2022</time> First day! Along with my co-facilitator, we gave a good overview about rationality.
-
-<hr />
-
-## <span id="drums">Drums</span>
-
-<small>Aug 02, 2022-present</small>  
-<small>Trying to get better every day and [have some fun as well](https://www.youtube.com/watch?v=Y2AEvI0z_ec). Currently inactive/paused.</small>
-
-<hr />
-<small>Drums' start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Dec 20, 2022</time> Sort of messed around for a bit.
-
-- <time>Aug 13, 2022</time> Played [Fever by The Black Keys](https://www.youtube.com/watch?v=tk5m_TAD_AM).
-
-- <time>Aug 12, 2022</time> Played [I Want to Break Free by Queen](https://www.youtube.com/watch?v=wIqa9uVnXCQ).
-
-- <time>Aug 06, 2022</time> Finished learning Back in Black by AC/DC. The snare-kick-hi-hat pattern was the only thing I had to get down.
-
-- <time>Aug 04, 2022</time> Played [Back in Black by AC/DC](https://www.youtube.com/watch?v=pAgnJDJN4VA).
-
-- <time>Aug 02, 2022</time> Played [Yellow by Coldplay](https://www.youtube.com/watch?v=fviwj5P1FCc).
-
-<hr />
-
 ## <span id="chess">[Chess](https://lichess.org/@/y_arjun_y)</span>
 
 <small>Oct 28, 2021-present</small>  
@@ -9818,20 +9820,6 @@ function getCount(str) {
 - <time>Oct 29, 2021</time> Kept resigning against Sven. Later in the day, I learnt about the [Scandinavian Defense](https://www.chess.com/openings/Scandinavian-Defense) and won against my dad with the white pieces via checkmate!
 
 - <time>Oct 28, 2021</time> Kept resigning against [Sven](https://chess.com/play/computer) and [finished the Assisted Checkmate lesson](https://www.chess.com/lessons/winning-the-game/assisted-checkmates).
-<hr />
-
-## <span id="agisf">AGI Safety Fundamentals: Technical Track</span>
-
-<small>Sep 02, 2022-present</small>  
-<small>Trying to learn as much as I can about AI safety in this fellowship! Currently paused (tough luck honestly, cohorts that I got accepted to clashed with important exams.)</small>
-
-<hr />
-
-#### Log
-
-- <time>Sep 09, 2022</time> Another great session with my cohort, though I don't know if I contributed that much to the conversation.
-
-- <time>Sep 02, 2022</time> Had a great first meeting with my cohort and did okay on the exercise questions.
 
 <hr />
 
@@ -10176,233 +10164,62 @@ function getCount(str) {
 - <time>Oct 29, 2021</time> Learnt about [up strums](https://www.justinguitar.com/guitar-lessons/all-about-up-strums-b1-306).
 <hr />
 
-## <span id="openresearchpaper">Maintaining the benefits of open research in AI</span>
+## Done
 
-<small>Aug 10, 2022-present</small>  
-<small>Trying to create a paper which presents a framework that protects the benefits of open research in AI. Inspired by [Toby Shevlane and Allan Dafoe's work](https://www.fhi.ox.ac.uk/wp-content/uploads/The-Offense-Defense-Balance-of-Scientific-Knowledge.pdf) as well as [Nick Bostrom's work](https://ora.ox.ac.uk/objects/uuid:83ea712f-aba3-4176-957a-3bb4af0209d6). Currently inactive/paused.</small>
+<hr />
+
+## <span id="solaris-2">SOLARIS (Second Edition)</span>
+
+<small>Dec 24, 2022-Jul 01, 2023</small>  
+<small>Trying to co-run the second edition of a logic, rationality and Effective Altruism club that I co-founded. Currently inactive/paused.</small>
 
 <hr />
 
 #### Log
 
-- <time>Aug 26, 2022</time> Continued writing the introduction.
+- <time>Jul 01, 2023</time> Sent out the certificates. See y'all for the last SOLARIS that I'll be facilitating!
 
-- <time>Aug 22, 2022</time> Continued writing the introduction.
+- <time>Mar 16, 2023-Mar 18, 2023</time> Did some organisational work.
 
-- <time>Aug 21, 2022</time> Added some citations.
+- <time>Mar 15, 2023</time> Did some organisational work.
 
-- <time>Aug 20, 2022</time> Continued writing the introduction.
+- <time>Feb 01, 2023</time> Sent out my three capstone project reviews.
 
-- <time>Aug 19, 2022</time> Continued writing the introduction, will take some more time.
+- <time>Jan 27, 2023</time> Had the last meeting for a while, thus marking the end of this project (for now!)
 
-- <time>Aug 18, 2022</time> Continued writing the introduction, nearly done (sort of).
+- <time>Jan 25, 2023</time> Scheduled the last meeting for a while.
 
-- <time>Aug 17, 2022</time> Didn't do much writing but that's alright.
+- <time>Jan 21, 2023</time> Finished reviewing two more capstone projects.
 
-- <time>Aug 16, 2022</time> Continued writing the introduction.
+- <time>Jan 20, 2023</time> Reviewed the first capstone project.
 
-- <time>Aug 15, 2022</time> Continued writing the introduction.
+- <time>Jan 18, 2023</time> Received capstone projects. Closing ceremony will be delayed but for now, will host an online meeting to discuss the projects.
 
-- <time>Aug 14, 2022</time> Continued writing the introduction.
+- <time>Jan 17, 2023</time> In discussion regarding the closing ceremony.
 
-- <time>Aug 13, 2022</time> Continued with reading.
+- <time>Jan 16, 2023</time> In discussion regarding the closing ceremony.
 
-- <time>Aug 12, 2022</time> Continued with reading.
+- <time>Jan 05, 2023-Jan 14, 2023</time> Did some more organisational work, held the last (technically fourth) day and sent out the capstone project submission form!
 
-- <time>Aug 11, 2022</time> Got started with some reading.
+- <time>Jan 04, 2023</time> Did some organisational work.
 
-- <time>Aug 10, 2022</time> Got started with the paper, will have to finish some reading tomorrow before continuing with the introduction. I hope to finish writing in about 3 months (and then get some feedback).
+- <time>Jan 03, 2023</time> Did some organisational work.
+
+- <time>Jan 02, 2023</time> Did some organisational work.
+
+- <time>Jan 01, 2023</time> Did some organisational work.
+
+- <time>Dec 31, 2022</time> Did some more organisational work. Here's to this project becoming even more ambitious in 2023!
+
+- <time>Dec 30, 2022</time> Did some organisational work in the morning, but I couldn't teach today's class due to internet issues. We'll be combining this session and the last day (which I feel is something we should do regardless).
+
+- <time>Dec 28, 2022</time> An okay third day, but this part of the syllabus really needs to be re-vamped.
+
+- <time>Dec 26, 2022</time> Second day went better than the first: espicially since we had really good debate responses and rebuttals.
+
+- <time>Dec 24, 2022</time> First day! Along with my co-facilitator, we gave a good overview about rationality.
 
 <hr />
-
-## <span id="fastai">[fast.ai](https://fast.ai)</span>
-
-<small>Mar 15, 2022-present</small>  
-<small>Trying to learn A.I. by leveraging pre-existing knowledge. Currently paused.</small>
-
-<hr />
-
-##### Log
-
-- <time>Jul 26, 2022</time> Well, it looks like they've [released a new version of the course for this year](https://course.fast.ai/) (looks pretty awesome). I'll be sure to come back to this project after my Coursera courses.
-
-- <time>Jul 21, 2022</time> Continued with Lesson 8.
-
-- <time>Jul 19, 2022</time> Continued with Lesson 8.
-
-- <time>Jul 18, 2022</time> Continued with Lesson 8.
-
-- <time>Jul 15, 2022</time> Continued with Lesson 8.
-
-- <time>Jul 08, 2022</time> About half way through with Lesson 8.
-
-- <time>Jul 06, 2022</time> Continued with Lesson 8.
-
-- <time>Jul 05, 2022</time> Continued with Lesson 8.
-
-- <time>Jul 04, 2022</time> Got started with [the last lesson for the foreseeable future](https://course.fast.ai/videos/?lesson=8).
-
-- <time>Jul 03, 2022</time> "Finished" with the Lesson 5 questionnaire.
-
-- <time>Jul 02, 2022</time> Continued with the Lesson 5 questionnaire.
-
-- <time>Jun 23, 2022</time> Got started with the Lesson 5 questionnaire.
-
-- <time>Jun 22, 2022</time> Finished with the Lesson 5 video, will try to finish the questionnaire by the end of this week.
-
-- <time>Jun 21, 2022</time> "Continued" with Lesson 5.
-
-- <time>Jun 20, 2022</time> "Continued" with Lesson 5.
-
-- <time>Jun 18, 2022</time> Continued with Lesson 5. ~15 minutes left so should finish up tomorrow.
-
-- <time>Jun 17, 2022</time> Continued with Lesson 5.
-
-- <time>Jun 16, 2022</time> "Continued" with Lesson 5.
-
-- <time>Jun 15, 2022</time> Continued with Lesson 5.
-
-- <time>Jun 14, 2022</time> Continued with Lesson 5.
-
-- <time>Jun 12, 2022</time> Continued with Lesson 5.
-
-- <time>Jun 11, 2022</time> Continued with Lesson 5.
-
-- <time>Jun 10, 2022</time> Continued with Lesson 5.
-
-- <time>Jun 09, 2022</time> Sort of got started with Lesson 5.
-
-- <time>Jun 08, 2022</time> "Finished" with the Lesson 4 questionnaire, will start [Lesson 5](https://course.fast.ai/videos/?lesson=5) tomorrow.
-
-- <time>Jun 07, 2022</time> Continued with the Lesson 4 questionnaire.
-
-- <time>Jun 06, 2022</time> Continued with the Lesson 4 questionnaire.
-
-- <time>Jun 04, 2022</time> Continued with the Lesson 4 questionnaire.
-
-- <time>Jun 03, 2022</time> Continued with the Lesson 4 questionnaire.
-
-- <time>Jun 02, 2022</time> Continued with the Lesson 4 questionnaire.
-
-- <time>Jun 01, 2022</time> Continued with the Lesson 4 questionnaire.
-
-- <time>May 31, 2022</time> Got started with the Lesson 4 questionnaire.
-
-- <time>May 28, 2022</time> Finished with the Lesson 4 video, will move on to the questionnaire.
-
-- <time>May 26, 2022</time> Continued with Lesson 4, nearly done. The [softmax function](https://deepai.org/machine-learning-glossary-and-terms/softmax-layer) is pretty awesome.
-
-- <time>May 25, 2022</time> Continued with Lesson 4.
-
-- <time>May 24, 2022</time> Continued with Lesson 4 by revising the notebook.
-
-- <time>May 23, 2022</time> Continued with Lesson 4.
-
-- <time>May 19, 2022</time> Continued with Lesson 4 (I definitely want to make SGD from scratch after this lesson as a recap exercise).
-
-- <time>May 18, 2022</time> "Continued" with Lesson 4 (just ran the cells I hadn't run during the video).
-
-- <time>May 16, 2022</time> Continued with Lesson 4.
-
-- <time>May 15, 2022</time> Continued with Lesson 4.
-
-- <time>May 13, 2022</time> Continued with Lesson 4, I was sort of leaving the notebook aside lol so I got to that.
-
-- <time>May 11, 2022</time> Continued with Lesson 4.
-
-- <time>May 09, 2022</time> Got started with [Lesson 4](https://course.fast.ai/videos/?lesson=4).
-
-- <time>May 08, 2022</time> Finished with the Lesson 3 questionnaire!
-
-- <time>May 05, 2022</time> Continued with the Lesson 3 questionnaire.
-
-- <time>May 04, 2022</time> Continued with the Lesson 3 questionnaire. [Broadcasting](https://numpy.org/doc/stable/user/basics.broadcasting.html) is pretty neat.
-
-- <time>May 03, 2022</time> Continued with the Lesson 3 questionnaire.
-
-- <time>May 02, 2022</time> Continued with the Lesson 3 questionnaire.
-
-- <time>May 01, 2022</time> Continued with the Lesson 3 questionnaire.
-
-- <time>Apr 29, 2022</time> Got started with the Lesson 3 questionnaire.
-
-- <time>Apr 27, 2022</time> Did some Microsoft admin work related to fast.ai.
-
-- <time>Apr 26, 2022</time> Finished with the Lesson 3 video, will start the questionnaire tomorrow.
-
-- <time>Apr 23, 2022</time> Continued with Lesson 3.
-
-- <time>Apr 21, 2022</time> Continued with Lesson 3. Didn't know that [gradient descent](https://towardsdatascience.com/gradient-descent-algorithm-a-deep-dive-cf04e8115f21) originated with Issac Newton.
-
-- <time>Apr 20, 2022</time> Continued with Lesson 3.
-
-- <time>Apr 19, 2022</time> Continued with Lesson 3.
-
-- <time>Apr 18, 2022</time> Continued with Lesson 3.
-
-- <time>Apr 17, 2022</time> Continued with Lesson 3. [I guess this page counts as blogging?](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045)
-
-- <time>Apr 16, 2022</time> Continued with Lesson 3.
-
-- <time>Apr 15, 2022</time> There were a few questions that I skipped (since I don't think they were discussed in Lesson 2) but other than that I've finished the questionnaire for Lesson 2! Will continue Lesson 3 tomorrow.
-
-- <time>Apr 14, 2022</time> Finished the project.
-
-- <time>Apr 13, 2022</time> Continued with the Lesson 2 questionnaire and [I've nearly finished with the project for Lesson 2](https://github.com/y-arjun-y/cloudclassifer) (it's a cloud classifier!)
-
-- <time>Apr 12, 2022</time> Continued with the Lesson 2 questionnaire.
-
-- <time>Apr 11, 2022</time> Lesson 3 will be on hold as I completely forgot about the questionnaire for Lesson 2! Got started with that.
-
-- <time>Apr 10, 2022</time> Continued with Lesson 3.
-
-- <time>Apr 09, 2022</time> Continued with Lesson 3, we created a small bear classifier app within the Jupyter Notebook which was awesome. I tried putting in a polar bear (we've only trained our model on grizzly bears, black bears and teddy bears) and I got back a prediction of grizzly bear with ~82% confidence. Hm.
-
-- <time>Apr 08, 2022</time> Continued with Lesson 3, the [ImageClassiferCleaner GUI](https://fastai1.fast.ai/widgets.image_cleaner.html) is awesomely cool. [Jupyter Notebook](https://jupyter.org/) is darn powerful.
-
-- <time>Apr 07, 2022</time> Got started with Lesson 3.
-
-- <time>Apr 06, 2022</time> Trained my model with the API key, will start Lesson 3 tomorrow.
-
-- <time>Apr 05, 2022</time> Got the API key!
-
-- <time>Apr 04, 2022</time> The replacement looks pretty complicated to set-up, so I might have to go through with Microsoft. Finished Lesson 2, will start [Lesson 3](https://course.fast.ai/videos/?lesson=3) after the Microsoft stuff.
-
-- <time>Apr 03, 2022</time> Found [a replacement for the Bing Search API](https://joedockrill.github.io/blog/projects/imagescraper/) through the [forums](https://forums.fast.ai/t/bing-account-expired-what-other-option/76856/4).
-
-- <time>Apr 02, 2022</time> Continued with Lesson 2. I now need to do admin stuff for the last few sections of Lesson 2 :(
-
-- <time>Apr 01, 2022</time> Continued with Lesson 2.
-
-- <time>Mar 31, 2022</time> Continued with Lesson 2, I was expecting P values to be this great statistical analysis tool, but nope.
-
-- <time>Mar 30, 2022</time> Continued with Lesson 2, Jeremy's example on [P values](https://www.investopedia.com/terms/p/p-value.asp) was incredible.
-
-- <time>Mar 24, 2022</time> Continued with Lesson 2. [Transfer learning](https://arxiv.org/pdf/1311.2901.pdf) is such a neat and efficient use of compute (time and computational resources).
-
-- <time>Mar 23, 2022</time> Continued with Lesson 2.
-
-- <time>Mar 22, 2022</time> Got started with [Lesson 2](http://course.fast.ai/videos/?lesson=2).
-
-- <time>Mar 21, 2022</time> Finished with Lesson 1's questions, will start [Lesson 2](https://course.fast.ai/videos?lesson=2) tomorrow.
-
-- <time>Mar 20, 2022</time> Continued with Lesson 1's questions, almost done!
-
-- <time>Mar 19, 2022</time> Finished with the Lesson 1 video and got started with the questions.
-
-- <time>Mar 18, 2022</time> Continued with Lesson 1.
-
-- <time>Mar 17, 2022</time> Continued with Lesson 1. We had to train a classifier that classified an image as a cat or a dog. I tried putting an image of a tiger and a wolf (which are technically a cat and a dog respectively but not really) and it actually gave true and false for the question "Is this image a cat?" respectively!
-
-- <time>Mar 16, 2022</time> Continued with [Lesson 1](http://course.fast.ai/videos/?lesson=1) and got the [fastbook](https://github.com/fastai/fastbook) setup.
-
-- <time>Mar 15, 2022</time> Got started with [Practical Deep Learning for Coders](https://course.fast.ai/). Really excited!
-<hr />
-
-## Done
-
-<hr />
-
 ## <span id="gfsmun2023">GFSMUN 2023</span>
 
 <small>Jun 23, 2022-Jun 25, 2023</small>  
@@ -15077,6 +14894,246 @@ category=android.intent.category.DEFAULT
 #### Log
 
 - <time>Oct 30, 2021</time> It was great seeing both [Benjamin Todd](https://benjamintodd.org/) and [William MacAskill](https://www.williammacaskill.com/) (albeit virtually) talk in such an in-depth manner. One day, I'll hopefully go for one physically!
+<hr />
+
+## Abandoned
+
+## <span id="agisf">AGI Safety Fundamentals: Technical Track</span>
+
+<small>Sep 02, 2022-Sep 09, 2023</small>  
+<small>Trying to learn as much as I can about AI safety in this fellowship! Currently abandoned (tough luck honestly, the cohorts that I get accepted to always seem to clash with important exams).</small>
+
+<hr />
+
+#### Log
+
+- <time>Sep 09, 2022</time> Another great session with my cohort, though I don't know if I contributed that much to the conversation.
+
+- <time>Sep 02, 2022</time> Had a great first meeting with my cohort and did okay on the exercise questions.
+
+<hr />
+
+## <span id="openresearchpaper">Maintaining the benefits of open research in AI</span>
+
+<small>Aug 10, 2022-Aug 26, 2022</small>  
+<small>Trying to create a paper which presents a framework that protects the benefits of open research in AI. Inspired by [Toby Shevlane and Allan Dafoe's work](https://www.fhi.ox.ac.uk/wp-content/uploads/The-Offense-Defense-Balance-of-Scientific-Knowledge.pdf) as well as [Nick Bostrom's work](https://ora.ox.ac.uk/objects/uuid:83ea712f-aba3-4176-957a-3bb4af0209d6). Currently abandonded (though honestly, I might revist this after my AUS research post has concluded).</small>
+
+<hr />
+
+#### Log
+
+- <time>Aug 26, 2022</time> Continued writing the introduction.
+
+- <time>Aug 22, 2022</time> Continued writing the introduction.
+
+- <time>Aug 21, 2022</time> Added some citations.
+
+- <time>Aug 20, 2022</time> Continued writing the introduction.
+
+- <time>Aug 19, 2022</time> Continued writing the introduction, will take some more time.
+
+- <time>Aug 18, 2022</time> Continued writing the introduction, nearly done (sort of).
+
+- <time>Aug 17, 2022</time> Didn't do much writing but that's alright.
+
+- <time>Aug 16, 2022</time> Continued writing the introduction.
+
+- <time>Aug 15, 2022</time> Continued writing the introduction.
+
+- <time>Aug 14, 2022</time> Continued writing the introduction.
+
+- <time>Aug 13, 2022</time> Continued with reading.
+
+- <time>Aug 12, 2022</time> Continued with reading.
+
+- <time>Aug 11, 2022</time> Got started with some reading.
+
+- <time>Aug 10, 2022</time> Got started with the paper, will have to finish some reading tomorrow before continuing with the introduction. I hope to finish writing in about 3 months (and then get some feedback).
+
+<hr />
+
+## <span id="fastai">[fast.ai](https://fast.ai)</span>
+
+<small>Mar 15, 2022-Jul 26, 2022</small>  
+<small>Trying to learn A.I. by leveraging pre-existing knowledge. This project got abandoned, don't think I'll be revisting it as I've acquired ML knowledge elsewhere.</small>
+
+<hr />
+
+##### Log
+
+- <time>Jul 26, 2022</time> Well, it looks like they've [released a new version of the course for this year](https://course.fast.ai/) (looks pretty awesome). I'll be sure to come back to this project after my Coursera courses.
+
+- <time>Jul 21, 2022</time> Continued with Lesson 8.
+
+- <time>Jul 19, 2022</time> Continued with Lesson 8.
+
+- <time>Jul 18, 2022</time> Continued with Lesson 8.
+
+- <time>Jul 15, 2022</time> Continued with Lesson 8.
+
+- <time>Jul 08, 2022</time> About half way through with Lesson 8.
+
+- <time>Jul 06, 2022</time> Continued with Lesson 8.
+
+- <time>Jul 05, 2022</time> Continued with Lesson 8.
+
+- <time>Jul 04, 2022</time> Got started with [the last lesson for the foreseeable future](https://course.fast.ai/videos/?lesson=8).
+
+- <time>Jul 03, 2022</time> "Finished" with the Lesson 5 questionnaire.
+
+- <time>Jul 02, 2022</time> Continued with the Lesson 5 questionnaire.
+
+- <time>Jun 23, 2022</time> Got started with the Lesson 5 questionnaire.
+
+- <time>Jun 22, 2022</time> Finished with the Lesson 5 video, will try to finish the questionnaire by the end of this week.
+
+- <time>Jun 21, 2022</time> "Continued" with Lesson 5.
+
+- <time>Jun 20, 2022</time> "Continued" with Lesson 5.
+
+- <time>Jun 18, 2022</time> Continued with Lesson 5. ~15 minutes left so should finish up tomorrow.
+
+- <time>Jun 17, 2022</time> Continued with Lesson 5.
+
+- <time>Jun 16, 2022</time> "Continued" with Lesson 5.
+
+- <time>Jun 15, 2022</time> Continued with Lesson 5.
+
+- <time>Jun 14, 2022</time> Continued with Lesson 5.
+
+- <time>Jun 12, 2022</time> Continued with Lesson 5.
+
+- <time>Jun 11, 2022</time> Continued with Lesson 5.
+
+- <time>Jun 10, 2022</time> Continued with Lesson 5.
+
+- <time>Jun 09, 2022</time> Sort of got started with Lesson 5.
+
+- <time>Jun 08, 2022</time> "Finished" with the Lesson 4 questionnaire, will start [Lesson 5](https://course.fast.ai/videos/?lesson=5) tomorrow.
+
+- <time>Jun 07, 2022</time> Continued with the Lesson 4 questionnaire.
+
+- <time>Jun 06, 2022</time> Continued with the Lesson 4 questionnaire.
+
+- <time>Jun 04, 2022</time> Continued with the Lesson 4 questionnaire.
+
+- <time>Jun 03, 2022</time> Continued with the Lesson 4 questionnaire.
+
+- <time>Jun 02, 2022</time> Continued with the Lesson 4 questionnaire.
+
+- <time>Jun 01, 2022</time> Continued with the Lesson 4 questionnaire.
+
+- <time>May 31, 2022</time> Got started with the Lesson 4 questionnaire.
+
+- <time>May 28, 2022</time> Finished with the Lesson 4 video, will move on to the questionnaire.
+
+- <time>May 26, 2022</time> Continued with Lesson 4, nearly done. The [softmax function](https://deepai.org/machine-learning-glossary-and-terms/softmax-layer) is pretty awesome.
+
+- <time>May 25, 2022</time> Continued with Lesson 4.
+
+- <time>May 24, 2022</time> Continued with Lesson 4 by revising the notebook.
+
+- <time>May 23, 2022</time> Continued with Lesson 4.
+
+- <time>May 19, 2022</time> Continued with Lesson 4 (I definitely want to make SGD from scratch after this lesson as a recap exercise).
+
+- <time>May 18, 2022</time> "Continued" with Lesson 4 (just ran the cells I hadn't run during the video).
+
+- <time>May 16, 2022</time> Continued with Lesson 4.
+
+- <time>May 15, 2022</time> Continued with Lesson 4.
+
+- <time>May 13, 2022</time> Continued with Lesson 4, I was sort of leaving the notebook aside lol so I got to that.
+
+- <time>May 11, 2022</time> Continued with Lesson 4.
+
+- <time>May 09, 2022</time> Got started with [Lesson 4](https://course.fast.ai/videos/?lesson=4).
+
+- <time>May 08, 2022</time> Finished with the Lesson 3 questionnaire!
+
+- <time>May 05, 2022</time> Continued with the Lesson 3 questionnaire.
+
+- <time>May 04, 2022</time> Continued with the Lesson 3 questionnaire. [Broadcasting](https://numpy.org/doc/stable/user/basics.broadcasting.html) is pretty neat.
+
+- <time>May 03, 2022</time> Continued with the Lesson 3 questionnaire.
+
+- <time>May 02, 2022</time> Continued with the Lesson 3 questionnaire.
+
+- <time>May 01, 2022</time> Continued with the Lesson 3 questionnaire.
+
+- <time>Apr 29, 2022</time> Got started with the Lesson 3 questionnaire.
+
+- <time>Apr 27, 2022</time> Did some Microsoft admin work related to fast.ai.
+
+- <time>Apr 26, 2022</time> Finished with the Lesson 3 video, will start the questionnaire tomorrow.
+
+- <time>Apr 23, 2022</time> Continued with Lesson 3.
+
+- <time>Apr 21, 2022</time> Continued with Lesson 3. Didn't know that [gradient descent](https://towardsdatascience.com/gradient-descent-algorithm-a-deep-dive-cf04e8115f21) originated with Issac Newton.
+
+- <time>Apr 20, 2022</time> Continued with Lesson 3.
+
+- <time>Apr 19, 2022</time> Continued with Lesson 3.
+
+- <time>Apr 18, 2022</time> Continued with Lesson 3.
+
+- <time>Apr 17, 2022</time> Continued with Lesson 3. [I guess this page counts as blogging?](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045)
+
+- <time>Apr 16, 2022</time> Continued with Lesson 3.
+
+- <time>Apr 15, 2022</time> There were a few questions that I skipped (since I don't think they were discussed in Lesson 2) but other than that I've finished the questionnaire for Lesson 2! Will continue Lesson 3 tomorrow.
+
+- <time>Apr 14, 2022</time> Finished the project.
+
+- <time>Apr 13, 2022</time> Continued with the Lesson 2 questionnaire and [I've nearly finished with the project for Lesson 2](https://github.com/y-arjun-y/cloudclassifer) (it's a cloud classifier!)
+
+- <time>Apr 12, 2022</time> Continued with the Lesson 2 questionnaire.
+
+- <time>Apr 11, 2022</time> Lesson 3 will be on hold as I completely forgot about the questionnaire for Lesson 2! Got started with that.
+
+- <time>Apr 10, 2022</time> Continued with Lesson 3.
+
+- <time>Apr 09, 2022</time> Continued with Lesson 3, we created a small bear classifier app within the Jupyter Notebook which was awesome. I tried putting in a polar bear (we've only trained our model on grizzly bears, black bears and teddy bears) and I got back a prediction of grizzly bear with ~82% confidence. Hm.
+
+- <time>Apr 08, 2022</time> Continued with Lesson 3, the [ImageClassiferCleaner GUI](https://fastai1.fast.ai/widgets.image_cleaner.html) is awesomely cool. [Jupyter Notebook](https://jupyter.org/) is darn powerful.
+
+- <time>Apr 07, 2022</time> Got started with Lesson 3.
+
+- <time>Apr 06, 2022</time> Trained my model with the API key, will start Lesson 3 tomorrow.
+
+- <time>Apr 05, 2022</time> Got the API key!
+
+- <time>Apr 04, 2022</time> The replacement looks pretty complicated to set-up, so I might have to go through with Microsoft. Finished Lesson 2, will start [Lesson 3](https://course.fast.ai/videos/?lesson=3) after the Microsoft stuff.
+
+- <time>Apr 03, 2022</time> Found [a replacement for the Bing Search API](https://joedockrill.github.io/blog/projects/imagescraper/) through the [forums](https://forums.fast.ai/t/bing-account-expired-what-other-option/76856/4).
+
+- <time>Apr 02, 2022</time> Continued with Lesson 2. I now need to do admin stuff for the last few sections of Lesson 2 :(
+
+- <time>Apr 01, 2022</time> Continued with Lesson 2.
+
+- <time>Mar 31, 2022</time> Continued with Lesson 2, I was expecting P values to be this great statistical analysis tool, but nope.
+
+- <time>Mar 30, 2022</time> Continued with Lesson 2, Jeremy's example on [P values](https://www.investopedia.com/terms/p/p-value.asp) was incredible.
+
+- <time>Mar 24, 2022</time> Continued with Lesson 2. [Transfer learning](https://arxiv.org/pdf/1311.2901.pdf) is such a neat and efficient use of compute (time and computational resources).
+
+- <time>Mar 23, 2022</time> Continued with Lesson 2.
+
+- <time>Mar 22, 2022</time> Got started with [Lesson 2](http://course.fast.ai/videos/?lesson=2).
+
+- <time>Mar 21, 2022</time> Finished with Lesson 1's questions, will start [Lesson 2](https://course.fast.ai/videos?lesson=2) tomorrow.
+
+- <time>Mar 20, 2022</time> Continued with Lesson 1's questions, almost done!
+
+- <time>Mar 19, 2022</time> Finished with the Lesson 1 video and got started with the questions.
+
+- <time>Mar 18, 2022</time> Continued with Lesson 1.
+
+- <time>Mar 17, 2022</time> Continued with Lesson 1. We had to train a classifier that classified an image as a cat or a dog. I tried putting an image of a tiger and a wolf (which are technically a cat and a dog respectively but not really) and it actually gave true and false for the question "Is this image a cat?" respectively!
+
+- <time>Mar 16, 2022</time> Continued with [Lesson 1](http://course.fast.ai/videos/?lesson=1) and got the [fastbook](https://github.com/fastai/fastbook) setup.
+
+- <time>Mar 15, 2022</time> Got started with [Practical Deep Learning for Coders](https://course.fast.ai/). Really excited!
 <hr />
 
 ### <span id="note">Note</span>
