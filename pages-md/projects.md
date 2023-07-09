@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 08, 2023
+publish_date: Jul 09, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -849,6 +849,18 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 09, 2023</time> Finished [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/):
+
+```sql
+# Write your MySQL query statement below
+SELECT x, y, z,
+CASE
+    WHEN ((x+y) > z AND (y+z) > x AND (x+z) >y) THEN 'Yes'
+    ELSE 'No'
+END as triangle
+FROM Triangle;
+```
 
 - <time>Jul 08, 2023</time> Finished [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/):
 
