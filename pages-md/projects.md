@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 09, 2023
+publish_date: Jul 10, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -849,6 +849,31 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 10, 2023</time> Finished [License Key Formatting](https://leetcode.com/problems/license-key-formatting/):
+
+```py
+class Solution:
+    def licenseKeyFormatting(self, s: str, k: int) -> str:
+        characters = s.split('-')
+        characters = "".join([i.upper() for i in characters])
+        num_chars = len(s) - s.count('-')
+        groups = num_chars // k
+        remainder = num_chars % k
+        res = ""
+
+        if remainder == 0:
+            for i in range(0, num_chars, k):
+                res += characters[i:i+k] + '-'
+            res = res[:-1]
+        else:
+            res += characters[:remainder] + '-'
+            for i in range(remainder, num_chars, k):
+                res += characters[i:i+k] + '-'
+            res = res[:-1]
+
+        return res
+```
 
 - <time>Jul 09, 2023</time> Finished [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/):
 
