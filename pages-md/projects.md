@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 10, 2023
+publish_date: Jul 11, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -10,7 +10,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 ### Active (8)
 
 - <a href="#solaris-3">SOLARIS (Third Edition)</a>
-- <a href="#oceanbuster">Ocean Buster</a>
+- <a href="#oceanbusters">Ocean Busters</a>
 - <a href="#tedx2023">TEDxYouth@DPSS 2023</a>
 - <a href="#ausresearch">AUS CSE Research Assistant</a>
 - <a href="#studencouncil12">Student Council - 12th + Head of Events</a>
@@ -111,6 +111,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jul 09, 2023-Jul 10, 2023</time> Got in touch with my blog writer for this month (who's writing I'll be editing and proof-reading)
+
 - <time>Jul 08, 2023</time> Got accepted! Interesting to see where this project goes (especially considering my Cold Takes project has been inactive for about half a year).
 
 <hr />
@@ -124,6 +126,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jul 09, 2023-Jul 10, 2023</time> A lot of progress on the smaller things, really happy to see!
+
 - <time>Jul 08, 2023</time> From a rocky start (with me sending out a pretty poorly worded message out) to getting settled in to the role to forming our incredible two teams leaves us at this moment right now: with about two months left for the event, things are going to start picking up a lot of momentum now!
 
 <hr />
@@ -136,6 +140,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 10, 2023</time> Heard back from my professor.
 
 - <time>Jul 08, 2023</time> Training, will see its results by tonight (hopefully, else it might time out)
 
@@ -277,6 +283,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jul 09, 2023-Jul 10, 2023</time> An interesting might be coming up after this competition!
+
 - <time>Jul 07, 2023-Jul 08, 2023</time> Sent the guidelines.
 
 - <time>Jul 06, 2023</time> Really productive day, a certain social media competition coming soon!
@@ -413,6 +421,10 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 10, 2023</time> Follow-up to the meeting last week: was somewhat productive!
+
+- <time>Jul 08, 2023-Jul 09, 2023</time> Lot's of behind-the-scene work: emails and docs.
 
 - <time>Jul 07, 2023</time> Really fruitful meeting!
 
@@ -849,6 +861,14 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 11, 2023</time> Finished [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/):
+
+```py
+class Solution:
+    def theMaximumAchievableX(self, num: int, t: int) -> int:
+        return num + (2*t)
+```
 
 - <time>Jul 10, 2023</time> Finished [License Key Formatting](https://leetcode.com/problems/license-key-formatting/):
 
