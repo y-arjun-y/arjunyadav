@@ -98,6 +98,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Jul 11, 2023</time> First day done!
+
 - <time>Jul 08, 2023</time> With all the prep work out of the way, just a couple days left before the first class!
 
 <hr />
@@ -110,6 +112,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 11, 2023</time> Meeting soon!
 
 - <time>Jul 09, 2023-Jul 10, 2023</time> Got in touch with my blog writer for this month (who's writing I'll be editing and proof-reading)
 
@@ -125,6 +129,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 11, 2023</time> Messages.
 
 - <time>Jul 09, 2023-Jul 10, 2023</time> A lot of progress on the smaller things, really happy to see!
 
@@ -177,6 +183,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 08, 2023-Jul 11, 2023</time> So, much, environment, work.
 
 - <time>Jul 07, 2023</time> Tech FTW!
 
@@ -283,7 +291,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 09, 2023-Jul 10, 2023</time> An interesting might be coming up after this competition!
+- <time>Jul 09, 2023-Jul 11, 2023</time> An interesting thing might be coming up after this competition!
 
 - <time>Jul 07, 2023-Jul 08, 2023</time> Sent the guidelines.
 
@@ -421,6 +429,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 11, 2023</time> Got started with the next steps. Emails, Asana, oh my!
 
 - <time>Jul 10, 2023</time> Follow-up to the meeting last week: was somewhat productive!
 
@@ -8888,6 +8898,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Jul 11, 2023</time> So much fun just playing random songs (mostly by a certain NDH band)
 
 - <time>Jul 08, 2023</time> Played some Radiohead songs. This is a lot more fun than I remember!
 
