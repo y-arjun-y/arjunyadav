@@ -13,7 +13,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#oceanbusters">Ocean Busters</a>
 - <a href="#tedx2023">TEDxYouth@DPSS 2023</a>
 - <a href="#ausresearch">AUS CSE Research Assistant</a>
-- <a href="#studencouncil12">Student Council - 12th + Head of Events</a>
+- <a href="#studentcouncil12">Student Council - 12th + Head of Events</a>
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
 - <a href="#leetcode">LeetCode</a>
@@ -98,6 +98,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Jul 12, 2023</time> Welp, got postponed to tomorrow.
+
 - <time>Jul 11, 2023</time> First day done!
 
 - <time>Jul 08, 2023</time> With all the prep work out of the way, just a couple days left before the first class!
@@ -113,7 +115,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 11, 2023</time> Meeting soon!
+- <time>Jul 11, 2023-Jul 12, 2023</time> Meeting soon!
 
 - <time>Jul 09, 2023-Jul 10, 2023</time> Got in touch with my blog writer for this month (who's writing I'll be editing and proof-reading)
 
@@ -129,6 +131,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 12, 2023</time> Files!
 
 - <time>Jul 11, 2023</time> Messages.
 
@@ -146,6 +150,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 12, 2023</time> Day 4a) I guess.
 
 - <time>Jul 10, 2023</time> Heard back from my professor.
 
@@ -184,7 +190,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 08, 2023-Jul 11, 2023</time> So, much, environment, work.
+- <time>Jul 08, 2023-Jul 12, 2023</time> So, much, environment, work.
 
 - <time>Jul 07, 2023</time> Tech FTW!
 
@@ -291,7 +297,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 09, 2023-Jul 11, 2023</time> An interesting thing might be coming up after this competition!
+- <time>Jul 09, 2023-Jul 12, 2023</time> An interesting thing might be coming up after this competition!
 
 - <time>Jul 07, 2023-Jul 08, 2023</time> Sent the guidelines.
 
@@ -430,7 +436,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 11, 2023</time> Got started with the next steps. Emails, Asana, oh my!
+- <time>Jul 11, 2023-Jul 12, 2023</time> Got started with the next steps. Emails, Asana, oh my!
 
 - <time>Jul 10, 2023</time> Follow-up to the meeting last week: was somewhat productive!
 
