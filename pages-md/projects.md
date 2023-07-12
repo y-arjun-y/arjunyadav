@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 11, 2023
+publish_date: Jul 12, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -871,6 +871,34 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 12, 2023</time> Finished [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/):
+
+```py
+class Solution:
+    def cellsInRange(self, s: str) -> List[str]:
+        letter_1 = s[0]
+        number_1 = s[1]
+        letter_2 = s[3]
+        number_2 = s[4]
+
+        letters = []
+        numbers = []
+
+        for i in range(ord(letter_1), ord(letter_2)+1):
+            letters.append(chr(i))
+
+        for i in range(int(number_1), int(number_2)+1):
+            numbers.append(i)
+
+        res = []
+
+        for i in letters:
+            for j in numbers:
+                res.append(i + str(j))
+
+        return res
+```
 
 - <time>Jul 11, 2023</time> Finished [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/):
 
