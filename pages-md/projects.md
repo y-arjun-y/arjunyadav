@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 12, 2023
+publish_date: Jul 14, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -98,6 +98,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Jul 13, 2023</time> Second day done!
+
 - <time>Jul 12, 2023</time> Welp, got postponed to tomorrow.
 
 - <time>Jul 11, 2023</time> First day done!
@@ -106,14 +108,16 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-## <span id="oceanbuster">Ocean Buster</span>
+## <span id="oceanbusters">Ocean Busters</span>
 
 <small>Jul 08, 2023-present</small>  
-<small>Currently a blog writer and editor at Ocean Buster, a new organisation dedicated to effectively tackling ocean pollution.</small>
+<small>Currently a blog writer and editor at Ocean Busters, a new organisation dedicated to effectively tackling ocean pollution.</small>
 
 <hr />
 
 #### Log
+
+- <time>Jul 13, 2023</time> Had a productive meeting.
 
 - <time>Jul 11, 2023-Jul 12, 2023</time> Meeting soon!
 
@@ -131,6 +135,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 13, 2023</time> I have a lot of respect for our editorial board.
 
 - <time>Jul 12, 2023</time> Files!
 
@@ -297,7 +303,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 09, 2023-Jul 12, 2023</time> An interesting thing might be coming up after this competition!
+- <time>Jul 09, 2023-Jul 13, 2023</time> An interesting thing might be coming up after this competition!
 
 - <time>Jul 07, 2023-Jul 08, 2023</time> Sent the guidelines.
 
@@ -436,7 +442,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 11, 2023-Jul 12, 2023</time> Got started with the next steps. Emails, Asana, oh my!
+- <time>Jul 11, 2023-Jul 13, 2023</time> Got started with the next steps. Emails, Asana, oh my!
 
 - <time>Jul 10, 2023</time> Follow-up to the meeting last week: was somewhat productive!
 
@@ -877,6 +883,17 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 14, 2023</time> Finished [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/):
+```py
+# Write your MySQL query statement below
+SELECT name, SUM(amount) as balance FROM Users NATURAL JOIN Transactions GROUP BY account HAVING SUM(amount) > 10000;
+```
+
+- <time>Jul 13, 2023</time> Finished []():
+```py
+
+```
 
 - <time>Jul 12, 2023</time> Finished [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/):
 
