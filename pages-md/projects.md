@@ -885,14 +885,42 @@ Confused? See the <a href="#note">note</a> down below.
 #### Log
 
 - <time>Jul 14, 2023</time> Finished [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/):
+
 ```py
 # Write your MySQL query statement below
 SELECT name, SUM(amount) as balance FROM Users NATURAL JOIN Transactions GROUP BY account HAVING SUM(amount) > 10000;
 ```
 
-- <time>Jul 13, 2023</time> Finished []():
-```py
+- <time>Jul 13, 2023</time> Finished [Lemonade Change](https://leetcode.com/problems/lemonade-change):
 
+```py
+class Solution:
+    def lemonadeChange(self, bills: List[int]) -> bool:
+        five_bills = 0
+        ten_bills = 0
+        twenty_bills = 0
+
+        for i in bills:
+            if i == 5:
+                five_bills += 1
+            elif i == 10:
+                if five_bills > 0:
+                    ten_bills += 1
+                    five_bills -= 1
+                else:
+                    return False
+            elif i == 20:
+                if five_bills > 0 and ten_bills > 0:
+                    twenty_bills += 1
+                    ten_bills -= 1
+                    five_bills -= 1
+                elif five_bills > 2:
+                    twenty_bills += 1
+                    five_bills -= 3
+                else:
+                    return False
+
+        return True
 ```
 
 - <time>Jul 12, 2023</time> Finished [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/):
