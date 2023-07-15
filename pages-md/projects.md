@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 14, 2023
+publish_date: Jul 15, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -883,6 +883,13 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 15, 2023</time> Finished [Investments in 2016](https://leetcode.com/problems/investments-in-2016/):
+
+```sql
+# Write your MySQL query statement below
+SELECT ROUND(SUM(tiv_2016), 2) as tiv_2016 FROM Insurance i WHERE (SELECT COUNT(tiv_2015) FROM Insurance e WHERE e.tiv_2015 = i.tiv_2015) > 1 AND (SELECT COUNT(lat) FROM Insurance e WHERE e.lat = i.lat AND e.lon = i.lon) = 1;
+```
 
 - <time>Jul 14, 2023</time> Finished [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/):
 
