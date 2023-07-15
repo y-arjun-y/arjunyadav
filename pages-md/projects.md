@@ -98,6 +98,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Jul 15, 2023</time> Did some organisational work.
+
 - <time>Jul 13, 2023</time> Second day done!
 
 - <time>Jul 12, 2023</time> Welp, got postponed to tomorrow.
@@ -136,7 +138,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 13, 2023</time> I have a lot of respect for our editorial board.
+- <time>Jul 13, 2023-Jul 15, 2023</time> I have a lot of respect for our editorial board.
 
 - <time>Jul 12, 2023</time> Files!
 
@@ -156,6 +158,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 15, 2023</time> Pre-lude to Day 4b) tomorrow.
 
 - <time>Jul 12, 2023</time> Day 4a) I guess.
 
@@ -196,7 +200,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 08, 2023-Jul 12, 2023</time> So, much, environment, work.
+- <time>Jul 15, 2023</time> 2 hour long meeting! Was fun (and productive).
+
+- <time>Jul 08, 2023-Jul 14, 2023</time> So, much, environment, work.
 
 - <time>Jul 07, 2023</time> Tech FTW!
 
@@ -302,6 +308,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 15, 2023</time> A discussion may or may not have occurred.
 
 - <time>Jul 09, 2023-Jul 13, 2023</time> An interesting thing might be coming up after this competition!
 
@@ -441,6 +449,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 15, 2023</time> Finished my EA organiser application!
 
 - <time>Jul 11, 2023-Jul 13, 2023</time> Got started with the next steps. Emails, Asana, oh my!
 
@@ -8985,7 +8995,7 @@ class Solution:
 
 #### Log
 
-- <time>Jul 11, 2023-Jul 15, 2023</time> So much fun just playing random songs (mostly by a certain NDH band)
+- <time>Jul 11, 2023-Jul 15, 2023</time> So much fun just playing random songs (mostly by a certain NDH band). Going to record a little something tomorrow.
 
 - <time>Jul 08, 2023</time> Played some Radiohead songs. This is a lot more fun than I remember!
 
