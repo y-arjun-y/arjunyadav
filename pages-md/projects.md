@@ -119,6 +119,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jul 14, 2023-Jul 17, 2023</time> Did some organisational work.
+
 - <time>Jul 13, 2023</time> Had a productive meeting.
 
 - <time>Jul 11, 2023-Jul 12, 2023</time> Meeting soon!
@@ -137,6 +139,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 17, 2023</time> Completely opposite to yesterday, so much progress!
 
 - <time>Jul 16, 2023</time> Things have gone, noticably quiet...
 
@@ -160,6 +164,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 17, 2023</time> Day 4b) happened! Got the 240 x 240 data set, and I think the model is better?
 
 - <time>Jul 15, 2023</time> Pre-lude to Day 4b) tomorrow.
 
@@ -201,6 +207,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 17, 2023</time> A lot of progress, but I hate forms.
 
 - <time>Jul 16, 2023</time> Had a call and got a good amount of work in.
 
@@ -313,7 +321,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 15, 2023-Jul 16, 2023</time> A discussion may or may not have occurred.
+- <time>Jul 15, 2023-Jul 17, 2023</time> A discussion may or may not have occurred.
 
 - <time>Jul 09, 2023-Jul 13, 2023</time> An interesting thing might be coming up after this competition!
 
@@ -453,6 +461,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 17, 2023</time> Finished the plans for the non-outreach projects!
 
 - <time>Jul 15, 2023</time> Finished my EA organiser application!
 
