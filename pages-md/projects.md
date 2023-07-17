@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 15, 2023
+publish_date: Jul 17, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -98,7 +98,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Jul 15, 2023</time> Did some organisational work.
+- <time>Jul 15, 2023-Jul 17, 2023</time> Did some organisational work.
 
 - <time>Jul 13, 2023</time> Second day done!
 
@@ -137,6 +137,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 16, 2023</time> Things have gone, noticably quiet...
 
 - <time>Jul 13, 2023-Jul 15, 2023</time> I have a lot of respect for our editorial board.
 
@@ -199,6 +201,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 16, 2023</time> Had a call and got a good amount of work in.
 
 - <time>Jul 15, 2023</time> 2 hour long meeting! Was fun (and productive).
 
@@ -309,7 +313,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 15, 2023</time> A discussion may or may not have occurred.
+- <time>Jul 15, 2023-Jul 16, 2023</time> A discussion may or may not have occurred.
 
 - <time>Jul 09, 2023-Jul 13, 2023</time> An interesting thing might be coming up after this competition!
 
@@ -893,6 +897,21 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 17, 2023</time> Finished [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/):
+
+```py
+class Solution:
+    def sumOfSquares(self, nums: List[int]) -> int:
+        return sum([nums[i]**2 for i in range(len(nums)) if len(nums) % (i+1) == 0])
+```
+
+- <time>Jul 16, 2023</time> Finished [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/):
+
+```sql
+# Write your MySQL query statement below
+SELECT MAX(salary) as SecondHighestSalary FROM Employee WHERE salary != (SELECT MAX(salary) FROM Employee);
+```
 
 - <time>Jul 15, 2023</time> Finished [Investments in 2016](https://leetcode.com/problems/investments-in-2016/):
 
