@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 17, 2023
+publish_date: Jul 18, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -907,6 +907,16 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 18, 2023</time> Finished [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/):
+
+```sql
+# Write your MySQL query statement below
+
+# Credit - https://leetcode.com/problems/reformat-department-table/solutions/2473482/fully-explained-super-easy/
+
+SELECT d.id, SUM(IF(month='Jan', revenue, null)) as Jan_Revenue, SUM(IF(month='Feb', revenue, null)) as Feb_Revenue, SUM(IF(month='Mar', revenue, null)) as Mar_Revenue, SUM(IF(month='Apr', revenue, null)) as Apr_Revenue, SUM(IF(month='May', revenue, null)) as May_Revenue, SUM(IF(month='Jun', revenue, null)) as Jun_Revenue, SUM(IF(month='Jul', revenue, null)) as Jul_Revenue, SUM(IF(month='Aug', revenue, null)) as Aug_Revenue, SUM(IF(month='Sep', revenue, null)) as Sep_Revenue, SUM(IF(month='Oct', revenue, null)) as Oct_Revenue, SUM(IF(month='Nov', revenue, null)) as Nov_Revenue, SUM(IF(month='Dec', revenue, null)) as Dec_Revenue from Department d GROUP BY id;
+```
 
 - <time>Jul 17, 2023</time> Finished [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/):
 
