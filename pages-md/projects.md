@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 18, 2023
+publish_date: Jul 19, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -98,6 +98,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Jul 19, 2023</time> Did some organisational work.
+
+- <time>Jul 18, 2023</time> Third day done!
+
 - <time>Jul 15, 2023-Jul 17, 2023</time> Did some organisational work.
 
 - <time>Jul 13, 2023</time> Second day done!
@@ -140,6 +144,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jul 18, 2023</time> An interesting day.
+
 - <time>Jul 17, 2023</time> Completely opposite to yesterday, so much progress!
 
 - <time>Jul 16, 2023</time> Things have gone, noticably quiet...
@@ -164,6 +170,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 18, 2023</time> Why is Google so stingy?
 
 - <time>Jul 17, 2023</time> Day 4b) happened! Got the 240 x 240 data set, and I think the model is better?
 
@@ -208,7 +216,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 17, 2023</time> A lot of progress, but I hate forms.
+- <time>Jul 17, 2023-Jul 18, 2023</time> A lot of progress, but I hate forms.
 
 - <time>Jul 16, 2023</time> Had a call and got a good amount of work in.
 
@@ -320,6 +328,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 18, 2023</time> Meeting!
 
 - <time>Jul 15, 2023-Jul 17, 2023</time> A discussion may or may not have occurred.
 
@@ -461,6 +471,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 18, 2023</time> Drafted a document.
 
 - <time>Jul 17, 2023</time> Finished the plans for the non-outreach projects!
 
@@ -907,6 +919,13 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 19, 2023</time> Finished [Rising Temperature](https://leetcode.com/problems/rising-temperature/):
+
+```sql
+# Write your MySQL query statement below
+SELECT id FROM Weather w WHERE temperature > (SELECT temperature FROM Weather WHERE recordDate=DATE_SUB(w.recordDate, INTERVAL 1 DAY));
+```
 
 - <time>Jul 18, 2023</time> Finished [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/):
 
