@@ -99,6 +99,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Jul 20, 2023</time> Fourth day done!
+
 - <time>Jul 19, 2023</time> Did some organisational work.
 
 - <time>Jul 18, 2023</time> Third day done!
@@ -124,7 +126,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 14, 2023-Jul 19, 2023</time> Did some organisational work.
+- <time>Jul 14, 2023-Jul 23, 2023</time> Did some organisational work.
 
 - <time>Jul 13, 2023</time> Had a productive meeting.
 
@@ -145,7 +147,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 19, 2023</time> Did some media & outreach check-ins.
+- <time>Jul 19, 2023-Jul 20, 2023</time> Did some media & outreach check-ins.
 
 - <time>Jul 18, 2023</time> An interesting day.
 
@@ -174,7 +176,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 19, 2023</time> We back to training.
+- <time>Jul 19, 2023-Jul 20, 2023</time> We back to training.
 
 - <time>Jul 18, 2023</time> Why is Google so stingy?
 
@@ -221,7 +223,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 19, 2023</time> It's hard to describe the work that's been going on, but it is certainly something..
+- <time>Jul 19, 2023-Jul 20, 2023</time> It's hard to describe the work that's been going on, but it is certainly something..
 
 - <time>Jul 17, 2023-Jul 18, 2023</time> A lot of progress, but I hate forms.
 
@@ -336,7 +338,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 19, 2023</time> Competition should be launched by the end of today...
+- <time>Jul 19, 2023-Jul 20, 2023</time> Competition should be launched by the end of today...
 
 - <time>Jul 18, 2023</time> Meeting!
 
@@ -480,6 +482,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 20, 2023</time> Got some discussions in with my co-founder.
 
 - <time>Jul 19, 2023</time> All the plans are out and we're working on something important now!
 
@@ -660,7 +664,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 17, 2023-Jul 19, 2023</time> Back to playing random songs, 'Los' is quite fun to play!
+- <time>Jul 17, 2023-Jul 20, 2023</time> Back to playing random songs, 'Los' is quite fun to play! Turns out that I broke my snare pad, so swapped with a tom pad. Works.
 
 - <time>Jul 16, 2023</time> Played 'Chop Suey!' by System of a Down and shared it to the interwebs.
 
