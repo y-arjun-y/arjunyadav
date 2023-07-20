@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 19, 2023
+publish_date: Jul 20, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -690,6 +690,13 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 20, 2023</time> Finished [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/):
+
+```sql
+# Write your MySQL query statement below
+SELECT name FROM Employee e WHERE (SELECT COUNT(d.managerId) FROM Employee d WHERE d.managerId = e.id) >= 5;
+```
 
 - <time>Jul 19, 2023</time> Finished [Rising Temperature](https://leetcode.com/problems/rising-temperature/):
 
