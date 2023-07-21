@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 20, 2023
+publish_date: Jul 21, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -694,6 +694,13 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 21, 2023</time> Finished [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/):
+
+```sql
+# Write your MySQL query statement below
+SELECT MAX(e.num) as num FROM MyNumbers e WHERE (SELECT COUNT(num) FROM MyNumbers WHERE num=e.num) = 1;
+```
 
 - <time>Jul 20, 2023</time> Finished [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/):
 
