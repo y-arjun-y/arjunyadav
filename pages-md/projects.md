@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 22, 2023
+publish_date: Jul 23, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -706,6 +706,14 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 23, 2023</time> Finished [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/):
+
+```py
+class Solution:
+    def isGood(self, nums: List[int]) -> bool:
+        return sorted(nums) == [i for i in range(1, len(nums))] + [len(nums)-1]
+```
 
 - <time>Jul 22, 2023</time> Finished [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/):
 
