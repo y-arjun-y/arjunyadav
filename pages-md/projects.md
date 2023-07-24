@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 23, 2023
+publish_date: Jul 24, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -99,7 +99,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Jul 21, 2023-Jul 22, 2023</time> Did some organisational work.
+- <time>Jul 21, 2023-Jul 23, 2023</time> Did some organisational work.
 
 - <time>Jul 20, 2023</time> Fourth day done!
 
@@ -128,7 +128,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 22, 2023</time> Reviewed the draft and added comments.
+- <time>Jul 22, 2023-Jul 23, 2023</time> Reviewed the draft and added comments.
 
 - <time>Jul 21, 2023</time> Got the draft!
 
@@ -152,6 +152,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 23, 2023</time> Cameras!
 
 - <time>Jul 19, 2023-Jul 22, 2023</time> Did some media & outreach check-ins.
 
@@ -181,6 +183,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 23, 2023</time> CIFAR-10 training should be done tomorrow morning!
 
 - <time>Jul 22, 2023</time> Switched to Gradient.
 
@@ -233,7 +237,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 19, 2023-Jul 22, 2023</time> It's hard to describe the work that's been going on, but it is certainly something..
+- <time>Jul 19, 2023-Jul 23, 2023</time> It's hard to describe the work that's been going on, but it is certainly something..
 
 - <time>Jul 17, 2023-Jul 18, 2023</time> A lot of progress, but I hate forms.
 
@@ -347,6 +351,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 23, 2023</time> Launched!
 
 - <time>Jul 19, 2023-Jul 22, 2023</time> Competition should be launched by the end of today...
 
@@ -493,7 +499,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 20, 2023-Jul 22, 2023</time> Got some discussions in with my co-founder.
+- <time>Jul 20, 2023-Jul 23, 2023</time> Got some discussions in with my co-founder.
 
 - <time>Jul 19, 2023</time> All the plans are out and we're working on something important now!
 
@@ -674,7 +680,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 21, 2023-Jul 22, 2023</time> "I've given.... UUUUUPPPP!"
+- <time>Jul 21, 2023-Jul 23, 2023</time> "I've given.... UUUUUPPPP!"
 
 - <time>Jul 17, 2023-Jul 20, 2023</time> Back to playing random songs, 'Los' is quite fun to play! Turns out that I broke my snare pad, so swapped with a tom pad. Works.
 
@@ -706,6 +712,13 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 24, 2023</time> Finished [Find Followers Count](https://leetcode.com/problems/find-followers-count/):
+
+```sql
+# Write your MySQL query statement below
+SELECT DISTINCT user_id, (SELECT COUNT(user_id) FROM Followers WHERE user_id = f.user_id) as followers_count FROM Followers f ORDER BY user_id;
+```
 
 - <time>Jul 23, 2023</time> Finished [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/):
 
