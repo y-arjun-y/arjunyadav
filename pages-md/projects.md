@@ -14276,7 +14276,10 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 ### Log
 
 - <time>Jul 01, 2022</time> Aujourd'hui, j'ai joué une puzzle facile:
-  593.7.64..1.94.83.47...3....4....7.9835..4.6....152..41.48...2...956...8..642.5..
+
+```
+593.7.64..1.94.83.47...3....4....7.9835..4.6....152..41.48...2...956...8..642.5..
+```
 
 - <time>Jun 26, 2022</time> Let's forget about this one, shall we? ....1..3...4..6..18..49..2...7.49....3..........3..68...69.2.4..82.6.7......7....
 
