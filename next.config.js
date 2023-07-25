@@ -20,6 +20,11 @@ const nextConfig = {
         destination: "/resume.pdf",
         permanent: false,
       },
+      {
+        source: "/the-busy-persons-introduction-to-ai-safety",
+        destination: "/blog/the-busy-persons-introduction-to-ai-safety",
+        permanent: false,
+      },
     ];
   },
 };
