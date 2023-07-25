@@ -8,10 +8,9 @@ export default function Navbar() {
         <p>
           <a href="/">Home</a>
           <a href="/blog/">Blog</a>
+          <a href="/series">Series</a>
           <a href="/projects/">Projects</a>
           <a href="/resume">Résumé</a>
-          <a href="/interesting-reads/">Interesting Reads</a> <br />
-          <a href="/replacement-posts/">Replacement Posts</a>
           <a href="https://www.linkedin.com/in/arjun-yadav-32038125a/">
             LinkedIn
           </a>

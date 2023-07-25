@@ -1,9 +1,10 @@
 ---
-title: Interesting Reads
-publish_date: May 02, 2023
-meta_description: I log everything I read in Notion, and every month, I publish some of the more interesting things I've read. Here are all of those posts.
+title: Arjun Yadav
+meta_description: Welcome to the series on arjunyadav.net!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
+
+<h2 id="interesting-reads">Interesting Reads</h2>
 
 I log everything I read[^1] in Notion, and every month, I publish some of the more interesting things I've read. Here are all of those posts.
 
@@ -24,5 +25,12 @@ I log everything I read[^1] in Notion, and every month, I publish some of the mo
 - <time>Nov 30, 2021</time> [Interesting Reads - November 2021](/blog/interesting-reads-november-2021)
 - <time>Oct 31, 2021</time> [Interesting Reads - October 2021](/blog/interesting-reads-october-2021)
 - <time>Sep 30, 2021</time> [Interesting Reads - September 2021](/blog/interesting-reads-september-2021)
+
+<h2 id="replacement-posts">Replacement Posts</h2>
+
+I've missed my goal of posting a blog post at least once a month (excluding my [interesting reads](/interesting-reads) series) a couple of times, here are all the replacement posts:
+
+- [Results from DALL·E 2 (Part 2)](/blog/results-from-dalle-2-part-2) (replacement post for October 2022)
+- [Distillation of The Offense-Defense Balance of Scientific Knowledge](/blog/distillation-of-the-offense-defense-balance-of-scientific-knowledge) (replacement post for July 2022)
 
 [^1]: Well, not _everything_ everything, only most newsletters, articles/posts and books. But you get the point.
