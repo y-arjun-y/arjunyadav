@@ -13,7 +13,8 @@ export default function Navbar() {
           <a href="/resume">Résumé</a>
           <a href="https://www.linkedin.com/in/arjun-yadav-32038125a/">
             LinkedIn
-          </a>
+          </a>{" "}
+          <br />
           <a href="https://github.com/y-arjun-y/">GitHub</a>
           <a href="/donations/">Donations</a>
           <a href="/analytics/">Analytics</a>
