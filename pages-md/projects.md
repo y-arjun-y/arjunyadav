@@ -719,6 +719,13 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jul 25, 2023</time> Finished [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) (with just a bit of help):
+
+```sql
+# Write your MySQL query statement below
+SELECT sell_date, COUNT(DISTINCT product) AS num_sold, GROUP_CONCAT(DISTINCT product ORDER BY product) AS products FROM Activities GROUP BY sell_date;
+```
+
 - <time>Jul 24, 2023</time> Finished [Find Followers Count](https://leetcode.com/problems/find-followers-count/):
 
 ```sql
