@@ -130,7 +130,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 22, 2023-Jul 24, 2023</time> Reviewed the draft and added comments.
+- <time>Jul 22, 2023-Jul 25, 2023</time> Reviewed the draft and added comments.
 
 - <time>Jul 21, 2023</time> Got the draft!
 
@@ -154,6 +154,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 25, 2023</time> Checked-in with outreach - some good progress
 
 - <time>Jul 23, 2023-Jul 24, 2023</time> Cameras have been sorted!
 
@@ -186,7 +188,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 23, 2023</time> CIFAR-10 training done, going to try out Tiny ImageNet next to end of training before the CameraTrap part of my research (hopefully!)
+- <time>Jul 24, 2023-Jul 25, 2023</time> CIFAR-10 training done, going to try out Tiny ImageNet next to end of training before the CameraTrap part of my research (hopefully!)
 
 - <time>Jul 23, 2023</time> CIFAR-10 training should be done tomorrow morning!
 
@@ -241,7 +243,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 19, 2023-Jul 24, 2023</time> It's hard to describe the work that's been going on, but it is certainly something..
+- <time>Jul 19, 2023-Jul 25, 2023</time> It's hard to describe the work that's been going on, but it is certainly something..
 
 - <time>Jul 17, 2023-Jul 18, 2023</time> A lot of progress, but I hate forms.
 
@@ -356,7 +358,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 23, 2023-Jul 24, 2023</time> Launched!
+- <time>Jul 23, 2023-Jul 25, 2023</time> Launched!
 
 - <time>Jul 19, 2023-Jul 22, 2023</time> Competition should be launched by the end of today...
 
@@ -503,7 +505,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 20, 2023-Jul 24, 2023</time> Got some discussions in with my co-founder + some organisational work.
+- <time>Jul 20, 2023-Jul 25, 2023</time> Got some discussions in with my co-founder + some organisational work.
 
 - <time>Jul 19, 2023</time> All the plans are out and we're working on something important now!
 
