@@ -10219,7 +10219,7 @@ function getCount(str) {
 
 #### Log
 
-- <time>Jul 24, 2023</time> This was quite an experience - finished going through the ML Safety Course by the Center for AI Safety in one day and made [a guide/blog post from my notes](https://arjunyadav.net/blog/the-busy-persons-introduction-to-ai-safety).
+- <time>Jul 24, 2023</time> This was quite an experience - finished going through the ML Safety Course by the Center for AI Safety and made [a guide/post from my notes](https://arjunyadav).
 
 <hr />
 
@@ -14281,83 +14281,257 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 593.7.64..1.94.83.47...3....4....7.9835..4.6....152..41.48...2...956...8..642.5..
 ```
 
-- <time>Jun 26, 2022</time> Let's forget about this one, shall we? ....1..3...4..6..18..49..2...7.49....3..........3..68...69.2.4..82.6.7......7....
+- <time>Jun 26, 2022</time> Let's forget about this one, shall we?
 
-- <time>Jun 24, 2022</time> Solved an easy one, call this preparation for day after tomorrow's medium puzzle: .62...3.9.8.6..47.9..5.2.1...3.5.2.....72394.2.94.86.7624.7....1.8...724....94..8
+```
+....1..3...4..6..18..49..2...7.49....3..........3..68...69.2.4..82.6.7......7....
+```
 
-- <time>Jun 18, 2022</time> Solved a medium sudoku without misusing the guess checker! ........2...6.4.9..5...8.4.1..4......9..7.48.2.......6..8......6.5.1.....2....6.9
+- <time>Jun 24, 2022</time> Solved an easy one, call this preparation for day after tomorrow's medium puzzle:
 
-- <time>Jun 17, 2022</time> So close it hurts (at least I'm getting better): ..12.............1.7..5.8...3..726..81..6..5...4.....2647.......8..4........37..9
+```
+.62...3.9.8.6..47.9..5.2.1...3.5.2.....72394.2.94.86.7624.7....1.8...724....94..8
+```
 
-- <time>Jun 12, 2022</time> Less close this time: 9....71.6.61.9.......5........6..53.....3.68.1..4.......3....9.2.5........8..9..7
+- <time>Jun 18, 2022</time> Solved a medium sudoku without misusing the guess checker!
 
-- <time>Jun 10, 2022</time> I was pretty close, but nope: .......59.3.......2.6..5.4..8..2........9...75.7.....6..1..37...4.6.......8.791.5
+```
+........2...6.4.9..5...8.4.1..4......9..7.48.2.......6..8......6.5.1.....2....6.9
+```
 
-- <time>Jun 05, 2022</time> Nope x2: 3.92.6..82.657.3.....8..246..1.6.48.96..81.2..73...96.695.....24...39..5.3...56..
+- <time>Jun 17, 2022</time> So close it hurts (at least I'm getting better):
 
-- <time>Jun 03, 2022</time> Nope: ...1523..3..........4....89..5..7.916.78....3.1........6..4.91...3...6247........
+```
+..12.............1.7..5.8...3..726..81..6..5...4.....2647.......8..4........37..9
+```
 
-- <time>May 28, 2022</time> See you next Friday I guess: ..1......53..7.6....79..43.2..7........8...9...4.6......9....187....3..6..8...2.7
+- <time>Jun 12, 2022</time> Less close this time:
 
-- <time>May 27, 2022</time> Easy puzzle this time around: ..3514.8.162....494.8...137.3..812..2864.......49.28.....12.97.891.....5...35...8
+```
+9....71.6.61.9.......5........6..53.....3.68.1..4.......3....9.2.5........8..9..7
+```
 
-- <time>May 26, 2022</time> Sigh: ...2..8.........64.6.1.........19.5.9.........52.8..31.8...6..9.1....57.42.......
+- <time>Jun 10, 2022</time> I was pretty close, but nope:
 
-- <time>May 25, 2022</time> So close it's frustrating: 1....5..9..9..8...35.16............1..3...72.6.529.3.......7..6.......8....4..13.
+```
+.......59.3.......2.6..5.4..8..2........9...75.7.....6..1..37...4.6.......8.791.5
+```
 
-- <time>May 24, 2022</time> Didn't have much time today so I had to give up less than 10 minutes in, though I feel like I am improving: .56.3...73....21.......8.56..18........4..52.83..69........5.9..9....6..2.3......
+- <time>Jun 05, 2022</time> Nope x2:
 
-- <time>May 23, 2022</time> Nope: ......2.464.....5325.13.6..81.7.....9.64....1......9.....39...5....82..........9.
+```
+3.92.6..82.657.3.....8..246..1.6.48.96..81.2..73...96.695.....24...39..5.3...56..
+```
 
-- <time>May 22, 2022</time> Sigh, I was so close to solving this without giving up and misusing the guess checker: 1..........2.693....7..3....21.....8....52.4....3..25......18..7.......6.64.....1
+- <time>Jun 03, 2022</time> Nope:
 
-- <time>May 21, 2022</time> Another easy puzzle: ..63.2.8..41.5.2362..18...4795.1.....8.69.1..1.....495...4.3529..7..1..34539.....
+```
+...1523..3..........4....89..5..7.916.78....3.1........6..4.91...3...6247........
+```
 
-- <time>May 20, 2022</time> I was short on time today so I went back to an easy puzzle: 3.1.6.7..827.3..1...6.21..4.3.6.4.292..39.16.76..1....6.2...9...9.2.6....1894..36
+- <time>May 28, 2022</time> See you next Friday I guess:
 
-- <time>May 19, 2022</time> Back to square-1 I guess: .....4..61.62....3..86...7.7.9.43.......7.1.........2.5.7.....42.....86..8..9....
+```
+..1......53..7.6....79..43.2..7........8...9...4.6......9....187....3..6..8...2.7
+```
 
-- <time>May 18, 2022</time> Took me 27 minutes, but I solved a medium sudoku without misusing the guess checker!: ...9..87....67.....6...45....61..2....4..2....27...4......16..8.....97.153.......
+- <time>May 27, 2022</time> Easy puzzle this time around:
 
-- <time>May 17, 2022</time> Sigh: 2..4....94.7.......6..8....7...9.165.....12....23...9...97.28.3...9....13.4......
+```
+..3514.8.162....494.8...137.3..812..2864.......49.28.....12.97.891.....5...35...8
+```
 
-- <time>May 16, 2022</time> I was so close to not giving up, but alas: 65.........7.1.3......7...1.1....8..5..6.24..9.6..4.3.....9..6.8......5...3..7...
+- <time>May 26, 2022</time> Sigh:
 
-- <time>May 15, 2022</time> Medium puzzle progress has been slow: 8........2..63.......1..29.6....8.31.....7..2..2...9681..8....9.7...9.........34.
+```
+...2..8.........64.6.1.........19.5.9.........52.8..31.8...6..9.1....57.42.......
+```
 
-- <time>May 14, 2022</time> Again, went back to an easy puzzle: .6472.8..2.1....5.3..691..4.2..897...8.4.7362547..3...8..5...37..534...6....7..21
+- <time>May 25, 2022</time> So close it's frustrating:
 
-- <time>May 13, 2022</time> I basically gave up mid-way with today's medium puzzle: 8.3...2..9.....3.6...9...7.......145.7....8.....8.6..94...1....51.2.8.....6..9...
+```
+1....5..9..9..8...35.16............1..3...72.6.529.3.......7..6.......8....4..13.
+```
 
-- <time>May 12, 2022</time> Went back to an easy puzzle: ..81..6.5.3..8421.91.2..4...54..6.28129...54....542.....2...167..1.29.5.58.47....
+- <time>May 24, 2022</time> Didn't have much time today so I had to give up less than 10 minutes in, though I feel like I am improving:
 
-- <time>May 11, 2022</time> Took advantage of the guess checker again: .......7..6.1....4..8..5.9....6..23.584.......2.....1.49..1....3...74.......3...6
+```
+.56.3...73....21.......8.56..18........4..52.83..69........5.9..9....6..2.3......
+```
 
-- <time>May 10, 2022</time> Solved my first medium puzzle! (Though I did take advantage of the guess checker, going to turn that off tomorrow): .........43.....7......1.4694..7.6.5..3...7..56..4..3..2.19.......7..3...9..24...
+- <time>May 23, 2022</time> Nope:
 
-- <time>May 09, 2022</time> Medium puzzles still feel impossible: 9...4...3.........5.4.1......5.7...8...1...6.8.29...4.4.9.5.7........28....697...
+```
+......2.464.....5325.13.6..81.7.....9.64....1......9.....39...5....82..........9.
+```
 
-- <time>May 08, 2022</time> Went back to easy for a day: 2476..1......87.236..1.5..9.54.3.281.3..5.49.19...2...4.5.69....215.8.....8...375
+- <time>May 22, 2022</time> Sigh, I was so close to solving this without giving up and misusing the guess checker:
 
-- <time>May 07, 2022</time> Pretty sure I made more guesses, progress! .8.3....99.3...5...6...2.1.1..4...5....9.....6.......84.......1..6.87..2......9..
+```
+1..........2.693....7..3....21.....8....52.4....3..25......18..7.......6.64.....1
+```
 
-- <time>May 06, 2022</time> I might have gotten a few more guesses, not really sure: ..6....123.8.5.......7.4...5..62.........7...41..8.....9.5...878....2.........6.9
+- <time>May 21, 2022</time> Another easy puzzle:
 
-- <time>May 05, 2022</time> Tried my luck with a medium puzzle, to no avail: 78........2.....7....3...9815.64........2...5..3.7...62.6..438......1.5.......4..
+```
+..63.2.8..41.5.2362..18...4795.1.....8.69.1..1.....495...4.3529..7..1..34539.....
+```
 
-- <time>May 04, 2022</time> Approaching 4 minutes!: 2..36........4.718984..5..2...71938.597..41..8.3....79.28..15.3.456.....6..5.72..
+- <time>May 20, 2022</time> I was short on time today so I went back to an easy puzzle:
 
-- <time>May 03, 2022</time> Just shy of 6 minutes: 2164....7..36..1.54..7312.....564.2.8.2....51695....7.56..984.....1.67...2...759.
+```
+3.1.6.7..827.3..1...6.21..4.3.6.4.292..39.16.76..1....6.2...9...9.2.6....1894..36
+```
 
-- <time>May 02, 2022</time> Finished in 5 minutes! Medium sudokus still look daunting: 91..23..8.6..1..93348...61.29.3.1.4.48..92.6...74..2..831.....6...5..7.1..9.683..
+- <time>May 19, 2022</time> Back to square-1 I guess:
 
-- <time>May 01, 2022</time> I took one look at the medium sudoku and went straight back to the easy tab lol: ...18.576521..48..8.73..1.4.38.7..42..2.9...1.5.4.3..89....861.2....54..4..63...9
+```
+.....4..61.62....3..86...7.7.9.43.......7.1.........2.5.7.....42.....86..8..9....
+```
 
-- <time>Apr 30, 2022</time> Finished today's easy Sudoku by NYTimes: 5..167.4..4....851231..4...69851.3..4..98.1..1...4.6.9.25..1..7.643....2...4..96.
+- <time>May 18, 2022</time> Took me 27 minutes, but I solved a medium sudoku without misusing the guess checker!:
 
-- <time>Apr 29, 2022</time> Even tougher than yesterday's, could only get 1 cell filled in (the rest were notes): .8..34.....58...7.6..57..2...4....68..6...2..39....1...3..97..2.7...56.....32..8. Also solved this easy one in ~8 minutes by the New York Times: .4..72.1...7.1.64.192..4.8..1.5874...5.1...97..6..98.18.1.4..293.42.1....2.3....4
+```
+...9..87....67.....6...45....61..2....4..2....27...4......16..8.....97.153.......
+```
 
-- <time>Apr 28, 2022</time> Tough one, couldn't solve it: .8574.91.7....5...........5..6..7.5..9.1.2.8..2....7..1...........4....8.59.7146.
+- <time>May 17, 2022</time> Sigh:
+
+```
+2..4....94.7.......6..8....7...9.165.....12....23...9...97.28.3...9....13.4......
+```
+
+- <time>May 16, 2022</time> I was so close to not giving up, but alas:
+
+```
+65.........7.1.3......7...1.1....8..5..6.24..9.6..4.3.....9..6.8......5...3..7...
+```
+
+- <time>May 15, 2022</time> Medium puzzle progress has been slow:
+
+```
+8........2..63.......1..29.6....8.31.....7..2..2...9681..8....9.7...9.........34.
+```
+
+- <time>May 14, 2022</time> Again, went back to an easy puzzle:
+
+```
+.6472.8..2.1....5.3..691..4.2..897...8.4.7362547..3...8..5...37..534...6....7..21
+```
+
+- <time>May 13, 2022</time> I basically gave up mid-way with today's medium puzzle:
+
+```
+8.3...2..9.....3.6...9...7.......145.7....8.....8.6..94...1....51.2.8.....6..9...
+```
+
+- <time>May 12, 2022</time> Went back to an easy puzzle:
+
+```
+..81..6.5.3..8421.91.2..4...54..6.28129...54....542.....2...167..1.29.5.58.47....
+```
+
+- <time>May 11, 2022</time> Took advantage of the guess checker again:
+
+```
+.......7..6.1....4..8..5.9....6..23.584.......2.....1.49..1....3...74.......3...6
+```
+
+- <time>May 10, 2022</time> Solved my first medium puzzle!
+
+```
+(Though I did take advantage of the guess checker, going to turn that off tomorrow):
+```
+
+```
+.........43.....7......1.4694..7.6.5..3...7..56..4..3..2.19.......7..3...9..24...
+```
+
+- <time>May 09, 2022</time> Medium puzzles still feel impossible:
+
+```
+9...4...3.........5.4.1......5.7...8...1...6.8.29...4.4.9.5.7........28....697...
+```
+
+- <time>May 08, 2022</time> Went back to easy for a day:
+
+```
+2476..1......87.236..1.5..9.54.3.281.3..5.49.19...2...4.5.69....215.8.....8...375
+```
+
+- <time>May 07, 2022</time> Pretty sure I made more guesses, progress!
+
+```
+.8.3....99.3...5...6...2.1.1..4...5....9.....6.......84.......1..6.87..2......9..
+```
+
+- <time>May 06, 2022</time> I might have gotten a few more guesses, not really sure:
+
+```
+..6....123.8.5.......7.4...5..62.........7...41..8.....9.5...878....2.........6.9
+```
+
+- <time>May 05, 2022</time> Tried my luck with a medium puzzle, to no avail:
+
+```
+78........2.....7....3...9815.64........2...5..3.7...62.6..438......1.5.......4..
+```
+
+- <time>May 04, 2022</time> Approaching 4 minutes!:
+
+```
+2..36........4.718984..5..2...71938.597..41..8.3....79.28..15.3.456.....6..5.72..
+```
+
+- <time>May 03, 2022</time> Just shy of 6 minutes:
+
+```
+2164....7..36..1.54..7312.....564.2.8.2....51695....7.56..984.....1.67...2...759.
+```
+
+- <time>May 02, 2022</time> Finished in 5 minutes!
+
+```
+Medium sudokus still look daunting:
+```
+
+```
+91..23..8.6..1..93348...61.29.3.1.4.48..92.6...74..2..831.....6...5..7.1..9.683..
+```
+
+- <time>May 01, 2022</time> I took one look at the medium sudoku and went straight back to the easy tab lol:
+
+```
+...18.576521..48..8.73..1.4.38.7..42..2.9...1.5.4.3..89....861.2....54..4..63...9
+```
+
+- <time>Apr 30, 2022</time> Finished today's easy Sudoku by NYTimes:
+
+```
+5..167.4..4....851231..4...69851.3..4..98.1..1...4.6.9.25..1..7.643....2...4..96.
+```
+
+- <time>Apr 29, 2022</time> Even tougher than yesterday's, could only get 1 cell filled in (the rest were notes):
+
+```
+.8..34.....58...7.6..57..2...4....68..6...2..39....1...3..97..2.7...56.....32..8.
+```
+
+Also solved this easy one in ~8 minutes by the New York Times:
+
+```
+.4..72.1...7.1.64.192..4.8..1.5874...5.1...97..6..98.18.1.4..293.42.1....2.3....4
+
+```
+
+- <time>Apr 28, 2022</time> Tough one, couldn't solve it:
+
+```
+
+.8574.91.7....5...........5..6..7.5..9.1.2.8..2....7..1...........4....8.59.7146.
+
+```
+
 <hr />
 
 ## <span id="gallpeters">[gallpeters](https://gallpeters.vercel.app)</span>
