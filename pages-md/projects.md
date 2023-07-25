@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 24, 2023
+publish_date: Jul 25, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -29,10 +29,12 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a>
 - <a href="#guitar">Guitar</a>
 
-### Done (35)
+### Done (37)
 
+- <a href="#mlsafetycourse">Machine Learning Safety Course</a>
 - <a href="#solaris-2">SOLARIS (Second Edition)</a>
 - <a href="#gfsmun2023">GFSMUN 2023</a>
+- <a href="#localhackathon2023">Local Hackathon 2023</a>
 - <a href="#ygss2023">YGSS 2023</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
 - <a href="#freecodecamp">freeCodeCamp</a>
@@ -45,7 +47,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#y1d2">y1d2</a>
 - <a href="#introml">Introduction to Machine Learning</a>
 - <a href="#computingcamp2022">Winter Computing Camp</a>
-- <a href="#statehackathon2022">"State" Hackathon</time>
+- <a href="#emiratehackathon2022">Emirate-level Hackathon</time>
 - <a href="#gfsmun2022">GFSMUN 2022</time>
 - <a href="#cubing">Cubing</a>
 - <a href="#localhackathon2022">Local Hackathon</time>
@@ -10208,6 +10210,19 @@ function getCount(str) {
 
 <hr />
 
+## <span id="mlsafetycourse">Machine Learning Safety Course</span>
+
+<small>Jun 24, 2023-Jun 24, 2023</small>  
+<small>~Finished the ML Safety course (Intro to ML Safety) in one day and made a guide/blog post on it.</small>
+
+<hr />
+
+#### Log
+
+- <time>Jul 24, 2023</time> This was quite an experience - finished going through the ML Safety Course by the Center for AI Safety in one day and made [a guide/blog post from my notes](https://arjunyadav.net/blog/the-busy-persons-introduction-to-ai-safety).
+
+<hr />
+
 ## <span id="solaris-2">SOLARIS (Second Edition)</span>
 
 <small>Dec 24, 2022-Jul 01, 2023</small>  
@@ -10263,14 +10278,31 @@ function getCount(str) {
 
 ## <span id="gfsmun2023">GFSMUN 2023</span>
 
-<small>Jun 23, 2022-Jun 25, 2023</small>  
+<small>Jun 23, 2023-Jun 25, 2023</small>  
 <small>Attended GFSMUN 2023 as part of my school team, and won best speaker!</small>
+
+<hr />
 
 #### Summary
 
 From ditching a portion of the first day (and missing my chance for a GSL) for prom to the odd crisis where I became Mark Zuckerberg to me beefing with the delegate of Nigeria (who won best delegate, well deserved!), GFSMUN III and the United Nations Office for Outer Space Affairs was one heck of a MUN and committee respectively. Shout out to my incredible chairs (who nit-picked on the number of hours I stated on my first position paper lol)
 
 ![GFSMUN III](/gfsmuniii.jpeg)
+
+<hr />
+
+## <span id="localhackathon2023">Local Hackathon 2023</span>
+
+<small>Jun 19, 2023-Jun 20, 2023</small>  
+<small>From participant to organiser this time around! The start date for this project represents when the auditions were conducted.</small>
+
+<hr />
+
+#### Summary
+
+From the okay-ish auditions (which were mostly my doing) came a really fun hackathon: the teams were assigned to create an encryption/decryption app using Tkinter in Python. In the beginning, a fun plot line involving the FBI/CIA and spying emerged. Was quite fun!
+
+![Local Hackathon - 2023](/localhackathon2023.jpeg)
 
 <hr />
 
@@ -12173,10 +12205,12 @@ The student council in your junior year should (hopefully!) just be a taste of w
 - <time>Dec 12, 2022</time> First day done! Learnt about computer networking from a really nice professor. Also, got a great tour of the university.
 <hr />
 
-## <span id="statehackathon2022">"State" Hackathon</span>
+## <span id="emiratehackathon2022">Emirate-level Hackathon</span>
 
 <small>Nov 19, 2022-Nov 19, 2022</small>  
 <small>Led my senior team to a win in a "state" hackathon! Due to privacy reasons, I was being incredibly vague.</small>
+
+<hr />
 
 #### Log
 
@@ -12188,6 +12222,8 @@ The student council in your junior year should (hopefully!) just be a taste of w
 
 <small>Nov 04, 2022-Nov 06, 2022</small>  
 <small>Attended GFSMUN 2022 as part of my school team. Due to privacy reasons, I was being incredibly vague.</small>
+
+<hr />
 
 #### Log
 
