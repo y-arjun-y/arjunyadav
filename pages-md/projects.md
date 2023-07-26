@@ -721,6 +721,19 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jul 26, 2023</time> Finished [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/):
+
+```py
+class Solution:
+    def splitWordsBySeparator(self, words: List[str], separator: str) -> List[str]:
+        words_new = []
+
+        for i in words:
+            words_new.extend(i.split(separator))
+
+        return [i for i in words_new if len(i) > 0]
+```
+
 - <time>Jul 25, 2023</time> Finished [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) (with just a bit of help):
 
 ```sql
