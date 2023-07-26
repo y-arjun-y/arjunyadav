@@ -54,7 +54,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#landingpage">Landing Page Project + App Integration</a>
 - <a href="#kenken">KENKEN</a>
 - <a href="#duolingo">Duolingo</a>
-- <a href="#localaiprogram">Local AI Program</a> (Sa)
+- <a href="#localaiprogram">Local AI Program</a>
 - <a href="#eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</a>
 - <a href="#bearblogreplacementtemplate">Bear Blog Replacement Template</a>
 - <a href="#solaris-1">SOLARIS (First Edition)</a>
@@ -74,12 +74,6 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#agisf">AGI Safety Fundamentals: Technical Track</a>
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#fastai">fast.ai</a>
-
-<hr /> 
-F - Friday, Sa - Saturday, S - Sunday, O - Occasional
-<hr />
-~1 project awaits a summary.
-<hr />
 
 #### Navigation Tips
 
