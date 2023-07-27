@@ -95,6 +95,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Jul 27, 2023</time> Answered a doubt.
+
 - <time>Jul 26, 2023</time> And that's a wrap! Capstone project time.
 
 ![SOLARIS - 3](/solaris-3.png)
@@ -128,6 +130,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jul 27, 2023</time> Reviewed the second draft. Nearly done (I think)!
+
 - <time>Jul 22, 2023-Jul 25, 2023</time> Reviewed the draft and added comments.
 
 - <time>Jul 21, 2023</time> Got the draft!
@@ -152,6 +156,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 27, 2023</time> Media's turn!
 
 - <time>Jul 26, 2023</time> Checked-in with outreach - some good progress
 
@@ -185,6 +191,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 27, 2023</time> In the meanwhile, tried my hand at FashionMNIST. Did not go so well.
 
 - <time>Jul 24, 2023-Jul 25, 2023</time> CIFAR-10 training done, going to try out Tiny ImageNet next to end of training before the CameraTrap part of my research (hopefully!)
 
@@ -241,7 +249,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 26, 2023</time> Got word of permission for a project (which also leads to something pretty important)!
+- <time>Jul 26, 2023-Jul 27, 2023</time> Got word of permission for a project (which also leads to something pretty important)!
 
 - <time>Jul 19, 2023-Jul 25, 2023</time> It's hard to describe the work that's been going on, but it is certainly something..
 
@@ -357,6 +365,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 27, 2023</time> Somnething quite fun might be coming soon....
 
 - <time>Jul 23, 2023-Jul 26, 2023</time> Launched!
 
@@ -505,7 +515,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 20, 2023-Jul 26, 2023</time> Got some discussions in with my co-founder + some organisational work.
+- <time>Jul 20, 2023-Jul 27, 2023</time> Got some discussions in with my co-founder + some organisational work.
 
 - <time>Jul 19, 2023</time> All the plans are out and we're working on something important now!
 
@@ -685,6 +695,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 27, 2023</time> 'Breed' by Nirvana is quite a fun song to play.
 
 - <time>Jul 26, 2023</time> Played the intro to Toxicity and shared it.
 
