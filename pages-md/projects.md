@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 26, 2023
+publish_date: Jul 27, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -722,6 +722,13 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 27, 2023</time> Finished [Top Travellers](https://leetcode.com/problems/top-travellers/) (with a little bit of help, at least I learnt about LEFT JOIN):
+
+```py
+# Write your MySQL query statement below
+SELECT name, IFNULL(SUM(distance), 0) as travelled_distance FROM Users u LEFT JOIN Rides r ON u.id = r.user_id GROUP BY u.id ORDER BY travelled_distance DESC, name;
+```
 
 - <time>Jul 26, 2023</time> Finished [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/):
 
