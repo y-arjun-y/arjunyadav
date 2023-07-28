@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 27, 2023
+publish_date: Jul 28, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -95,7 +95,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Jul 27, 2023</time> Answered a doubt.
+- <time>Jul 27, 2023-Jul 28, 2023</time> Answered a doubt(s).
 
 - <time>Jul 26, 2023</time> And that's a wrap! Capstone project time.
 
@@ -157,7 +157,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 27, 2023</time> Media's turn!
+- <time>Jul 27, 2023-Jul 28, 2023</time> Media's turn!
 
 - <time>Jul 26, 2023</time> Checked-in with outreach - some good progress
 
@@ -191,6 +191,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 28, 2023</time> Going to move on to analysing why the model had performed poorly on FashionMNIST, but quite well on CIFAR-10.
 
 - <time>Jul 27, 2023</time> In the meanwhile, tried my hand at FashionMNIST. Did not go so well.
 
@@ -248,6 +250,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 26, 2023-Jul 27, 2023</time> Proud Head of Events day!
 
 - <time>Jul 26, 2023-Jul 27, 2023</time> Got word of permission for a project (which also leads to something pretty important)!
 
@@ -365,6 +369,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 28, 2023</time> Might need to concoct up something tomorrow, also, progress on a smaller event!
 
 - <time>Jul 27, 2023</time> Somnething quite fun might be coming soon....
 
@@ -515,7 +521,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 20, 2023-Jul 27, 2023</time> Got some discussions in with my co-founder + some organisational work.
+- <time>Jul 20, 2023-Jul 28, 2023</time> Got some discussions in with my co-founder + some organisational work.
 
 - <time>Jul 19, 2023</time> All the plans are out and we're working on something important now!
 
@@ -696,6 +702,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jul 28, 2023</time> Los.
+
 - <time>Jul 27, 2023</time> 'Breed' by Nirvana is quite a fun song to play.
 
 - <time>Jul 26, 2023</time> Played the intro to Toxicity and shared it.
@@ -735,9 +743,16 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jul 28, 2023</time> Finished [Employee Bonus](https://leetcode.com/problems/employee-bonus/), LEFT JOIN is so cool:
+
+```sql
+# Write your MySQL query statement below
+SELECT name, bonus FROM Employee e LEFT JOIN Bonus b ON e.empId = b.empId WHERE bonus < 1000 OR ISNULL(bonus);
+```
+
 - <time>Jul 27, 2023</time> Finished [Top Travellers](https://leetcode.com/problems/top-travellers/) (with a little bit of help, at least I learnt about LEFT JOIN):
 
-```py
+```sql
 # Write your MySQL query statement below
 SELECT name, IFNULL(SUM(distance), 0) as travelled_distance FROM Users u LEFT JOIN Rides r ON u.id = r.user_id GROUP BY u.id ORDER BY travelled_distance DESC, name;
 ```
