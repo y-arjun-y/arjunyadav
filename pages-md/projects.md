@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 28, 2023
+publish_date: Jul 29, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -742,6 +742,13 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 29, 2023</time> Finished [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) with a bit of help:
+
+```sql
+# Write your MySQL query statement below
+SELECT customer_id FROM Customer GROUP BY customer_id HAVING COUNT(DISTINCT product_key) = (SELECT COUNT(DISTINCT product_key) FROM Product);
+```
 
 - <time>Jul 28, 2023</time> Finished [Employee Bonus](https://leetcode.com/problems/employee-bonus/), LEFT JOIN is so cool:
 
