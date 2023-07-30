@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 29, 2023
+publish_date: Jul 30, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -130,7 +130,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 27, 2023</time> Reviewed the second draft. Nearly done (I think)!
+- <time>Jul 29, 2023</time> Finished the blog post with my blog writer!
+
+- <time>Jul 27, 2023-Jul 28, 2023</time> Reviewed the second draft. Nearly done (I think)!
 
 - <time>Jul 22, 2023-Jul 25, 2023</time> Reviewed the draft and added comments.
 
@@ -157,7 +159,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 27, 2023-Jul 28, 2023</time> Media's turn!
+- <time>Jul 27, 2023-Jul 29, 2023</time> Media's turn!
 
 - <time>Jul 26, 2023</time> Checked-in with outreach - some good progress
 
@@ -192,7 +194,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 28, 2023</time> Going to move on to analysing why the model had performed poorly on FashionMNIST, but quite well on CIFAR-10.
+- <time>Jul 28, 2023-Jul 29, 2023</time> Going to move on to analysing why the model had performed poorly on FashionMNIST, but quite well on CIFAR-10.
 
 - <time>Jul 27, 2023</time> In the meanwhile, tried my hand at FashionMNIST. Did not go so well.
 
@@ -250,6 +252,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 28, 2023-Jul 29, 2023</time> Cubing was an interesting part of my life.
 
 - <time>Jul 26, 2023-Jul 27, 2023</time> Proud Head of Events day!
 
@@ -369,6 +373,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 29, 2023</time> Hm. This is an interesting fork in the road.
 
 - <time>Jul 28, 2023</time> Might need to concoct up something tomorrow, also, progress on a smaller event!
 
@@ -521,7 +527,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 20, 2023-Jul 28, 2023</time> Got some discussions in with my co-founder + some organisational work.
+- <time>Jul 20, 2023-Jul 29, 2023</time> Got some discussions in with my co-founder + some organisational work.
 
 - <time>Jul 19, 2023</time> All the plans are out and we're working on something important now!
 
@@ -701,6 +707,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 29, 2023-Jul 30, 2023</time> Learnt Weird Fishes/ Arpeggi.
 
 - <time>Jul 28, 2023</time> Los.
 
