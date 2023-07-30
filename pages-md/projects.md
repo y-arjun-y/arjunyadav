@@ -751,6 +751,14 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jul 30, 2023</time> Finished [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/):
+
+```py
+class Solution:
+    def numberOfEmployeesWhoMetTarget(self, hours: List[int], target: int) -> int:
+        return len([i for i in hours if i >= target])
+```
+
 - <time>Jul 29, 2023</time> Finished [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) with a bit of help:
 
 ```sql
