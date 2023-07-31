@@ -95,6 +95,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Jul 29, 2023-Jul 31, 2023</time> All capstone project ideas should be finalised now!
+
 - <time>Jul 27, 2023-Jul 28, 2023</time> Answered a doubt(s).
 
 - <time>Jul 26, 2023</time> And that's a wrap! Capstone project time.
@@ -159,6 +161,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jul 31, 2023</time> Got (and shared) some great sponsorship advice.
+
 - <time>Jul 27, 2023-Jul 29, 2023</time> Media's turn!
 
 - <time>Jul 26, 2023</time> Checked-in with outreach - some good progress
@@ -193,6 +197,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 29, 2023-Jul 31, 2023</time> The end of this month lined up perfectly with the end of the first part of this project, excited for the next step!
 
 - <time>Jul 28, 2023-Jul 29, 2023</time> Going to move on to analysing why the model had performed poorly on FashionMNIST, but quite well on CIFAR-10.
 
@@ -253,7 +259,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 28, 2023-Jul 29, 2023</time> Cubing was an interesting part of my life.
+- <time>Jul 31, 2023</time> Lots of smaller, but important work!
+
+- <time>Jul 28, 2023-Jul 30, 2023</time> Cubing was an interesting part of my life.
 
 - <time>Jul 26, 2023-Jul 27, 2023</time> Proud Head of Events day!
 
