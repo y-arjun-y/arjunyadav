@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Jul 30, 2023
+publish_date: Jul 31, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -750,6 +750,13 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 31, 2023</time> Finished [Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/):
+
+```sql
+# Write your MySQL query statement below
+SELECT ROUND((SELECT COUNT(*) FROM Delivery WHERE order_date=customer_pref_delivery_date) / COUNT(*) * 100, 2) AS immediate_percentage FROM Delivery;
+```
 
 - <time>Jul 30, 2023</time> Finished [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/):
 
