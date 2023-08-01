@@ -759,6 +759,13 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 01, 2023</time> Finished [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/):
+
+```sql
+# Write your MySQL query statement below
+SELECT ROUND((SELECT COUNT(*) FROM Delivery d WHERE d.order_date = d.customer_pref_delivery_date AND d.order_date = (SELECT MIN(order_date) FROM Delivery WHERE customer_id = d.customer_id)) / COUNT(DISTINCT customer_id) * 100, 2) as immediate_percentage FROM Delivery;
+```
+
 - <time>Jul 31, 2023</time> Finished [Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/):
 
 ```sql
