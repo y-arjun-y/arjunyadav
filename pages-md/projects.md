@@ -7,8 +7,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (9)
+### Active (10)
 
+- <a href="#aissr">AI Safety Studying/Research</a>
 - <a href="#solaris-3">SOLARIS (Third Edition)</a>
 - <a href="#oceanbusters">Ocean Busters</a>
 - <a href="#tedx2023">TEDxYouth@DPSS 2023</a>
@@ -88,6 +89,17 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="aissr">AI Safety Studying/Research</span>
+
+<small>Aug 01, 2023-present</small>  
+<small>Continuing this breath-taking journey in AI safety (the research part being with my brother).</small>
+
+<hr />
+
+- <time>Aug 01, 2023</time> Happy to report that [this recently completed project](/#mlsafetycourse/) was not a one-off AI safety project, I'll be continuing with self-studying and research with my brother. Super excited!
+
+<hr />
+
 ## <span id="solaris-3">SOLARIS (Third Edition)</span>
 
 <small>Jul 08, 2023-present</small>  
@@ -95,7 +107,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Jul 29, 2023-Jul 31, 2023</time> All capstone project ideas should be finalised now!
+- <time>Jul 29, 2023-Aug 01, 2023</time> All capstone project ideas should be finalised now!
 
 - <time>Jul 27, 2023-Jul 28, 2023</time> Answered a doubt(s).
 
@@ -198,6 +210,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 01, 2023</time> Took a cursory look at the data.
+
 - <time>Jul 29, 2023-Jul 31, 2023</time> The end of this month lined up perfectly with the end of the first part of this project, excited for the next step!
 
 - <time>Jul 28, 2023-Jul 29, 2023</time> Going to move on to analysing why the model had performed poorly on FashionMNIST, but quite well on CIFAR-10.
@@ -259,7 +273,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 31, 2023</time> Lots of smaller, but important work!
+- <time>Jul 31, 2023-Aug 01, 2023</time> Lots of smaller, but important work!
 
 - <time>Jul 28, 2023-Jul 30, 2023</time> Cubing was an interesting part of my life.
 
@@ -382,7 +396,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 29, 2023</time> Hm. This is an interesting fork in the road.
+- <time>Jul 29, 2023-Aug 01, 2023</time> Hm. This is an interesting fork in the road. At least there's kulfi.
 
 - <time>Jul 28, 2023</time> Might need to concoct up something tomorrow, also, progress on a smaller event!
 
@@ -534,6 +548,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jul 30, 2023-Aug 01, 2023</time> Airtable's are fully up! Expecting a big splash sooner or later.
 
 - <time>Jul 20, 2023-Jul 29, 2023</time> Got some discussions in with my co-founder + some organisational work.
 
@@ -716,7 +732,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 29, 2023-Jul 30, 2023</time> Learnt Weird Fishes/ Arpeggi.
+- <time>Jul 31, 2023-Aug 01, 2023</time> Continuing to learn Sweet Child O' Mine by Guns N' Roses.
+
+- <time>Jul 29, 2023-Jul 30, 2023</time> Learnt Weird Fishes/ Arpeggi by Radiohead.
 
 - <time>Jul 28, 2023</time> Los.
 
