@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Aug 01, 2023
+publish_date: Aug 02, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -776,6 +776,13 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 02, 2023</time> Finished [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/):
+
+```sql
+# Write your MySQL query statement below
+SELECT contest_id, ROUND(COUNT(*) / (SELECT COUNT(*) FROM Users) * 100, 2) AS percentage FROM Users u, Register r WHERE u.user_id = r.user_id GROUP BY contest_id ORDER BY percentage DESC, contest_id ASC;
+```
 
 - <time>Aug 01, 2023</time> Finished [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/):
 
