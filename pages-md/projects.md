@@ -15822,5 +15822,3 @@ I may make spelling, grammar or factual mistakes. I'll probably notice them at t
 For privacy reasons, I don't mention others who may have worked with me on these projects (unless I asked them first or their role was public), some projects with their logs may come later and I may also come off a bit vague at times.
 
 There'll be a lot of exceptions in this note (with many more spelling and grammar mistakes), but regardless, I hope you find these logs inspiring!
-
-<hr />

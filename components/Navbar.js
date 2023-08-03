@@ -11,14 +11,13 @@ export default function Navbar() {
           <a href="/series">Series</a>
           <a href="/notebook">Notebook</a>
           <a href="/projects/">Projects</a>
+          <a href="/donations/">Donations</a>
+          <a href="/analytics/">Analytics</a>
           <a href="/resume">Résumé</a>
           <a href="https://www.linkedin.com/in/arjun-yadav-32038125a/">
             LinkedIn
-          </a>{" "}
-          <br />
+          </a>
           <a href="https://github.com/y-arjun-y/">GitHub</a>
-          <a href="/donations/">Donations</a>
-          <a href="/analytics/">Analytics</a>
         </p>
       </nav>
     </header>
