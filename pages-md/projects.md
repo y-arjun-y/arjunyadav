@@ -1,6 +1,6 @@
 ---
 title: Projects
-publish_date: Aug 02, 2023
+publish_date: Aug 03, 2023
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -776,6 +776,13 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 03, 2023</time> Finished [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/):
+
+```sql
+# Write your MySQL query statement below
+SELECT unique_id, name FROM Employees e LEFT JOIN EmployeeUNI u ON e.id = u.id;
+```
 
 - <time>Aug 02, 2023</time> Finished [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/):
 
