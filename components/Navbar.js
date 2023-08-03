@@ -10,10 +10,9 @@ export default function Navbar() {
           <a href="/blog/">Blog</a>
           <a href="/series">Series</a>
           <a href="/notebook">Notebook</a>
-          <a href="/projects/">Projects</a>
+          <a href="/projects/">Projects</a> <br />
           <a href="/donations/">Donations</a>
           <a href="/analytics/">Analytics</a>
-          <br />
           <a href="/resume">Résumé</a>
           <a href="https://www.linkedin.com/in/arjun-yadav-32038125a/">
             LinkedIn
