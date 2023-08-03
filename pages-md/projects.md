@@ -15590,6 +15590,8 @@ category=android.intent.category.DEFAULT
 
 In my experimentations with [Bear Blog](https://bearblog.dev/) (which [I developed a replacement for](https://github.com/y-arjun-y/bear-blog-replacement-template)), I made some classless CSS files. I somewhat actively worked on them till ~August 2022. Feel free to use them!
 
+<hr />
+
 ## <span id="youthree">[youthree](https://github.com/y-arjun-y/youthree/)</span>
 
 <small>Aug 6, 2021-Oct 14, 2021</small>
@@ -15601,6 +15603,8 @@ In my experimentations with [Bear Blog](https://bearblog.dev/) (which [I develop
 My first real "weekend" programming project (which take way longer than a weekend). You can find a screenshot of the rare instance the website wasn't broken down below:
 
 ![youthree](/youthree.png)
+
+<hr />
 
 ## <span id="symposiumproject">Symposium Project</span>
 
@@ -15615,6 +15619,7 @@ The last project I worked with my brother before he went for university (and the
 We had our fair share of arguments during this project, but I'm sure it made our relationship stronger in the end. You can find some of the blog posts from this era on my [blog](/blog/).
 
 <hr />
+
 ## <span id="carykhpd">[CaryKH's Prisoner's Dilemma Tournament](https://github.com/carykh/PrisonersDilemmaTournament/)</span>
 
 <small>May 04, 2021-May 25, 2021</small>
@@ -15638,6 +15643,8 @@ Was quite a fun tournament! I watched CaryKH's BFDI series when I was quite youn
 An interesting first foray into the world of extracurriculars for little Arjun, I distinctly remember running from the car after an outing to attend my microeconomics class. The neurodegenerative disease course was also interesting. I hope all my instructors are doing well now!
 
 <hr />
+
+## Abandoned
 
 ## <span id="agisf">AGI Safety Fundamentals: Technical Track</span>
 
