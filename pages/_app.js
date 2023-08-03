@@ -25,6 +25,7 @@ function ArjunYadav({ Component, pageProps }) {
       </Head>
       <Navbar />
       <Component {...pageProps} />
+      <hr />
     </>
   );
 }

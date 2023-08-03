@@ -8,7 +8,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 <img src="/Arjun.png" height="350px" />
 
-My name is Arjun Yadav, my interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development and machine learning) and [writing on my blog](/blog/) (I post at least once a month, excluding my [interesting reads](/interesting-reads/) series)[^1].
+My name is Arjun Yadav, my interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development and [machine learning and AI safety](/notebook/)) and [writing on my blog](/blog/) (I post at least once a month, excluding my [interesting reads](/interesting-reads/) series)[^1].
 
 Check out my projects [here](/projects/) and feel free to [contact me](https://www.bettermailto.com/user/620278e0561f820009d840d2).
 

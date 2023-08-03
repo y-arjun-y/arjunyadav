@@ -34,3 +34,12 @@ I've missed my goal of posting a blog post at least once a month (excluding my [
 - [Distillation of The Offense-Defense Balance of Scientific Knowledge](/blog/distillation-of-the-offense-defense-balance-of-scientific-knowledge) (replacement post for July 2022)
 
 [^1]: Well, not _everything_ everything, only most newsletters, articles/posts and books. But you get the point.
+
+<h2 id="summaries-distillations">Summaries/Distillations</h2>
+
+- [The Busy Person's Introduction to AI Safety](/blog/the-busy-persons-introduction-to-ai-safety)
+- [Linear algebra in ~10 minutes](blog/linear-algebra-in-10-minutes)
+- [Distillation of The Offense-Defense Balance of Scientific Knowledge](/blog/distillation-of-the-offense-defense-balance-of-scientific-knowledge)
+- [Make a neural network in ~10 minutes](/blog/make-a-neural-network-in-10-minutes)
+
+[^1]: Well, not _everything_ everything, only most newsletters, articles/posts and books. But you get the point.

@@ -9,6 +9,7 @@ export default function Navbar() {
           <a href="/">Home</a>
           <a href="/blog/">Blog</a>
           <a href="/series">Series</a>
+          <a href="/notebook">Notebook</a>
           <a href="/projects/">Projects</a>
           <a href="/resume">Résumé</a>
           <a href="https://www.linkedin.com/in/arjun-yadav-32038125a/">
