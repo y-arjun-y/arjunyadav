@@ -1,6 +1,6 @@
 ---
-title: Arjun Yadav
-meta_description: Welcome to the series on arjunyadav.net!
+title: Series
+meta_description: Welcome to all of the series on my blog!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
