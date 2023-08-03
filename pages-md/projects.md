@@ -69,6 +69,14 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#eaindepth">Effective Altruism In-Depth Fellowship</a>
 - <a href="#eaglobal2021">EA Global: London 2021</a>
 
+### Retroactive (5)
+
+- <a href="#webdevmisc">Classless CSS + Bear Blog Replacement</a>
+- <a href="#youthree">youthree</a>
+- <a href="#symposiumproject">Symposium Project</a>
+- <a href="#carykhpd">CaryKH's Prisoner's Dilemma Tournament</a>
+- <a href="#wavelf">WaveLF Courses</a>
+
 ### Abandoned (3)
 
 - <a href="#agisf">AGI Safety Fundamentals: Technical Track</a>
@@ -15566,7 +15574,68 @@ category=android.intent.category.DEFAULT
 - <time>Oct 30, 2021</time> It was great seeing both [Benjamin Todd](https://benjamintodd.org/) and [William MacAskill](https://www.williammacaskill.com/) (albeit virtually) talk in such an in-depth manner. One day, I'll hopefully go for one physically!
 <hr />
 
-## Abandoned
+## Retroactive
+
+(note: none of these dates are particularly accurate!)
+
+<hr />
+
+## <span id="webdevmisc">[Classless CSS](https://github.com/y-arjun-y/classless-css) + [Bear Blog Replacement](https://github.com/y-arjun-y/bear-blog-replacement-template)</span>
+
+<small>Sep 16, 2021-Aug 8, 2022</small>
+
+<hr />
+
+### Summary
+
+In my experimentations with [Bear Blog](https://bearblog.dev/) (which [I developed a replacement for](https://github.com/y-arjun-y/bear-blog-replacement-template)), I made some classless CSS files. I somewhat actively worked on them till ~August 2022. Feel free to use them!
+
+## <span id="youthree">[youthree](https://github.com/y-arjun-y/youthree/)</span>
+
+<small>Aug 6, 2021-Oct 14, 2021</small>
+
+<hr />
+
+### Summary
+
+My first real "weekend" programming project (which take way longer than a weekend). You can find a screenshot of the rare instance the website wasn't broken down below:
+
+![youthree](/youthree.png)
+
+## <span id="symposiumproject">Symposium Project</span>
+
+<small>May 28, 2021-Aug 17, 2021</small>
+
+<hr />
+
+### Summary
+
+The last project I worked with my brother before he went for university (and the first "real" project with him) was a blog that I had developed and where we both wrote about a subject we had read about/found interesting.
+
+We had our fair share of arguments during this project, but I'm sure it made our relationship stronger in the end. You can find some of the blog posts from this era on my [blog](/blog/).
+
+<hr />
+## <span id="carykhpd">[CaryKH's Prisoner's Dilemma Tournament](https://github.com/carykh/PrisonersDilemmaTournament/)</span>
+
+<small>May 04, 2021-May 25, 2021</small>
+
+<hr />
+
+### Summary
+
+Was quite a fun tournament! I watched CaryKH's BFDI series when I was quite young, so it was interesting to see this as a natural evolution from that. [I called my file "Elephant.py" and came in the ~92% percentile](https://docs.google.com/spreadsheets/d/1PBxAVnBSTyFpdpPIixhXRxB1JIEZzUrTnP7CZwLka70/).
+
+<hr />
+
+## <span id="wavelf">[WaveLF](https://www.wavelf.org/) Courses</span>
+
+<small>sometime in 2020</small>
+
+<hr />
+
+### Summary
+
+An interesting first foray into the world of extracurriculars for little Arjun, I distinctly remember running from the car after an outing to attend my microeconomics class. The neurodegenerative disease course was also interesting. I hope all my instructors are doing well now!
 
 <hr />
 
@@ -15588,7 +15657,7 @@ category=android.intent.category.DEFAULT
 ## <span id="openresearchpaper">Maintaining the benefits of open research in AI</span>
 
 <small>Aug 10, 2022-Aug 26, 2022</small>  
-<small>Trying to create a paper which presents a framework that protects the benefits of open research in AI. Inspired by [Toby Shevlane and Allan Dafoe's work](https://www.fhi.ox.ac.uk/wp-content/uploads/The-Offense-Defense-Balance-of-Scientific-Knowledge.pdf) as well as [Nick Bostrom's work](https://ora.ox.ac.uk/objects/uuid:83ea712f-aba3-4176-957a-3bb4af0209d6). Currently abandonded (though honestly, I might revist this after my AUS research post has concluded).</small>
+<small>Trying to create a paper which presents a framework that protects the benefits of open research in AI. Inspired by [Toby Shevlane and Allan Dafoe's work](https://www.fhi.ox.ac.uk/wp-content/uploads/The-Offense-Defense-Balance-of-Scientific-Knowledge.pdf) as well as [Nick Bostrom's work](https://ora.ox.ac.uk/objects/uuid:83ea712f-aba3-4176-957a-3bb4af0209d6). Currently abandoned (though honestly, I might revist this after my AUS research post has concluded).</small>
 
 <hr />
 

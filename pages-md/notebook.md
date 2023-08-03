@@ -67,7 +67,7 @@ The rest of the paper is the implementation (and hairy) mathematics behind the E
 
 ### Terms and Concepts
 
-(ordered in decreasing order of "high-levelness")
+(in decreasing order of "high-levelness")
 
 To be written soon!
 
