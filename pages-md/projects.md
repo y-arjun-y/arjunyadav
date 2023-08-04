@@ -182,6 +182,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 03, 2023</time> Lot's of press work!
+
 - <time>Aug 02, 2023</time> Gotta test out a camera soon.
 
 - <time>Jul 31, 2023</time> Got (and shared) some great sponsorship advice.
@@ -286,7 +288,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 31, 2023-Aug 02, 2023</time> Lots of smaller, but important work!
+- <time>Jul 31, 2023-Aug 03, 2023</time> Lots of smaller, but important work!
 
 - <time>Jul 28, 2023-Jul 30, 2023</time> Cubing was an interesting part of my life.
 
@@ -409,7 +411,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 02, 2023</time> Astronomy!
+- <time>Aug 02, 2023-Aug 03, 2023</time> Astronomy!
 
 - <time>Jul 29, 2023-Aug 01, 2023</time> Hm. This is an interesting fork in the road. At least there's kulfi.
 
@@ -564,7 +566,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 30, 2023-Aug 02, 2023</time> Airtable are close to being fully up! Expecting a big splash sooner or later.
+- <time>Jul 30, 2023-Aug 03, 2023</time> Airtable are close to being fully up! Expecting a big splash sooner or later.
 
 - <time>Jul 20, 2023-Jul 29, 2023</time> Got some discussions in with my co-founder + some organisational work.
 
@@ -747,7 +749,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 31, 2023-Aug 02, 2023</time> Continuing to learn Sweet Child O' Mine by Guns N' Roses.
+- <time>Jul 31, 2023-Aug 03, 2023</time> Continuing to learn Sweet Child O' Mine by Guns N' Roses.
 
 - <time>Jul 29, 2023-Jul 30, 2023</time> Learnt Weird Fishes/ Arpeggi by Radiohead.
 
@@ -791,6 +793,13 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 04, 2023</time> Finished [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/):
+
+```sql
+# Write your MySQL query statement below
+SELECT user_id, CONCAT(UCASE(SUBSTR(name, 1, 1)), LCASE(SUBSTR(name, 2, LENGTH(name)))) as name FROM Users ORDER BY user_id;
+```
 
 - <time>Aug 03, 2023</time> Finished [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/):
 
