@@ -25,6 +25,12 @@ const nextConfig = {
         destination: "/blog/the-busy-persons-introduction-to-ai-safety",
         permanent: false,
       },
+      {
+        source: "aae-class",
+        destination:
+          "https://docs.google.com/document/d/1zxP9nkgEXKf2aZ10NznOnBeQzQvSJFNGrZFlncJzNWs/edit?usp=sharing",
+        permanent: false,
+      },
     ];
   },
 };
