@@ -103,6 +103,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Aug 03, 2023-Aug 04, 2023</time> Programming started for VAEs!
+
 - <time>Aug 02, 2023</time> Read up on VAEs and Sparse Coding, and had another meeting.
 
 - <time>Aug 01, 2023</time> Happy to report that [this recently completed project](/#mlsafetycourse/) was not a one-off AI safety project, I'll be continuing with self-studying and research with my brother. Super excited!
@@ -182,7 +184,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 03, 2023</time> Lot's of press work!
+- <time>Aug 03, 2023-Aug 04, 2023</time> Lot's of press (and some media) work!
 
 - <time>Aug 02, 2023</time> Gotta test out a camera soon.
 
@@ -222,6 +224,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 04, 2023</time> Some great results for the first day with the data!
 
 - <time>Aug 02, 2023</time> Spoke with my co-RA!
 
@@ -411,7 +415,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 02, 2023-Aug 03, 2023</time> Astronomy!
+- <time>Aug 02, 2023-Aug 04, 2023</time> Astronomy!
 
 - <time>Jul 29, 2023-Aug 01, 2023</time> Hm. This is an interesting fork in the road. At least there's kulfi.
 
@@ -565,6 +569,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 04, 2023</time> Solid progress.
 
 - <time>Jul 30, 2023-Aug 03, 2023</time> Airtable are close to being fully up! Expecting a big splash sooner or later.
 
@@ -749,7 +755,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 31, 2023-Aug 03, 2023</time> Continuing to learn Sweet Child O' Mine by Guns N' Roses.
+- <time>Jul 31, 2023-Aug 04, 2023</time> Continuing to learn Sweet Child O' Mine by Guns N' Roses.
 
 - <time>Jul 29, 2023-Jul 30, 2023</time> Learnt Weird Fishes/ Arpeggi by Radiohead.
 
