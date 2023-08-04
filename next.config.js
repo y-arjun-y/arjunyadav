@@ -26,7 +26,7 @@ const nextConfig = {
         permanent: false,
       },
       {
-        source: "aae-class",
+        source: "/aae-class",
         destination:
           "https://docs.google.com/document/d/1zxP9nkgEXKf2aZ10NznOnBeQzQvSJFNGrZFlncJzNWs/edit?usp=sharing",
         permanent: false,
