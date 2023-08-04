@@ -4,24 +4,32 @@ meta_description: Welcome to my public ML/AI Safety notebook!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
-## Machine Learning/AI Safety Notebook
+This page serves as my _machine learning/AI safety_ notebook, I hope for this page to serve as a more unstructured knowledge hub of all that I have discovered in ML/AIS!
 
-### Learning
+## Learning
 
-#### What I'm Learning Currently
+### What I'm Learning Currently
 
 - Mechanistic Interpretability
   - Sparse Coding
   - Variational Auto-encoders
 - Vision Transformers
 
-#### What I Want To Learn
+### What I Want To Learn
 
 - Component Analysis
   - Principal Component Analysis (through a course)
   - Independent Component Analysis
 
-### Papers + Notes (if open access)
+## Papers + Notes (if open access)
+
+### Mechanistic Interpretability
+
+- [Variational Sparse Coding](https://openreview.net/forum?id=SkeJ6iR9Km):
+
+The Problem: Unsupervised discovery of interpretable features and controllable generation with high-dimensional data are currently major challenges in machine learning.
+
+Proposal: A model based on variational auto-encoders (VAEs) in which interpretation is induced through latent space sparsity with a mixture of Spike and Slab distributions as prior.
 
 ### Practical Applications of Transformers
 
@@ -31,7 +39,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 - [Towards an IoT-based Deep Learning Architecture for Camera Trap Image Classification](https://ieeexplore.ieee.org/document/9345858)
 
-#### Multi-headed Attention and Transformers
+### Multi-headed Attention and Transformers
 
 - [Vision Transformers - Origin](https://arxiv.org/abs/2010.11929v2):
 
@@ -65,13 +73,17 @@ The rest of the paper is the implementation (and hairy) mathematics behind the E
 
 ![Transformer](/transformer.png)
 
-### Terms and Concepts
+## Terms and Concepts
 
 (in decreasing order of "high-levelness")
 
-To be written soon!
+- Sparse Coding: A technique to set an encoding function in such a way that it can exploit a high-dimensional space to model a large number of possible features, while being encouraged to use a small subset of non-zero elements to describe each individual observation.
 
-### Related Projects and Posts
+- Variational auto-encoder (VAE): A VAE is an autoencoder whose encodings distribution is regularised during the training in order to ensure that its latent space has "good" properties allowing us to generate some new data (in a sense, visualize it in a better manner).
+
+- Auto-encoder: An autoencoder is a type of convolutional neural network (CNN) that converts a high-dimensional input into a low-dimensional one (i.e. a latent vector), and later reconstructs the original input with the highest quality possible. (Paperspace Blog)
+
+## Related Projects and Posts
 
 ### Posts
 
@@ -79,7 +91,7 @@ To be written soon!
 - [Linear algebra in ~10 minutes](blog/linear-algebra-in-10-minutes)
 - [Distillation of The Offense-Defense Balance of Scientific Knowledge](/blog/distillation-of-the-offense-defense-balance-of-scientific-knowledge)
 
-#### Projects
+### Projects
 
 - [AI Safety Studying/Research](/projects#aissr)
 
