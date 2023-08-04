@@ -27,8 +27,7 @@ const nextConfig = {
       },
       {
         source: "/aae-class",
-        destination:
-          "https://docs.google.com/document/d/1zxP9nkgEXKf2aZ10NznOnBeQzQvSJFNGrZFlncJzNWs/edit?usp=sharing",
+        destination: "https://forms.gle/cdCkCYEXStzWJc9Q9",
         permanent: false,
       },
     ];
