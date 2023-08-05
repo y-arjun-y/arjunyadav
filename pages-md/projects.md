@@ -800,6 +800,13 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 05, 2023</time> Finished [The Number of Rich Customers](https://leetcode.com/problems/the-number-of-rich-customers/):
+
+```sql
+# Write your MySQL query statement below
+SELECT COUNT(DISTINCT customer_id) AS rich_count FROM Store WHERE amount > 500;
+```
+
 - <time>Aug 04, 2023</time> Finished [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/):
 
 ```sql
