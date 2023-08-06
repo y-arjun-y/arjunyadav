@@ -69,7 +69,7 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 - [Attention is all you need](https://arxiv.org/abs/1706.03762):
 
-![Transformer](/transformer.png)
+  ![Transformer](/transformer.png)
 
 ## Terms and Concepts
 
@@ -80,6 +80,10 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 - Variational auto-encoder (VAE): A VAE is an autoencoder whose encodings distribution is regularised during the training in order to ensure that its latent space has "good" properties allowing us to generate some new data (in a sense, visualize it in a better manner).
 
   It does this via **having a layer that splits the encoder's result into mean and standard deviation, and a latent vector with a separate episilon value for backpropagation to happen properly**.
+
+  [Credit for below image](https://www.youtube.com/watch?v=d0W_Ab-aZGo).
+
+  ![VAE](/vae.png)
 
 - Auto-encoder: An autoencoder is a type of convolutional neural network (CNN) that converts a high-dimensional input into a low-dimensional one (i.e. a latent vector), and later reconstructs the original input with the highest quality possible. It consists of both an encoder and decoder. An example of its use is removing noise from a dataset (Paperspace Blog).
 
