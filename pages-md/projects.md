@@ -103,7 +103,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Aug 03, 2023-Aug 05, 2023</time> Programming started for VAEs!
+- <time>Aug 03, 2023-Aug 06, 2023</time> Programming started for VAEs!
 
 - <time>Aug 02, 2023</time> Read up on VAEs and Sparse Coding, and had another meeting.
 
@@ -186,6 +186,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 06, 2023</time> Recording, recording.
+
 - <time>Aug 03, 2023-Aug 05, 2023</time> Lot's of press (and some media) work!
 
 - <time>Aug 02, 2023</time> Gotta test out a camera soon.
@@ -226,6 +228,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 06, 2023</time> Man, my data processing work sort of meant nothing today. Oh well, we move.
 
 - <time>Aug 05, 2023</time> You can only increase the batch size <i>so much</i>.
 
@@ -296,7 +300,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 31, 2023-Aug 05, 2023</time> Lots of smaller, but important work!
+- <time>Jul 31, 2023-Aug 06, 2023</time> Lots of smaller, but important work!
 
 - <time>Jul 28, 2023-Jul 30, 2023</time> Cubing was an interesting part of my life.
 
@@ -419,7 +423,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 05, 2023</time> Never mind.
+- <time>Aug 05, 2023-Aug 06, 2023</time> Never mind.
 
 - <time>Aug 02, 2023-Aug 04, 2023</time> Astronomy!
 
@@ -576,7 +580,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 04, 2023-Aug 05, 2023</time> Solid progress.
+- <time>Aug 04, 2023-Aug 06, 2023</time> Solid progress.
 
 - <time>Jul 30, 2023-Aug 03, 2023</time> Airtable are close to being fully up! Expecting a big splash sooner or later.
 
@@ -761,7 +765,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 31, 2023-Aug 05, 2023</time> Continuing to learn Sweet Child O' Mine by Guns N' Roses.
+- <time>Jul 31, 2023-Aug 06, 2023</time> Continuing to learn Sweet Child O' Mine by Guns N' Roses.
 
 - <time>Jul 29, 2023-Jul 30, 2023</time> Learnt Weird Fishes/ Arpeggi by Radiohead.
 
