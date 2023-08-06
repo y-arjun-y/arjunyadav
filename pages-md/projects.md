@@ -103,7 +103,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Aug 03, 2023-Aug 04, 2023</time> Programming started for VAEs!
+- <time>Aug 03, 2023-Aug 05, 2023</time> Programming started for VAEs!
 
 - <time>Aug 02, 2023</time> Read up on VAEs and Sparse Coding, and had another meeting.
 
@@ -118,7 +118,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Jul 29, 2023-Aug 01, 2023</time> All capstone project ideas should be finalised now!
+- <time>Aug 06, 2023</time> First capstone project received!
+
+- <time>Jul 29, 2023-Aug 05, 2023</time> All capstone project ideas should be finalised now!
 
 - <time>Jul 27, 2023-Jul 28, 2023</time> Answered a doubt(s).
 
@@ -184,7 +186,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 03, 2023-Aug 04, 2023</time> Lot's of press (and some media) work!
+- <time>Aug 03, 2023-Aug 05, 2023</time> Lot's of press (and some media) work!
 
 - <time>Aug 02, 2023</time> Gotta test out a camera soon.
 
@@ -224,6 +226,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 05, 2023</time> You can only increase the batch size <i>so much</i>.
 
 - <time>Aug 04, 2023</time> Some great results for the first day with the data!
 
@@ -292,7 +296,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 31, 2023-Aug 03, 2023</time> Lots of smaller, but important work!
+- <time>Jul 31, 2023-Aug 05, 2023</time> Lots of smaller, but important work!
 
 - <time>Jul 28, 2023-Jul 30, 2023</time> Cubing was an interesting part of my life.
 
@@ -414,6 +418,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 05, 2023</time> Never mind.
 
 - <time>Aug 02, 2023-Aug 04, 2023</time> Astronomy!
 
@@ -570,7 +576,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 04, 2023</time> Solid progress.
+- <time>Aug 04, 2023-Aug 05, 2023</time> Solid progress.
 
 - <time>Jul 30, 2023-Aug 03, 2023</time> Airtable are close to being fully up! Expecting a big splash sooner or later.
 
@@ -755,7 +761,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 31, 2023-Aug 04, 2023</time> Continuing to learn Sweet Child O' Mine by Guns N' Roses.
+- <time>Jul 31, 2023-Aug 05, 2023</time> Continuing to learn Sweet Child O' Mine by Guns N' Roses.
 
 - <time>Jul 29, 2023-Jul 30, 2023</time> Learnt Weird Fishes/ Arpeggi by Radiohead.
 
@@ -799,6 +805,13 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 06, 2023</time> Finished [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/):
+
+```sql
+# Write your MySQL query statement below
+SELECT employee_id, name, (SELECT COUNT(*) FROM Employees WHERE reports_to = e.employee_id) AS reports_count, ROUND((SELECT SUM(age) FROM Employees WHERE reports_to = e.employee_id) / (SELECT COUNT(*) FROM Employees WHERE reports_to = e.employee_id)) AS average_age FROM Employees e WHERE (SELECT COUNT(*) FROM Employees WHERE reports_to = e.employee_id) >= 1 ORDER BY employee_id;
+```
 
 - <time>Aug 05, 2023</time> Finished [The Number of Rich Customers](https://leetcode.com/problems/the-number-of-rich-customers/):
 
