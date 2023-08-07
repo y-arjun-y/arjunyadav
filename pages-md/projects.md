@@ -1085,6 +1085,22 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 07, 2023</time> Finished [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/):
+
+```py
+class Solution:
+    def finalString(self, s: str) -> str:
+        res = ""
+
+        for i in s:
+            if i != "i":
+                res += i
+            else:
+                res = res[::-1]
+
+        return res
+```
+
 - <time>Aug 06, 2023</time> Finished [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/):
 
 ```sql
