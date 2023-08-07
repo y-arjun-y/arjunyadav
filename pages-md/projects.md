@@ -6,7 +6,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (10)
+### Active (11)
 
 - <a href="#aissr">AI Safety Studying/Research</a>
 - <a href="#solaris-3">SOLARIS (Third Edition)</a>
@@ -17,6 +17,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
 - <a href="#drums">Drums</a>
+- <a href="#mathforml">Mathematics for Machine Learning</a>
 - <a href="#leetcode">LeetCode</a>
 
 ### Occasional (1)
@@ -29,14 +30,13 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a>
 - <a href="#guitar">Guitar</a>
 
-### Done (37)
+### Done (36)
 
 - <a href="#mlsafetycourse">Machine Learning Safety Course</a>
 - <a href="#solaris-2">SOLARIS (Second Edition)</a>
 - <a href="#gfsmun2023">GFSMUN 2023</a>
 - <a href="#localhackathon2023">Local Hackathon 2023</a>
 - <a href="#ygss2023">YGSS 2023</a>
-- <a href="#mathforml">Mathematics for Machine Learning</a>
 - <a href="#freecodecamp">freeCodeCamp</a>
 - <a href="#nationalmathscompetition">National Maths Competition</time>
 - <a href="#studentcouncil11">Student Council - 11th</time>
@@ -755,6 +755,281 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 ## <span id="drums">Drums</span>
+
+## <span id="mathforml">Mathematics for Machine Learning</span>
+
+<small>Jul 04, 2022-present</small>  
+<small>Trying to learn the <a href="https://www.coursera.org/learn/linear-algebra-machine-learning">linear algebra</a>, <a href="https://www.coursera.org/learn/multivariate-calculus-machine-learning">multivariate calculus</a> and <a href="https://www.coursera.org/learn/pca-machine-learning/">principal component analysis</a> behind machine learning.</small>
+
+<hr />
+
+#### Log
+
+- <time>Aug 07, 2023</time> Better late than never.
+
+- <time>May 07, 2023</time> Continued with Week 3.
+
+- <time>Mar 20, 2023</time> Continued with Week 3.
+
+- <time>Mar 19, 2023</time> "Continued" with Week 3.
+
+- <time>Mar 18, 2023</time> Continued with Week 3.
+
+- <time>Mar 15, 2023</time> "Continued" with the course.
+
+- <time>Mar 14, 2023</time> "Continued" with the course.
+
+- <time>Mar 11, 2023</time> Finally finished week 1 after finishing week 2.
+
+- <time>Mar 10, 2023</time> Figured out the <code>cov_naive(x)</code> function!
+
+- <time>Mar 09, 2023</time> Trying to finish week 1.
+
+- <time>Mar 08, 2023</time> Finished with week 2, for the most part.
+
+- <time>Mar 07, 2023</time> Finished my programming assignment for week 2!
+
+- <time>Feb 19, 2023</time> Continued with the course.
+
+- <time>Feb 18, 2023</time> Continued with the course. My programming assignment for week 2 needs a lot more work (and I haven't even finished my week 1 programming assignment...).
+
+- <time>Feb 17, 2023</time> Continued with the course.
+
+- <time>Feb 16, 2023</time> Continued with the course.
+
+- <time>Feb 15, 2023</time> Continued with the course.
+
+- <time>Feb 12, 2023</time> Continued with the course.
+
+- <time>Feb 11, 2023</time> Continued with the course.
+
+- <time>Feb 10, 2023</time> Continued with the course.
+
+- <time>Feb 09, 2023</time> Continued with the course.
+
+- <time>Feb 08, 2023</time> Continued with the course.
+
+- <time>Feb 07, 2023</time> Continued with the course.
+
+- <time>Feb 06, 2023</time> Continued with the course.
+
+- <time>Feb 04, 2023</time> Continued with the course.
+
+- <time>Feb 03, 2023</time> Made good progress on the programming assignment for Week 1.
+
+- <time>Feb 02, 2023</time> Continued with the course.
+
+- <time>Feb 01, 2023</time> Continued with the course.
+
+- <time>Jan 27, 2023</time> Continued with the course.
+
+- <time>Jan 25, 2023</time> "Continued" with the course.
+
+- <time>Jan 22, 2023</time> Continued with the course.
+
+- <time>Jan 21, 2023</time> Continued with the course.
+
+- <time>Jan 20, 2023</time> Continued with the course.
+
+- <time>Jan 19, 2023</time> "Continued" with the course.
+
+- <time>Jan 18, 2023</time> Continued with the course.
+
+- <time>Jan 17, 2023</time> "Continued" with the course.
+
+- <time>Jan 16, 2023</time> "Continued" with the course.
+
+- <time>Jan 15, 2023</time> "Continued" with the course.
+
+- <time>Jan 04, 2023-Jan 11, 2023</time> "Continued" with the course.
+
+- <time>Jan 04, 2023</time> Continued with Week 1 and got 100% on the practice quiz!
+
+- <time>Jan 03, 2023</time> Continued with Week 1.
+
+- <time>Jan 02, 2023</time> Got started with Week 1 of Principal Component Analysis.
+
+- <time>Dec 19, 2022</time> Finished with Week 6 and hence finished with the multivariate calculus course! Will (hopefully) start [Principal Component Analysis](https://www.coursera.org/learn/pca-machine-learning) on Jan 2023.
+
+- <time>Dec 18, 2022</time> Nearly finished with [Week 6](https://www.coursera.org/learn/multivariate-calculus-machine-learning/home/week/6).
+
+- <time>Dec 17, 2022</time> Finished with Week 5.
+
+- <time>Dec 16, 2022</time> Continued with Week 5, nearly done after passing a really hard assignment.
+
+- <time>Nov 18, 2022</time> Continued with Week 5.
+
+- <time>Nov 09, 2022</time> "Continued" with "Week 5".
+
+- <time>Nov 08, 2022</time> "Continued" with "Week 5".
+
+- <time>Nov 04, 2022</time> "Continued" with "Week 5".
+
+- <time>Nov 03, 2022</time> Continued with Week 5.
+
+- <time>Nov 02, 2022</time> "Continued" with "Week 5".
+
+- <time>Nov 01, 2022</time> Continued with Week 5.
+
+- <time>Oct 31, 2022</time> Continued with Week 5.
+
+- <time>Oct 30, 2022</time> Continued with Week 5.
+
+- <time>Oct 29, 2022</time> Continued with Week 5.
+
+- <time>Oct 28, 2022</time> Continued with Week 5.
+
+- <time>Oct 27, 2022</time> Got started with Week 5.
+
+- <time>Oct 26, 2022</time> Finished with Week 4.
+
+- <time>Oct 25, 2022</time> Continued with Week 4.
+
+- <time>Oct 24, 2022</time> Continued with Week 4.
+
+- <time>Oct 23, 2022</time> Continued with Week 4 and got 95% on my practice quiz on the first attempt!
+
+- <time>Oct 22, 2022</time> Continued with Week 4.
+
+- <time>Oct 21, 2022</time> Continued with Week 4.
+
+- <time>Oct 19, 2022</time> Continued with Week 4.
+
+- <time>Oct 18, 2022</time> Continued with Week 4.
+
+- <time>Oct 17, 2022</time> Continued with Week 4.
+
+- <time>Oct 16, 2022</time> Continued with Week 4.
+
+- <time>Oct 11, 2022</time> Continued with Week 4.
+
+- <time>Oct 10, 2022</time> Got started with Week 4.
+
+- <time>Oct 09, 2022</time> Got started with Week 4.
+
+- <time>Oct 08, 2022</time> Finished with Week 3! Here's my backpropagation submission:
+  ![Backpropagation](/backpropagation.png)
+
+- <time>Oct 07, 2022</time> Continued with Week 3.
+
+- <time>Oct 06, 2022</time> Continued with Week 3.
+
+- <time>Oct 05, 2022</time> Continued with Week 3.
+
+- <time>Oct 04, 2022</time> Continued with Week 3.
+
+- <time>Sep 30, 2022</time> "Continued" with Week 3.
+
+- <time>Sep 29, 2022</time> Continued with Week 3 and got 100% on the practice quiz!
+
+- <time>Sep 28, 2022</time> Continued (?) with Week 3.
+
+- <time>Sep 27, 2022</time> Continued (?) with Week 3.
+
+- <time>Sep 26, 2022</time> Continued with Week 3.
+
+- <time>Sep 25, 2022</time> Got started with Week 3.
+
+- <time>Sep 18, 2022</time> Finished with Week 2 and got 100% on the practice quiz!
+
+- <time>Sep 04, 2022</time> Continued with Week 2. Nearly done.
+
+- <time>Aug 26, 2022</time> Continued with Week 2 and got 100% on the practice quiz!
+
+- <time>Aug 25, 2022</time> Continued with Week 2 and learnt about [the Hessian](https://machinelearningmastery.com/a-gentle-introduction-to-hessian-matrices/).
+
+- <time>Aug 24, 2022</time> Continued with Week 2.
+
+- <time>Aug 23, 2022</time> Continued with Week 2.
+
+- <time>Aug 22, 2022</time> Continued with Week 2.
+
+- <time>Aug 20, 2022</time> Continued with Week 2.
+
+- <time>Aug 19, 2022</time> Continued with Week 2.
+
+- <time>Aug 18, 2022</time> Continued with Week 2 and got 100% on the practice quiz!
+
+- <time>Aug 17, 2022</time> Continued with Week 2 and learnt about [the Jacobian](https://mathworld.wolfram.com/Jacobian.html).
+
+- <time>Aug 16, 2022</time> Got started with Week 2.
+
+- <time>Aug 15, 2022</time> Finished with Week 1 and got 100% on the final quiz!
+
+- <time>Aug 14, 2022</time> Continued with Week 1. Nearly (nearly) done.
+
+- <time>Aug 13, 2022</time> Continued with Week 1. Nearly done.
+
+- <time>Aug 12, 2022</time> Continued with Week 1.
+
+- <time>Aug 11, 2022</time> Continued with Week 1.
+
+- <time>Aug 10, 2022</time> Continued with Week 1.
+
+- <time>Aug 09, 2022</time> Finished and earned my certificate for the Linear Algebra course!
+
+- <time>Aug 08, 2022</time> Got started with the final assessment for linear algebra.
+
+- <time>Aug 07, 2022</time> Finished the last programming assignment for Week 5 and continued with Week 1 (Calculus), going to finish the linear algebra course tomorrow!
+
+- <time>Aug 06, 2022</time> Continued with Week 5 and Week 1 (Calculus).
+
+- <time>Aug 04, 2022</time> Continued with Week 5 and learnt about PageRank. Lots to finish up tomorrow (and review simultaneously) so I can focus on multivariate calculus.
+
+- <time>Aug 02, 2022</time> Continued with Week 5 and learnt about [eigenbasis](https://math.stackexchange.com/questions/1409350/what-is-an-eigenbasis-and-how-do-i-calculate-it-with-the-information-below).
+
+- <time>Aug 01, 2022</time> Continued with Week 5 after passing the second eigenvector quiz.
+
+- <time>Jul 31, 2022</time> Continued with Week 5.
+
+- <time>Jul 30, 2022</time> Continued with Week 5 (LA) and got started with the multivariate calculus (MC) course!
+
+- <time>Jul 29, 2022</time> Continued with Week 5 and finally learnt what [eigenvalues](https://mathworld.wolfram.com/Eigenvalue.html) are!
+
+- <time>Jul 28, 2022</time> Continued with Week 5. I finally know, at least on a surface level, [what eigenvectors are](https://mathworld.wolfram.com/Eigenvector.html). But what about eigenvalues?
+
+- <time>Jul 27, 2022</time> Got started with Week 5.
+
+- <time>Jul 26, 2022</time> Finished with Week 4.
+
+- <time>Jul 25, 2022</time> Nearly finished with Week 4.
+
+- <time>Jul 23, 2022</time> Continued with Week 4 and learnt about transforming a matrix in another plane (in an easier way). I'm going to miss David Dye, he was a phenomenal lecturer in this course.
+
+- <time>Jul 21, 2022</time> Continued with Week 4 and got a perfect score on my Gram-Schmidt assignement on first submit.
+
+- <time>Jul 20, 2022</time> Continued with Week 4 and learnt about the Gram-Schmidt process.
+
+- <time>Jul 19, 2022</time> Continued with Week 4 and learnt about transposing a matrix and orthonormal matrices.
+
+- <time>Jul 18, 2022</time> Continued with Week 4.
+
+- <time>Jul 17, 2022</time> Just passed the hard practice test for this week on first attempt.
+
+- <time>Jul 16, 2022</time> Got started with Week 4 and learnt about Einstein's summation convention and symmetry with the dot product.
+
+- <time>Jul 15, 2022</time> Finished with Week 3.
+
+- <time>Jul 14, 2022</time> Nearly finished with Week 3.
+
+- <time>Jul 12, 2022</time> Learnt about matrix inverses and Gaussian Elimination.
+
+- <time>Jul 11, 2022</time> Finished with the matrix transformation quiz.
+
+- <time>Jul 10, 2022</time> Learnt about matrix transformations.
+
+- <time>Jul 09, 2022</time> Got started with week 3 with matrices.
+
+- <time>Jul 08, 2022</time> Finished with week 2!
+
+- <time>Jul 07, 2022</time> Learnt about changing basis and got another 100%!
+
+- <time>Jul 06, 2022</time> Finished with week 1 (the reply thing wasn't optional lol), learnt about the dot product with the cosine rule, projects and got 100% on the quiz!
+
+- <time>Jul 05, 2022</time> Learnt about operations, modulus and dot product.
+
+- <time>Jul 04, 2022</time> Got started with the course!
+<hr />
 
 <small>Aug 02, 2022-present</small>  
 <small>Trying to get better every day and have some fun as well!</small>
@@ -10510,279 +10785,6 @@ With that being said, what an incredible event, so glad to have been (somewhat) 
 
 ![ECC](/ecc.jpeg)
 
-<hr />
-
-## <span id="mathforml">Mathematics for Machine Learning</span>
-
-<small>Jul 04, 2022-May 07, 2023</small>  
-<small>Trying to learn the [linear algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) and [multivariate calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) behind machine learning.</small>
-
-<hr />
-
-#### Log
-
-- <time>May 07, 2023</time> Continued with Week 3.
-
-- <time>Mar 20, 2023</time> Continued with Week 3.
-
-- <time>Mar 19, 2023</time> "Continued" with Week 3.
-
-- <time>Mar 18, 2023</time> Continued with Week 3.
-
-- <time>Mar 15, 2023</time> "Continued" with the course.
-
-- <time>Mar 14, 2023</time> "Continued" with the course.
-
-- <time>Mar 11, 2023</time> Finally finished week 1 after finishing week 2.
-
-- <time>Mar 10, 2023</time> Figured out the <code>cov_naive(x)</code> function!
-
-- <time>Mar 09, 2023</time> Trying to finish week 1.
-
-- <time>Mar 08, 2023</time> Finished with week 2, for the most part.
-
-- <time>Mar 07, 2023</time> Finished my programming assignment for week 2!
-
-- <time>Feb 19, 2023</time> Continued with the course.
-
-- <time>Feb 18, 2023</time> Continued with the course. My programming assignment for week 2 needs a lot more work (and I haven't even finished my week 1 programming assignment...).
-
-- <time>Feb 17, 2023</time> Continued with the course.
-
-- <time>Feb 16, 2023</time> Continued with the course.
-
-- <time>Feb 15, 2023</time> Continued with the course.
-
-- <time>Feb 12, 2023</time> Continued with the course.
-
-- <time>Feb 11, 2023</time> Continued with the course.
-
-- <time>Feb 10, 2023</time> Continued with the course.
-
-- <time>Feb 09, 2023</time> Continued with the course.
-
-- <time>Feb 08, 2023</time> Continued with the course.
-
-- <time>Feb 07, 2023</time> Continued with the course.
-
-- <time>Feb 06, 2023</time> Continued with the course.
-
-- <time>Feb 04, 2023</time> Continued with the course.
-
-- <time>Feb 03, 2023</time> Made good progress on the programming assignment for Week 1.
-
-- <time>Feb 02, 2023</time> Continued with the course.
-
-- <time>Feb 01, 2023</time> Continued with the course.
-
-- <time>Jan 27, 2023</time> Continued with the course.
-
-- <time>Jan 25, 2023</time> "Continued" with the course.
-
-- <time>Jan 22, 2023</time> Continued with the course.
-
-- <time>Jan 21, 2023</time> Continued with the course.
-
-- <time>Jan 20, 2023</time> Continued with the course.
-
-- <time>Jan 19, 2023</time> "Continued" with the course.
-
-- <time>Jan 18, 2023</time> Continued with the course.
-
-- <time>Jan 17, 2023</time> "Continued" with the course.
-
-- <time>Jan 16, 2023</time> "Continued" with the course.
-
-- <time>Jan 15, 2023</time> "Continued" with the course.
-
-- <time>Jan 04, 2023-Jan 11, 2023</time> "Continued" with the course.
-
-- <time>Jan 04, 2023</time> Continued with Week 1 and got 100% on the practice quiz!
-
-- <time>Jan 03, 2023</time> Continued with Week 1.
-
-- <time>Jan 02, 2023</time> Got started with Week 1 of Principal Component Analysis.
-
-- <time>Dec 19, 2022</time> Finished with Week 6 and hence finished with the multivariate calculus course! Will (hopefully) start [Principal Component Analysis](https://www.coursera.org/learn/pca-machine-learning) on Jan 2023.
-
-- <time>Dec 18, 2022</time> Nearly finished with [Week 6](https://www.coursera.org/learn/multivariate-calculus-machine-learning/home/week/6).
-
-- <time>Dec 17, 2022</time> Finished with Week 5.
-
-- <time>Dec 16, 2022</time> Continued with Week 5, nearly done after passing a really hard assignment.
-
-- <time>Nov 18, 2022</time> Continued with Week 5.
-
-- <time>Nov 09, 2022</time> "Continued" with "Week 5".
-
-- <time>Nov 08, 2022</time> "Continued" with "Week 5".
-
-- <time>Nov 04, 2022</time> "Continued" with "Week 5".
-
-- <time>Nov 03, 2022</time> Continued with Week 5.
-
-- <time>Nov 02, 2022</time> "Continued" with "Week 5".
-
-- <time>Nov 01, 2022</time> Continued with Week 5.
-
-- <time>Oct 31, 2022</time> Continued with Week 5.
-
-- <time>Oct 30, 2022</time> Continued with Week 5.
-
-- <time>Oct 29, 2022</time> Continued with Week 5.
-
-- <time>Oct 28, 2022</time> Continued with Week 5.
-
-- <time>Oct 27, 2022</time> Got started with Week 5.
-
-- <time>Oct 26, 2022</time> Finished with Week 4.
-
-- <time>Oct 25, 2022</time> Continued with Week 4.
-
-- <time>Oct 24, 2022</time> Continued with Week 4.
-
-- <time>Oct 23, 2022</time> Continued with Week 4 and got 95% on my practice quiz on the first attempt!
-
-- <time>Oct 22, 2022</time> Continued with Week 4.
-
-- <time>Oct 21, 2022</time> Continued with Week 4.
-
-- <time>Oct 19, 2022</time> Continued with Week 4.
-
-- <time>Oct 18, 2022</time> Continued with Week 4.
-
-- <time>Oct 17, 2022</time> Continued with Week 4.
-
-- <time>Oct 16, 2022</time> Continued with Week 4.
-
-- <time>Oct 11, 2022</time> Continued with Week 4.
-
-- <time>Oct 10, 2022</time> Got started with Week 4.
-
-- <time>Oct 09, 2022</time> Got started with Week 4.
-
-- <time>Oct 08, 2022</time> Finished with Week 3! Here's my backpropagation submission:
-  ![Backpropagation](/backpropagation.png)
-
-- <time>Oct 07, 2022</time> Continued with Week 3.
-
-- <time>Oct 06, 2022</time> Continued with Week 3.
-
-- <time>Oct 05, 2022</time> Continued with Week 3.
-
-- <time>Oct 04, 2022</time> Continued with Week 3.
-
-- <time>Sep 30, 2022</time> "Continued" with Week 3.
-
-- <time>Sep 29, 2022</time> Continued with Week 3 and got 100% on the practice quiz!
-
-- <time>Sep 28, 2022</time> Continued (?) with Week 3.
-
-- <time>Sep 27, 2022</time> Continued (?) with Week 3.
-
-- <time>Sep 26, 2022</time> Continued with Week 3.
-
-- <time>Sep 25, 2022</time> Got started with Week 3.
-
-- <time>Sep 18, 2022</time> Finished with Week 2 and got 100% on the practice quiz!
-
-- <time>Sep 04, 2022</time> Continued with Week 2. Nearly done.
-
-- <time>Aug 26, 2022</time> Continued with Week 2 and got 100% on the practice quiz!
-
-- <time>Aug 25, 2022</time> Continued with Week 2 and learnt about [the Hessian](https://machinelearningmastery.com/a-gentle-introduction-to-hessian-matrices/).
-
-- <time>Aug 24, 2022</time> Continued with Week 2.
-
-- <time>Aug 23, 2022</time> Continued with Week 2.
-
-- <time>Aug 22, 2022</time> Continued with Week 2.
-
-- <time>Aug 20, 2022</time> Continued with Week 2.
-
-- <time>Aug 19, 2022</time> Continued with Week 2.
-
-- <time>Aug 18, 2022</time> Continued with Week 2 and got 100% on the practice quiz!
-
-- <time>Aug 17, 2022</time> Continued with Week 2 and learnt about [the Jacobian](https://mathworld.wolfram.com/Jacobian.html).
-
-- <time>Aug 16, 2022</time> Got started with Week 2.
-
-- <time>Aug 15, 2022</time> Finished with Week 1 and got 100% on the final quiz!
-
-- <time>Aug 14, 2022</time> Continued with Week 1. Nearly (nearly) done.
-
-- <time>Aug 13, 2022</time> Continued with Week 1. Nearly done.
-
-- <time>Aug 12, 2022</time> Continued with Week 1.
-
-- <time>Aug 11, 2022</time> Continued with Week 1.
-
-- <time>Aug 10, 2022</time> Continued with Week 1.
-
-- <time>Aug 09, 2022</time> Finished and earned my certificate for the Linear Algebra course!
-
-- <time>Aug 08, 2022</time> Got started with the final assessment for linear algebra.
-
-- <time>Aug 07, 2022</time> Finished the last programming assignment for Week 5 and continued with Week 1 (Calculus), going to finish the linear algebra course tomorrow!
-
-- <time>Aug 06, 2022</time> Continued with Week 5 and Week 1 (Calculus).
-
-- <time>Aug 04, 2022</time> Continued with Week 5 and learnt about PageRank. Lots to finish up tomorrow (and review simultaneously) so I can focus on multivariate calculus.
-
-- <time>Aug 02, 2022</time> Continued with Week 5 and learnt about [eigenbasis](https://math.stackexchange.com/questions/1409350/what-is-an-eigenbasis-and-how-do-i-calculate-it-with-the-information-below).
-
-- <time>Aug 01, 2022</time> Continued with Week 5 after passing the second eigenvector quiz.
-
-- <time>Jul 31, 2022</time> Continued with Week 5.
-
-- <time>Jul 30, 2022</time> Continued with Week 5 (LA) and got started with the multivariate calculus (MC) course!
-
-- <time>Jul 29, 2022</time> Continued with Week 5 and finally learnt what [eigenvalues](https://mathworld.wolfram.com/Eigenvalue.html) are!
-
-- <time>Jul 28, 2022</time> Continued with Week 5. I finally know, at least on a surface level, [what eigenvectors are](https://mathworld.wolfram.com/Eigenvector.html). But what about eigenvalues?
-
-- <time>Jul 27, 2022</time> Got started with Week 5.
-
-- <time>Jul 26, 2022</time> Finished with Week 4.
-
-- <time>Jul 25, 2022</time> Nearly finished with Week 4.
-
-- <time>Jul 23, 2022</time> Continued with Week 4 and learnt about transforming a matrix in another plane (in an easier way). I'm going to miss David Dye, he was a phenomenal lecturer in this course.
-
-- <time>Jul 21, 2022</time> Continued with Week 4 and got a perfect score on my Gram-Schmidt assignement on first submit.
-
-- <time>Jul 20, 2022</time> Continued with Week 4 and learnt about the Gram-Schmidt process.
-
-- <time>Jul 19, 2022</time> Continued with Week 4 and learnt about transposing a matrix and orthonormal matrices.
-
-- <time>Jul 18, 2022</time> Continued with Week 4.
-
-- <time>Jul 17, 2022</time> Just passed the hard practice test for this week on first attempt.
-
-- <time>Jul 16, 2022</time> Got started with Week 4 and learnt about Einstein's summation convention and symmetry with the dot product.
-
-- <time>Jul 15, 2022</time> Finished with Week 3.
-
-- <time>Jul 14, 2022</time> Nearly finished with Week 3.
-
-- <time>Jul 12, 2022</time> Learnt about matrix inverses and Gaussian Elimination.
-
-- <time>Jul 11, 2022</time> Finished with the matrix transformation quiz.
-
-- <time>Jul 10, 2022</time> Learnt about matrix transformations.
-
-- <time>Jul 09, 2022</time> Got started with week 3 with matrices.
-
-- <time>Jul 08, 2022</time> Finished with week 2!
-
-- <time>Jul 07, 2022</time> Learnt about changing basis and got another 100%!
-
-- <time>Jul 06, 2022</time> Finished with week 1 (the reply thing wasn't optional lol), learnt about the dot product with the cosine rule, projects and got 100% on the quiz!
-
-- <time>Jul 05, 2022</time> Learnt about operations, modulus and dot product.
-
-- <time>Jul 04, 2022</time> Got started with the course!
 <hr />
 
 ## <span id="freecodecamp">[freeCodeCamp](https://freecodecamp.org)</span>

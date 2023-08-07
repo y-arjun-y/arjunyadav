@@ -10,6 +10,7 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 ### What I'm Learning Currently
 
+- Principal Component Analysis
 - Mechanistic Interpretability
   - Sparse Coding
   - Variational Auto-encoders
@@ -17,9 +18,9 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 ### What I Want To Learn
 
-- Component Analysis
-  - Principal Component Analysis (through a course)
-  - Independent Component Analysis
+- Independent Component Analysis
+- Sparse Coding
+- How Gato by DeepMind truly works
 
 ## Papers + Notes (if open access)
 
