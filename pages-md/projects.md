@@ -118,7 +118,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Aug 08, 2023</time> Second capstone proejct received!
+- <time>Aug 08, 2023</time> Second and third capstone project received! One more...
 
 - <time>Aug 06, 2023</time> First capstone project received!
 
@@ -190,6 +190,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 08, 2023</time> Photography!
+
 - <time>Aug 06, 2023</time> Recording, recording.
 
 - <time>Aug 06, 2023</time> Recording, recording.
@@ -234,6 +236,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 08, 2023</time> Hm, running into a snafu with my code. Will check what's up tomorrow.
 
 - <time>Aug 07, 2023</time> Heard back from my co-RA!
 
@@ -308,7 +312,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 31, 2023-Aug 07, 2023</time> Lots of smaller, but important work!
+- <time>Jul 31, 2023-Aug 08, 2023</time> Lots of smaller, but important work!
 
 - <time>Jul 28, 2023-Jul 30, 2023</time> Cubing was an interesting part of my life.
 
@@ -431,7 +435,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 07, 2023</time> Yes, mind?
+- <time>Aug 07, 2023-Aug 08, 2023</time> Yes, mind?
 
 - <time>Aug 05, 2023-Aug 06, 2023</time> Never mind.
 
@@ -590,7 +594,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 07, 2023</time> Airtable!
+- <time>Aug 07, 2023-Aug 08, 2023</time> Airtable!
 
 - <time>Aug 04, 2023-Aug 06, 2023</time> Solid progress.
 
