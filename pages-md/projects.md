@@ -118,6 +118,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Aug 08, 2023</time> Second capstone proejct received!
+
 - <time>Aug 06, 2023</time> First capstone project received!
 
 - <time>Jul 29, 2023-Aug 05, 2023</time> All capstone project ideas should be finalised now!
@@ -157,6 +159,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 07, 2023</time> August's theme has been announced!
+
 - <time>Jul 29, 2023</time> Finished the blog post with my blog writer!
 
 - <time>Jul 27, 2023-Jul 28, 2023</time> Reviewed the second draft. Nearly done (I think)!
@@ -188,7 +192,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 - <time>Aug 06, 2023</time> Recording, recording.
 
-- <time>Aug 03, 2023-Aug 05, 2023</time> Lot's of press (and some media) work!
+- <time>Aug 06, 2023</time> Recording, recording.
+
+- <time>Aug 03, 2023-Aug 05, 2023</time> Lots of press (and some media) work!
 
 - <time>Aug 02, 2023</time> Gotta test out a camera soon.
 
@@ -228,6 +234,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 07, 2023</time> Heard back from my co-RA!
 
 - <time>Aug 06, 2023</time> Man, my data processing work sort of meant nothing today. Oh well, we move.
 
@@ -300,7 +308,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 31, 2023-Aug 06, 2023</time> Lots of smaller, but important work!
+- <time>Jul 31, 2023-Aug 07, 2023</time> Lots of smaller, but important work!
 
 - <time>Jul 28, 2023-Jul 30, 2023</time> Cubing was an interesting part of my life.
 
@@ -346,7 +354,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 - <time>May 19, 2023</time> Got a lot of work done for both projects. Really happy!
 
-- <time>May 18, 2023</time> Cameraman, anyone? Also, won best speaker for a motion in a debate, and lot's of environment work.
+- <time>May 18, 2023</time> Cameraman, anyone? Also, won best speaker for a motion in a debate, and lots of environment work.
 
 - <time>May 15, 2023-May 17, 2023</time> Did some (really^3 important) organisational work.
 
@@ -422,6 +430,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 07, 2023</time> Yes, mind?
 
 - <time>Aug 05, 2023-Aug 06, 2023</time> Never mind.
 
@@ -580,6 +590,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 07, 2023</time> Airtable!
+
 - <time>Aug 04, 2023-Aug 06, 2023</time> Solid progress.
 
 - <time>Jul 30, 2023-Aug 03, 2023</time> Airtable are close to being fully up! Expecting a big splash sooner or later.
@@ -598,7 +610,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 - <time>Jul 10, 2023</time> Follow-up to the meeting last week: was somewhat productive!
 
-- <time>Jul 08, 2023-Jul 09, 2023</time> Lot's of behind-the-scene work: emails and docs.
+- <time>Jul 08, 2023-Jul 09, 2023</time> Lots of behind-the-scene work: emails and docs.
 
 - <time>Jul 07, 2023</time> Really fruitful meeting!
 
@@ -755,6 +767,53 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 ## <span id="drums">Drums</span>
+
+<small>Aug 02, 2022-present</small>  
+<small>Trying to get better every day and have some fun as well!</small>
+
+<hr />
+<small>Drums' start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Aug 07, 2023</time> Recorded Come Together by The Beatles.
+
+- <time>Jul 31, 2023-Aug 06, 2023</time> Continuing to learn Sweet Child O' Mine by Guns N' Roses.
+
+- <time>Jul 29, 2023-Jul 30, 2023</time> Learnt Weird Fishes/ Arpeggi by Radiohead.
+
+- <time>Jul 28, 2023</time> Los.
+
+- <time>Jul 27, 2023</time> 'Breed' by Nirvana is quite a fun song to play.
+
+- <time>Jul 26, 2023</time> Played the intro to Toxicity and shared it.
+
+- <time>Jul 24, 2023</time> Learnt Boulevard of Broken Dreams and I Believe I'll Dust My Broom
+
+- <time>Jul 21, 2023-Jul 23, 2023</time> "I've given.... UUUUUPPPP!"
+
+- <time>Jul 17, 2023-Jul 20, 2023</time> Back to playing random songs, 'Los' is quite fun to play! Turns out that I broke my snare pad, so swapped with a tom pad. Works.
+
+- <time>Jul 16, 2023</time> Played 'Chop Suey!' by System of a Down and shared it to the interwebs.
+
+- <time>Jul 11, 2023-Jul 15, 2023</time> So much fun just playing random songs (mostly by a certain NDH band). Going to record a little something tomorrow.
+
+- <time>Jul 08, 2023</time> Played some Radiohead songs. This is a lot more fun than I remember!
+
+- <time>Dec 20, 2022</time> Sort of messed around for a bit.
+
+- <time>Aug 13, 2022</time> Played [Fever by The Black Keys](https://www.youtube.com/watch?v=tk5m_TAD_AM).
+
+- <time>Aug 12, 2022</time> Played [I Want to Break Free by Queen](https://www.youtube.com/watch?v=wIqa9uVnXCQ).
+
+- <time>Aug 06, 2022</time> Finished learning Back in Black by AC/DC. The snare-kick-hi-hat pattern was the only thing I had to get down.
+
+- <time>Aug 04, 2022</time> Played [Back in Black by AC/DC](https://www.youtube.com/watch?v=pAgnJDJN4VA).
+
+- <time>Aug 02, 2022</time> Played [Yellow by Coldplay](https://www.youtube.com/watch?v=fviwj5P1FCc).
+
+<hr />
 
 ## <span id="mathforml">Mathematics for Machine Learning</span>
 
@@ -1084,6 +1143,17 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 08, 2023</time> Finished [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/):
+
+```py
+class Solution:
+    def search(self, nums: List[int], target: int) -> int:
+        try:
+            return nums.index(target)
+        except:
+            return -1
+```
 
 - <time>Aug 07, 2023</time> Finished [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/):
 
