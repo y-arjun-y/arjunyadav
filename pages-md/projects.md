@@ -190,6 +190,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 09, 2023</time> Outreach.
+
 - <time>Aug 08, 2023</time> Photography!
 
 - <time>Aug 06, 2023</time> Recording, recording.
@@ -312,7 +314,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jul 31, 2023-Aug 08, 2023</time> Lots of smaller, but important work!
+- <time>Jul 31, 2023-Aug 09, 2023</time> Lots of smaller, but important work!
 
 - <time>Jul 28, 2023-Jul 30, 2023</time> Cubing was an interesting part of my life.
 
@@ -435,7 +437,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 07, 2023-Aug 08, 2023</time> Yes, mind?
+- <time>Aug 07, 2023-Aug 09, 2023</time> Yes, mind?
 
 - <time>Aug 05, 2023-Aug 06, 2023</time> Never mind.
 
@@ -594,7 +596,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 07, 2023-Aug 08, 2023</time> Airtable!
+- <time>Aug 07, 2023-Aug 09, 2023</time> Airtable!
 
 - <time>Aug 04, 2023-Aug 06, 2023</time> Solid progress.
 
@@ -1147,6 +1149,21 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 09, 2023</time> Finished [Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase/):
+
+```py
+class Solution:
+    def accountBalanceAfterPurchase(self, purchaseAmount: int) -> int:
+        remainder = purchaseAmount % 10
+
+        if remainder == 0:
+            return 100 - purchaseAmount
+        elif remainder < 5:
+            return 100 - (purchaseAmount - remainder)
+        else:
+            return 100 - (purchaseAmount + (10 - remainder))
+```
 
 - <time>Aug 08, 2023</time> Finished [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/):
 
