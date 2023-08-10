@@ -1150,6 +1150,13 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 10, 2023</time> Finished [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/):
+
+```py
+# Write your MySQL query statement below
+SELECT tweet_id FROM Tweets WHERE LENGTH(content) > 15;
+```
+
 - <time>Aug 09, 2023</time> Finished [Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase/):
 
 ```py
