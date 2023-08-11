@@ -30,8 +30,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a>
 - <a href="#guitar">Guitar</a>
 
-### Done (36)
+### Done (37)
 
+- <a href="#ktyouth">YCM Youth Meet-up</a>
 - <a href="#mlsafetycourse">Machine Learning Safety Course</a>
 - <a href="#solaris-2">SOLARIS (Second Edition)</a>
 - <a href="#gfsmun2023">GFSMUN 2023</a>
@@ -118,6 +119,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Aug 10, 2023</time> Last capstone project received!
+
 - <time>Aug 08, 2023</time> Second and third capstone project received! One more...
 
 - <time>Aug 06, 2023</time> First capstone project received!
@@ -190,6 +193,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 10, 2023-Aug 11, 2023</time> Press!
+
 - <time>Aug 09, 2023</time> Outreach.
 
 - <time>Aug 08, 2023</time> Photography!
@@ -238,6 +243,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 11, 2023</time> Some lukewarm results again, better than run-through at least!
 
 - <time>Aug 08, 2023</time> Hm, running into a snafu with my code. Will check what's up tomorrow.
 
@@ -313,6 +320,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 10, 2023-Aug 11, 2023</time> Lots of smaller, but important work! (pt. 2)
 
 - <time>Jul 31, 2023-Aug 09, 2023</time> Lots of smaller, but important work!
 
@@ -436,6 +445,10 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 11, 2023</time> OptX astronomy centre visit happened successfully! Thank you to our incredible tour guides and to all those that had come!
+
+![OptX Astronomy](/optx-astronomy.jpg)
 
 - <time>Aug 07, 2023-Aug 09, 2023</time> Yes, mind?
 
@@ -782,6 +795,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 11, 2023</time> Recorded Smells Like Teen Spirit by Nirvana.
 
 - <time>Aug 07, 2023</time> Recorded Come Together by The Beatles.
 
@@ -1150,9 +1165,16 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 11, 2023</time> Finished [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/):
+
+```sql
+# Write your MySQL query statement below
+SELECT DISTINCT date_id, make_name, (SELECT COUNT(DISTINCT lead_id) FROM DailySales WHERE date_id = d.date_id AND make_name = d.make_name) AS unique_leads, (SELECT COUNT(DISTINCT partner_id) FROM DailySales WHERE date_id = d.date_id AND make_name = d.make_name) AS unique_partners FROM DailySales d ORDER BY date_id;
+```
+
 - <time>Aug 10, 2023</time> Finished [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/):
 
-```py
+```sql
 # Write your MySQL query statement below
 SELECT tweet_id FROM Tweets WHERE LENGTH(content) > 15;
 ```
@@ -10788,16 +10810,31 @@ function getCount(str) {
 
 <hr />
 
+## <span id="ktyouth">YCM Youth Meet-up</span>
+
+<small>Aug 10, 2023</small>  
+<small>Attended Youth Creative Minds' Youth meet-up!</small>
+
+<hr />
+
+#### Summary
+
+Had a great time at Khaleej Times x YCM's youth meet-up, got a chance to speak about climate denialism and it was, overall, a fun experience meeting some of my seniors!
+
+![Khaleej Times](/kt.jpeg)
+
+<hr />
+
 ## <span id="mlsafetycourse">Machine Learning Safety Course</span>
 
-<small>Jun 24, 2023-Jun 24, 2023</small>  
+<small>Jun 24, 2023</small>  
 <small>~Finished the ML Safety course (Intro to ML Safety) in one day and made a guide/blog post on it.</small>
 
 <hr />
 
-#### Log
+#### Summary
 
-- <time>Jul 24, 2023</time> This was quite an experience - finished going through the ML Safety Course by the Center for AI Safety and made [a guide/post from my notes](https://arjunyadav).
+This was quite an experience - finished going through the ML Safety Course by the Center for AI Safety and made [a guide/post from my notes](https://arjunyadav).
 
 <hr />
 
@@ -11730,14 +11767,14 @@ With that being said, what an incredible event, so glad to have been (somewhat) 
 
 ## <span id="nationalmathscompetition">National Maths Competition</span>
 
-<small>Mar 04, 2023-Mar 04, 2023</small>
+<small>Mar 04, 2023</small>
 <small>Attended a national maths competition with my schoolmate. Due to privacy reasons, I was being incredibly vague.</small>
 
 <hr />
 
-#### Log
+#### Summary
 
-<time>Mar 04, 2023</time> Attended the first (and last) day of a national maths competition with my schoolmate as a duo. First round went really well (mostly because it was easy + 60 minutes) and got ~7th place, however the second round was extremely hard (and 45 minutes!) so we did not reach top 3. Oh well, the ride to the university + the conversations with him were what mattered the most. Great food though!
+Attended the first (and last) day of a national maths competition with my schoolmate as a duo. First round went really well (mostly because it was easy + 60 minutes) and got ~7th place, however the second round was extremely hard (and 45 minutes!) so we did not reach top 3. Oh well, the ride to the university + the conversations with him were what mattered the most. Great food though!
 
 <hr />
 
@@ -12512,14 +12549,16 @@ The student council in your junior year should (hopefully!) just be a taste of w
 
 ## <span id="emiratehackathon2022">Emirate-level Hackathon</span>
 
-<small>Nov 19, 2022-Nov 19, 2022</small>  
+<small>Nov 19, 2022</small>  
 <small>Led my senior team to a win in a "state" hackathon! Due to privacy reasons, I was being incredibly vague.</small>
 
 <hr />
 
-#### Log
+#### Summary
 
-- <time>Nov 19, 2022</time> Happy to report that we've won the senior category of a "state" hackathon! Hope to continue this string of hackathon projects very soon.
+Happy to report that we've won the senior category of a "state" hackathon! Hope to continue this string of hackathon projects very soon.
+
+![Hackathon - Nov](/hackathon-nov.jpg)
 
 <hr />
 
@@ -13193,14 +13232,16 @@ The student council in your junior year should (hopefully!) just be a taste of w
 
 ## <span id="localhackathon2022">Local Hackathon</span>
 
-<small>Oct 20, 2022-Oct 20, 2022</small>  
+<small>Oct 20, 2022</small>  
 <small>Participated in a local hackathon and did pretty well with my teammates! Due to privacy reasons, I was being incredibly vague.</small>
 
 <hr />
 
-#### Log
+#### Summary
 
-- <time>Oct 20, 2022</time> Participated in a ~3 hour long hackathon which consisted of 2 questions. My team could attempt both questions and it was a lot of fun!
+Participated in a ~3 hour long hackathon which consisted of 2 questions. My team could attempt both questions and it was a lot of fun!
+
+![Hackathon - October](/hackathon-october.jpg)
 
 <hr />
 
@@ -14535,16 +14576,17 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 ## <span id="bearblogreplacementtemplate">[Bear Blog Replacement Template](https://bear-blog-replacement-template.vercel.app/)</span>
 
-<small>Aug 08, 2022-Aug 08, 2022</small>  
+<small>Aug 08, 2022</small>  
 <small>I was getting increasingly dissatisfied with [Bear Blog](https://bearblog.dev) (where this website was formerly). So I decided to migrate to Next.js and [I made a template](https://github.com/y-arjun-y/bear-blog-replacement-template) that [I posted on Show HN](https://news.ycombinator.com/item?id=32382716).</small>
 
 <hr />
 <small>Bear Blog Replacement Template's start date is the date I started logging, not the date when the project started.</small>
 <hr />
 
-#### Log
+#### Summary
 
-- <time>Aug 08, 2022</time> Posted the template on [Show HN](https://news.ycombinator.com/item?id=32382716) and I think I'm quite happy with the final product!
+Posted the template on [Show HN](https://news.ycombinator.com/item?id=32382716) and I think I'm quite happy with the final product!
+
 <hr />
 
 ## <span id="solaris-1">SOLARIS</span>
@@ -15528,6 +15570,8 @@ category=android.intent.category.DEFAULT
 
 - <time>Mar 27, 2022</time> Second (and last day) complete! Attended a workshop on rationality by [Chana Messinger](https://chanamessinger.com/) along with the A.I. Safety Q&A, the EA Funds talk/workshop, David's talk on [his recent paper](https://globalprioritiesinstitute.org/wp-content/uploads/David-Thorstad-Existential-risk-pessimism-.pdf) and the fireside chat with [William MacAskill](https://www.williammacaskill.com/) (which I assume is now an annual-ish thing).
 
+![EAGxOxford](/eagxoxford.jpg)
+
 - <time>Mar 26, 2022</time> First day complete, it was awesome meeting EAists and attending A.I. Alignment by [Rohin](https://rohinshah.com/), Biorisk by Simon and Janvi and Career Opportunities in A.I. Governance by [Lennart](https://heim.xyz/) and Caroline!
 <hr />
 
@@ -15703,30 +15747,32 @@ category=android.intent.category.DEFAULT
 
 ## <span id="eaindepth">[Effective Altruism In-Depth Fellowship](https://www.effectivealtruism.org/virtual-programs/in-depth-program)</span>
 
-<small>Oct 30, 2021-Oct 30, 2021</small>  
+<small>Oct 30, 2021</small>  
 <small>I attended EA Virtual Program's In-Depth Fellowship after my [introductory fellowship by EA Cambridge](https://www.eacambridge.org/ea-fellowship-info).</small>
 
 <hr />
 <small>Effective Altruism In-Depth Fellowship's date is the date I started logging, not the date when the project started.</small>
 <hr />
 
-#### Log
+#### Summary
 
-- <time>Oct 30, 2021</time> Wow, it's crazy how nearly 2 months just flew by. Incredible, incredible fellowship. Can't recommend it highly enough.
+Wow, it's crazy how nearly 2 months just flew by. Incredible, incredible fellowship. Can't recommend it highly enough.
+
 <hr />
 
 ## <span id="eaglobal2021">[EA Global: London 2021](https://www.eaglobal.org/events/london2021/) </span>
 
-<small>Oct 30, 2021-Oct 30, 2021</small>  
+<small>Oct 30, 2021/small>  
 <small>Attended EA Global: London 2021 as a virtual attendee.</small>
 
 <hr />
 <small>EA Global: London 2021's date is the date I started logging, not the date when the project started.</small>
 <hr />
 
-#### Log
+#### Summary
 
-- <time>Oct 30, 2021</time> It was great seeing both [Benjamin Todd](https://benjamintodd.org/) and [William MacAskill](https://www.williammacaskill.com/) (albeit virtually) talk in such an in-depth manner. One day, I'll hopefully go for one physically!
+It was great seeing both [Benjamin Todd](https://benjamintodd.org/) and [William MacAskill](https://www.williammacaskill.com/) (albeit virtually) talk in such an in-depth manner. One day, I'll hopefully go for one physically!
+
 <hr />
 
 ## Retroactive
