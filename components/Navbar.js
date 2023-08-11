@@ -9,8 +9,8 @@ export default function Navbar() {
           <a href="/">Home</a>
           <a href="/blog/">Blog</a>
           <a href="/series">Series</a>
-          <a href="/notebook">Notebook</a>
           <a href="/projects/">Projects</a>
+          <a href="/notebook">Notebook</a>
           <a href="/donations/">Donations</a>
           <a href="/analytics/">Analytics</a>
           <br />
