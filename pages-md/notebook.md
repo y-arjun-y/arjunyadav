@@ -84,6 +84,8 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
   It does this via **having a layer that splits the encoder's result into mean and standard deviation, and a latent vector with a separate episilon value for backpropagation to happen properly**.
 
+  If you wish to see a VAE in action, check out [this repository](https://github.com/lyeoni/pytorch-mnist-VAE).
+
   [Credit for below image](https://www.youtube.com/watch?v=d0W_Ab-aZGo).
 
   ![VAE](/vae.png)
