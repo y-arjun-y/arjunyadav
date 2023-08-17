@@ -865,7 +865,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 07, 2023</time> Better late than never.
+- <time>Aug 17, 2023</time> Admin work, will finish this project for good by Tuesday.
+
+- <time>Aug 07, 2023-Aug 16, 2023</time> Better late than never.
 
 - <time>May 07, 2023</time> Continued with Week 3.
 
