@@ -104,6 +104,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Aug 07, 2023-Aug 17, 2023</time> Finished with VAEs and a bit of GAN understanding.
+
 - <time>Aug 03, 2023-Aug 06, 2023</time> Programming started for VAEs!
 
 - <time>Aug 02, 2023</time> Read up on VAEs and Sparse Coding, and had another meeting.
@@ -118,6 +120,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>One last rodeo this summer! Excited to be teaching our ten incredible students.</small>
 
 <hr />
+
+- <time>Aug 12, 2023-Aug 17, 2023</time> One of them is really, really incredible.
 
 - <time>Aug 10, 2023</time> Last capstone project received!
 
@@ -162,6 +166,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 12, 2023-Aug 17, 2023</time> Working with my new blog writer for this month!
+
 - <time>Aug 07, 2023</time> August's theme has been announced!
 
 - <time>Jul 29, 2023</time> Finished the blog post with my blog writer!
@@ -192,6 +198,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 12, 2023-Aug 17, 2023</time> Outreach, a small crisis in media and finalising the trailer.
 
 - <time>Aug 10, 2023-Aug 11, 2023</time> Press!
 
@@ -243,6 +251,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 12, 2023-Aug 17, 2023</time> Experimented with VAEs and GANs - going to move on now to expanding the dataset and re-training.
 
 - <time>Aug 11, 2023</time> Some lukewarm results again, better than run-through at least!
 
@@ -320,6 +330,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 12, 2023-Aug 17, 2023</time> Lot's of work: organised the grading for junior classes along with another head, sent out a comprehensive guide for English proficiency tests and continued with some projects on the side.
 
 - <time>Aug 10, 2023-Aug 11, 2023</time> Lots of smaller, but important work! (pt. 2)
 
@@ -445,6 +457,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 12, 2023-Aug 17, 2023</time> Reel making competition is over now, a really sick reel was made by committee for India's independence day!
 
 - <time>Aug 11, 2023</time> OptX astronomy centre visit happened successfully! Thank you to our incredible tour guides and to all those that had come!
 
@@ -608,6 +622,10 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 16, 2023</time> Gathertown!
+
+- <time>Aug 10, 2023-Aug 15, 2023</time> Sent out the comprehensive message.
 
 - <time>Aug 07, 2023-Aug 09, 2023</time> Airtable!
 
@@ -795,6 +813,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 12, 2023-Aug 17, 2023</time> Finished Grade 3 for the most part (one song is left I believe) and blink-182!
 
 - <time>Aug 11, 2023</time> Recorded Smells Like Teen Spirit by Nirvana.
 
@@ -1164,6 +1184,46 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 17, 2023</time> Finished [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/):
+
+```sql
+# Write your MySQL query statement below
+
+# Credit - https://leetcode.com/problems/average-time-of-process-per-machine/solutions/3722056/sql-join-or-subquery-easy-to-understand/
+
+SELECT a.machine_id, ROUND(AVG(b.timestamp-a.timestamp), 3) as processing_time FROM Activity a JOIN Activity b ON a.machine_id=b.machine_id AND a.process_id=b.process_id AND a.activity_type='start' AND b.activity_type='end' GROUP BY a.machine_id
+```
+
+- <time>Aug 16, 2023</time> Finished [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/):
+
+```sql
+# Write your MySQL query statement below
+SELECT DISTINCT a.stock_name, ((SELECT SUM(price) FROM Stocks WHERE operation = 'Sell' AND stock_name = a.stock_name) - (SELECT SUM(price) FROM Stocks WHERE operation = 'Buy' AND stock_name = a.stock_name)) as capital_gain_loss FROM Stocks a;
+```
+
+- <time>Aug 13, 2023</time> Finished [Max Pair Sum in an Array](https://leetcode.com/problems/max-pair-sum-in-an-array/):
+
+```py
+class Solution:
+    def maxSum(self, nums: List[int]) -> int:
+        max_sum = -1
+
+        for i in range(len(nums)):
+            for j in range(i+1, len(nums)):
+                if max(list(str(nums[i]))) == max(list(str(nums[j]))):
+                    if nums[i] + nums[j] > max_sum:
+                        max_sum = nums[i] + nums[j]
+
+        return max_sum
+```
+
+- <time>Aug 12, 2023</time> Finished [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/):
+
+```sql
+# Write your MySQL query statement below
+SELECT DISTINCT a.actor_id, a.director_id FROM ActorDirector a WHERE (SELECT COUNT(*) FROM ActorDirector WHERE actor_id = a.actor_id AND director_id = a.director_id) >= 3;
+```
 
 - <time>Aug 11, 2023</time> Finished [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/):
 
