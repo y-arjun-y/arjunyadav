@@ -1187,6 +1187,27 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 18, 2023</time> Finished [H-Index](https://leetcode.com/problems/h-index/):
+
+```py
+class Solution:
+    def hIndex(self, citations: List[int]) -> int:
+        if len(citations) == 1:
+            if citations[0] == 0:
+                return 0
+            else:
+                return 1
+        else:
+            max_h = 0
+
+            for h in range(0, len(citations)+1):
+                if len([i for i in citations if i >= h]) >= h and h > max_h:
+                    max_h = h
+
+            return max_h
+
+```
+
 - <time>Aug 17, 2023</time> Finished [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/):
 
 ```sql
