@@ -15824,7 +15824,7 @@ Wow, it's crazy how nearly 2 months just flew by. Incredible, incredible fellows
 
 ## <span id="eaglobal2021">[EA Global: London 2021](https://www.eaglobal.org/events/london2021/) </span>
 
-<small>Oct 30, 2021/small>  
+<small>Oct 30, 2021</small>  
 <small>Attended EA Global: London 2021 as a virtual attendee.</small>
 
 <hr />
