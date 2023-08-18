@@ -166,7 +166,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 12, 2023-Aug 17, 2023</time> Working with my new blog writer for this month!
+- <time>Aug 12, 2023-Aug 18, 2023</time> Working with my new blog writer for this month!
 
 - <time>Aug 07, 2023</time> August's theme has been announced!
 
@@ -198,6 +198,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 18, 2023</time> Finished a new draft of the script.
 
 - <time>Aug 12, 2023-Aug 17, 2023</time> Outreach, a small crisis in media and finalising the trailer.
 
@@ -622,6 +624,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 18, 2023</time> Some admin work.
 
 - <time>Aug 16, 2023</time> Gathertown!
 
