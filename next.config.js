@@ -21,7 +21,7 @@ const nextConfig = {
       },
       {
         source: "/aae-class",
-        destination: "https://forms.gle/cdCkCYEXStzWJc9Q9",
+        destination: "https://forms.gle/NpvofSH5AUCY2mFd6",
         permanent: false,
       },
     ];
