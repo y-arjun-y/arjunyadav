@@ -6,8 +6,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (11)
+### Active (12)
 
+- <a href="#aaeclass">Arjun's AI Escapades Class</a>
 - <a href="#aissr">AI Safety Studying/Research</a>
 - <a href="#solaris-3">SOLARIS (Third Edition)</a>
 - <a href="#oceanbusters">Ocean Busters</a>
@@ -97,6 +98,25 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="aaeclass">Arjun's AI Escapades Class</span>
+
+<small>Aug 15, 2023-present</small>  
+<small>Hosting a series of machine learning and AI safety classes this summer!</small>
+
+<hr />
+
+- <time>Aug 19, 2023</time> Announced the second edition.
+
+- <time>Aug 17, 2023</time> Second class done! Was also a huge success (one my students coincidentally thought of the first thing I teach in second half of the class lol):
+
+![AAE - Second](/aae-two.jpg)
+
+- <time>Aug 15, 2023</time> Got the presentation done in the nick of time, and a successful first class!
+
+![AAE - First](/aae-one.png)
+
+<hr />
+
 ## <span id="aissr">AI Safety Studying/Research</span>
 
 <small>Aug 01, 2023-present</small>  
@@ -121,7 +141,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Aug 12, 2023-Aug 17, 2023</time> One of them is really, really incredible.
+- <time>Aug 12, 2023-Aug 19, 2023</time> One of them is really, really incredible.
 
 - <time>Aug 10, 2023</time> Last capstone project received!
 
@@ -166,6 +186,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 19, 2023</time> Submitted the blog post in record time.
+
 - <time>Aug 12, 2023-Aug 18, 2023</time> Working with my new blog writer for this month!
 
 - <time>Aug 07, 2023</time> August's theme has been announced!
@@ -199,7 +221,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 18, 2023</time> Finished a new draft of the script.
+- <time>Aug 18, 2023-Aug 19, 2023</time> Finished a new draft of the script.
 
 - <time>Aug 12, 2023-Aug 17, 2023</time> Outreach, a small crisis in media and finalising the trailer.
 
@@ -332,6 +354,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 19, 2023</time> The notebook is quite filled.
 
 - <time>Aug 12, 2023-Aug 17, 2023</time> Lot's of work: organised the grading for junior classes along with another head, sent out a comprehensive guide for English proficiency tests and continued with some projects on the side.
 
@@ -625,6 +649,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 19, 2023</time> Incredible day: got the new set of logos (which look amazing) and a lot of headway on our next big thing!
+
 - <time>Aug 18, 2023</time> Some admin work.
 
 - <time>Aug 16, 2023</time> Gathertown!
@@ -868,6 +894,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 19, 2023</time> Finished the penultimate week.
 
 - <time>Aug 17, 2023</time> Admin work, will finish this project for good by Tuesday.
 
