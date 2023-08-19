@@ -1191,6 +1191,13 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 19, 2023</time> Finished [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/):
+
+```sql
+# Write your MySQL query statement below
+SELECT user_id, MAX(time_stamp) as last_stamp FROM Logins WHERE SUBSTRING(time_stamp, 1, 4) = '2020' GROUP BY user_id;
+```
+
 - <time>Aug 18, 2023</time> Finished [H-Index](https://leetcode.com/problems/h-index/):
 
 ```py
