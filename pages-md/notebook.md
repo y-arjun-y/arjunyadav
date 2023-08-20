@@ -104,6 +104,8 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 ### Projects
 
+- [Arjun's AI Escapades Class](/projects#aaeclass)
+
 - [AI Safety Studying/Research](/projects#aissr)
 
 - [AUS CSE Research Assistant](/projects#ausresearch)

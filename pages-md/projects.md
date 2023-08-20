@@ -141,6 +141,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Aug 20, 2023</time> Certificates, and nudged for one of the projects to be published!
+
 - <time>Aug 12, 2023-Aug 19, 2023</time> One of them is really, really incredible.
 
 - <time>Aug 10, 2023</time> Last capstone project received!
@@ -186,6 +188,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 20, 2023</time> Always expect the unexpected.
+
 - <time>Aug 19, 2023</time> Submitted the blog post in record time.
 
 - <time>Aug 12, 2023-Aug 18, 2023</time> Working with my new blog writer for this month!
@@ -221,7 +225,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 18, 2023-Aug 19, 2023</time> Finished a new draft of the script.
+- <time>Aug 18, 2023-Aug 20, 2023</time> Finished a new draft of the script.
 
 - <time>Aug 12, 2023-Aug 17, 2023</time> Outreach, a small crisis in media and finalising the trailer.
 
@@ -275,6 +279,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 20, 2023</time> Jeez, the results are quite poor. Going to need to get back to Paperspace soon.
 
 - <time>Aug 12, 2023-Aug 17, 2023</time> Experimented with VAEs and GANs - going to move on now to expanding the dataset and re-training.
 
@@ -354,6 +360,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 20, 2023</time> 2 years?!
 
 - <time>Aug 19, 2023</time> The notebook is quite filled.
 
@@ -483,6 +491,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 20, 2023</time> Who turned off the AC?
 
 - <time>Aug 12, 2023-Aug 17, 2023</time> Reel making competition is over now, a really sick reel was made by committee for India's independence day!
 
@@ -649,7 +659,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 19, 2023</time> Incredible day: got the new set of logos (which look amazing) and a lot of headway on our next big thing!
+- <time>Aug 19, 2023-Aug 20, 2023</time> Incredible day: got the new set of logos (which look amazing) and a lot of headway on our next big thing!
 
 - <time>Aug 18, 2023</time> Some admin work.
 
@@ -843,6 +853,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 20, 2023</time> Messed around with some blink-182 and Van Halen.
 
 - <time>Aug 12, 2023-Aug 17, 2023</time> Finished Grade 3 for the most part (one song is left I believe) and blink-182!
 
