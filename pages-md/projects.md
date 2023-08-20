@@ -1219,6 +1219,16 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 20, 2023</time> Finished [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/):
+
+```sql
+# Write your MySQL query statement below
+
+# Credit - https://leetcode.com/problems/count-salary-categories/solutions/3892510/beats-95-both-sql-and-pandas/
+
+SELECT 'Low Salary' as category, COUNT(account_id) as accounts_count FROM Accounts WHERE income < 20000 UNION SELECT 'Average Salary' as category, COUNT(*) FROM Accounts WHERE income >= 20000 AND income <= 50000 UNION SELECT 'High Salary' as category, COUNT(*) FROM Accounts WHERE income > 50000;
+```
+
 - <time>Aug 19, 2023</time> Finished [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/):
 
 ```sql
