@@ -1231,6 +1231,13 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 21, 2023</time> Finished [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/):
+
+```sql
+# Write your MySQL query statement below
+SELECT DISTINCT p.product_id, product_name FROM Product p, Sales s WHERE p.product_id = s.product_id AND (SELECT COUNT(product_id) FROM Sales e WHERE e.product_id = p.product_id AND (e.sale_date >= '2019-01-01' AND e.sale_date <= '2019-03-31')) >= 1 AND (SELECT COUNT(product_id) FROM Sales e WHERE e.product_id = p.product_id AND (e.sale_date < '2019-01-01' OR e.sale_date > '2019-03-31')) = 0;
+```
+
 - <time>Aug 20, 2023</time> Finished [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/):
 
 ```sql
