@@ -105,6 +105,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Aug 24, 2023</time> Time sheet!
+
 - <time>Aug 19, 2023</time> Announced the second edition.
 
 - <time>Aug 17, 2023</time> Second class done! Was also a huge success (one my students coincidentally thought of the first thing I teach in second half of the class lol):
@@ -141,7 +143,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Aug 20, 2023</time> Certificates, and nudged for one of the projects to be published!
+- <time>Aug 20, 2023-Aug 24, 2023</time> Certificates, and nudged for one of the projects to be published!
 
 - <time>Aug 12, 2023-Aug 19, 2023</time> One of them is really, really incredible.
 
@@ -496,7 +498,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 22, 2023</time> Emails!
+- <time>Aug 22, 2023-Aug 23, 2023</time> Emails!
 
 - <time>Aug 21, 2023</time> AC (x2)! Also, kind chap on the phone today.
 
@@ -963,6 +965,21 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 23, 2023</time> Finished [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/):
+
+```py
+class Solution:
+    def countPairs(self, nums: List[int], target: int) -> int:
+        count = 0
+
+        for i in range(len(nums)):
+            for j in range(i+1, len(nums)):
+                if nums[i] + nums[j] < target:
+                    count += 1
+
+        return count
+```
 
 - <time>Aug 22, 2023</time> Finished [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/):
 
