@@ -30,8 +30,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a>
 - <a href="#guitar">Guitar</a>
 
-### Done (38)
+### Done (39)
 
+- <a href="#rtahackathon">RTA Hackathon</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
 - <a href="#ktyouth">YCM Youth Meet-up</a>
 - <a href="#mlsafetycourse">Machine Learning Safety Course</a>
@@ -105,7 +106,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Aug 24, 2023</time> Time sheet!
+- <time>Aug 24, 2023-Aug 26, 2023</time> Time sheet!
 
 - <time>Aug 19, 2023</time> Announced the second edition.
 
@@ -227,6 +228,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 23, 2023-Aug 26, 2023</time> Major progress and got up to speed.
+
 - <time>Aug 22, 2023</time> A lot happened today: started out a bit disheartening but ended on a positive note!
 
 - <time>Aug 18, 2023-Aug 21, 2023</time> Finished a new draft of the script.
@@ -283,6 +286,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 21, 2023-Aug 25, 2023</time> Spoke with my professor and co-RA.
 
 - <time>Aug 20, 2023</time> Jeez, the results are quite poor. Going to need to get back to Paperspace soon.
 
@@ -364,6 +369,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 23, 2023-Aug 26, 2023</time> Well, that was a productive-ish summer.
 
 - <time>Aug 22, 2023</time> Comprehensive enough?
 
@@ -498,7 +505,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 22, 2023-Aug 23, 2023</time> Emails!
+- <time>Aug 22, 2023-Aug 25, 2023</time> Emails!
 
 - <time>Aug 21, 2023</time> AC (x2)! Also, kind chap on the phone today.
 
@@ -965,6 +972,28 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 26, 2023</time> Finished [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/):
+
+```sql
+# Write your MySQL query statement below
+SELECT DISTINCT s.user_id, CASE WHEN ISNULL(ROUND((SELECT COUNT(*) FROM Confirmations WHERE user_id = s.user_id AND action = 'confirmed') / (SELECT COUNT(*) FROM Confirmations WHERE user_id = s.user_id), 2)) THEN 0.00 ELSE ROUND((SELECT COUNT(*) FROM Confirmations WHERE user_id = s.user_id AND action = 'confirmed') / (SELECT COUNT(*) FROM Confirmations WHERE user_id = s.user_id), 2) END AS confirmation_rate FROM Signups s LEFT JOIN Confirmations c ON s.user_id = c.user_id;
+```
+
+- <time>Aug 24, 2023<time> Finished [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/):
+
+```py
+class Solution:
+    def countPairs(self, nums: List[int], target: int) -> int:
+        count = 0
+
+        for i in range(len(nums)):
+            for j in range(i+1, len(nums)):
+                if nums[i] + nums[j] < target:
+                    count += 1
+
+        return count
+```
 
 - <time>Aug 23, 2023</time> Finished [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/):
 
@@ -10726,6 +10755,21 @@ function getCount(str) {
 <hr />
 
 ## Done
+
+<hr />
+
+## <span id="rtahackathon">RTA Hackathon</span>
+
+<small>Aug 24, 2023-Aug 25, 2023</small>  
+<small>Participated in RTA's sustainability ~hackathon!</small>
+
+<hr />
+
+#### Summary
+
+A lot of work happened before the start date given here: including finalizing our idea (an app to provide a sustainable transport mode given a particular route) and many meetings. But overall, it was a fun (and exhausting) time that had an incredible class on entrepreneurship on the first day! Glad to have been a part of this chaos.
+
+![RTA Hackathon](/rta.jpeg)
 
 <hr />
 
