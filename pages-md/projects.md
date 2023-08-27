@@ -973,6 +973,19 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 27, 2023</time> Finished [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/):
+
+```py
+class Solution:
+    def createTargetArray(self, nums: List[int], index: List[int]) -> List[int]:
+        res = []
+
+        for i in range(len(nums)):
+            res.insert(index[i], nums[i])
+
+        return res
+```
+
 - <time>Aug 26, 2023</time> Finished [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/):
 
 ```sql
