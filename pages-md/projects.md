@@ -6,9 +6,8 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (11)
+### Active (10)
 
-- <a href="#aaeclass">Arjun's AI Escapades Class</a>
 - <a href="#aissr">AI Safety Studying/Research</a>
 - <a href="#solaris-3">SOLARIS (Third Edition)</a>
 - <a href="#oceanbusters">Ocean Busters</a>
@@ -30,8 +29,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a>
 - <a href="#guitar">Guitar</a>
 
-### Done (39)
+### Done (40)
 
+- <a href="#aaeclass">Arjun's AI Escapades Class</a>
 - <a href="#rtahackathon">RTA Hackathon</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
 - <a href="#ktyouth">YCM Youth Meet-up</a>
@@ -96,27 +96,6 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 ## Active
-
-<hr />
-
-## <span id="aaeclass">Arjun's AI Escapades Class</span>
-
-<small>Aug 15, 2023-present</small>  
-<small>Hosting a series of machine learning and AI safety classes this summer!</small>
-
-<hr />
-
-- <time>Aug 24, 2023-Aug 26, 2023</time> Time sheet!
-
-- <time>Aug 19, 2023</time> Announced the second edition.
-
-- <time>Aug 17, 2023</time> Second class done! Was also a huge success (one my students coincidentally thought of the first thing I teach in second half of the class lol):
-
-![AAE - Second](/aae-two.jpg)
-
-- <time>Aug 15, 2023</time> Got the presentation done in the nick of time, and a successful first class!
-
-![AAE - First](/aae-one.png)
 
 <hr />
 
@@ -228,7 +207,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 23, 2023-Aug 26, 2023</time> Major progress and got up to speed.
+- <time>Aug 23, 2023-Aug 27, 2023</time> Major progress and got up to speed.
 
 - <time>Aug 22, 2023</time> A lot happened today: started out a bit disheartening but ended on a positive note!
 
@@ -370,7 +349,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 23, 2023-Aug 26, 2023</time> Well, that was a productive-ish summer.
+- <time>Aug 23, 2023-Aug 27, 2023</time> Well, that was a productive summer.
 
 - <time>Aug 22, 2023</time> Comprehensive enough?
 
@@ -676,7 +655,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 22, 2023</time> Further discussion, and found a suitable compromise.
+- <time>Aug 22, 2023-Aug 27, 2023</time> Further discussion, and found a suitable compromise.
 
 - <time>Aug 19, 2023-Aug 21, 2023</time> Incredible day(s): got the new set of logos (which look amazing) and a lot of headway on our next big thing!
 
@@ -10768,6 +10747,29 @@ function getCount(str) {
 <hr />
 
 ## Done
+
+<hr />
+
+## <span id="aaeclass">Arjun's AI Escapades Class</span>
+
+<small>Aug 15, 2023-present</small>  
+<small>Hosting a series of machine learning and AI safety classes this summer!</small>
+
+<hr />
+
+- <time>Aug 27, 2023</time> Third (and final, for now) class done! Extremely grateful to have been able to teach 25+ seniors something that I'm truly passionate about.
+
+- <time>Aug 24, 2023-Aug 26, 2023</time> Time sheet!
+
+- <time>Aug 19, 2023</time> Announced the second edition.
+
+- <time>Aug 17, 2023</time> Second class done! Was also a huge success (one my students coincidentally thought of the first thing I teach in second half of the class lol):
+
+![AAE - Second](/aae-two.jpg)
+
+- <time>Aug 15, 2023</time> Got the presentation done in the nick of time, and a successful first class!
+
+![AAE - First](/aae-one.png)
 
 <hr />
 
