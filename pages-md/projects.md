@@ -170,6 +170,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Aug 31, 2023</time> Done for this month!
+
 - <time>Aug 20, 2023</time> Always expect the unexpected.
 
 - <time>Aug 19, 2023</time> Submitted the blog post in record time.
@@ -206,6 +208,12 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 30, 2023</time> Filming day complete! Hugely successful and really fun!
+
+![TEDx - Filming](/tedx-filming.png)
+
+- <time>Aug 30, 2023</time> Meeting!
 
 - <time>Aug 23, 2023-Aug 27, 2023</time> Major progress and got up to speed.
 
@@ -265,6 +273,10 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 31, 2023</time> Met my professor onsite! Really reassured now, going to continue on with a really sweet end-goal in mind!
+
+![AUS - Part Two](/aus-2.jpeg)
 
 - <time>Aug 21, 2023-Aug 25, 2023</time> Spoke with my professor and co-RA.
 
@@ -349,7 +361,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Aug 23, 2023-Aug 27, 2023</time> Well, that was a productive summer.
+- <time>Aug 27, 2023-Sep 01, 2023</time> This has been the most productive week ever for this project: so, so much done.
+
+- <time>Aug 23, 2023-Aug 27, 2023</time> Well, that was a productive summer!
 
 - <time>Aug 22, 2023</time> Comprehensive enough?
 
@@ -483,6 +497,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 01, 2023</time> RMC is officially over! Congrats to the winn... never mind.
 
 - <time>Aug 22, 2023-Aug 25, 2023</time> Emails!
 
@@ -654,6 +670,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Aug 28, 2023-Sep 01, 2023</time> Progress! Then, a snafu, then progress!
 
 - <time>Aug 22, 2023-Aug 27, 2023</time> Further discussion, and found a suitable compromise.
 
