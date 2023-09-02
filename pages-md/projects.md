@@ -276,7 +276,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 - <time>Aug 31, 2023</time> Met my professor onsite! Really reassured now, going to continue on with a really sweet end-goal in mind!
 
-![AUS - Part Two](/aus-2.jpeg)
+![AUS - Part Two](/AUS-2.jpeg)
 
 - <time>Aug 21, 2023-Aug 25, 2023</time> Spoke with my professor and co-RA.
 
