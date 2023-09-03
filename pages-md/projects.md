@@ -209,6 +209,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 01, 2023-Sep 03, 2023</time> Check-ins.
+
 - <time>Aug 30, 2023</time> Filming day complete! Hugely successful and really fun!
 
 ![TEDx - Filming](/tedx-filming.png)
@@ -273,6 +275,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 03, 2023</time> Sent out the report.
 
 - <time>Aug 31, 2023</time> Met my professor onsite! Really reassured now, going to continue on with a really sweet end-goal in mind!
 
@@ -498,7 +502,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Sep 01, 2023</time> RMC is officially over! Congrats to the winn... never mind.
+- <time>Sep 01, 2023-Sep 03, 2023</time> RMC is officially over! Congrats to the winn... never mind.
 
 - <time>Aug 22, 2023-Aug 25, 2023</time> Emails!
 
@@ -670,6 +674,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 03, 2023</time> Abu Dhabi, any one?
 
 - <time>Aug 28, 2023-Sep 01, 2023</time> Progress! Then, a snafu, then progress!
 
@@ -869,6 +875,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 03, 2023</time> I am Iron Man. Also, Heartbreaker! Will finish learning it by Friday.
 
 - <time>Aug 21, 2023</time> Finished an audition.
 
