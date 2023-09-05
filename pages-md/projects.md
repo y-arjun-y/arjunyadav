@@ -209,6 +209,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 04, 2023</time> Outreach meeting.
+
 - <time>Sep 01, 2023-Sep 03, 2023</time> Check-ins.
 
 - <time>Aug 30, 2023</time> Filming day complete! Hugely successful and really fun!
@@ -364,6 +366,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 01, 2023-Sep 04, 2023</time> The 5th is going to be an exciting day!
 
 - <time>Aug 27, 2023-Sep 01, 2023</time> This has been the most productive week ever for this project: so, so much done.
 
@@ -675,7 +679,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Sep 03, 2023</time> Abu Dhabi, any one?
+- <time>Sep 03, 2023-Sep 04, 2023</time> Abu Dhabi, any one?
 
 - <time>Aug 28, 2023-Sep 01, 2023</time> Progress! Then, a snafu, then progress!
 
@@ -876,6 +880,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 04, 2023</time> Played Summer of 69' by Bryan Adams for tomorrow.
+
 - <time>Sep 03, 2023</time> I am Iron Man. Also, Heartbreaker! Will finish learning it by Friday.
 
 - <time>Aug 21, 2023</time> Finished an audition.
@@ -977,6 +983,21 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 04, 2023</time> Finished [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/):
+
+```py
+class Solution:
+    def countSymmetricIntegers(self, low: int, high: int) -> int:
+        count = 0
+
+        for i in range(low, high+1):
+            if len(str(i)) % 2 == 0:
+                if sum([int(i) for i in str(i)[:len(str(i)) // 2]]) == sum([int(i) for i in str(i)[len(str(i)) // 2:]]):
+                    count += 1
+
+        return count
+```
 
 - <time>Sep 02, 2023</time> Finished [Add Two Promises](https://leetcode.com/problems/add-two-promises/) with a decent amount of help:
 
