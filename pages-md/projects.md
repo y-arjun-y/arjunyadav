@@ -209,6 +209,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 05, 2023-Sep 06, 2023</time> Two really, really productive days!
+
 - <time>Sep 04, 2023</time> Outreach meeting.
 
 - <time>Sep 01, 2023-Sep 03, 2023</time> Check-ins.
@@ -366,6 +368,10 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 06, 2023</time> Oh, it was.
+
+![F1](/f1.jpeg)
 
 - <time>Sep 01, 2023-Sep 04, 2023</time> The 5th is going to be an exciting day!
 
@@ -679,7 +685,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Sep 03, 2023-Sep 04, 2023</time> Abu Dhabi, any one?
+- <time>Sep 03, 2023-Sep 06, 2023</time> Abu Dhabi, any one?
 
 - <time>Aug 28, 2023-Sep 01, 2023</time> Progress! Then, a snafu, then progress!
 
@@ -879,6 +885,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 04, 2023</time> I think I made my teacher proud!
 
 - <time>Sep 04, 2023</time> Played Summer of 69' by Bryan Adams for tomorrow.
 
