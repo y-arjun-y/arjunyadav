@@ -79,6 +79,8 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 (in decreasing order of "high-levelness")
 
+- Risk Awareness Moment: [This article](https://forum.effectivealtruism.org/posts/hybGfBnkrtL9E3EcS/how-long-will-reaching-a-risk-awareness-moment-and-charts) does a fine job explaining it.
+
 - Mechanistic Interpretability: Essentially, it's a series of techniques that one can employ to try to reverse engineer a neural network: the inner workings of a neural network are something that, on paper, may seem decipherable: but are typically obfuscated by a lot of factors (the main one being dimensionality) ([Anthropic](https://transformer-circuits.pub/2022/mech-interp-essay/index.html))
 
 - Generative Adversarial Network: A GAN consists of both an encoder and decoder that essentially battle it out for the encoder to generate more convincing fake images. See an example [here](https://colab.research.google.com/drive/1hPVDell0IZTNNQULTO9Kb0VCi3vg0cmH?usp=sharing).
