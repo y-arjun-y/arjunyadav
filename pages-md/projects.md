@@ -284,6 +284,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 10, 2023</time> Solid plan for the next four to five days, excited!
+
 - <time>Sep 08, 2023</time> Back to normal training results.
 
 - <time>Sep 03, 2023</time> Sent out the report.
