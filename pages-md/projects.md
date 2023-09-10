@@ -902,7 +902,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Sep 05, 2023-Sep 10, 2023</time> Recorded Heartbreaker by Led Zeppelin (twice) and recorded Lounge Act by Nirvana.
+- <time>Sep 05, 2023-Sep 10, 2023</time> Recorded Heartbreaker by Led Zeppelin.
 
 - <time>Sep 04, 2023</time> I think I made my teacher proud!
 
