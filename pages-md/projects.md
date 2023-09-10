@@ -1,5 +1,5 @@
 ---
-title: Projectsleetcode
+title: Projects
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -106,6 +106,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Sep 10, 2023</time> Going to focus on policy following my brother's article, which ties in nicely with an essay I wish to write.
+
 - <time>Aug 07, 2023-Aug 17, 2023</time> Finished with VAEs and a bit of GAN understanding.
 
 - <time>Aug 03, 2023-Aug 06, 2023</time> Programming started for VAEs!
@@ -209,6 +211,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 06, 2023-Sep 10, 2023</time> We're close in some regards, really close.
+
 - <time>Sep 05, 2023-Sep 06, 2023</time> Two really, really productive days!
 
 - <time>Sep 04, 2023</time> Outreach meeting.
@@ -279,6 +283,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 08, 2023</time> Back to normal training results.
 
 - <time>Sep 03, 2023</time> Sent out the report.
 
@@ -369,7 +375,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Sep 06, 2023</time> Oh, it was.
+- <time>Sep 06, 2023-Sep 10, 2023</time> Everything in between!
+
+- <time>Sep 05, 2023</time> Oh, it was.
 
 ![F1](/f1.jpeg)
 
@@ -684,6 +692,12 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 09, 2023-Sep 10, 2023</time> Wrote up everything that I learnt, and we're back on track!
+
+- <time>Sep 08, 2023</time> Finally met the EA NYUAD folk, an amazing dinner, thank you to all who attended!
+
+![EA UAE x EA NYUAD](/ea-uae-2.jpeg)
 
 - <time>Sep 03, 2023-Sep 06, 2023</time> Abu Dhabi, any one?
 

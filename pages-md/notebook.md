@@ -10,6 +10,8 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 ### What I'm Learning Currently
 
+- Risk Awareness Moments
+
 - Mechanistic Interpretability
   - Sparse Coding
   - Variational Auto-encoders
