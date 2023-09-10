@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Projectsleetcode
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
@@ -991,6 +991,20 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 10, 2023</time> Finished [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/):
+
+```py
+class Solution:
+    def numberOfPoints(self, nums: List[List[int]]) -> int:
+        points = set()
+
+        for i in nums:
+            for j in range(i[0], i[1]+1):
+                points.add(j)
+
+        return len(points)
+```
 
 - <time>Sep 04, 2023</time> Finished [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/):
 
