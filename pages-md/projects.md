@@ -202,7 +202,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-## <span id="tedx2023">TEDxYouth@DPSS 2023</span>
+## <span id="tedx2023">[TEDxYouth@DPSS 2023](https://www.ted.com/tedx/events/54736)</span>
 
 <small>Jul 08, 2023-present</small>  
 <small>1/3 of the event organisers for our school's second TEDx!</small>
