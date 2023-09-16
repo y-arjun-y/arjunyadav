@@ -211,6 +211,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 11, 2023-Sep 15, 2023</time> Social media! Everything is mostly coming together.
+
 - <time>Sep 06, 2023-Sep 10, 2023</time> We're close in some regards, really close.
 
 - <time>Sep 05, 2023-Sep 06, 2023</time> Two really, really productive days!
@@ -377,6 +379,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 11, 2023-Sep 15, 2023</time> Everything. In. Between.
+
 - <time>Sep 06, 2023-Sep 10, 2023</time> Everything in between!
 
 - <time>Sep 05, 2023</time> Oh, it was.
@@ -521,6 +525,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 04, 2023-Sep 15, 2023</time> Innovation wall!
 
 - <time>Sep 01, 2023-Sep 03, 2023</time> RMC is officially over! Congrats to the winn... never mind.
 
@@ -694,6 +700,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 11, 2023-Sep 15, 2023</time> New logo, new event!
 
 - <time>Sep 09, 2023-Sep 10, 2023</time> Wrote up everything that I learnt, and we're back on track!
 
@@ -1009,6 +1017,29 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 16, 2023</time> Finished [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii):
+
+```py
+class Solution:
+    def sortArrayByParityII(self, nums: List[int]) -> List[int]:
+        odd_nos = [i for i in nums if i % 2 != 0]
+        even_nos = [i for i in nums if i % 2 == 0]
+
+        res = []
+        even_counter = 0
+        odd_counter = 0
+
+        for i in range(len(nums)):
+            if i % 2 == 0:
+                res.append(even_nos[even_counter])
+                even_counter += 1
+            else:
+                res.append(odd_nos[odd_counter])
+                odd_counter += 1
+
+        return res
+```
 
 - <time>Sep 10, 2023</time> Finished [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/):
 
