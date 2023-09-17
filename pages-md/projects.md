@@ -211,6 +211,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 16, 2023-Sep 17, 2023</time> Stellar progress!
+
 - <time>Sep 11, 2023-Sep 15, 2023</time> Social media! Everything is mostly coming together.
 
 - <time>Sep 06, 2023-Sep 10, 2023</time> We're close in some regards, really close.
@@ -285,6 +287,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 17, 2023</time> Met my co-RA in-person!
 
 - <time>Sep 10, 2023</time> Solid plan for the next four to five days, excited!
 
@@ -378,6 +382,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 16, 2023-Sep 17, 2023</time> Grading.
 
 - <time>Sep 11, 2023-Sep 15, 2023</time> Everything. In. Between.
 
@@ -701,6 +707,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 17, 2023</time> DYH!
+
+[EA UAE - DYH](/ea-uae-dyh.jpg)
+
 - <time>Sep 11, 2023-Sep 15, 2023</time> New logo, new event!
 
 - <time>Sep 09, 2023-Sep 10, 2023</time> Wrote up everything that I learnt, and we're back on track!
@@ -910,6 +920,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 17, 2023</time> Almost recorded Rope by Foo Fighters.
+
 - <time>Sep 05, 2023-Sep 10, 2023</time> Recorded Heartbreaker by Led Zeppelin.
 
 - <time>Sep 04, 2023</time> I think I made my teacher proud!
@@ -1017,6 +1029,14 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 17, 2023</time> Finished [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/):
+
+```py
+class Solution:
+    def sumIndicesWithKSetBits(self, nums: List[int], k: int) -> int:
+        return sum([nums[i] for i in range(len(nums)) if str(bin(i))[1:].count('1') == k])
+```
 
 - <time>Sep 16, 2023</time> Finished [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii):
 
