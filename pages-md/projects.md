@@ -172,6 +172,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 19, 2023</time> Admin for this month.
+
 - <time>Aug 31, 2023</time> Done for this month!
 
 - <time>Aug 20, 2023</time> Always expect the unexpected.
@@ -210,6 +212,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 18, 2023-Sep 19, 2023</time> Salute to all PAs. Heroes don't often wear capes.
 
 - <time>Sep 16, 2023-Sep 17, 2023</time> Stellar progress!
 
@@ -383,6 +387,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 19, 2023</time> All colours are beautiful.
+
 - <time>Sep 16, 2023-Sep 17, 2023</time> Grading.
 
 - <time>Sep 11, 2023-Sep 15, 2023</time> Everything. In. Between.
@@ -532,7 +538,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Sep 04, 2023-Sep 15, 2023</time> Innovation wall!
+- <time>Sep 04, 2023-Sep 19, 2023</time> Innovation wall!
 
 - <time>Sep 01, 2023-Sep 03, 2023</time> RMC is officially over! Congrats to the winn... never mind.
 
@@ -706,6 +712,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 18, 2023-Sep 19, 2023</time> Met with a professor virtually with my co-founder!
 
 - <time>Sep 17, 2023</time> DYH!
 
@@ -919,6 +927,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 19, 2023</time> Played the acoustic drum kit in school!
 
 - <time>Sep 17, 2023</time> Almost recorded Rope by Foo Fighters.
 
