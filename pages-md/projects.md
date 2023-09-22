@@ -213,6 +213,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 19, 2023-Sep 22, 2023</time> Last week.
+
 - <time>Sep 18, 2023-Sep 19, 2023</time> Salute to all PAs. Heroes don't often wear capes.
 
 - <time>Sep 16, 2023-Sep 17, 2023</time> Stellar progress!
@@ -387,6 +389,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 19, 2023-Sep 22, 2023</time> College.
+
 - <time>Sep 19, 2023</time> All colours are beautiful.
 
 - <time>Sep 16, 2023-Sep 17, 2023</time> Grading.
@@ -538,7 +542,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Sep 04, 2023-Sep 19, 2023</time> Innovation wall!
+- <time>Sep 04, 2023-Sep 22, 2023</time> Innovation wall!
 
 - <time>Sep 01, 2023-Sep 03, 2023</time> RMC is officially over! Congrats to the winn... never mind.
 
@@ -713,7 +717,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Sep 18, 2023-Sep 19, 2023</time> Met with a professor virtually with my co-founder!
+- <time>Sep 18, 2023-Sep 22, 2023</time> Met with a professor virtually with my co-founder!
 
 - <time>Sep 17, 2023</time> DYH!
 
@@ -1039,6 +1043,28 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 22, 2023</time> Finished [Is Subsequence](https://leetcode.com/problems/is-subsequence/):
+
+```py
+class Solution:
+    def isSubsequence(self, s: str, t: str) -> bool:
+        if s in t:
+            return True
+
+        for i in s:
+            if i not in t:
+                return False
+
+        compare = ""
+
+        for i in t:
+            if i in s:
+                compare += i
+
+        if list(dict.fromkeys(compare)) == list(dict.fromkeys(s)) and len(compare) >= len(s):
+            return True
+```
 
 - <time>Sep 17, 2023</time> Finished [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/):
 
