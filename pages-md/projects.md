@@ -172,6 +172,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 23, 2023</time> Finished editing for this month!
+
 - <time>Sep 19, 2023</time> Admin for this month.
 
 - <time>Aug 31, 2023</time> Done for this month!
@@ -389,7 +391,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Sep 19, 2023-Sep 22, 2023</time> College.
+- <time>Sep 19, 2023-Sep 22, 2023</time> College. TEDx. Entrance.
 
 - <time>Sep 19, 2023</time> All colours are beautiful.
 
@@ -542,7 +544,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Sep 04, 2023-Sep 22, 2023</time> Innovation wall!
+- <time>Sep 04, 2023-Sep 22, 2023</time> Innovation wall + meeting!
 
 - <time>Sep 01, 2023-Sep 03, 2023</time> RMC is officially over! Congrats to the winn... never mind.
 
@@ -931,6 +933,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 22, 2023</time> Recorded Rock and Roll by Led Zeppelin!
 
 - <time>Sep 19, 2023</time> Played the acoustic drum kit in school!
 
