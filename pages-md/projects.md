@@ -1048,6 +1048,23 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 23, 2023</time> Finished [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/):
+
+```py
+class Solution:
+    def minOperations(self, logs: List[str]) -> int:
+        level = 0
+
+        for i in logs:
+            if i == "../":
+                if level != 0:
+                    level -= 1
+            elif i != "./":
+                level += 1
+
+        return level
+```
+
 - <time>Sep 22, 2023</time> Finished [Is Subsequence](https://leetcode.com/problems/is-subsequence/):
 
 ```py
