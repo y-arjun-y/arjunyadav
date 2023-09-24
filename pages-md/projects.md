@@ -106,6 +106,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Sep 24, 2023</time> Wrote a lot!
+
 - <time>Sep 10, 2023</time> Going to focus on policy following my brother's article, which ties in nicely with an essay I wish to write.
 
 - <time>Aug 07, 2023-Aug 17, 2023</time> Finished with VAEs and a bit of GAN understanding.
@@ -215,7 +217,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Sep 19, 2023-Sep 22, 2023</time> Last week.
+- <time>Sep 19, 2023-Sep 24, 2023</time> Last week.
 
 - <time>Sep 18, 2023-Sep 19, 2023</time> Salute to all PAs. Heroes don't often wear capes.
 
@@ -295,6 +297,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 24, 2023</time> Finally, some good progress.
 
 - <time>Sep 17, 2023</time> Met my co-RA in-person!
 
@@ -390,6 +394,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 24, 2023</time> Don't be a donkey.
 
 - <time>Sep 22, 2023</time> (also, EcoGen flash mob!)
 
@@ -723,7 +729,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Sep 18, 2023-Sep 22, 2023</time> Met with a professor virtually with my co-founder!
+- <time>Sep 24, 2023</time> Some, uh, interesting discussions...
+
+- <time>Sep 18, 2023-Sep 23, 2023</time> Met with a professor virtually with my co-founder!
 
 - <time>Sep 17, 2023</time> DYH!
 
@@ -937,6 +945,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 24, 2023</time> Do air drums count?
 
 - <time>Sep 23, 2023</time> Recorded Rope by Foo Fighters! (finally)
 
