@@ -391,6 +391,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 22, 2023</time> (also, EcoGen flash mob!)
+
+![EcoGen - Flash Mob](/EcoGen.jpg)
+
 - <time>Sep 19, 2023-Sep 22, 2023</time> College. TEDx. Entrance.
 
 - <time>Sep 19, 2023</time> All colours are beautiful.
