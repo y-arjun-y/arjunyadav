@@ -934,6 +934,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Sep 23, 2023</time> Recorded Rope by Foo Fighters! (finally)
+
 - <time>Sep 22, 2023</time> Recorded Rock and Roll by Led Zeppelin!
 
 - <time>Sep 19, 2023</time> Played the acoustic drum kit in school!
@@ -1047,6 +1049,20 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Sep 24, 2023</time> Finished [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/):
+
+```py
+class Solution:
+    def maximumOddBinaryNumber(self, s: str) -> str:
+        ones = s.count("1")
+        zeroes = s.count("0")
+
+        if ones == 1:
+            return "0"*zeroes + "1"
+        else:
+            return "1"*(ones-1) + "0"*zeroes + "1"
+```
 
 - <time>Sep 23, 2023</time> Finished [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/):
 
