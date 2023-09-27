@@ -219,7 +219,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Sep 19, 2023-Sep 25, 2023</time> Last week.
+- <time>Sep 19, 2023-Sep 26, 2023</time> Last week.
 
 - <time>Sep 18, 2023-Sep 19, 2023</time> Salute to all PAs. Heroes don't often wear capes.
 
@@ -397,7 +397,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Sep 25, 2023</time> Brown is quite a nice colour.
+- <time>Sep 25, 2023-Sep 26, 2023</time> Brown is quite a nice colour.
 
 - <time>Sep 24, 2023</time> Don't be a donkey.
 
