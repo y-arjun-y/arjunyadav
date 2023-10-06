@@ -6,12 +6,11 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (10)
+### Active (9)
 
 - <a href="#aissr">AI Safety Studying/Research</a>
 - <a href="#solaris-3">SOLARIS (Third Edition)</a>
 - <a href="#oceanbusters">Ocean Busters</a>
-- <a href="#tedx2023">TEDxYouth@DPSS 2023</a>
 - <a href="#ausresearch">AUS CSE Research Assistant</a>
 - <a href="#studentcouncil12">Student Council - 12th + Head of Events</a>
 - <a href="#optx">OptX</a>
@@ -29,8 +28,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a>
 - <a href="#guitar">Guitar</a>
 
-### Done (40)
+### Done (41)
 
+- <a href="#tedx2023">TEDxYouth@DPSS 2023</a>
 - <a href="#aaeclass">Arjun's AI Escapades Class</a>
 - <a href="#rtahackathon">RTA Hackathon</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
@@ -210,87 +210,6 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-## <span id="tedx2023">[TEDxYouth@DPSS 2023](https://www.ted.com/tedx/events/54736)</span>
-
-<small>Jul 08, 2023-present</small>  
-<small>1/3 of the event organisers for our school's second TEDx!</small>
-
-<hr />
-
-#### Log
-
-- <time>Sep 19, 2023-Sep 26, 2023</time> Last week.
-
-- <time>Sep 18, 2023-Sep 19, 2023</time> Salute to all PAs. Heroes don't often wear capes.
-
-- <time>Sep 16, 2023-Sep 17, 2023</time> Stellar progress!
-
-- <time>Sep 11, 2023-Sep 15, 2023</time> Social media! Everything is mostly coming together.
-
-- <time>Sep 06, 2023-Sep 10, 2023</time> We're close in some regards, really close.
-
-- <time>Sep 05, 2023-Sep 06, 2023</time> Two really, really productive days!
-
-- <time>Sep 04, 2023</time> Outreach meeting.
-
-- <time>Sep 01, 2023-Sep 03, 2023</time> Check-ins.
-
-- <time>Aug 30, 2023</time> Filming day complete! Hugely successful and really fun!
-
-![TEDx - Filming](/tedx-filming.png)
-
-- <time>Aug 30, 2023</time> Meeting!
-
-- <time>Aug 23, 2023-Aug 27, 2023</time> Major progress and got up to speed.
-
-- <time>Aug 22, 2023</time> A lot happened today: started out a bit disheartening but ended on a positive note!
-
-- <time>Aug 18, 2023-Aug 21, 2023</time> Finished a new draft of the script.
-
-- <time>Aug 12, 2023-Aug 17, 2023</time> Outreach, a small crisis in media and finalising the trailer.
-
-- <time>Aug 10, 2023-Aug 11, 2023</time> Press!
-
-- <time>Aug 09, 2023</time> Outreach.
-
-- <time>Aug 08, 2023</time> Photography!
-
-- <time>Aug 06, 2023</time> Recording, recording.
-
-- <time>Aug 06, 2023</time> Recording, recording.
-
-- <time>Aug 03, 2023-Aug 05, 2023</time> Lots of press (and some media) work!
-
-- <time>Aug 02, 2023</time> Gotta test out a camera soon.
-
-- <time>Jul 31, 2023</time> Got (and shared) some great sponsorship advice.
-
-- <time>Jul 27, 2023-Jul 29, 2023</time> Media's turn!
-
-- <time>Jul 26, 2023</time> Checked-in with outreach - some good progress
-
-- <time>Jul 23, 2023-Jul 24, 2023</time> Cameras have been sorted!
-
-- <time>Jul 19, 2023-Jul 22, 2023</time> Did some media & outreach check-ins.
-
-- <time>Jul 18, 2023</time> An interesting day.
-
-- <time>Jul 17, 2023</time> Completely opposite to yesterday, so much progress!
-
-- <time>Jul 16, 2023</time> Things have gone, noticably quiet...
-
-- <time>Jul 13, 2023-Jul 15, 2023</time> I have a lot of respect for our editorial board.
-
-- <time>Jul 12, 2023</time> Files!
-
-- <time>Jul 11, 2023</time> Messages.
-
-- <time>Jul 09, 2023-Jul 10, 2023</time> A lot of progress on the smaller things, really happy to see!
-
-- <time>Jul 08, 2023</time> From a rocky start (with me sending out a pretty poorly worded message out) to getting settled in to the role to forming our incredible two teams leaves us at this moment right now: with about two months left for the event, things are going to start picking up a lot of momentum now!
-
-<hr />
-
 ## <span id="ausresearch">AUS CSE Research Assistant</span>
 
 <small>Jun 12, 2023-present</small>  
@@ -397,7 +316,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Sep 25, 2023-Sep 26, 2023</time> Brown is quite a nice colour.
+- <time>Sep 25, 2023-Oct 06, 2023</time> Brown is quite a nice colour.
 
 - <time>Sep 24, 2023</time> Don't be a donkey.
 
@@ -11022,6 +10941,91 @@ function getCount(str) {
 <hr />
 
 ## Done
+
+<hr />
+
+## <span id="tedx2023">[TEDxYouth@DPSS 2023](https://www.ted.com/tedx/events/54736)</span>
+
+<small>Jul 08, 2023-present</small>  
+<small>1/3 of the event organisers for our school's second TEDx!</small>
+
+<hr />
+
+#### Log
+
+- <time>Sep 30, 2023</time> Success!
+
+![TEDxYouth](/TEDx.png)
+
+- <time>Sep 19, 2023-Sep 29, 2023</time> Last week.
+
+- <time>Sep 18, 2023-Sep 19, 2023</time> Salute to all PAs. Heroes don't often wear capes.
+
+- <time>Sep 16, 2023-Sep 17, 2023</time> Stellar progress!
+
+- <time>Sep 11, 2023-Sep 15, 2023</time> Social media! Everything is mostly coming together.
+
+- <time>Sep 06, 2023-Sep 10, 2023</time> We're close in some regards, really close.
+
+- <time>Sep 05, 2023-Sep 06, 2023</time> Two really, really productive days!
+
+- <time>Sep 04, 2023</time> Outreach meeting.
+
+- <time>Sep 01, 2023-Sep 03, 2023</time> Check-ins.
+
+- <time>Aug 30, 2023</time> Filming day complete! Hugely successful and really fun!
+
+![TEDx - Filming](/tedx-filming.png)
+
+- <time>Aug 30, 2023</time> Meeting!
+
+- <time>Aug 23, 2023-Aug 27, 2023</time> Major progress and got up to speed.
+
+- <time>Aug 22, 2023</time> A lot happened today: started out a bit disheartening but ended on a positive note!
+
+- <time>Aug 18, 2023-Aug 21, 2023</time> Finished a new draft of the script.
+
+- <time>Aug 12, 2023-Aug 17, 2023</time> Outreach, a small crisis in media and finalising the trailer.
+
+- <time>Aug 10, 2023-Aug 11, 2023</time> Press!
+
+- <time>Aug 09, 2023</time> Outreach.
+
+- <time>Aug 08, 2023</time> Photography!
+
+- <time>Aug 06, 2023</time> Recording, recording.
+
+- <time>Aug 06, 2023</time> Recording, recording.
+
+- <time>Aug 03, 2023-Aug 05, 2023</time> Lots of press (and some media) work!
+
+- <time>Aug 02, 2023</time> Gotta test out a camera soon.
+
+- <time>Jul 31, 2023</time> Got (and shared) some great sponsorship advice.
+
+- <time>Jul 27, 2023-Jul 29, 2023</time> Media's turn!
+
+- <time>Jul 26, 2023</time> Checked-in with outreach - some good progress
+
+- <time>Jul 23, 2023-Jul 24, 2023</time> Cameras have been sorted!
+
+- <time>Jul 19, 2023-Jul 22, 2023</time> Did some media & outreach check-ins.
+
+- <time>Jul 18, 2023</time> An interesting day.
+
+- <time>Jul 17, 2023</time> Completely opposite to yesterday, so much progress!
+
+- <time>Jul 16, 2023</time> Things have gone, noticably quiet...
+
+- <time>Jul 13, 2023-Jul 15, 2023</time> I have a lot of respect for our editorial board.
+
+- <time>Jul 12, 2023</time> Files!
+
+- <time>Jul 11, 2023</time> Messages.
+
+- <time>Jul 09, 2023-Jul 10, 2023</time> A lot of progress on the smaller things, really happy to see!
+
+- <time>Jul 08, 2023</time> From a rocky start (with me sending out a pretty poorly worded message out) to getting settled in to the role to forming our incredible two teams leaves us at this moment right now: with about two months left for the event, things are going to start picking up a lot of momentum now!
 
 <hr />
 
