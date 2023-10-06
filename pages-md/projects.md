@@ -10946,8 +10946,8 @@ function getCount(str) {
 
 ## <span id="tedx2023">[TEDxYouth@DPSS 2023](https://www.ted.com/tedx/events/54736)</span>
 
-<small>Jul 08, 2023-present</small>  
-<small>1/3 of the event organisers for our school's second TEDx!</small>
+<small>Jul 08, 2023-Sep 30, 2023</small>  
+<small>Formerly the co-event organiser for my school's second edition TEDxYouth!</small>
 
 <hr />
 
