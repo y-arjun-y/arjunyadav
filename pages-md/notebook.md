@@ -81,7 +81,7 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 (in decreasing order of "high-levelness")
 
-- The AI Pause Debate:
+- [The AI Pause Debate](https://www.astralcodexten.com/p/pause-for-thought-the-ai-pause-debate):
 
 ![AI Pause Debate](https://substackcdn.com/image/fetch/w_728,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa96d51f-aa6c-4699-a057-a179ca12b3c9_834x694.png)
 
