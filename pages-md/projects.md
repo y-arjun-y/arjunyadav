@@ -995,6 +995,29 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 07, 2023</time> Finished [Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/):
+
+```py
+class Solution:
+    def minOperations(self, nums: List[int], k: int) -> int:
+        def check(k, arr):
+            for i in range(1, k+1):
+                if i not in arr:
+                    return False
+
+            return True
+
+        collection = []
+        count = 0
+
+        while not check(k, collection):
+            collection.append(nums[-1])
+            nums = nums[:-1]
+            count += 1
+
+        return count
+```
+
 - <time>Sep 25, 2023</time> Finished [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/):
 
 ```py
