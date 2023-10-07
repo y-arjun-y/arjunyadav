@@ -316,7 +316,11 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Sep 25, 2023-Oct 06, 2023</time> Brown is quite a nice colour.
+- <time>Oct 06, 2023</time> (another EcoGen flash mob!)
+
+![EcoGen - Flash Mob - 2](/EcoGen-2.jpg)
+
+- <time>Sep 25, 2023-Oct 05, 2023</time> Brown is quite a nice colour.
 
 - <time>Sep 24, 2023</time> Don't be a donkey.
 
@@ -476,6 +480,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 07, 2023</time> Discussions are getting serious now.
 
 - <time>Sep 04, 2023-Sep 22, 2023</time> Innovation wall + meeting!
 
@@ -651,6 +657,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 07, 2023</time> Getting back into the swing of things.
 
 - <time>Sep 24, 2023</time> Some, uh, interesting discussions...
 
