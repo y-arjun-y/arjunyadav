@@ -316,6 +316,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 08, 2023</time> College fair!
+
+![College Fair](/college-fair.jpg)
+
 - <time>Oct 06, 2023</time> (another EcoGen flash mob!)
 
 ![EcoGen - Flash Mob - 2](/EcoGen-2.jpg)
@@ -481,7 +485,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 07, 2023</time> Discussions are getting serious now.
+- <time>Oct 07, 2023-Oct 08, 2023</time> Discussions are getting serious now.
 
 - <time>Sep 04, 2023-Sep 22, 2023</time> Innovation wall + meeting!
 
@@ -877,6 +881,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 07, 2023</time> Recorded Suck My Kiss by Red Hot Chili Peppers - really loved how this one came out!
+
 - <time>Sep 24, 2023</time> Do air drums count?
 
 - <time>Sep 23, 2023</time> Recorded Rope by Foo Fighters! (finally)
@@ -994,6 +1000,22 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 08, 2023</time> Finished [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/):
+
+```py
+class Solution:
+    def maximumTripletValue(self, nums: List[int]) -> int:
+        max_value = 0
+
+        for i in range(len(nums)):
+            for j in range(i+1, len(nums)):
+                for k in range(j+1, len(nums)):
+                    if ((nums[i] - nums[j]) * nums[k]) > max_value:
+                        max_value = ((nums[i] - nums[j]) * nums[k])
+
+        return max_value
+```
 
 - <time>Oct 07, 2023</time> Finished [Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/):
 
