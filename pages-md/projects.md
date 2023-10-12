@@ -176,6 +176,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 12, 2023</time> Finished editing for this month!
+
 - <time>Sep 23, 2023</time> Finished editing for this month!
 
 - <time>Sep 19, 2023</time> Admin for this month.
@@ -218,6 +220,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 09, 2023-Oct 11, 2023</time> Got the training results up on the AI lab machine!
 
 - <time>Sep 24, 2023</time> Finally, some good progress.
 
@@ -315,6 +319,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 09, 2023-Oct 12, 2023</time> So, much.
 
 - <time>Oct 08, 2023</time> College fair!
 
@@ -1000,6 +1006,15 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 12, 2023</time> Finished [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/):
+
+```py
+import pandas as pd
+
+def getDataframeSize(players: pd.DataFrame) -> List[int]:
+    return [len(players.axes[0]), len(players.axes[1])]
+```
 
 - <time>Oct 08, 2023</time> Finished [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/):
 
