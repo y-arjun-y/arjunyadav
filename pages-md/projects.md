@@ -320,7 +320,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 09, 2023-Oct 12, 2023</time> So, much.
+- <time>Oct 09, 2023-Oct 13, 2023</time> So, much.
 
 - <time>Oct 08, 2023</time> College fair!
 
@@ -887,6 +887,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 07, 2023</time> Recorded Zero by The Smashing Pumpkins!
+
 - <time>Oct 07, 2023</time> Recorded Suck My Kiss by Red Hot Chili Peppers - really loved how this one came out!
 
 - <time>Sep 24, 2023</time> Do air drums count?
@@ -1006,6 +1008,14 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 13, 2023</time> Finished [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/):
+
+```py
+class Solution:
+    def differenceOfSums(self, n: int, m: int) -> int:
+        return sum([i for i in range(1, n+1) if i % m != 0]) - sum([i for i in range(1, n+1) if i % m == 0])
+```
 
 - <time>Oct 12, 2023</time> Finished [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/):
 
