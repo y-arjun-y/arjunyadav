@@ -24,6 +24,7 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 ### What I've learnt
 
+- UAE's AIS Space (or at least the most recent parts of it)
 - Principal Component Analysis
 - The underlying principle behind transformers
 
