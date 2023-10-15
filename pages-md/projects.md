@@ -28,8 +28,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a>
 - <a href="#guitar">Guitar</a>
 
-### Done (41)
+### Done (42)
 
+- <a href="#projectunboxed">Project: Unboxed</a>
 - <a href="#tedx2023">TEDxYouth@DPSS 2023</a>
 - <a href="#aaeclass">Arjun's AI Escapades Class</a>
 - <a href="#rtahackathon">RTA Hackathon</a>
@@ -1008,6 +1009,30 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 15, 2023</time> Finished [Last Visited Integers](https://leetcode.com/problems/last-visited-integers/):
+
+```py
+class Solution:
+    def lastVisitedIntegers(self, words: List[str]) -> List[int]:
+        integers = []
+        res = []
+        count = 0
+
+        for i in words:
+            if i == "prev":
+                count += 1
+                temp = integers[::-1]
+                if count <= len(integers):
+                    res.append(temp[count - 1])
+                else:
+                    res.append(-1)
+            else:
+                count = 0
+                integers.append(int(i))
+
+        return res
+```
 
 - <time>Oct 13, 2023</time> Finished [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/):
 
@@ -11021,6 +11046,19 @@ function getCount(str) {
 ## Done
 
 <hr />
+
+## <span id="projectunboxed">Project: Unboxed</span>
+
+<small>Oct 13, 2023-Oct 14, 2023</small>  
+<small>Student moderator for the metaverse committee!</small>
+
+<hr />
+
+#### Summary
+
+A really enjoyable experience overall: my sir present during the committee was really informative and thoughtful, and the whole committee came to rational conclusions without _much_ bickering, also gave a short speech as part of the panel discussion!
+
+![Project - Unboxed](/projectunboxed.jpeg)
 
 ## <span id="tedx2023">[TEDxYouth@DPSS 2023](https://www.ted.com/tedx/events/54736)</span>
 
