@@ -492,7 +492,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 07, 2023-Oct 08, 2023</time> Discussions are getting serious now.
+- <time>Oct 07, 2023-Oct 15, 2023</time> Discussions are getting serious now.
 
 - <time>Sep 04, 2023-Sep 22, 2023</time> Innovation wall + meeting!
 
