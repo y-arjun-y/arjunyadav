@@ -321,7 +321,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 09, 2023-Oct 13, 2023</time> So, much.
+- <time>Oct 09, 2023-Oct 17, 2023</time> So, much.
 
 - <time>Oct 08, 2023</time> College fair!
 
@@ -492,7 +492,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 07, 2023-Oct 15, 2023</time> Discussions are getting serious now.
+- <time>Oct 07, 2023-Oct 17, 2023</time> Discussions are getting serious now.
 
 - <time>Sep 04, 2023-Sep 22, 2023</time> Innovation wall + meeting!
 
@@ -1009,6 +1009,19 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 17, 2023</time> Finished [Find Indices With Index and Value Difference I](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/):
+
+```py
+class Solution:
+    def findIndices(self, nums: List[int], indexDifference: int, valueDifference: int) -> List[int]:
+        for i in range(len(nums)):
+            for j in range(len(nums)):
+                if abs(i - j) >= indexDifference and abs(nums[i] - nums[j]) >= valueDifference:
+                    return [i, j]
+
+        return [-1, -1]
+```
 
 - <time>Oct 15, 2023</time> Finished [Last Visited Integers](https://leetcode.com/problems/last-visited-integers/):
 
