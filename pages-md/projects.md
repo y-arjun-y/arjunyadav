@@ -28,8 +28,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a>
 - <a href="#guitar">Guitar</a>
 
-### Done (42)
+### Done (43)
 
+- <a href="#nmsmun">NMSMUN 2023</a>
 - <a href="#projectunboxed">Project: Unboxed</a>
 - <a href="#tedx2023">TEDxYouth@DPSS 2023</a>
 - <a href="#aaeclass">Arjun's AI Escapades Class</a>
@@ -11059,6 +11060,19 @@ function getCount(str) {
 ## Done
 
 <hr />
+
+## <span id="nmsmun">NMSMUN 2023</span>
+
+<small>Oct 21, 2023-Oct 22, 2023</small>  
+<small>Was the delegate of France for the Special Committee on Peacekeeping Operations, won best delegate and best delegation!</small>
+
+<hr />
+
+#### Summary
+
+What an eventful MUN: from the delegate of Russia tearing up my placard to the various spars between me and Russia and DPRK: I am glad that, in the end, a great resolution was passed and we were able to enjoy the fruits of all of our labour!
+
+![NMSMUN](/nmsmun.jpeg)
 
 ## <span id="projectunboxed">Project: Unboxed</span>
 
