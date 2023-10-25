@@ -322,7 +322,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 09, 2023-Oct 17, 2023</time> So, much.
+- <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
 
 - <time>Oct 08, 2023</time> College fair!
 
@@ -669,6 +669,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 24, 2023-Oct 25, 2023</time> Discussion time!
 
 - <time>Oct 07, 2023</time> Getting back into the swing of things.
 
