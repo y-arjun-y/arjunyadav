@@ -1013,6 +1013,15 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 27, 2023</time> Finished [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/):
+
+```py
+import pandas as pd
+
+def selectFirstRows(employees: pd.DataFrame) -> pd.DataFrame:
+    return employees.head(3)
+```
+
 - <time>Oct 17, 2023</time> Finished [Find Indices With Index and Value Difference I](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/):
 
 ```py
