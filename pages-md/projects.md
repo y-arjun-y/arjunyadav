@@ -1013,6 +1013,15 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 28, 2023</time> Finished [Select Data](https://leetcode.com/problems/select-data/):
+
+```py
+import pandas as pd
+
+def selectData(students: pd.DataFrame) -> pd.DataFrame:
+    return students[students["student_id"] == 101].loc[:, students.columns != 'student_id']
+```
+
 - <time>Oct 27, 2023</time> Finished [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/):
 
 ```py
