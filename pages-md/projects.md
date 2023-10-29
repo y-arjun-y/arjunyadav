@@ -1013,6 +1013,20 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Oct 29, 2023</time> Finished [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/description/):
+
+```py
+class Solution:
+    def sumCounts(self, nums: List[int]) -> int:
+        total = 0
+
+        for i in range(len(nums)):
+            for j in range(len(nums)+1):
+                total += (len(set(nums[i:j])))**2
+
+        return total
+```
+
 - <time>Oct 28, 2023</time> Finished [Select Data](https://leetcode.com/problems/select-data/):
 
 ```py
