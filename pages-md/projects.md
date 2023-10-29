@@ -11094,6 +11094,8 @@ What an eventful MUN: from the delegate of Russia tearing up my placard to the v
 
 ![NMSMUN](/nmsmun.jpeg)
 
+<hr />
+
 ## <span id="projectunboxed">Project: Unboxed</span>
 
 <small>Oct 13, 2023-Oct 14, 2023</small>  
@@ -11106,6 +11108,8 @@ What an eventful MUN: from the delegate of Russia tearing up my placard to the v
 A really enjoyable experience overall: my sir present during the committee was really informative and thoughtful, and the whole committee came to rational conclusions without _much_ bickering, also gave a short speech as part of the panel discussion!
 
 ![Project - Unboxed](/projectunboxed.jpeg)
+
+<hr />
 
 ## <span id="tedx2023">[TEDxYouth@DPSS 2023](https://www.ted.com/tedx/events/54736)</span>
 
