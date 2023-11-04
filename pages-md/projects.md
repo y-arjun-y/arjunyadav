@@ -1013,6 +1013,39 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 04, 2023</time> Finished [Create a New Column](https://leetcode.com/problems/create-a-new-column/):
+
+```py
+import pandas as pd
+
+def createBonusColumn(employees: pd.DataFrame) -> pd.DataFrame:
+    employees['bonus'] = [i*2 for i in employees['salary']]
+
+    return employees
+```
+
+- <time>Nov 03, 2023</time> Finished [Find the K-or of an Array](https://leetcode.com/problems/find-the-k-or-of-an-array/):
+
+```py
+class Solution:
+    def findKOr(self, nums: List[int], k: int) -> int:
+        # Credit - https://leetcode.com/problems/find-the-k-or-of-an-array/solutions/4220565/python-simple-solution/
+        res = 0
+
+        for i in range(32):
+            count = 0
+            n = 2**i
+
+            for num in nums:
+                if num & n:
+                    count += 1
+
+            if count >= k:
+                res += n
+
+        return res
+```
+
 - <time>Oct 29, 2023</time> Finished [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/description/):
 
 ```py
