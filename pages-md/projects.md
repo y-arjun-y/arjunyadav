@@ -1013,6 +1013,22 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 05, 2023</time> Finished [Method Chaining](https://leetcode.com/problems/method-chaining/):
+
+```py
+import pandas as pd
+
+def findHeavyAnimals(animals: pd.DataFrame) -> pd.DataFrame:
+    animals = animals[animals['weight'] > 100]
+    animals.sort_values(by=['weight'], inplace=True, ascending=False)
+
+    del animals['species']
+    del animals['age']
+    del animals['weight']
+
+    return animals
+```
+
 - <time>Nov 04, 2023</time> Finished [Create a New Column](https://leetcode.com/problems/create-a-new-column/):
 
 ```py
