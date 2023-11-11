@@ -891,6 +891,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 11, 2023</time> Recorded a song that a couple of my schoolmates and I are covering!
+
 - <time>Oct 07, 2023</time> Recorded Zero by The Smashing Pumpkins!
 
 - <time>Oct 07, 2023</time> Recorded Suck My Kiss by Red Hot Chili Peppers - really loved how this one came out!
