@@ -1013,6 +1013,18 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 06, 2023</time> Finished [Find Champion I](https://leetcode.com/problems/find-champion-i/):
+
+```py
+class Solution:
+    def findChampion(self, grid: List[List[int]]) -> int:
+        max_ones = max([i.count(1) for i in grid])
+
+        for i in range(len(grid)):
+            if grid[i].count(1) == max_ones:
+                return i
+```
+
 - <time>Nov 05, 2023</time> Finished [Method Chaining](https://leetcode.com/problems/method-chaining/):
 
 ```py
