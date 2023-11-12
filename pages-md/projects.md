@@ -6,10 +6,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (9)
+### Active (8)
 
 - <a href="#aissr">AI Safety Studying/Research</a>
-- <a href="#solaris-3">SOLARIS (Third Edition)</a>
 - <a href="#oceanbusters">Ocean Busters</a>
 - <a href="#ausresearch">AUS CSE Research Assistant</a>
 - <a href="#studentcouncil12">Student Council - 12th + Head of Events</a>
@@ -28,13 +27,14 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a>
 - <a href="#guitar">Guitar</a>
 
-### Done (43)
+### Done (44)
 
 - <a href="#nmsmun">NMSMUN 2023</a>
 - <a href="#projectunboxed">Project: Unboxed</a>
 - <a href="#tedx2023">TEDxYouth@DPSS 2023</a>
 - <a href="#aaeclass">Arjun's AI Escapades Class</a>
 - <a href="#rtahackathon">RTA Hackathon</a>
+- <a href="#solaris-3">SOLARIS (Third Edition)</a>
 - <a href="#mathforml">Mathematics for Machine Learning</a>
 - <a href="#ktyouth">YCM Youth Meet-up</a>
 - <a href="#mlsafetycourse">Machine Learning Safety Course</a>
@@ -121,51 +121,6 @@ Confused? See the <a href="#note">note</a> down below.
 - <time>Aug 02, 2023</time> Read up on VAEs and Sparse Coding, and had another meeting.
 
 - <time>Aug 01, 2023</time> Happy to report that [this recently completed project](/#mlsafetycourse/) was not a one-off AI safety project, I'll be continuing with self-studying and research with my brother. Super excited!
-
-<hr />
-
-## <span id="solaris-3">SOLARIS (Third Edition)</span>
-
-<small>Jul 08, 2023-present</small>  
-<small>One last rodeo this summer! Excited to be teaching our ten incredible students.</small>
-
-<hr />
-
-- <time>Aug 20, 2023-Aug 24, 2023</time> Certificates, and nudged for one of the projects to be published!
-
-- <time>Aug 12, 2023-Aug 19, 2023</time> One of them is really, really incredible.
-
-- <time>Aug 10, 2023</time> Last capstone project received!
-
-- <time>Aug 08, 2023</time> Second and third capstone project received! One more...
-
-- <time>Aug 06, 2023</time> First capstone project received!
-
-- <time>Jul 29, 2023-Aug 05, 2023</time> All capstone project ideas should be finalised now!
-
-- <time>Jul 27, 2023-Jul 28, 2023</time> Answered a doubt(s).
-
-- <time>Jul 26, 2023</time> And that's a wrap! Capstone project time.
-
-![SOLARIS - 3](/solaris-3.png)
-
-- <time>Jul 21, 2023-Jul 25, 2023</time> Did some organisational work.
-
-- <time>Jul 20, 2023</time> Fourth day done!
-
-- <time>Jul 19, 2023</time> Did some organisational work.
-
-- <time>Jul 18, 2023</time> Third day done!
-
-- <time>Jul 15, 2023-Jul 17, 2023</time> Did some organisational work.
-
-- <time>Jul 13, 2023</time> Second day done!
-
-- <time>Jul 12, 2023</time> Welp, got postponed to tomorrow.
-
-- <time>Jul 11, 2023</time> First day done!
-
-- <time>Jul 08, 2023</time> With all the prep work out of the way, just a couple days left before the first class!
 
 <hr />
 
@@ -1014,6 +969,22 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Nov 12, 2023</time> Finished [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/):
+
+```py
+class Solution:
+    def maximumStrongPairXor(self, nums: List[int]) -> int:
+        max = 0
+
+        for i in range(len(nums)):
+            for j in range(len(nums)):
+                if abs(nums[i] - nums[j]) <= min(nums[i], nums[j]):
+                    if nums[i]^nums[j] >= max:
+                        max = nums[i]^nums[j]
+
+        return max
+```
 
 - <time>Nov 06, 2023</time> Finished [Find Champion I](https://leetcode.com/problems/find-champion-i/):
 
@@ -11275,7 +11246,7 @@ A really enjoyable experience overall: my sir present during the committee was r
 
 ## <span id="aaeclass">Arjun's AI Escapades Class</span>
 
-<small>Aug 15, 2023-present</small>  
+<small>Aug 15, 2023-Aug 27, 2023</small>  
 <small>Hosting a series of machine learning and AI safety classes this summer!</small>
 
 <hr />
@@ -11297,6 +11268,51 @@ A really enjoyable experience overall: my sir present during the committee was r
 <hr />
 
 ## <span id="rtahackathon">RTA Hackathon</span>
+
+## <span id="solaris-3">SOLARIS (Third Edition)</span>
+
+<small>Jul 08, 2023-Aug 24, 2023</small>  
+<small>One last rodeo this summer! Excited to be teaching our ten incredible students.</small>
+
+<hr />
+
+- <time>Aug 20, 2023-Aug 24, 2023</time> Certificates, and nudged for one of the projects to be published!
+
+- <time>Aug 12, 2023-Aug 19, 2023</time> One of them is really, really incredible.
+
+- <time>Aug 10, 2023</time> Last capstone project received!
+
+- <time>Aug 08, 2023</time> Second and third capstone project received! One more...
+
+- <time>Aug 06, 2023</time> First capstone project received!
+
+- <time>Jul 29, 2023-Aug 05, 2023</time> All capstone project ideas should be finalised now!
+
+- <time>Jul 27, 2023-Jul 28, 2023</time> Answered a doubt(s).
+
+- <time>Jul 26, 2023</time> And that's a wrap! Capstone project time.
+
+![SOLARIS - 3](/solaris-3.png)
+
+- <time>Jul 21, 2023-Jul 25, 2023</time> Did some organisational work.
+
+- <time>Jul 20, 2023</time> Fourth day done!
+
+- <time>Jul 19, 2023</time> Did some organisational work.
+
+- <time>Jul 18, 2023</time> Third day done!
+
+- <time>Jul 15, 2023-Jul 17, 2023</time> Did some organisational work.
+
+- <time>Jul 13, 2023</time> Second day done!
+
+- <time>Jul 12, 2023</time> Welp, got postponed to tomorrow.
+
+- <time>Jul 11, 2023</time> First day done!
+
+- <time>Jul 08, 2023</time> With all the prep work out of the way, just a couple days left before the first class!
+
+<hr />
 
 <small>Aug 24, 2023-Aug 25, 2023</small>  
 <small>Participated in RTA's sustainability ~hackathon!</small>
