@@ -846,7 +846,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Nov 11, 2023</time> Recorded a song that a couple of my schoolmates and I are covering!
+- <time>Nov 11, 2023-Nov 12, 2023</time> Recorded a song that a couple of my schoolmates and I are covering!
 
 - <time>Oct 07, 2023</time> Recorded Zero by The Smashing Pumpkins!
 
