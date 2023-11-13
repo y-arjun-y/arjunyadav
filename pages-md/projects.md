@@ -6,23 +6,23 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (8)
+### Active (5)
 
 - <a href="#aissr">AI Safety Studying/Research</a>
-- <a href="#oceanbusters">Ocean Busters</a>
-- <a href="#ausresearch">AUS CSE Research Assistant</a>
 - <a href="#studentcouncil12">Student Council - 12th + Head of Events</a>
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
-- <a href="#drums">Drums</a>
 - <a href="#leetcode">LeetCode</a>
 
-### Occasional (1)
+### Occasional (3)
 
+- <a href="#oceanbusters">Ocean Busters</a>
+- <a href="#drums">Drums</a>
 - <a href="#coldtakesbetareading">Cold Takes Beta Reading</a>
 
 ### Inactive (3)
 
+- <a href="#ausresearch">AUS CSE Research Assistant</a>
 - <a href="#codewars">Codewars</a>
 - <a href="#chess">Chess</a>
 - <a href="#guitar">Guitar</a>
@@ -121,150 +121,6 @@ Confused? See the <a href="#note">note</a> down below.
 - <time>Aug 02, 2023</time> Read up on VAEs and Sparse Coding, and had another meeting.
 
 - <time>Aug 01, 2023</time> Happy to report that [this recently completed project](/#mlsafetycourse/) was not a one-off AI safety project, I'll be continuing with self-studying and research with my brother. Super excited!
-
-<hr />
-
-## <span id="oceanbusters">Ocean Busters</span>
-
-<small>Jul 08, 2023-present</small>  
-<small>Currently a blog writer and editor at Ocean Busters, a new organisation dedicated to effectively tackling ocean pollution.</small>
-
-<hr />
-
-#### Log
-
-- <time>Oct 12, 2023</time> Finished editing for this month!
-
-- <time>Sep 23, 2023</time> Finished editing for this month!
-
-- <time>Sep 19, 2023</time> Admin for this month.
-
-- <time>Aug 31, 2023</time> Done for this month!
-
-- <time>Aug 20, 2023</time> Always expect the unexpected.
-
-- <time>Aug 19, 2023</time> Submitted the blog post in record time.
-
-- <time>Aug 12, 2023-Aug 18, 2023</time> Working with my new blog writer for this month!
-
-- <time>Aug 07, 2023</time> August's theme has been announced!
-
-- <time>Jul 29, 2023</time> Finished the blog post with my blog writer!
-
-- <time>Jul 27, 2023-Jul 28, 2023</time> Reviewed the second draft. Nearly done (I think)!
-
-- <time>Jul 22, 2023-Jul 25, 2023</time> Reviewed the draft and added comments.
-
-- <time>Jul 21, 2023</time> Got the draft!
-
-- <time>Jul 14, 2023-Jul 20, 2023</time> Did some organisational work.
-
-- <time>Jul 13, 2023</time> Had a productive meeting.
-
-- <time>Jul 11, 2023-Jul 12, 2023</time> Meeting soon!
-
-- <time>Jul 09, 2023-Jul 10, 2023</time> Got in touch with my blog writer for this month (who's writing I'll be editing and proof-reading)
-
-- <time>Jul 08, 2023</time> Got accepted! Interesting to see where this project goes (especially considering my Cold Takes project has been inactive for about half a year).
-
-<hr />
-
-## <span id="ausresearch">AUS CSE Research Assistant</span>
-
-<small>Jun 12, 2023-present</small>  
-<small>Currently a research assistant for the computer science and engineering department at the American University of Sharjah.</small>
-
-<hr />
-
-#### Log
-
-- <time>Oct 09, 2023-Oct 11, 2023</time> Got the training results up on the AI lab machine!
-
-- <time>Sep 24, 2023</time> Finally, some good progress.
-
-- <time>Sep 17, 2023</time> Met my co-RA in-person!
-
-- <time>Sep 10, 2023</time> Solid plan for the next four to five days, excited!
-
-- <time>Sep 08, 2023</time> Back to normal training results.
-
-- <time>Sep 03, 2023</time> Sent out the report.
-
-- <time>Aug 31, 2023</time> Met my professor onsite! Really reassured now, going to continue on with a really sweet end-goal in mind!
-
-![AUS - Part Two](/AUS-2.jpeg)
-
-- <time>Aug 21, 2023-Aug 25, 2023</time> Spoke with my professor and co-RA.
-
-- <time>Aug 20, 2023</time> Jeez, the results are quite poor. Going to need to get back to Paperspace soon.
-
-- <time>Aug 12, 2023-Aug 17, 2023</time> Experimented with VAEs and GANs - going to move on now to expanding the dataset and re-training.
-
-- <time>Aug 11, 2023</time> Some lukewarm results again, better than run-through at least!
-
-- <time>Aug 08, 2023</time> Hm, running into a snafu with my code. Will check what's up tomorrow.
-
-- <time>Aug 07, 2023</time> Heard back from my co-RA!
-
-- <time>Aug 06, 2023</time> Man, my data processing work sort of meant nothing today. Oh well, we move.
-
-- <time>Aug 05, 2023</time> You can only increase the batch size <i>so much</i>.
-
-- <time>Aug 04, 2023</time> Some great results for the first day with the data!
-
-- <time>Aug 02, 2023</time> Spoke with my co-RA!
-
-- <time>Aug 01, 2023</time> Took a cursory look at the data.
-
-- <time>Jul 29, 2023-Jul 31, 2023</time> The end of this month lined up perfectly with the end of the first part of this project, excited for the next step!
-
-- <time>Jul 28, 2023-Jul 29, 2023</time> Going to move on to analysing why the model had performed poorly on FashionMNIST, but quite well on CIFAR-10.
-
-- <time>Jul 27, 2023</time> In the meanwhile, tried my hand at FashionMNIST. Did not go so well.
-
-- <time>Jul 24, 2023-Jul 25, 2023</time> CIFAR-10 training done, going to try out Tiny ImageNet next to end of training before the CameraTrap part of my research (hopefully!)
-
-- <time>Jul 23, 2023</time> CIFAR-10 training should be done tomorrow morning!
-
-- <time>Jul 22, 2023</time> Switched to Gradient.
-
-- <time>Jul 21, 2023</time> CIFAR-10 is showing great results!
-
-- <time>Jul 19, 2023-Jul 20, 2023</time> We back to training.
-
-- <time>Jul 18, 2023</time> Why is Google so stingy?
-
-- <time>Jul 17, 2023</time> Day 4b) happened! Got the 240 x 240 data set, and I think the model is better?
-
-- <time>Jul 15, 2023</time> Pre-lude to Day 4b) tomorrow.
-
-- <time>Jul 12, 2023</time> Day 4a) I guess.
-
-- <time>Jul 10, 2023</time> Heard back from my professor.
-
-- <time>Jul 08, 2023</time> Training, will see its results by tonight (hopefully, else it might time out)
-
-- <time>Jul 07, 2023</time> Need to train it on the larger dataset tomorrow, had some troubles with it today.
-
-- <time>Jul 06, 2023</time> I did it! Finally got some results on ImageNette (a smaller version of ImageNet) and while they're not very good, at least I'm somewhere tangible now!
-
-- <time>Jul 05, 2023</time> So close.
-
-- <time>Jul 02, 2023</time> Closer.
-
-- <time>Jul 01, 2023</time> More time needed.
-
-- <time>Jun 30, 2023</time> Finished my notes on the repository and, in my efforts of trying to get the results on CIFAR-10, ran into a bug that I could not squash in time. Will continue tomorrow.
-
-- <time>Jun 25, 2023-Jun 27, 2023</time> Thoroughly went through a repository - really interesting stuff! Only one roadblock is the difference between two models, but I'm sure I'll figure that out tomorrow.
-
-- <time>Jun 22, 2023</time> Read two academic papers.
-
-- <time>Jun 21, 2023</time> Read three academic papers.
-
-- <time>Jun 12, 2023</time> First day! Learnt a lot about transformers
-
-![AUS.jpg](/AUS.jpg)
 
 <hr />
 
@@ -832,132 +688,6 @@ Confused? See the <a href="#note">note</a> down below.
 - <time>Dec 29, 2022-Jan 14, 2023</time> I think cold emails are an incredibly powerful tool that must be used responsibly. Before this, I thought that I was the "king of cold emails", as it led to the <a href="#eadata">Effective Altruism Data and LPP project</a>. However, I got dethroned when someone cold emailed after seeing <a href="https://forum.effectivealtruism.org/posts/2XF4cFs4txmEdegtT/">this EA Forum question</a> that I wrote quite some time back.
 
   What was originally me being pessimistic about re-starting EA Dubai led to meetings with EA AUS, [EA NYUAD](https://www.eanyuad.org/) and even an advisor from [CEA](https://www.centreforeffectivealtruism.org/)! So far, we've gotten some EA AUS and EA NYUAD members to join us - and we're on the look out for someone else to help lead this project with us! I'm really excited to see where this project is after exactly half a year (July 14, 2023)!
-
-<hr />
-
-## <span id="drums">Drums</span>
-
-<small>Aug 02, 2022-present</small>  
-<small>Trying to get better every day and have some fun as well!</small>
-
-<hr />
-<small>Drums' start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Nov 11, 2023-Nov 12, 2023</time> Recorded a song that a couple of my schoolmates and I are covering!
-
-- <time>Oct 07, 2023</time> Recorded Zero by The Smashing Pumpkins!
-
-- <time>Oct 07, 2023</time> Recorded Suck My Kiss by Red Hot Chili Peppers - really loved how this one came out!
-
-- <time>Sep 24, 2023</time> Do air drums count?
-
-- <time>Sep 23, 2023</time> Recorded Rope by Foo Fighters! (finally)
-
-- <time>Sep 22, 2023</time> Recorded Rock and Roll by Led Zeppelin!
-
-- <time>Sep 19, 2023</time> Played the acoustic drum kit in school!
-
-- <time>Sep 17, 2023</time> Almost recorded Rope by Foo Fighters.
-
-- <time>Sep 05, 2023-Sep 10, 2023</time> Recorded Heartbreaker by Led Zeppelin.
-
-- <time>Sep 04, 2023</time> I think I made my teacher proud!
-
-- <time>Sep 04, 2023</time> Played Summer of 69' by Bryan Adams for tomorrow.
-
-- <time>Sep 03, 2023</time> I am Iron Man. Also, Heartbreaker! Will finish learning it by Friday.
-
-- <time>Aug 21, 2023</time> Finished an audition.
-
-- <time>Aug 20, 2023</time> Messed around with some blink-182 and Van Halen.
-
-- <time>Aug 12, 2023-Aug 17, 2023</time> Finished Grade 3 for the most part (one song is left I believe) and blink-182!
-
-- <time>Aug 11, 2023</time> Recorded Smells Like Teen Spirit by Nirvana.
-
-- <time>Aug 07, 2023</time> Recorded Come Together by The Beatles.
-
-- <time>Jul 31, 2023-Aug 06, 2023</time> Continuing to learn Sweet Child O' Mine by Guns N' Roses.
-
-- <time>Jul 29, 2023-Jul 30, 2023</time> Learnt Weird Fishes/ Arpeggi by Radiohead.
-
-- <time>Jul 28, 2023</time> Los.
-
-- <time>Jul 27, 2023</time> 'Breed' by Nirvana is quite a fun song to play.
-
-- <time>Jul 26, 2023</time> Played the intro to Toxicity and shared it.
-
-- <time>Jul 24, 2023</time> Learnt Boulevard of Broken Dreams and I Believe I'll Dust My Broom
-
-- <time>Jul 21, 2023-Jul 23, 2023</time> "I've given.... UUUUUPPPP!"
-
-- <time>Jul 17, 2023-Jul 20, 2023</time> Back to playing random songs, 'Los' is quite fun to play! Turns out that I broke my snare pad, so swapped with a tom pad. Works.
-
-- <time>Jul 16, 2023</time> Played 'Chop Suey!' by System of a Down and shared it to the interwebs.
-
-- <time>Jul 11, 2023-Jul 15, 2023</time> So much fun just playing random songs (mostly by a certain NDH band). Going to record a little something tomorrow.
-
-- <time>Jul 08, 2023</time> Played some Radiohead songs. This is a lot more fun than I remember!
-
-- <time>Dec 20, 2022</time> Sort of messed around for a bit.
-
-- <time>Aug 13, 2022</time> Played [Fever by The Black Keys](https://www.youtube.com/watch?v=tk5m_TAD_AM).
-
-- <time>Aug 12, 2022</time> Played [I Want to Break Free by Queen](https://www.youtube.com/watch?v=wIqa9uVnXCQ).
-
-- <time>Aug 06, 2022</time> Finished learning Back in Black by AC/DC. The snare-kick-hi-hat pattern was the only thing I had to get down.
-
-- <time>Aug 04, 2022</time> Played [Back in Black by AC/DC](https://www.youtube.com/watch?v=pAgnJDJN4VA).
-
-- <time>Aug 02, 2022</time> Played [Yellow by Coldplay](https://www.youtube.com/watch?v=fviwj5P1FCc).
-
-<hr />
-
-<small>Aug 02, 2022-present</small>  
-<small>Trying to get better every day and have some fun as well!</small>
-
-<hr />
-<small>Drums' start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Jul 31, 2023-Aug 06, 2023</time> Continuing to learn Sweet Child O' Mine by Guns N' Roses.
-
-- <time>Jul 29, 2023-Jul 30, 2023</time> Learnt Weird Fishes/ Arpeggi by Radiohead.
-
-- <time>Jul 28, 2023</time> Los.
-
-- <time>Jul 27, 2023</time> 'Breed' by Nirvana is quite a fun song to play.
-
-- <time>Jul 26, 2023</time> Played the intro to Toxicity and shared it.
-
-- <time>Jul 24, 2023</time> Learnt Boulevard of Broken Dreams and I Believe I'll Dust My Broom
-
-- <time>Jul 21, 2023-Jul 23, 2023</time> "I've given.... UUUUUPPPP!"
-
-- <time>Jul 17, 2023-Jul 20, 2023</time> Back to playing random songs, 'Los' is quite fun to play! Turns out that I broke my snare pad, so swapped with a tom pad. Works.
-
-- <time>Jul 16, 2023</time> Played 'Chop Suey!' by System of a Down and shared it to the interwebs.
-
-- <time>Jul 11, 2023-Jul 15, 2023</time> So much fun just playing random songs (mostly by a certain NDH band). Going to record a little something tomorrow.
-
-- <time>Jul 08, 2023</time> Played some Radiohead songs. This is a lot more fun than I remember!
-
-- <time>Dec 20, 2022</time> Sort of messed around for a bit.
-
-- <time>Aug 13, 2022</time> Played [Fever by The Black Keys](https://www.youtube.com/watch?v=tk5m_TAD_AM).
-
-- <time>Aug 12, 2022</time> Played [I Want to Break Free by Queen](https://www.youtube.com/watch?v=wIqa9uVnXCQ).
-
-- <time>Aug 06, 2022</time> Finished learning Back in Black by AC/DC. The snare-kick-hi-hat pattern was the only thing I had to get down.
-
-- <time>Aug 04, 2022</time> Played [Back in Black by AC/DC](https://www.youtube.com/watch?v=pAgnJDJN4VA).
-
-- <time>Aug 02, 2022</time> Played [Yellow by Coldplay](https://www.youtube.com/watch?v=fviwj5P1FCc).
 
 <hr />
 
@@ -9769,6 +9499,132 @@ class Solution:
 
 <hr />
 
+## <span id="oceanbusters">Ocean Busters</span>
+
+<small>Jul 08, 2023-present</small>  
+<small>Currently a blog writer and editor at Ocean Busters, a new organisation dedicated to effectively tackling ocean pollution. Currently an occasional project.</small>
+
+<hr />
+
+#### Log
+
+- <time>Oct 12, 2023</time> Finished editing for this month!
+
+- <time>Sep 23, 2023</time> Finished editing for this month!
+
+- <time>Sep 19, 2023</time> Admin for this month.
+
+- <time>Aug 31, 2023</time> Done for this month!
+
+- <time>Aug 20, 2023</time> Always expect the unexpected.
+
+- <time>Aug 19, 2023</time> Submitted the blog post in record time.
+
+- <time>Aug 12, 2023-Aug 18, 2023</time> Working with my new blog writer for this month!
+
+- <time>Aug 07, 2023</time> August's theme has been announced!
+
+- <time>Jul 29, 2023</time> Finished the blog post with my blog writer!
+
+- <time>Jul 27, 2023-Jul 28, 2023</time> Reviewed the second draft. Nearly done (I think)!
+
+- <time>Jul 22, 2023-Jul 25, 2023</time> Reviewed the draft and added comments.
+
+- <time>Jul 21, 2023</time> Got the draft!
+
+- <time>Jul 14, 2023-Jul 20, 2023</time> Did some organisational work.
+
+- <time>Jul 13, 2023</time> Had a productive meeting.
+
+- <time>Jul 11, 2023-Jul 12, 2023</time> Meeting soon!
+
+- <time>Jul 09, 2023-Jul 10, 2023</time> Got in touch with my blog writer for this month (who's writing I'll be editing and proof-reading)
+
+- <time>Jul 08, 2023</time> Got accepted! Interesting to see where this project goes (especially considering my Cold Takes project has been inactive for about half a year).
+
+<hr />
+
+## <span id="drums">Drums</span>
+
+<small>Aug 02, 2022-present</small>  
+<small>Trying to get better every day and have some fun as well! Currently an occasional project.</small>
+
+<hr />
+<small>Drums' start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Nov 11, 2023-Nov 13, 2023</time> Recorded a song that a couple of my schoolmates and I are covering!
+
+- <time>Oct 07, 2023</time> Recorded Zero by The Smashing Pumpkins!
+
+- <time>Oct 07, 2023</time> Recorded Suck My Kiss by Red Hot Chili Peppers - really loved how this one came out!
+
+- <time>Sep 24, 2023</time> Do air drums count?
+
+- <time>Sep 23, 2023</time> Recorded Rope by Foo Fighters! (finally)
+
+- <time>Sep 22, 2023</time> Recorded Rock and Roll by Led Zeppelin!
+
+- <time>Sep 19, 2023</time> Played the acoustic drum kit in school!
+
+- <time>Sep 17, 2023</time> Almost recorded Rope by Foo Fighters.
+
+- <time>Sep 05, 2023-Sep 10, 2023</time> Recorded Heartbreaker by Led Zeppelin.
+
+- <time>Sep 04, 2023</time> I think I made my teacher proud!
+
+- <time>Sep 04, 2023</time> Played Summer of 69' by Bryan Adams for tomorrow.
+
+- <time>Sep 03, 2023</time> I am Iron Man. Also, Heartbreaker! Will finish learning it by Friday.
+
+- <time>Aug 21, 2023</time> Finished an audition.
+
+- <time>Aug 20, 2023</time> Messed around with some blink-182 and Van Halen.
+
+- <time>Aug 12, 2023-Aug 17, 2023</time> Finished Grade 3 for the most part (one song is left I believe) and blink-182!
+
+- <time>Aug 11, 2023</time> Recorded Smells Like Teen Spirit by Nirvana.
+
+- <time>Aug 07, 2023</time> Recorded Come Together by The Beatles.
+
+- <time>Jul 31, 2023-Aug 06, 2023</time> Continuing to learn Sweet Child O' Mine by Guns N' Roses.
+
+- <time>Jul 29, 2023-Jul 30, 2023</time> Learnt Weird Fishes/ Arpeggi by Radiohead.
+
+- <time>Jul 28, 2023</time> Los.
+
+- <time>Jul 27, 2023</time> 'Breed' by Nirvana is quite a fun song to play.
+
+- <time>Jul 26, 2023</time> Played the intro to Toxicity and shared it.
+
+- <time>Jul 24, 2023</time> Learnt Boulevard of Broken Dreams and I Believe I'll Dust My Broom
+
+- <time>Jul 21, 2023-Jul 23, 2023</time> "I've given.... UUUUUPPPP!"
+
+- <time>Jul 17, 2023-Jul 20, 2023</time> Back to playing random songs, 'Los' is quite fun to play! Turns out that I broke my snare pad, so swapped with a tom pad. Works.
+
+- <time>Jul 16, 2023</time> Played 'Chop Suey!' by System of a Down and shared it to the interwebs.
+
+- <time>Jul 11, 2023-Jul 15, 2023</time> So much fun just playing random songs (mostly by a certain NDH band). Going to record a little something tomorrow.
+
+- <time>Jul 08, 2023</time> Played some Radiohead songs. This is a lot more fun than I remember!
+
+- <time>Dec 20, 2022</time> Sort of messed around for a bit.
+
+- <time>Aug 13, 2022</time> Played [Fever by The Black Keys](https://www.youtube.com/watch?v=tk5m_TAD_AM).
+
+- <time>Aug 12, 2022</time> Played [I Want to Break Free by Queen](https://www.youtube.com/watch?v=wIqa9uVnXCQ).
+
+- <time>Aug 06, 2022</time> Finished learning Back in Black by AC/DC. The snare-kick-hi-hat pattern was the only thing I had to get down.
+
+- <time>Aug 04, 2022</time> Played [Back in Black by AC/DC](https://www.youtube.com/watch?v=pAgnJDJN4VA).
+
+- <time>Aug 02, 2022</time> Played [Yellow by Coldplay](https://www.youtube.com/watch?v=fviwj5P1FCc).
+
+<hr />
+
 ## <span id="coldtakesbetareading">[Cold Takes](https://www.cold-takes.com/) Beta Reading</span>
 
 <small>Jan 20, 2022-present</small>  
@@ -9798,6 +9654,105 @@ class Solution:
 <hr />
 
 ## Inactive
+
+<hr />
+
+## <span id="ausresearch">AUS CSE Research Assistant</span>
+
+<small>Jun 12, 2023-present</small>  
+<small>Currently a research assistant for the computer science and engineering department at the American University of Sharjah. Will continue after my examinations this last month of the year.</small>
+
+<hr />
+
+#### Log
+
+- <time>Oct 09, 2023-Oct 11, 2023</time> Got the training results up on the AI lab machine!
+
+- <time>Sep 24, 2023</time> Finally, some good progress.
+
+- <time>Sep 17, 2023</time> Met my co-RA in-person!
+
+- <time>Sep 10, 2023</time> Solid plan for the next four to five days, excited!
+
+- <time>Sep 08, 2023</time> Back to normal training results.
+
+- <time>Sep 03, 2023</time> Sent out the report.
+
+- <time>Aug 31, 2023</time> Met my professor onsite! Really reassured now, going to continue on with a really sweet end-goal in mind!
+
+![AUS - Part Two](/AUS-2.jpeg)
+
+- <time>Aug 21, 2023-Aug 25, 2023</time> Spoke with my professor and co-RA.
+
+- <time>Aug 20, 2023</time> Jeez, the results are quite poor. Going to need to get back to Paperspace soon.
+
+- <time>Aug 12, 2023-Aug 17, 2023</time> Experimented with VAEs and GANs - going to move on now to expanding the dataset and re-training.
+
+- <time>Aug 11, 2023</time> Some lukewarm results again, better than run-through at least!
+
+- <time>Aug 08, 2023</time> Hm, running into a snafu with my code. Will check what's up tomorrow.
+
+- <time>Aug 07, 2023</time> Heard back from my co-RA!
+
+- <time>Aug 06, 2023</time> Man, my data processing work sort of meant nothing today. Oh well, we move.
+
+- <time>Aug 05, 2023</time> You can only increase the batch size <i>so much</i>.
+
+- <time>Aug 04, 2023</time> Some great results for the first day with the data!
+
+- <time>Aug 02, 2023</time> Spoke with my co-RA!
+
+- <time>Aug 01, 2023</time> Took a cursory look at the data.
+
+- <time>Jul 29, 2023-Jul 31, 2023</time> The end of this month lined up perfectly with the end of the first part of this project, excited for the next step!
+
+- <time>Jul 28, 2023-Jul 29, 2023</time> Going to move on to analysing why the model had performed poorly on FashionMNIST, but quite well on CIFAR-10.
+
+- <time>Jul 27, 2023</time> In the meanwhile, tried my hand at FashionMNIST. Did not go so well.
+
+- <time>Jul 24, 2023-Jul 25, 2023</time> CIFAR-10 training done, going to try out Tiny ImageNet next to end of training before the CameraTrap part of my research (hopefully!)
+
+- <time>Jul 23, 2023</time> CIFAR-10 training should be done tomorrow morning!
+
+- <time>Jul 22, 2023</time> Switched to Gradient.
+
+- <time>Jul 21, 2023</time> CIFAR-10 is showing great results!
+
+- <time>Jul 19, 2023-Jul 20, 2023</time> We back to training.
+
+- <time>Jul 18, 2023</time> Why is Google so stingy?
+
+- <time>Jul 17, 2023</time> Day 4b) happened! Got the 240 x 240 data set, and I think the model is better?
+
+- <time>Jul 15, 2023</time> Pre-lude to Day 4b) tomorrow.
+
+- <time>Jul 12, 2023</time> Day 4a) I guess.
+
+- <time>Jul 10, 2023</time> Heard back from my professor.
+
+- <time>Jul 08, 2023</time> Training, will see its results by tonight (hopefully, else it might time out)
+
+- <time>Jul 07, 2023</time> Need to train it on the larger dataset tomorrow, had some troubles with it today.
+
+- <time>Jul 06, 2023</time> I did it! Finally got some results on ImageNette (a smaller version of ImageNet) and while they're not very good, at least I'm somewhere tangible now!
+
+- <time>Jul 05, 2023</time> So close.
+
+- <time>Jul 02, 2023</time> Closer.
+
+- <time>Jul 01, 2023</time> More time needed.
+
+- <time>Jun 30, 2023</time> Finished my notes on the repository and, in my efforts of trying to get the results on CIFAR-10, ran into a bug that I could not squash in time. Will continue tomorrow.
+
+- <time>Jun 25, 2023-Jun 27, 2023</time> Thoroughly went through a repository - really interesting stuff! Only one roadblock is the difference between two models, but I'm sure I'll figure that out tomorrow.
+
+- <time>Jun 22, 2023</time> Read two academic papers.
+
+- <time>Jun 21, 2023</time> Read three academic papers.
+
+- <time>Jun 12, 2023</time> First day! Learnt a lot about transformers.
+
+![AUS.jpg](/AUS.jpg)
 
 <hr />
 
