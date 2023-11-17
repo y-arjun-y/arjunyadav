@@ -6,8 +6,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (5)
+### Active (6)
 
+- <a href="#oss">Offline Streaming Systems</a>
 - <a href="#aissr">AI Safety Studying/Research</a>
 - <a href="#studentcouncil12">Student Council - 12th + Head of Events</a>
 - <a href="#optx">OptX</a>
@@ -98,6 +99,19 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 ## Active
+
+<hr />
+
+## <span id="oss">Offline Streaming Systems</span>
+
+<small>Nov 11, 2023-present</small>  
+<small>Part of the O.S.S. team.</small>
+
+<hr />
+
+#### Log
+
+- <time>Nov 17, 2023</time> Excited to see where this goes!
 
 <hr />
 
@@ -699,6 +713,31 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Nov 17, 2023</time> Finished [Number of Valid Words in a Sentence](https://leetcode.com/problems number-of-valid-words-in-a-sentence/):
+
+```py
+class Solution:
+    def countValidWords(self, sentence: str) -> int:
+        count = 0
+
+        for i in sentence.split():
+            if i.count('-') <= 1:
+                if i[-1].isalpha() or i[-1] == "!" or i[-1] == ',' or i[-1] == ".":
+                    letter_count = 0
+                    for j in range(len(i) - 1):
+                        if i[j].isalpha():
+                            letter_count += 1
+                        elif i[j] == "-":
+                            if j != 0 and j != len(i) - 1:
+                                if i[j-1].isalpha() and i[j+1].isalpha():
+                                    letter_count += 1
+
+                    if letter_count == len(i) - 1:
+                        count += 1
+
+        return count
+```
 
 - <time>Nov 12, 2023</time> Finished [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/):
 
@@ -9554,6 +9593,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Nov 14, 2023</time> It's up!
 
 - <time>Nov 11, 2023-Nov 13, 2023</time> Recorded a song that a couple of my schoolmates and I are covering!
 
