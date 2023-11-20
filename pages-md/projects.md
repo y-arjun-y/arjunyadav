@@ -714,6 +714,13 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 20, 2023</time> Finished [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/):
+
+```sql
+# Write your MySQL query statement below
+SELECT DISTINCT event_day as day, emp_id, (SELECT SUM(out_time - in_time) FROM Employees WHERE event_day = e.event_day and emp_id = e.emp_id) as total_time FROM Employees e;
+```
+
 - <time>Nov 17, 2023</time> Finished [Number of Valid Words in a Sentence](https://leetcode.com/problems number-of-valid-words-in-a-sentence/):
 
 ```py
