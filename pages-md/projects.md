@@ -714,6 +714,12 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 21, 2023</time> Finished [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/):
+```sql
+# Write your MySQL query statement below
+SELECT activity_date AS day, COUNT(DISTINCT user_id) as active_users FROM Activity GROUP BY day HAVING COUNT(DISTINCT user_id) > 0 AND day >= '2019-06-28' AND day <= '2019-07-27';
+```
+
 - <time>Nov 20, 2023</time> Finished [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/):
 
 ```sql
