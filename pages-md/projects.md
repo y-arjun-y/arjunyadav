@@ -714,7 +714,18 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 22, 2023</time> Finished [Market Analysis I](https://leetcode.com/problems/market-analysis-i/):
+
+```sql
+# Write your MySQL query statement below
+
+# Credit - https://leetcode.com/problems/market-analysis-i/solutions/2319471/simple-in-depth-explanation-of-where-and-is-null/
+
+SELECT u.user_id as buyer_id, u.join_date, COUNT(o.order_id) AS orders_in_2019 FROM Users u LEFT JOIN Orders o ON o.buyer_id = u.user_id AND YEAR(order_date) = '2019' GROUP BY u.user_id;
+```
+
 - <time>Nov 21, 2023</time> Finished [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/):
+
 ```sql
 # Write your MySQL query statement below
 SELECT activity_date AS day, COUNT(DISTINCT user_id) as active_users FROM Activity GROUP BY day HAVING COUNT(DISTINCT user_id) > 0 AND day >= '2019-06-28' AND day <= '2019-07-27';
