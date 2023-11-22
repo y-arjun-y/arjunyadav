@@ -28,6 +28,14 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 - Principal Component Analysis
 - The underlying principle behind transformers
 
+### Achievements
+
+- Applied to AGISF 2024!
+- Applied to AI Safety Camp 2024!
+- Taught high school seniors about machine learning and AI safety!
+- Worked with my brother on variational auto-encoders and mechanistic interpretability while he was setting up BAISC.
+- Research Assistant Tenureship - got to learn a lot about transformers!
+
 ## Papers + Notes (if open access)
 
 ### Mechanistic Interpretability
@@ -79,6 +87,8 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
   ![Transformer](/transformer.png)
 
 ## Terms and Concepts
+
+To be written: Pareto frontier and 'sparseness' more in general
 
 (in decreasing order of "high-levelness")
 
