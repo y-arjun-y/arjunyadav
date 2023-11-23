@@ -88,9 +88,9 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 ## Terms and Concepts
 
-To be written: Pareto frontier and 'sparseness' more in general
+(in decreasing order of "high-levelness", these terms tend to get updated as I learn more!)
 
-(in decreasing order of "high-levelness")
+- [Pareto frontier](https://www.baeldung.com/cs/defining-multiobjective-algorithms-and-pareto-frontiers#:~:text=The%20Pareto%20frontier%20is%20a,be%20on%20the%20Pareto%20frontier.): In mathematics, it's just a set of solutions that represents the best trade-off between all the objective functions. Need to learn more about this 'Pareto' guy.
 
 - [The AI Pause Debate](https://www.astralcodexten.com/p/pause-for-thought-the-ai-pause-debate):
 
