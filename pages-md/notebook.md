@@ -10,6 +10,8 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 ### What I'm Learning Currently
 
+(this section will be re-done shortly!)
+
 - Risk Awareness Moments
 
 - Mechanistic Interpretability
@@ -115,6 +117,18 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
   ![VAE](/vae.png)
 
 - Auto-encoder: An autoencoder is a type of convolutional neural network (CNN) that converts a high-dimensional input into a low-dimensional one (i.e. a latent vector), and later reconstructs the original input with the highest quality possible. It consists of both an encoder and decoder. An example of its use is removing noise from a dataset (Paperspace Blog).
+
+## People I've Met in AI Safety
+
+(anonymized - of course)
+
+### Meeting with an eval researcher
+
+- Incredibly useful and provided a lot of clarity, couldn't have asked for a better meeting from the Slack message I had posted in an AI safety workspace.
+
+### Meeting with a (former) Berkeley Ph.D. student
+
+- "Honesty is everything" is what I remember most vividly, I wonder if they still hold that opinion...
 
 ## Related Projects and Posts
 
