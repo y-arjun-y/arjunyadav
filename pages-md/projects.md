@@ -714,6 +714,25 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 24, 2023</time> Tried to finish [Difference Between Ones and Zeros in Row and Column]()https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column:
+
+```py
+class Solution:
+    def onesMinusZeros(self, grid: List[List[int]]) -> List[List[int]]:
+        import numpy as np
+
+        grid = np.array(grid)
+        diff = []
+
+        for i in range(len(grid)):
+            arr = []
+            for j in range(len(grid[0])):
+                arr.append(np.sum(grid[i]) + np.sum(grid[:, j]) - np.sum(1 - grid[i]) - np.sum(1 - grid[:, j]))
+            diff.append(arr)
+
+        return diff
+```
+
 - <time>Nov 22, 2023</time> Finished [Market Analysis I](https://leetcode.com/problems/market-analysis-i/):
 
 ```sql
