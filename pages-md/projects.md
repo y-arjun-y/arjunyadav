@@ -122,6 +122,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Nov 24, 2023</time> That question led to a really helpful call today!
+
 - <time>Sep 25, 2023</time> Asked a question.
 
 - <time>Sep 24, 2023</time> Wrote a lot!
@@ -713,6 +715,20 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Nov 25, 2023</time> Finished [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/):
+
+```sql
+# Write your MySQL query statement below
+
+# Credit - https://leetcode.com/problems/rearrange-products-table/solutions/3853137/simple-mysql-solution-using-union/
+
+SELECT product_id, 'store1' AS store, store1 AS price FROM Products WHERE store1 IS NOT NULL
+UNION
+SELECT product_id, 'store2' AS store, store2 AS price FROM Products WHERE store2 IS NOT NULL
+UNION
+SELECT product_id, 'store3' AS store, store3 AS price FROM Products WHERE store3 IS NOT NULL;
+```
 
 - <time>Nov 24, 2023</time> Tried to finish [Difference Between Ones and Zeros in Row and Column]()https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column:
 
