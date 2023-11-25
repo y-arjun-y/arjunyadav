@@ -8,25 +8,38 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 ## Learning
 
-### What I'm Learning Currently
+### What I'm Learning
 
-(this section will be re-done shortly!)
-
-- Risk Awareness Moments
-
-- Mechanistic Interpretability
-  - Sparse Coding
-  - Variational Auto-encoders
+- Feb-March 2024: Re-building a large language model (such as GPT-2) and self-stidying LLMs more generally during this time
+- Jan 2024: Final month of interpretability self-studying (shifting focus to more recent work)
+- Nov-Dec 2023: Applications + Interpretability (focus on Neel Nanda's work and lectures)
 
 ### What I Want To Learn
 
-- Independent Component Analysis
+#### Interpretability
+
 - Sparse Coding
+
+#### Evaluation and Analysis
+
+- Independent Component Analysis
+
+#### General
+
 - How Gato by DeepMind truly works
 
-### What I've learnt
+### What I've learnt thus far
+
+#### Interpretability
+
+- Variational Autoencoders
+
+#### Policy
 
 - UAE's AIS Space (or at least the most recent parts of it)
+
+#### General
+
 - Principal Component Analysis
 - The underlying principle behind transformers
 
@@ -146,4 +159,8 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 - [AUS CSE Research Assistant](/projects#ausresearch)
 
+- [Introduction to Machine Learning](/projects#mathforml)
+
 - [ML Safety Course](/projects#mlsafetycourse)
+
+- [Introduction to Machine Learning](/projects#introml)
