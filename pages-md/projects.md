@@ -15,8 +15,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#eauae">EA UAE</a>
 - <a href="#leetcode">LeetCode</a>
 
-### Occasional (3)
+### Occasional (4)
 
+- <a href="#ukulele">Ukulele</a>
 - <a href="#oceanbusters">Ocean Busters</a>
 - <a href="#drums">Drums</a>
 - <a href="#coldtakesbetareading">Cold Takes Beta Reading</a>
@@ -121,6 +122,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Continuing this breath-taking journey in AI safety (the research part being with my brother). Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
+
+- <time>Nov 26, 2023</time> Applied to two more opportunities!
 
 - <time>Nov 24, 2023</time> That question led to a really helpful call today!
 
@@ -497,6 +500,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 26, 2023</time> Should hopefully get more activity in the GC soon...
+
 - <time>Oct 24, 2023-Oct 25, 2023</time> Discussion time!
 
 - <time>Oct 07, 2023</time> Getting back into the swing of things.
@@ -715,6 +720,14 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Nov 26, 2023</time> Finished [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/):
+
+```py
+class Solution:
+    def findWordsContaining(self, words: List[str], x: str) -> List[int]:
+        return [i for i in range(len(words)) if x in words[i]]
+```
 
 - <time>Nov 25, 2023</time> Finished [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/):
 
@@ -9594,6 +9607,21 @@ class Solution:
 <hr />
 
 ## Occasional
+
+<hr />
+
+## <span id="ukulele">Ukulele</span>
+
+<small>Nov 26, 2022-present</small>  
+<small>Just for some fun. Currently an occasional project.</small>
+
+<hr />
+<small>Ukulele's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Nov 26, 2023</time> I think I've gotten "Going to California" by Led Zeppelin fully down now.
 
 <hr />
 

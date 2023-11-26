@@ -45,8 +45,15 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 ### Achievements
 
+#### Nov 2023
+
+- Applied to OpenAI's Red Teaming Network!
+- Applied to GovAI's blog editor post!
 - Applied to AGISF 2024!
 - Applied to AI Safety Camp 2024!
+
+#### Summer 2023
+
 - Taught high school seniors about machine learning and AI safety!
 - Worked with my brother on variational auto-encoders and mechanistic interpretability while he was setting up BAISC.
 - Research Assistant Tenureship - got to learn a lot about transformers!
