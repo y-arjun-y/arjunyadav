@@ -721,6 +721,22 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 28, 2023</time> Finished [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts):
+
+```py
+class Solution:
+    def areSimilar(self, mat: List[List[int]], k: int) -> bool:
+        # Credit - https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/solutions/4330359/python-easy-solution/
+
+        k %= len(mat[0])
+
+        for m in mat:
+            if m != m[k:] + m[:k]:
+                return False
+
+        return True
+```
+
 - <time>Nov 26, 2023</time> Finished [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/):
 
 ```py
