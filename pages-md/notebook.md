@@ -110,17 +110,19 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 ## Terms and Concepts
 
-(in decreasing order of "high-levelness", these terms tend to get updated as I learn more!)
+(in a rough decreasing order of "high-levelness", these terms tend to get updated as I learn more!)
+
+- [Monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand): The fact that _some_ neurons only do one thing, making them easier to interpret. Check [this](https://www.monosemanticity.com/) out!
 
 - [Pareto frontier](https://www.baeldung.com/cs/defining-multiobjective-algorithms-and-pareto-frontiers#:~:text=The%20Pareto%20frontier%20is%20a,be%20on%20the%20Pareto%20frontier.): In mathematics, it's just a set of solutions that represents the best trade-off between all the objective functions. Need to learn more about this 'Pareto' guy.
-
-- [The AI Pause Debate](https://www.astralcodexten.com/p/pause-for-thought-the-ai-pause-debate):
-
-![AI Pause Debate](https://substackcdn.com/image/fetch/w_728,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa96d51f-aa6c-4699-a057-a179ca12b3c9_834x694.png)
 
 - Risk Awareness Moment: Risk Awareness Moments are more retroactive in nature: they are moments in our history where major national and/or international bodies come together to get their head straight on a non-partisan issue (e.g.: the ozone layer hole of Antarctica) ([this article](https://forum.effectivealtruism.org/posts/hybGfBnkrtL9E3EcS/how-long-will-reaching-a-risk-awareness-moment-and-charts) does a great job explaining RAMs for AI).
 
 - Mechanistic Interpretability: Essentially, it's a series of techniques that one can employ to try to reverse engineer a neural network: the inner workings of a neural network are something that, on paper, may seem decipherable: but are typically obfuscated by a lot of factors (the main one being dimensionality) ([Anthropic](https://transformer-circuits.pub/2022/mech-interp-essay/index.html))
+
+- [The AI Pause Debate](https://www.astralcodexten.com/p/pause-for-thought-the-ai-pause-debate):
+
+![AI Pause Debate](https://substackcdn.com/image/fetch/w_728,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa96d51f-aa6c-4699-a057-a179ca12b3c9_834x694.png)
 
 - Generative Adversarial Network: A GAN consists of both an encoder and decoder that essentially battle it out for the encoder to generate more convincing fake images. See an example [here](https://colab.research.google.com/drive/1hPVDell0IZTNNQULTO9Kb0VCi3vg0cmH?usp=sharing).
 
