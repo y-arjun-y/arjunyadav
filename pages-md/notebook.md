@@ -47,6 +47,7 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 #### Nov 2023
 
+- Applied to the Inspirit AI Program for Summer 2024 (July 15 - July 26, 5-7:30 PT)!
 - Applied to OpenAI's Red Teaming Network!
 - Applied to GovAI's blog editor post!
 - Applied to AGISF 2024!

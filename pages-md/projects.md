@@ -123,6 +123,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Nov 29, 2023</time> Applied to ~two more opportunities!
+
 - <time>Nov 26, 2023</time> Applied to two more opportunities!
 
 - <time>Nov 24, 2023</time> That question led to a really helpful call today!
@@ -720,6 +722,30 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Nov 29, 2023</time> Finished [Count Beautiful Substrings I](https://leetcode.com/problems/count-beautiful-substrings-i/):
+
+```py
+class Solution:
+    def beautifulSubstrings(self, s: str, k: int) -> int:
+        # Credit - https://leetcode.com/problems/count-beautiful-substrings-i/solutions/4330501/readable-python-solution/
+
+        beautiful_count = 0
+        vowels_list = ['a','e','i','o','u']
+
+        for i in range(len(s)):
+            vowels, consonants = 0 , 0
+            j = i
+            while j < len(s):
+                if s[j] in vowels_list:
+                    vowels += 1
+                else:
+                    consonants += 1
+                if vowels == consonants and (vowels * consonants) % k == 0:
+                    beautiful_count += 1
+                j += 1
+        return beautiful_count
+```
 
 - <time>Nov 28, 2023</time> Finished [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts):
 
