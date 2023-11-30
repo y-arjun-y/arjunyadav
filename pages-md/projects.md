@@ -112,6 +112,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Nov 30, 2023</time> First meeting!
+
 - <time>Nov 17, 2023</time> Excited to see where this goes!
 
 <hr />
@@ -722,6 +724,16 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Nov 30, 2023</time> Finished [Modify Columns](https://leetcode.com/problems/modify-columns/):
+
+```py
+import pandas as pd
+
+def modifySalaryColumn(employees: pd.DataFrame) -> pd.DataFrame:
+    employees['salary'] = employees['salary'] * 2
+    return employees
+```
 
 - <time>Nov 29, 2023</time> Finished [Count Beautiful Substrings I](https://leetcode.com/problems/count-beautiful-substrings-i/):
 
@@ -9722,6 +9734,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Nov 30, 2023</time> Recorded and uploading Clocks by Coldplay.
 
 - <time>Nov 14, 2023</time> It's up!
 
