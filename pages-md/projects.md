@@ -6,8 +6,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (6)
+### Active (7)
 
+- <a href="#aoc2023">Advent of Code 2023</a>
 - <a href="#oss">Offline Streaming Systems</a>
 - <a href="#aissr">AI Safety Studying/Research</a>
 - <a href="#studentcouncil12">Student Council - 12th + Head of Events</a>
@@ -103,6 +104,19 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="aoc2023">[Advent of Code](https://adventofcode.com/) 2023</span>
+
+<small>Dec 01, 2023-present</small>  
+<small>Trying to solve all the coding problems for this year's Advent of Code!</small>
+
+<hr />
+
+#### Log
+
+- <time>Dec 01, 2023</time> First problem done!
+
+<hr />
+
 ## <span id="oss">Offline Streaming Systems</span>
 
 <small>Nov 11, 2023-present</small>  
@@ -111,6 +125,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 01, 2023</time> Got organised and got started with debugging.
 
 - <time>Nov 30, 2023</time> First meeting!
 
