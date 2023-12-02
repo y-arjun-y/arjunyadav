@@ -113,6 +113,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 02, 2023</time> Second problem done!
+
 - <time>Dec 01, 2023</time> First problem done!
 
 <hr />
@@ -140,6 +142,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Continuing this breath-taking journey in AI safety (the research part being with my brother). Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
+
+- <time>Dec 02, 2023</time> Something big might have just happened...
 
 - <time>Nov 29, 2023</time> Applied to ~two more opportunities!
 
