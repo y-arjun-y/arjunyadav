@@ -113,6 +113,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 03, 2023</time> Third problem done!
+
 - <time>Dec 02, 2023</time> Second problem done!
 
 - <time>Dec 01, 2023</time> First problem done!
@@ -142,6 +144,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Continuing this breath-taking journey in AI safety (the research part being with my brother). Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
+
+- <time>Dec 03, 2023</time> Waiting for a work trial, in the meanwhile check [this](https://www.lesswrong.com/posts/Kwb29ye3qsvPzoof8/20-strategies-for-avoiding-deceptive-alignment-1) out!
 
 - <time>Dec 02, 2023</time> Something big might have just happened...
 
@@ -744,6 +748,27 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 03, 2023</time> Finished [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix):
+
+```py
+class Solution:
+    def matrixSum(self, nums: List[List[int]]) -> int:
+        count = len(nums[0])
+        score = 0
+
+        while count > 0:
+            numbers = []
+
+            for i in range(len(nums)):
+                numbers.append(max(nums[i]))
+                nums[i].remove(max(nums[i]))
+
+            score += max(numbers)
+            count -= 1
+
+        return score
+```
 
 - <time>Nov 30, 2023</time> Finished [Modify Columns](https://leetcode.com/problems/modify-columns/):
 

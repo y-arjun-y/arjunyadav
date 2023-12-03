@@ -121,6 +121,8 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 - Mechanistic Interpretability: Essentially, it's a series of techniques that one can employ to try to reverse engineer a neural network: the inner workings of a neural network are something that, on paper, may seem decipherable: but are typically obfuscated by a lot of factors (the main one being dimensionality) ([Anthropic](https://transformer-circuits.pub/2022/mech-interp-essay/index.html))
 
+- AI Plans and Strategies: A collection of compilations of AI plans and strategies for alignment: [1](https://ai-plans.com/), [2](https://www.lesswrong.com/posts/Kwb29ye3qsvPzoof8/20-strategies-for-avoiding-deceptive-alignment-1)
+
 - [The AI Pause Debate](https://www.astralcodexten.com/p/pause-for-thought-the-ai-pause-debate):
 
 ![AI Pause Debate](https://substackcdn.com/image/fetch/w_728,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa96d51f-aa6c-4699-a057-a179ca12b3c9_834x694.png)
