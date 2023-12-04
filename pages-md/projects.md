@@ -113,6 +113,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 04, 2023</time> Fourth problem done!
+
 - <time>Dec 03, 2023</time> Third problem done!
 
 - <time>Dec 02, 2023</time> Second problem done!
@@ -144,6 +146,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Continuing this breath-taking journey in AI safety (the research part being with my brother). Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
+
+- <time>Dec 04, 2023</time> Got a response!
 
 - <time>Dec 03, 2023</time> Waiting for a work trial, in the meanwhile check [this](https://www.lesswrong.com/posts/Kwb29ye3qsvPzoof8/20-strategies-for-avoiding-deceptive-alignment-1) out!
 
@@ -350,6 +354,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 01, 2023-Dec 04, 2023</time> Meeting + inaugural post!
 
 - <time>Oct 07, 2023-Oct 17, 2023</time> Discussions are getting serious now.
 
@@ -748,6 +754,20 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 04, 2023</time> Finished [Find the Peaks](https://leetcode.com/problems/find-the-peaks/):
+
+```py
+class Solution:
+    def findPeaks(self, mountain: List[int]) -> List[int]:
+        peaks = []
+
+        for i in range(1, len(mountain)-1):
+            if mountain[i-1] < mountain[i] and mountain[i] > mountain[i+1]:
+                peaks.append(i)
+
+        return peaks
+```
 
 - <time>Dec 03, 2023</time> Finished [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix):
 
