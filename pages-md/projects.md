@@ -113,6 +113,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 05, 2023</time> Sixth problem done!
+
 - <time>Dec 05, 2023</time> Fifth problem done!
 
 - <time>Dec 04, 2023</time> Fourth problem done!
@@ -756,6 +758,27 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 06, 2023</time> Finished [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/):
+
+```py
+class Solution:
+    def totalMoney(self, n: int) -> int:
+        total = 0
+        lastMonday = 1
+        j = 1
+
+        for i in range(n):
+            if i> 0 and i % 7 == 0:
+                lastMonday += 1
+                total += lastMonday
+                j = lastMonday + 1
+            else:
+                total += j
+                j += 1
+
+        return total
+```
 
 - <time>Dec 04, 2023</time> Finished [Find the Peaks](https://leetcode.com/problems/find-the-peaks/):
 
