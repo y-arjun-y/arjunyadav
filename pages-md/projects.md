@@ -151,6 +151,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Dec 04, 2023-Dec 12, 2023</time> Spoke with a bunch of different people and had an interview!
+
 - <time>Dec 04, 2023</time> Got a response!
 
 - <time>Dec 03, 2023</time> Waiting for a work trial, in the meanwhile check [this](https://www.lesswrong.com/posts/Kwb29ye3qsvPzoof8/20-strategies-for-avoiding-deceptive-alignment-1) out!
@@ -187,6 +189,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Oct 26, 2023-Dec 12, 2023</time> The work is not done just yet.
 
 - <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
 
@@ -358,6 +362,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 11, 2023</time> Got back in to the loop.
 
 - <time>Dec 01, 2023-Dec 04, 2023</time> Meeting + inaugural post!
 
@@ -537,6 +543,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 12, 2023</time> We'll be back soon with after this forthcoming meeting!
 
 - <time>Nov 26, 2023</time> Should hopefully get more activity in the GC soon...
 
@@ -9824,6 +9832,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Dec 07, 2023-Dec 12, 2023</time> Learnt ~about two songs for, something!
 
 - <time>Nov 30, 2023</time> Recorded and uploading Clocks by Coldplay.
 
