@@ -30,8 +30,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a>
 - <a href="#guitar">Guitar</a>
 
-### Done (44)
+### Done (45)
 
+- <a href="#gratis2023">Gratis 2023</a>
 - <a href="#nmsmun">NMSMUN 2023</a>
 - <a href="#projectunboxed">Project: Unboxed</a>
 - <a href="#tedx2023">TEDxYouth@DPSS 2023</a>
@@ -11367,6 +11368,32 @@ function getCount(str) {
 ## Done
 
 <hr />
+
+## <span id="gratis">Gratis 2023</span>
+
+<small>Dec 07, 2023-Dec 14, 2023</small>  
+<small>Was the drummer for Band 2 - and played the drums for two songs for our annual Gratis event</small>
+
+<hr />
+
+#### Summary
+
+Greatest gig in the sky.
+
+![Gratis](/gratis.jpeg)
+
+## <span id="">DXBMUN 2023</span>
+
+<small>Dec 08, 2023-Dec 10, 2023</small>  
+<small>Was the delegate of Nigeria for the United Nations Office on Drugs and Crime, won outstanding delegate!</small>
+
+<hr />
+
+#### Summary
+
+May not have been the best MUN I've attended, but god damn was it fun at times - if not very stressful. Still walked away with a win!
+
+![DXBMUN](/dxbmun.jpeg)
 
 ## <span id="nmsmun">NMSMUN 2023</span>
 
