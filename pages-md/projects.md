@@ -768,6 +768,14 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 16, 2023</time> Finished [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/):
+
+```py
+class Solution:
+    def findIntersectionValues(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        return [len([i for i in nums1 if i in nums2]), len([i for i in nums2 if i in nums1])]
+```
+
 - <time>Dec 06, 2023</time> Finished [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/):
 
 ```py
