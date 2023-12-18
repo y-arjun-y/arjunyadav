@@ -12,7 +12,7 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 - Feb-March 2024: Re-building a large language model (such as GPT-2) and self-stidying LLMs more generally during this time
 - Jan 2024: Interpretability (focus on Neel Nanda's work and lectures)
-- [Nov 2023 - Jan 2024: Steering and Evaluation Research](/#nov-2023-jan-2024)
+- [Nov 2023 - Jan 2024: Steering and Evaluation Research](#nov-2023-jan-2024)
 
 ### What I Want To Learn
 

@@ -184,6 +184,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+- <time>Dec 18, 2023</time> Got everything set-up and got started with self-studying! Let the doubts begin.
+
 - <time>Dec 04, 2023-Dec 12, 2023</time> Spoke with a bunch of different people and had an interview!
 
 - <time>Dec 04, 2023</time> Got a response!
