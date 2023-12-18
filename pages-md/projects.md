@@ -32,10 +32,11 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a>
 - <a href="#guitar">Guitar</a>
 
-### Done (45)
+### Done (46)
 
 - <a href="#gratis2023">Gratis 2023</a>
-- <a href="#nmsmun">NMSMUN 2023</a>
+- <a href="#dxbmun2023">DXBMUN 2023</a>
+- <a href="#nmsmun2023">NMSMUN 2023</a>
 - <a href="#projectunboxed">Project: Unboxed</a>
 - <a href="#tedx2023">TEDxYouth@DPSS 2023</a>
 - <a href="#aaeclass">Arjun's AI Escapades Class</a>
@@ -225,7 +226,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 26, 2023-Dec 12, 2023</time> The work is not done just yet.
+- <time>Oct 26, 2023-Dec 18, 2023</time> The work is not done just yet.
 
 - <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
 
@@ -11411,7 +11412,7 @@ function getCount(str) {
 
 <hr />
 
-## <span id="gratis">Gratis 2023</span>
+## <span id="gratis2023">Gratis 2023</span>
 
 <small>Dec 07, 2023-Dec 14, 2023</small>  
 <small>Was the drummer for Band 2 - and played the drums for two songs for our annual Gratis event</small>
@@ -11424,7 +11425,9 @@ Greatest gig in the sky.
 
 ![Gratis](/gratis.jpeg)
 
-## <span id="">DXBMUN 2023</span>
+<hr />
+
+## <span id="dxbmun2023">DXBMUN 2023</span>
 
 <small>Dec 08, 2023-Dec 10, 2023</small>  
 <small>Was the delegate of Nigeria for the United Nations Office on Drugs and Crime, won outstanding delegate!</small>
@@ -11433,11 +11436,13 @@ Greatest gig in the sky.
 
 #### Summary
 
-May not have been the best MUN I've attended, but god damn was it fun at times - if not very stressful. Still walked away with a win!
+May not have been the best MUN I've attended, but god damn was it fun at times - if not very stressful. Still, walked away with a win!
 
 ![DXBMUN](/dxbmun.jpeg)
 
-## <span id="nmsmun">NMSMUN 2023</span>
+<hr />
+
+## <span id="nmsmun2023">NMSMUN 2023</span>
 
 <small>Oct 21, 2023-Oct 22, 2023</small>  
 <small>Was the delegate of France for the Special Committee on Peacekeeping Operations, won best delegate and best delegation!</small>
@@ -11577,6 +11582,19 @@ A really enjoyable experience overall: my sir present during the committee was r
 
 ## <span id="rtahackathon">RTA Hackathon</span>
 
+<small>Aug 24, 2023-Aug 25, 2023</small>  
+<small>Participated in RTA's sustainability ~hackathon!</small>
+
+<hr />
+
+#### Summary
+
+A lot of work happened before the start date given here: including finalizing our idea (an app to provide a sustainable transport mode given a particular route) and many meetings. But overall, it was a fun (and exhausting) time that had an incredible class on entrepreneurship on the first day! Glad to have been a part of this chaos.
+
+![RTA Hackathon](/rta.jpeg)
+
+<hr />
+
 ## <span id="solaris-3">SOLARIS (Third Edition)</span>
 
 <small>Jul 08, 2023-Aug 24, 2023</small>  
@@ -11619,19 +11637,6 @@ A really enjoyable experience overall: my sir present during the committee was r
 - <time>Jul 11, 2023</time> First day done!
 
 - <time>Jul 08, 2023</time> With all the prep work out of the way, just a couple days left before the first class!
-
-<hr />
-
-<small>Aug 24, 2023-Aug 25, 2023</small>  
-<small>Participated in RTA's sustainability ~hackathon!</small>
-
-<hr />
-
-#### Summary
-
-A lot of work happened before the start date given here: including finalizing our idea (an app to provide a sustainable transport mode given a particular route) and many meetings. But overall, it was a fun (and exhausting) time that had an incredible class on entrepreneurship on the first day! Glad to have been a part of this chaos.
-
-![RTA Hackathon](/rta.jpeg)
 
 <hr />
 
@@ -12897,6 +12902,8 @@ I ended up making the post a lot more influential than it should have been. It's
 
 The student council in your junior year should (hopefully!) just be a taste of what's to come next year. But that shouldn't stop you from reminiscing.
 
+![Grad Day](/grad-day-2023.jpg)
+
 <hr />
 
 ## <span id="admun2023">ADMUN 2023</span>
@@ -12908,7 +12915,9 @@ The student council in your junior year should (hopefully!) just be a taste of w
 
 #### Log
 
-- <time>Feb 03, 2023-Feb 05, 2023</time> Represented Bangladesh in the Economic and Social Council/Committee and did really well (though sadly, no award - possibly because I could not attend the last day fully, more about that later). Glad that my MUN career ended on a good note.
+- <time>Feb 03, 2023-Feb 05, 2023</time> Represented Bangladesh in the Economic and Social Council/Committee and did really well (though sadly, no award - possibly <a href="/projects#studentcouncil11">because I could not attend the last day fully</a>).
+
+![ADMUN](/admun.jpeg)
 
 <hr />
 
@@ -14345,7 +14354,7 @@ Happy to report that we've won the senior category of a "state" hackathon! Hope 
 
 Participated in a ~3 hour long hackathon which consisted of 2 questions. My team could attempt both questions and it was a lot of fun!
 
-![Hackathon - October](/hackathon-october.jpg)
+![Hackathon - October](/hackathon-oct.jpg)
 
 <hr />
 
