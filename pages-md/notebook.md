@@ -11,8 +11,8 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 ### What I'm Learning
 
 - Feb-March 2024: Re-building a large language model (such as GPT-2) and self-stidying LLMs more generally during this time
-- Jan 2024: Final month of interpretability self-studying (shifting focus to more recent work)
-- Nov-Dec 2023: Applications + Interpretability (focus on Neel Nanda's work and lectures)
+- Jan 2024: Interpretability (focus on Neel Nanda's work and lectures)
+- [Nov 2023 - Jan 2024: Steering and Evaluation Research](/#nov-2023-jan-2024)
 
 ### What I Want To Learn
 
@@ -42,6 +42,18 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 - Principal Component Analysis
 - The underlying principle behind transformers
+
+#### Self-Studying
+
+#### <span id="nov-2023-jan-2024">Steering and Evaluation Research</span>
+
+##### Key Readings
+
+- [Steering GPT-2-XL by adding an activation vector](https://www.lesswrong.com/posts/5spBue2z2tw4JuDCx/steering-gpt-2-xl-by-adding-an-activation-vector) - LessWrong
+
+##### What is Steering?
+
+Put simply, steering is the idea that _we can change the course of what a model generates_ by somehow manipulating its activation vectors, whether that involves changing individual neurons or adding activation vectors.
 
 ### Achievements
 
