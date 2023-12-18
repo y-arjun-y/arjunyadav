@@ -8,7 +8,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 <img src="/Arjun.png" height="350px" />
 
-My name is Arjun Yadav, my interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development and [machine learning and AI safety](/notebook/)) and [writing on my blog](/blog/) (which includes my [interesting reads](/interesting-reads/) series)).
+My name is Arjun Yadav, my interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development and [machine learning and AI safety](/notebook/)) and [writing on my blog](/blog/) (which includes my [interesting reads](/interesting-reads/) series).
 
 Some of the projects I've worked on in my life that I'm particularly proud of are (in reverse-chronological order):
 
@@ -17,7 +17,7 @@ Some of the projects I've worked on in my life that I'm particularly proud of ar
 - Oct 2023 - [Project: Unboxed](/projects#projectunboxed)
 - Sep 2023 - [TEDxYouth@DPSS 2023](/projects#tedx2023)
 - Aug 2023, Jul 2022, Jun 2023, Jul 2022 - Machine Learning and AI Safety: [Teaching a class](/projects#aaeclass) and completing three courses ([1](/projects#mathforml), [2](/projects#mlsafetycourse), [3](/projects#introml))
-- Jul 2023, Dec 2022, Jul 2022 - SOLARIS: ([1](/projects#solaris-3), [2](/projects#solaris-2) and [3](/projects#solaris-1)).
+- Jul 2023, Dec 2022, Jul 2022 - SOLARIS: ([1](/projects#solaris-3), [2](/projects#solaris-2), [3](/projects#solaris-1))
 - Jun 2023 - [AUS CSE Research Assistant](/projects#ausresearch)
 - Jan 2023 - [OptX](/projects#optx)
 - Dec 2022 - [AUS Winter Computing Camp](/projects#computingcamp2022)
