@@ -6,8 +6,10 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (7)
+### Active (9)
 
+- <a href="#ai-plans">AI Plans</a>
+- <a href="#dioptre">Dioptre</a>
 - <a href="#aoc2023">Advent of Code 2023</a>
 - <a href="#oss">Offline Streaming Systems</a>
 - <a href="#aissr">AI Safety Studying/Research</a>
@@ -102,6 +104,36 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 ## Active
+
+<hr />
+
+## <span id="ai-plans">[AI Plans](https://ai-plans.com)</span>
+
+<small>Dec 18, 2023-present</small>  
+<small>Part of the AI Plans dev team!</small>
+
+<hr />
+<small>AI Plans' start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Dec 18, 2023</time> Finished setting up the local build and got back to someone.
+
+<hr />
+
+## <span id="dioptra">Dioptra</span>
+
+<small>Dec 18, 2023-present</small>  
+<small>Part of the Dioptre team, working on projects with them and trying to learn a lot in the process!.</small>
+
+<hr />
+<small>Dioptra' start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Dec 18, 2023</time> Had a great meeting! Excited to get this show on the road.
 
 <hr />
 
