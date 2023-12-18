@@ -26,6 +26,8 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 #### General
 
+- Gemini by Google
+
 - How Gato by DeepMind truly works
 
 ### What I've learnt thus far
