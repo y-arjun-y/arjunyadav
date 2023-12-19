@@ -85,9 +85,9 @@ Put simply, steering is the idea that _we can change the course of what a model 
 
 - [Variational Sparse Coding](https://openreview.net/forum?id=SkeJ6iR9Km):
 
-> The Problem: Unsupervised discovery of interpretable features and controllable generation with high-dimensional data are currently major challenges in machine learning.
+  The Problem: Unsupervised discovery of interpretable features and controllable generation with high-dimensional data are currently major challenges in machine learning.
 
-> Proposal: A model based on variational auto-encoders (VAEs) in which interpretation is induced through latent space sparsity with a mixture of Spike and Slab distributions as prior.
+  Proposal: A model based on variational auto-encoders (VAEs) in which interpretation is induced through latent space sparsity with a mixture of Spike and Slab distributions as prior.
 
 ### Practical Applications of Transformers
 
@@ -132,6 +132,8 @@ Put simply, steering is the idea that _we can change the course of what a model 
 ## Terms and Concepts
 
 (in a rough decreasing order of "high-levelness", these terms tend to get updated as I learn more!)
+
+- Gemini by Google: See this [post](https://www.lesswrong.com/posts/9Xh2PyMzNDu3yEHqR/google-gemini-announced) (linkpost of [the announcement post](https://blog.google/technology/ai/google-gemini-ai/), see it for the comments).
 
 - [Monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand): The fact that _some_ neurons only do one thing, making them easier to interpret. Check [this](https://www.monosemanticity.com/) out!
 
