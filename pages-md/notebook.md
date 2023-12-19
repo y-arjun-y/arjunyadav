@@ -75,6 +75,12 @@ Put simply, steering is the idea that _we can change the course of what a model 
 
 ## Papers + Notes (if open access)
 
+### Evaluation Research
+
+- [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf):
+
+> We note that in practice, the contemporary AI community still gravitates towards benchmarking intelligence by comparing the skill exhibited by AIs and humans at specific tasks, such as board games and video games. We argue that solely measuring skill at any given task falls short of measuring intelligence, because skill is heavily modulated by prior knowledge and experience: unlimited priors or unlimited training data allow experimenters to “buy” arbitrary levels of skills for a system, in a way that masks the system’s own generalization power. We then articulate a new formal definition of intelligence based on Algorithmic Information Theory, describing intelligence as skill-acquisition efficiency and highlighting the concepts of scope, generalization difficulty, priors, and experience, as critical pieces to be accounted for in characterizing intelligent systems
+
 ### Mechanistic Interpretability
 
 - [Variational Sparse Coding](https://openreview.net/forum?id=SkeJ6iR9Km):
@@ -163,6 +169,10 @@ Put simply, steering is the idea that _we can change the course of what a model 
 
 (anonymized - of course)
 
+### Meeting with a former EA VP fellow
+
+- Great to connect with him after a long time! Glad we're both doing well and gave some really great advice on meeting my goals for independent AI safety learning. I also really like the practice he has before every meeting with his pre-email: "Imagine we're done with the call, and it went fantastic. What happened? What did we attend to and resolve?"
+
 ### Meeting with an eval researcher
 
 - Incredibly useful and provided a lot of clarity, couldn't have asked for a better meeting from the Slack message I had posted in an AI safety workspace.
@@ -181,14 +191,11 @@ Put simply, steering is the idea that _we can change the course of what a model 
 
 ### Projects
 
+- [AI Plans](/projects#ai-plans)
+- [Dioptre](/projects#dioptre)
 - [Arjun's AI Escapades Class](/projects#aaeclass)
-
 - [AI Safety Studying/Research](/projects#aissr)
-
 - [AUS CSE Research Assistant](/projects#ausresearch)
-
 - [Introduction to Machine Learning](/projects#mathforml)
-
 - [ML Safety Course](/projects#mlsafetycourse)
-
 - [Introduction to Machine Learning](/projects#introml)
