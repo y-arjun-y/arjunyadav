@@ -85,9 +85,8 @@ Put simply, steering is the idea that _we can change the course of what a model 
 
 - [Variational Sparse Coding](https://openreview.net/forum?id=SkeJ6iR9Km):
 
-  The Problem: Unsupervised discovery of interpretable features and controllable generation with high-dimensional data are currently major challenges in machine learning.
-
-  Proposal: A model based on variational auto-encoders (VAEs) in which interpretation is induced through latent space sparsity with a mixture of Spike and Slab distributions as prior.
+> The Problem: Unsupervised discovery of interpretable features and controllable generation with high-dimensional data are currently major challenges in machine learning.
+> Proposal: A model based on variational auto-encoders (VAEs) in which interpretation is induced through latent space sparsity with a mixture of Spike and Slab distributions as prior.
 
 ### Practical Applications of Transformers
 
