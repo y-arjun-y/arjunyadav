@@ -119,7 +119,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 18, 2023</time> Finished setting up the local build and got back to someone.
+- <time>Dec 18, 2023</time> Finished setting up the new build and got back to someone! Excited to get to work.
 
 <hr />
 
@@ -147,6 +147,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 06, 2023-Dec 19, 2023</time> Finished a couple of problems, won't be able to finish all problems in time - but that's alright!
+
 - <time>Dec 05, 2023</time> Sixth problem done!
 
 - <time>Dec 05, 2023</time> Fifth problem done!
@@ -169,6 +171,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 18, 2023</time> Had a productive meeting!
 
 - <time>Dec 01, 2023</time> Got organised and got started with debugging.
 
@@ -226,7 +230,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 26, 2023-Dec 18, 2023</time> The work is not done just yet.
+- <time>Oct 26, 2023-Dec 19, 2023</time> The work is not done just yet.
 
 - <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
 
@@ -398,6 +402,12 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 19, 2023</time> Fixed the certificates for our most recent event.
+
+- <time>Dec 15, 2023</time> The youngins really outdid themselves, a spectacular event!
+
+![OptX - SHC Visit](shc.jpeg)
 
 - <time>Dec 11, 2023</time> Got back in to the loop.
 
@@ -579,6 +589,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 18, 2023-Dec 19, 2023</time> Meet-up soon!
 
 - <time>Dec 12, 2023</time> We'll be back soon with after this forthcoming meeting!
 
@@ -802,6 +814,16 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 19, 2023</time> Finished [Drop Missing Data](https://leetcode.com/problems/drop-missing-data/):
+
+```py
+import pandas as pd
+
+def dropMissingData(students: pd.DataFrame) -> pd.DataFrame:
+    students.drop(students[students['name'].isnull()].index, inplace = True)
+    return students
+```
 
 - <time>Dec 16, 2023</time> Finished [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/):
 
