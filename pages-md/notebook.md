@@ -12,7 +12,7 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 - Feb-March 2024: Re-building a large language model (such as GPT-2) and self-stidying LLMs more generally during this time
 - Jan 2024: Interpretability (focus on Neel Nanda's work and lectures)
-- [Nov 2023 - Jan 2024: Steering and Evaluation Research](#nov-2023-jan-2024)
+- [Nov 2023 - Jan 2024: Steering and Evaluation Research + Large Language Models (LLMs)](#nov-2023-jan-2024)
 
 ### What I Want To Learn
 
@@ -47,11 +47,20 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 #### Self-Studying
 
-#### <span id="nov-2023-jan-2024">Steering and Evaluation Research</span>
+#### <span id="nov-2023-jan-2024">Steering and Evaluation Research + Large Language Models (LLMs)</span>
 
-##### Key Readings
+##### Key Readings and Lectures
 
 - [Steering GPT-2-XL by adding an activation vector](https://www.lesswrong.com/posts/5spBue2z2tw4JuDCx/steering-gpt-2-xl-by-adding-an-activation-vector) - LessWrong
+- [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g&list=WL&index=10) - Andrej Karpathy
+
+##### The full scoop: how do LLMs work?
+
+A large language model consists of two things: a _massive_ file of parameters (llama-2-70b's is almost 140 GB) and a simple C file used to run the architecture that permits the user to input text and get an output back.
+
+The C file isn't interesting, the interesting part is the parameters: which you can think of as a _compressed form of the internet_, an expensive (think in the millions of dollars) and hard process.
+
+The architecture used to get the parameters is called a <a href="#transformers">transformer</a>, and what they are trying to do is... (to be written).
 
 ##### What is Steering?
 
@@ -125,13 +134,15 @@ Put simply, steering is the idea that _we can change the course of what a model 
 
   The rest of the paper is the implementation (and hairy) mathematics behind the EfficientFormer in PyTorch 1.11 using the Timm library that addresses each of the bottlenecks. This is done mainly through latency driven slimming for their supernet by using a MetaPath and a different Softmax (Gumbel Softmax) implementatoin for their searching when it comes to get the importance score ofr th blocks within each MP for (I believe) the self-attention aspect of the model.
 
-- [Attention is all you need](https://arxiv.org/abs/1706.03762):
+- <span id="transformers"><a href="https://arxiv.org/abs/1706.03762">Attention is all you need</a><span>:
 
   ![Transformer](/transformer.png)
 
 ## Terms and Concepts
 
 (in a rough decreasing order of "high-levelness", these terms tend to get updated as I learn more!)
+
+- The Reversal Curse: Ask ChatGPT who is Tom Cruise's mother: you'll get Mary Lee Pfeiffer. Ask ChatGPT who is Mary Lee Pfeiffer's son, it'll say it doesn't know.
 
 - Gemini by Google: See this [post](https://www.lesswrong.com/posts/9Xh2PyMzNDu3yEHqR/google-gemini-announced) (linkpost of [the announcement post](https://blog.google/technology/ai/google-gemini-ai/), see it for the comments).
 
