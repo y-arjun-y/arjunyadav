@@ -119,6 +119,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 19, 2023-Dec 20, 2023</time> Continued with checking the database implementation.
+
 - <time>Dec 18, 2023</time> Finished setting up the new build and got back to someone! Excited to get to work.
 
 <hr />
@@ -133,6 +135,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 19, 2023-Dec 20, 2023</time> Continued with the implementation of one of the games.
 
 - <time>Dec 18, 2023</time> Had a great meeting! Excited to get this show on the road.
 
@@ -166,11 +170,13 @@ Confused? See the <a href="#note">note</a> down below.
 ## <span id="oss">Offline Streaming Systems</span>
 
 <small>Nov 11, 2023-present</small>  
-<small>Part of the O.S.S. team.</small>
+<small>Part of the O.S.S. team as a developer.</small>
 
 <hr />
 
 #### Log
+
+- <time>Dec 19, 2023-Dec 20, 2023</time> Pretty decent bug fix from the team!
 
 - <time>Dec 18, 2023</time> Had a productive meeting!
 
@@ -188,6 +194,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Continuing this breath-taking journey in AI safety (the research part being with my brother). Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
+
+- <time>Dec 20, 2023</time> Set my goals in a Slack workspace, and accomplished them!
 
 - <time>Dec 19, 2023</time> Set my goals in a Slack workspace, and accomplished them!
 
@@ -405,7 +413,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 19, 2023</time> Fixed the certificates for our most recent event.
+- <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
 - <time>Dec 15, 2023</time> The youngins really outdid themselves, a spectacular event!
 
@@ -592,7 +600,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 18, 2023-Dec 19, 2023</time> Meet-up soon!
+- <time>Dec 18, 2023-Dec 20, 2023</time> Meet-up soon!
 
 - <time>Dec 12, 2023</time> We'll be back soon with after this forthcoming meeting!
 

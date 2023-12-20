@@ -142,6 +142,8 @@ Put simply, steering is the idea that _we can change the course of what a model 
 
 (in a rough decreasing order of "high-levelness", these terms tend to get updated as I learn more!)
 
+- Mistral's 8x7B and Uncensored Models: Now this, [this is interesting](https://www.youtube.com/watch?v=GyllRd2E6fg). The uncensored models aspect is however, very scary.
+
 - The Reversal Curse: Ask ChatGPT who is Tom Cruise's mother: you'll get Mary Lee Pfeiffer. Ask ChatGPT who is Mary Lee Pfeiffer's son, it'll say it doesn't know.
 
 - Gemini by Google: See this [post](https://www.lesswrong.com/posts/9Xh2PyMzNDu3yEHqR/google-gemini-announced) (linkpost of [the announcement post](https://blog.google/technology/ai/google-gemini-ai/), see it for the comments).
