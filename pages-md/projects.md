@@ -602,7 +602,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 18, 2023-Dec 20, 2023</time> Meet-up soon!
+- <time>Dec 18, 2023-Dec 21, 2023</time> Meet-up soon!
 
 - <time>Dec 12, 2023</time> We'll be back soon with after this forthcoming meeting!
 
