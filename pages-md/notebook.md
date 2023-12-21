@@ -60,13 +60,26 @@ A large language model consists of two things: a _massive_ file of parameters (l
 
 The C file isn't interesting, the interesting part is the parameters: which you can think of as a _compressed form of the internet_, an expensive (think in the millions of dollars) and hard process.
 
-The architecture used to get the parameters is called a <a href="#transformers">transformer</a>, and what they are trying to do is... (to be written).
+The architecture used to get the parameters is called a <a href="#transformers">transformer</a>, and the first thing we do with transformers is called _pre-training_, where, from the ~10TB of text, we obtain our base model.
+
+The above process is only done maybe once a year as it's really expensive. But the next step is making _the assistant to our large language model_ which is the interesting part: the part _where we can give a prompt and get a response_. The process of obtaining this helper model is called _fine-tuning_ and typically requires much less resources.
+
+![Summary - LLM](/summary-llm.png)
+
+Currently, closed source models (ones where we can only interact through a web interface or an API at best - no access to the weights) [outperform open sources one by a fair amount](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard).
+
+(to be written - scaling laws)
 
 ##### What is Steering?
 
 Put simply, steering is the idea that _we can change the course of what a model generates_ by somehow manipulating its activation vectors, whether that involves changing individual neurons or adding activation vectors.
 
 ### Achievements
+
+#### Dec 2023
+
+- Became a part of the [ai-plans](https://ai-plans.com) dev team!
+- Became a part of the Dioptra research team!
 
 #### Nov 2023
 
@@ -142,6 +155,8 @@ Put simply, steering is the idea that _we can change the course of what a model 
 
 (in a rough decreasing order of "high-levelness", these terms tend to get updated as I learn more!)
 
+- Reinforcement learning from human feedback - See [this](https://openai.com/research/learning-from-human-preferences) post by OpenAI.
+
 - Mistral's 8x7B and Uncensored Models: Now this, [this is interesting](https://www.youtube.com/watch?v=GyllRd2E6fg). The uncensored models aspect is however, very scary.
 
 - The Reversal Curse: Ask ChatGPT who is Tom Cruise's mother: you'll get Mary Lee Pfeiffer. Ask ChatGPT who is Mary Lee Pfeiffer's son, it'll say it doesn't know.
@@ -207,7 +222,7 @@ Put simply, steering is the idea that _we can change the course of what a model 
 ### Projects
 
 - [AI Plans](/projects#ai-plans)
-- [Dioptre](/projects#dioptre)
+- [Dioptra](/projects#dioptra)
 - [Arjun's AI Escapades Class](/projects#aaeclass)
 - [AI Safety Studying/Research](/projects#aissr)
 - [AUS CSE Research Assistant](/projects#ausresearch)

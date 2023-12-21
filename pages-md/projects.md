@@ -9,7 +9,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 ### Active (9)
 
 - <a href="#ai-plans">AI Plans</a>
-- <a href="#dioptre">Dioptre</a>
+- <a href="#dioptra">Dioptra</a>
 - <a href="#aoc2023">Advent of Code 2023</a>
 - <a href="#oss">Offline Streaming Systems</a>
 - <a href="#aissr">AI Safety Studying/Research</a>
@@ -119,7 +119,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 19, 2023-Dec 20, 2023</time> Continued with checking the database implementation.
+- <time>Dec 19, 2023-Dec 21, 2023</time> Continued with checking the database implementation.
 
 - <time>Dec 18, 2023</time> Finished setting up the new build and got back to someone! Excited to get to work.
 
@@ -194,6 +194,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Continuing this breath-taking journey in AI safety (the research part being with my brother). Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
+
+- <time>Dec 21, 2023</time> Set my goals in a Slack workspace, and accomplished them!
 
 - <time>Dec 20, 2023</time> Set my goals in a Slack workspace, and accomplished them!
 
@@ -824,6 +826,16 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 21, 2023</time> Finished [Rename Columns](https://leetcode.com/problems/rename-columns/):
+
+```py
+import pandas as pd
+
+def renameColumns(students: pd.DataFrame) -> pd.DataFrame:
+    students.rename(columns={'id': 'student_id', 'first': 'first_name', 'last': 'last_name', 'age': 'age_in_years'}, inplace=True)
+    return students
+```
 
 - <time>Dec 19, 2023</time> Finished [Drop Missing Data](https://leetcode.com/problems/drop-missing-data/):
 
