@@ -66,9 +66,7 @@ The above process is only done maybe once a year as it's really expensive. But t
 
 ![Summary - LLM](/summary-llm.png)
 
-Currently, closed source models (ones where we can only interact through a web interface or an API at best - no access to the weights) [outperform open sources one by a fair amount](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard).
-
-(to be written - scaling laws)
+Currently, closed source models (ones where we can only interact through a web interface or an API at best - no access to the weights) [outperform open sources one by a fair amount](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard). The rest of the video dives into scaling laws and an excellent summary of some of the core fundamentals of AI safety, highly recommend watching the last 15 minutes in its entirety!
 
 ##### What is Steering?
 
