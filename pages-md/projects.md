@@ -119,6 +119,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 22, 2023</time> Bug resolved! On to the next step.
+
 - <time>Dec 19, 2023-Dec 21, 2023</time> Continued with checking the database implementation.
 
 - <time>Dec 18, 2023</time> Finished setting up the new build and got back to someone! Excited to get to work.
@@ -136,7 +138,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 19, 2023-Dec 20, 2023</time> Continued with the implementation of one of the games.
+- <time>Dec 22, 2023</time> Finally, almost done.
+
+- <time>Dec 19, 2023-Dec 21, 2023</time> Continued with the implementation of one of the games.
 
 - <time>Dec 18, 2023</time> Had a great meeting! Excited to get this show on the road.
 
@@ -169,6 +173,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Continuing this breath-taking journey in AI safety (the research part being with my brother). Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
+
+- <time>Dec 22, 2023</time> Finished the lecture!
 
 - <time>Dec 21, 2023</time> Set my goals in a Slack workspace, and accomplished them!
 
@@ -217,7 +223,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 26, 2023-Dec 19, 2023</time> The work is not done just yet.
+- <time>Oct 26, 2023-Dec 22, 2023</time> The work is not done just yet.
 
 - <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
 
@@ -389,6 +395,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 22, 2023</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
@@ -577,7 +585,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 18, 2023-Dec 21, 2023</time> Meet-up soon!
+- <time>Dec 18, 2023-Dec 22, 2023</time> Meet-up soon!
 
 - <time>Dec 12, 2023</time> We'll be back soon with after this forthcoming meeting!
 
@@ -801,6 +809,14 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 22, 2023</time> Finished [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string):
+
+```py
+class Solution:
+    def maxScore(self, s: str) -> int:
+        return max([s[:i].count('0') + s[i:].count('1') for i in range(1, len(s))])
+```
 
 - <time>Dec 21, 2023</time> Finished [Rename Columns](https://leetcode.com/problems/rename-columns/):
 
