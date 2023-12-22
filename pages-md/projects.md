@@ -6,11 +6,10 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (9)
+### Active (8)
 
 - <a href="#ai-plans">AI Plans</a>
 - <a href="#dioptra">Dioptra</a>
-- <a href="#aoc2023">Advent of Code 2023</a>
 - <a href="#oss">Offline Streaming Systems</a>
 - <a href="#aissr">AI Safety Studying/Research</a>
 - <a href="#studentcouncil12">Student Council - 12th + Head of Events</a>
@@ -25,15 +24,16 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#drums">Drums</a>
 - <a href="#coldtakesbetareading">Cold Takes Beta Reading</a>
 
-### Inactive (3)
+### Inactive (4)
 
 - <a href="#ausresearch">AUS CSE Research Assistant</a>
 - <a href="#codewars">Codewars</a>
 - <a href="#chess">Chess</a>
 - <a href="#guitar">Guitar</a>
 
-### Done (46)
+### Done (47)
 
+- <a href="#aoc2023">Advent of Code 2023</a>
 - <a href="#gratis2023">Gratis 2023</a>
 - <a href="#dxbmun2023">DXBMUN 2023</a>
 - <a href="#nmsmun2023">NMSMUN 2023</a>
@@ -139,31 +139,6 @@ Confused? See the <a href="#note">note</a> down below.
 - <time>Dec 19, 2023-Dec 20, 2023</time> Continued with the implementation of one of the games.
 
 - <time>Dec 18, 2023</time> Had a great meeting! Excited to get this show on the road.
-
-<hr />
-
-## <span id="aoc2023">[Advent of Code](https://adventofcode.com/) 2023</span>
-
-<small>Dec 01, 2023-present</small>  
-<small>Trying to solve all the coding problems for this year's Advent of Code!</small>
-
-<hr />
-
-#### Log
-
-- <time>Dec 06, 2023-Dec 19, 2023</time> Finished a couple of problems, won't be able to finish all problems in time - but that's alright!
-
-- <time>Dec 05, 2023</time> Sixth problem done!
-
-- <time>Dec 05, 2023</time> Fifth problem done!
-
-- <time>Dec 04, 2023</time> Fourth problem done!
-
-- <time>Dec 03, 2023</time> Third problem done!
-
-- <time>Dec 02, 2023</time> Second problem done!
-
-- <time>Dec 01, 2023</time> First problem done!
 
 <hr />
 
@@ -11454,6 +11429,33 @@ function getCount(str) {
 
 ## Done
 
+## <span id="aoc2023">[Advent of Code](https://adventofcode.com/) 2023</span>
+
+<small>Dec 01, 2023-Dec 22, 2023</small>  
+<small>Tried to solve all the coding problems for 2023's Advent of Code!</small>
+
+<hr />
+
+#### Log
+
+- <time>Dec 19, 2023-Dec 22, 2023</time> Going to throw in the towel, finished with 21 stars. Can hopefully come back next year to finish this year off fully + 2024's edition! In the meantime, was a lot of fun (if not hair pulling at times)
+
+- <time>Dec 06, 2023-Dec 19, 2023</time> Finished a couple of problems, won't be able to finish all problems in time - but that's alright!
+
+- <time>Dec 05, 2023</time> Sixth problem done!
+
+- <time>Dec 05, 2023</time> Fifth problem done!
+
+- <time>Dec 04, 2023</time> Fourth problem done!
+
+- <time>Dec 03, 2023</time> Third problem done!
+
+- <time>Dec 02, 2023</time> Second problem done!
+
+- <time>Dec 01, 2023</time> First problem done!
+
+<hr />
+
 <hr />
 
 ## <span id="gratis2023">Gratis 2023</span>
@@ -16934,7 +16936,7 @@ It was great seeing both [Benjamin Todd](https://benjamintodd.org/) and [William
 
 ## Retroactive
 
-(note: none of these dates are particularly accurate!)
+This is a retroactive recollection of all the projects I undertook in my life before starting this website. Goes without saying that, none of these dates are particularly accurate!
 
 <hr />
 
