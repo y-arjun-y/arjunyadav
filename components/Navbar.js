@@ -10,6 +10,7 @@ export default function Navbar() {
           <a href="/blog/">Blog</a>
           <a href="/series">Series</a>
           <a href="/projects/">Projects</a>
+          <br />
           <a href="/notebook">Notebook</a>
           <a href="/profiles">Profiles</a>
           <a href="/resume">Résumé</a>

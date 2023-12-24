@@ -14,7 +14,7 @@ Some of the projects I've worked on in my life that I'm particularly proud of ar
 
 - Dec 2023, Nov 2022, Aug 2022, Oct 2021 - Music: ([1](/projects#gratis2023), [2](/projects#ukulele), [3](/projects#drums), [4](/projects#guitar))
 - Dec 2023, Oct 2023, Jun 2023, Feb 2023, Nov 2022 - MUNs: ([1](/projects#dxbmun2023), [2](/projects#nmsmun), [3](/projects#gfsmun2023), [4](/projects#admun2023), [5](/projects#gfsmun2022))
-- Oct 2023 - [Project: Unboxed](/projects#projectunboxed)
+- Oct 2023 - Moderating at [Project: Unboxed](/projects#projectunboxed)
 - Sep 2023 - [TEDxYouth@DPSS 2023](/projects#tedx2023)
 - Aug 2023, Jul 2022, Jun 2023, Jul 2022 - Machine Learning and AI Safety: [Teaching a class](/projects#aaeclass) and completing three courses ([1](/projects#mathforml), [2](/projects#mlsafetycourse), [3](/projects#introml))
 - Jul 2023, Dec 2022, Jul 2022 - SOLARIS: ([1](/projects#solaris-3), [2](/projects#solaris-2), [3](/projects#solaris-1))
