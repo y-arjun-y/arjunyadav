@@ -119,7 +119,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023</time> Bug resolved! On to the next step.
+- <time>Dec 22, 2023-Dec 24, 2023</time> Bug resolved! On to the next step.
 
 - <time>Dec 19, 2023-Dec 21, 2023</time> Continued with checking the database implementation.
 
@@ -138,6 +138,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 23, 2023-Dec 24, 2023</time> Done! (I think)
+
 - <time>Dec 22, 2023</time> Finally, almost done.
 
 - <time>Dec 19, 2023-Dec 21, 2023</time> Continued with the implementation of one of the games.
@@ -154,6 +156,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 21, 2023-Dec 24, 2023</time> Making progress.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Pretty decent bug fix from the team!
 
@@ -173,6 +177,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Continuing this breath-taking journey in AI safety (the research part being with my brother). Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
+
+- <time>Dec 24, 2023</time> Back from a small break, going to read a paper or two in the next two days.
 
 - <time>Dec 22, 2023</time> Finished the lecture!
 
@@ -223,7 +229,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 26, 2023-Dec 22, 2023</time> The work is not done just yet.
+- <time>Oct 26, 2023-Dec 24, 2023</time> The work is not done just yet.
 
 - <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
 
@@ -396,7 +402,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023</time> On to the next thing.
+- <time>Dec 22, 2023-Dec 24, 2023</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
@@ -585,7 +591,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 18, 2023-Dec 22, 2023</time> Meet-up soon!
+- <time>Dec 18, 2023-Dec 24, 2023</time> Meet-up soon!
 
 - <time>Dec 12, 2023</time> We'll be back soon with after this forthcoming meeting!
 
@@ -9852,6 +9858,8 @@ class Solution:
 
 #### Log
 
+- <time>Nov 27, 2023-Dec 24, 2023</time> Learnt a lot of songs: Postcards from Italy - Beirut, worldstar money (interlude) - Joji, Forrest Gump - Frank Ocean, Vance Joy - Riptide, Nothing Else Matters (Intro) - Metallica, Go with the Flow - Queens of the Stone Age and Losing My Religion - R.E.M.
+
 - <time>Nov 26, 2023</time> I think I've gotten "Going to California" by Led Zeppelin fully down now.
 
 <hr />
@@ -9911,6 +9919,8 @@ class Solution:
 <hr />
 
 #### Log
+
+- <time>Dec 24, 2023</time> More acoustic drums should be there in hip-hop music, both live drums and drum machine samples can coexist!
 
 - <time>Dec 07, 2023-Dec 12, 2023</time> Learnt ~about two songs for, something!
 
