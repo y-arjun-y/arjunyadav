@@ -11,16 +11,9 @@ export default function Navbar() {
           <a href="/series">Series</a>
           <a href="/projects/">Projects</a>
           <a href="/notebook">Notebook</a>
-          <a href="/misc/">Misc.</a>
-          <br />
+          <a href="/profiles">Profiles</a>
           <a href="/resume">Résumé</a>
-          <a href="https://www.linkedin.com/in/arjun-yadav-32038125a/">
-            LinkedIn
-          </a>
-          <a href="https://github.com/y-arjun-y/">GitHub</a>
-          <a href="https://forum.effectivealtruism.org/users/arjun-yadav">
-            EA Forum
-          </a>
+          <a href="/misc/">Misc.</a>
         </p>
       </nav>
     </header>
