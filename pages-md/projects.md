@@ -119,6 +119,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 25, 2023</time> CSS, my old friend.
+
 - <time>Dec 22, 2023-Dec 24, 2023</time> Bug resolved! On to the next step.
 
 - <time>Dec 19, 2023-Dec 21, 2023</time> Continued with checking the database implementation.
@@ -138,7 +140,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 23, 2023-Dec 24, 2023</time> Done! (I think)
+- <time>Dec 23, 2023-Dec 25, 2023</time> Done! (I think)
 
 - <time>Dec 22, 2023</time> Finally, almost done.
 
@@ -157,7 +159,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 21, 2023-Dec 24, 2023</time> Making progress.
+- <time>Dec 21, 2023-Dec 25, 2023</time> Making progress.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Pretty decent bug fix from the team!
 
@@ -229,7 +231,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 26, 2023-Dec 24, 2023</time> The work is not done just yet.
+- <time>Oct 26, 2023-Dec 25, 2023</time> The work is not done just yet.
 
 - <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
 
@@ -402,7 +404,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023-Dec 24, 2023</time> On to the next thing.
+- <time>Dec 22, 2023-Dec 25, 2023</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
@@ -815,6 +817,23 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 25, 2023</time> Finished [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/)
+
+```py
+class Solution:
+    def numberGame(self, nums: List[int]) -> List[int]:
+        arr = []
+        nums.sort()
+
+        while len(nums) > 0:
+            al = nums.pop()
+            bo = nums.pop()
+
+            arr.extend([bo, al])
+
+        return arr[::-1]
+```
 
 - <time>Dec 22, 2023</time> Finished [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string):
 
