@@ -11272,7 +11272,7 @@ function getCount(str) {
 
 - <time>Mar 10, 2022</time> Finished with [more advanced 16th note strumming](https://www.justinguitar.com/guitar-lessons/ups-to-the-all-down-b2-906).
 
-- <time>Mar 09, 2022</time> Got done with compiling all the chords in a [Notion page](https://arjun-0148901934ua31.notion.site/Guitar-Chords-8f0d7c8cecd34495a8274b8f0ee3fa73).
+- <time>Mar 09, 2022</time> Got done with compiling all the chords in a [Notion page](https://arjun-yadav.notion.site/Guitar-Chords-8f0d7c8cecd34495a8274b8f0ee3fa73?pvs=73).
 
 - <time>Mar 08, 2022</time> Changed my mind, [the C Major scale](https://www.justinguitar.com/guitar-lessons/c-major-scale-b2-905) got to me lol. I'll start the chord book work tomorrow.
 
