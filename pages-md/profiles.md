@@ -13,4 +13,4 @@ These are all my public profiles:
 - [X.com](https://x.com/y_arjun_y) - I use X.com (formerly called Twitter) only for AI safety learnings and musings.
 - [EA Forum](https://forum.effectivealtruism.org/users/arjun-yadav) - My Effective Altruism Forum profile.
 - [Letterboxd](https://letterboxd.com/y_arjun_y) - Movie reviews from Nov 2021 onwards can be found here.
-- [Musicboard](https://musicboard.app/y_arjun_y) - Album reviews + Montly lists from Nov 2021 onwards can be found her.
+- [Musicboard](https://musicboard.app/y_arjun_y) - Album reviews + monthly lists from Nov 2021 onwards can be found here.
