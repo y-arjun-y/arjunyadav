@@ -119,6 +119,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 26, 2023</time> PR!
+
 - <time>Dec 25, 2023</time> CSS, my old friend.
 
 - <time>Dec 22, 2023-Dec 24, 2023</time> Bug resolved! On to the next step.
@@ -159,7 +161,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 21, 2023-Dec 25, 2023</time> Making progress.
+- <time>Dec 21, 2023-Dec 26, 2023</time> Making progress.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Pretty decent bug fix from the team!
 
@@ -231,7 +233,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 26, 2023-Dec 25, 2023</time> The work is not done just yet.
+- <time>Oct 26, 2023-Dec 26, 2023</time> The work is not done just yet.
 
 - <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
 
@@ -404,7 +406,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023-Dec 25, 2023</time> On to the next thing.
+- <time>Dec 22, 2023-Dec 26, 2023</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
@@ -593,7 +595,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 18, 2023-Dec 24, 2023</time> Meet-up soon!
+- <time>Dec 26, 2023</time> Welp, next year then!
+
+- <time>Dec 18, 2023-Dec 25, 2023</time> Meet-up soon!
 
 - <time>Dec 12, 2023</time> We'll be back soon with after this forthcoming meeting!
 
@@ -817,6 +821,23 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 26, 2023</time> Finished [Count the Number of Incremovable Subarrays I](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/):
+
+```py
+class Solution:
+    def incremovableSubarrayCount(self, nums: List[int]) -> int:
+        count = 1
+
+        for i in range(len(nums)):
+            for j in range(len(nums)):
+                if j>=i:
+                    remainder = nums[:i] + nums[j+1:]
+                    if len(remainder) > 0 and all(i < j for i, j in zip(remainder, remainder[1:])):
+                        count += 1
+
+        return count
+```
 
 - <time>Dec 25, 2023</time> Finished [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/)
 
