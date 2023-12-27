@@ -119,6 +119,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 27, 2023</time> CSS, my old friend. (x2)
+
 - <time>Dec 26, 2023</time> PR!
 
 - <time>Dec 25, 2023</time> CSS, my old friend.
@@ -142,6 +144,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 27, 2023</time> Got some feedback again.
+
 - <time>Dec 23, 2023-Dec 25, 2023</time> Done! (I think)
 
 - <time>Dec 22, 2023</time> Finally, almost done.
@@ -161,7 +165,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 21, 2023-Dec 26, 2023</time> Making progress.
+- <time>Dec 21, 2023-Dec 27, 2023</time> Making progress.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Pretty decent bug fix from the team!
 
@@ -181,6 +185,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Continuing this breath-taking journey in AI safety (the research part being with my brother). Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
+
+- <time>Dec 24, 2023</time> Set my goals in a Slack workspace, and accomplished them! [This](https://youtu.be/tcdVC4e6EV4) video is quite cool.
 
 - <time>Dec 24, 2023</time> Back from a small break, going to read a paper or two in the next two days.
 
@@ -233,7 +239,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 26, 2023-Dec 26, 2023</time> The work is not done just yet.
+- <time>Oct 26, 2023-Dec 27, 2023</time> The work is not done just yet.
 
 - <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
 
@@ -406,7 +412,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023-Dec 26, 2023</time> On to the next thing.
+- <time>Dec 22, 2023-Dec 27, 2023</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
@@ -821,6 +827,16 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 27, 2023</time> Finished [Change Data Type](https://leetcode.com/problems/change-data-type/):
+
+```py
+import pandas as pd
+
+def changeDatatype(students: pd.DataFrame) -> pd.DataFrame:
+    students['grade'] = students['grade'].astype(int)
+    return students
+```
 
 - <time>Dec 26, 2023</time> Finished [Count the Number of Incremovable Subarrays I](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/):
 
