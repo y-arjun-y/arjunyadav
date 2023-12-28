@@ -119,6 +119,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 28, 2023</time> PR! (x2)
+
 - <time>Dec 27, 2023</time> CSS, my old friend. (x2)
 
 - <time>Dec 26, 2023</time> PR!
@@ -165,7 +167,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 21, 2023-Dec 27, 2023</time> Making progress.
+- <time>Dec 21, 2023-Dec 28, 2023</time> Making progress.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Pretty decent bug fix from the team!
 
@@ -186,7 +188,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Dec 24, 2023</time> Set my goals in a Slack workspace, and accomplished them! [This](https://youtu.be/tcdVC4e6EV4) video is quite cool.
+- <time>Dec 28, 2023</time> Set my goals in a Slack workspace, and accomplished them!
+
+- <time>Dec 27, 2023</time> Set my goals in a Slack workspace, and accomplished them! [This](https://youtu.be/tcdVC4e6EV4) video is quite cool.
 
 - <time>Dec 24, 2023</time> Back from a small break, going to read a paper or two in the next two days.
 
@@ -239,7 +243,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 26, 2023-Dec 27, 2023</time> The work is not done just yet.
+- <time>Oct 26, 2023-Dec 28, 2023</time> The work is not done just yet.
 
 - <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
 
@@ -412,7 +416,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023-Dec 27, 2023</time> On to the next thing.
+- <time>Dec 22, 2023-Dec 28, 2023</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
@@ -827,6 +831,16 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 28, 2023</time> Finished [Fill Missing Data](https://leetcode.com/problems/fill-missing-data/):
+
+```py
+import pandas as pd
+
+def fillMissingValues(products: pd.DataFrame) -> pd.DataFrame:
+    products["quantity"].fillna(0, inplace=True)
+    return products
+```
 
 - <time>Dec 27, 2023</time> Finished [Change Data Type](https://leetcode.com/problems/change-data-type/):
 
