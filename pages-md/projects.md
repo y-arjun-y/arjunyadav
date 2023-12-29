@@ -6,8 +6,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (8)
+### Active (9)
 
+- <a href="#aisc2024">AI Safety Camp</a>
 - <a href="#ai-plans">AI Plans</a>
 - <a href="#dioptra">Dioptra</a>
 - <a href="#oss">Offline Streaming Systems</a>
@@ -22,17 +23,17 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#ukulele">Ukulele</a>
 - <a href="#oceanbusters">Ocean Busters</a>
 - <a href="#drums">Drums</a>
-- <a href="#coldtakesbetareading">Cold Takes Beta Reading</a>
-
-### Inactive (4)
-
-- <a href="#ausresearch">AUS CSE Research Assistant</a>
-- <a href="#codewars">Codewars</a>
-- <a href="#chess">Chess</a>
 - <a href="#guitar">Guitar</a>
 
-### Done (47)
+### Inactive (3)
 
+- <a href="#codewars">Codewars</a>
+- <a href="#chess">Chess</a>
+- <a href="#coldtakesbetareading">Cold Takes Beta Reading</a>
+
+### Done (48)
+
+- <a href="#ausresearch">AUS CSE Research Assistant</a>
 - <a href="#aoc2023">Advent of Code 2023</a>
 - <a href="#gratis2023">Gratis 2023</a>
 - <a href="#dxbmun2023">DXBMUN 2023</a>
@@ -108,6 +109,21 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="aisc2024">[AI Safety Camp](https://aisafety.camp)</span>
+
+<small>Dec 29, 2023-present</small>  
+<small>Inductee for AISC 2024!</small>
+
+<hr />
+<small>AI Safety Camp's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Dec 29, 2023</time> Got started!
+
+<hr />
+
 ## <span id="ai-plans">[AI Plans](https://ai-plans.com)</span>
 
 <small>Dec 18, 2023-present</small>  
@@ -118,6 +134,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 29, 2023</time> Making progress.
 
 - <time>Dec 28, 2023</time> PR! (x2)
 
@@ -141,12 +159,14 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Part of the Dioptre team, working on projects with them and trying to learn a lot in the process!.</small>
 
 <hr />
-<small>Dioptra' start date is the date I started logging, not the date when the project started.</small>
+<small>Dioptra's start date is the date I started logging, not the date when the project started.</small>
 <hr />
 
 #### Log
 
-- <time>Dec 27, 2023</time> Got some feedback again.
+- <time>Dec 29, 2023</time> Should be done tomorrow.
+
+- <time>Dec 27, 2023-Dec 28, 2023</time> Got some feedback again.
 
 - <time>Dec 23, 2023-Dec 25, 2023</time> Done! (I think)
 
@@ -167,7 +187,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 21, 2023-Dec 28, 2023</time> Making progress.
+- <time>Dec 21, 2023-Dec 29, 2023</time> Making progress.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Pretty decent bug fix from the team!
 
@@ -187,6 +207,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Continuing this breath-taking journey in AI safety (the research part being with my brother). Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
+
+- <time>Dec 29, 2023</time> Set my goals in a Slack workspace, and accomplished them!
 
 - <time>Dec 28, 2023</time> Set my goals in a Slack workspace, and accomplished them!
 
@@ -243,7 +265,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 26, 2023-Dec 28, 2023</time> The work is not done just yet.
+- <time>Oct 26, 2023-Dec 29, 2023</time> The work is not done just yet.
 
 - <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
 
@@ -416,7 +438,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023-Dec 28, 2023</time> On to the next thing.
+- <time>Dec 22, 2023-Dec 29, 2023</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
@@ -604,6 +626,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 28, 2023-Dec 29, 2023</time> Actually...
 
 - <time>Dec 26, 2023</time> Welp, next year then!
 
@@ -831,6 +855,16 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 29, 2023</time> Finished [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/):
+
+```py
+import pandas as pd
+
+def concatenateTables(df1: pd.DataFrame, df2: pd.DataFrame) -> pd.DataFrame:
+    return pd.concat([df1, df2], ignore_index=True, sort=False)
+
+```
 
 - <time>Dec 28, 2023</time> Finished [Fill Missing Data](https://leetcode.com/problems/fill-missing-data/):
 
@@ -10068,134 +10102,348 @@ class Solution:
 
 <hr />
 
-## <span id="coldtakesbetareading">[Cold Takes](https://www.cold-takes.com/) Beta Reading</span>
+## <span id="guitar">Guitar</span>
 
-<small>Jan 20, 2022-present</small>  
-<small>I got accepted to beta read Holden Karnofsky's articles for his blog, Cold Takes. Trying to be as useful as I can be! Note that I only update this log when I fully finish proof-reading and when the post has been published. Currently an occasional project.</small>
+<small>Oct 29, 2021-present</small>  
+<small>Trying to learn acoustic guitar via [justinguitar.com](https://justinguitar.com). Currently inactive/paused.</small>
 
+<hr />
+<small>Guitar's start date is the date I started logging, not the date when the project started.</small>
 <hr />
 
 #### Log
 
-- <time>Jan 09, 2023</time> Finished my eighth proof-reading. The link to the post will be [here](https://www.cold-takes.com/spreading-messages-to-help-with-the-most-important-century/) once done.
+- <time>Sep 16, 2022</time> Learnt [some open 7th chords](https://www.justinguitar.com/guitar-lessons/open-7th-chords-bg-1301).
 
-- <time>Dec 16, 2022</time> Finished my seventh proof-reading (possibly my last for this year - so grateful to have been a part of this). The link to the post will be [here](https://www.cold-takes.com/transformative-ai-issues-not-just-misalignment-an-overview/) once done.
+- <time>Sep 03, 2022</time> (Tried) to learn [Hey You](https://www.youtube.com/watch?v=soL8JK6kALc) by Pink Floyd.
 
-- <time>Oct 12, 2022</time> Finished my sixth proof-reading (although I unfortunately missed the deadline by a bit). The link to the post will be [here](https://www.cold-takes.com/high-level-hopes-for-ai-alignment/) once done.
+- <time>Aug 17, 2022</time> Freestyled to ease back in.
 
-- <time>Sep 08, 2022</time> Finished my fifth proof-reading. The link to the post will be [here](https://www.cold-takes.com/why-would-ai-aim-to-defeat-humanity/) once done.
+- <time>Aug 03, 2022</time> Continued with Module 4 practice.
 
-- <time>Sep 05, 2022</time> Along with other beta-readers, I got appreciated in [the latest Cold Takes post](https://www.cold-takes.com/beta-readers-are-great/)!
+- <time>Aug 01, 2022</time> "Learnt" [the intro to Chop Suey!](https://www.youtube.com/watch?v=EjQxA7ulTdM) Drop C tuning is awesome.
 
-- <time>May 25, 2022</time> Been a while, but finished my fourth proof-reading. The link to the post will be [here](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/) once done.
+- <time>Jul 28, 2022</time> Practiced a sliding power chord song that was recommended to us (why do almost all of them have iffy names?)
 
-- <time>Feb 20, 2022</time> Finished my third proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/debating-myself-on-whether-extra-lives-lived-are-as-good-as-deaths-prevented/) once done.
+- <time>Jul 27, 2022</time> Got started with Module 4 practice.
 
-- <time>Feb 04, 2022</time> Finished my second proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/defending-one-dimensional-ethics/) once done.
+- <time>Jul 26, 2022</time> Finished learning [an easier version of Enter Sandman](https://www.youtube.com/watch?v=j7GCEY1TALw).
 
-- <time>Jan 20, 2022</time> Got accepted (!) and finished proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/future-proof-ethics/) when it's done (for privacy reasons).
+- <time>Jul 25, 2022</time> "Finished" with the Module 5 videos (sort of just skipped a few) and will get started with the practice tomorrow.
+
+- <time>Jul 20, 2022</time> Played an electric guitar for the first time!
+- <time>Jul 08, 2022</time> Finished [a short video](https://www.justinguitar.com/guitar-lessons/awesome-power-chord-songs-bg-1207) in the module. I guess I've been less motivated to continue with this module since it's so electric guitar focused (though maybe I'm wrong and my skill is to blame here, not the acoustic)
+
+- <time>Jul 04, 2022</time> Sort of continued with the riff.
+
+- <time>Jul 03, 2022</time> Learnt the first part of the first part of the [Enter Sandman riff](https://www.justinguitar.com/guitar-lessons/enter-sandman-bg-1205).
+
+- <time>Jul 02, 2022</time> Finished with [Palm Muting](https://www.justinguitar.com/guitar-lessons/palm-muting-bg-1203) and [Understanding Distortion](https://www.justinguitar.com/guitar-lessons/understanding-distortion-bg-1204). This module is irritating if you're using an acoustic. Why do you have to be so cool, electric?.
+
+- <time>Jun 27, 2022</time> Finished with [The Am Pentatonic Scale](https://www.justinguitar.com/guitar-lessons/the-a-minor-pentatonic-bg-1202).
+
+- <time>Jun 26, 2022</time> Finished with Power Chords (and sort of learnt [Smells Like Teen Spirit](https://www.youtube.com/watch?v=JirXTmnItd4)?)
+
+- <time>Jun 25, 2022</time> Got started with [Power Chords](https://www.justinguitar.com/guitar-lessons/power-chords-bg-1201).
+
+- <time>Jun 18, 2022</time> Six days... Finished with the second iteration of Module 4 practice.
+
+- <time>Jun 12, 2022</time> Continued with the second iteration of Module 4 practice. I finally understood why my guitar improv is so bad: I keep trying to play odd patterns.
+
+- <time>Jun 11, 2022</time> Continued with the second iteration of Module 4 practice.
+
+- <time>Jun 09, 2022</time> Got started with the second iteration of Module 4 practice.
+
+- <time>Jun 08, 2022</time> Finished with the first iteration of Module 4 practice.
+
+- <time>Jun 06, 2022</time> Continued with the first iteration of Module 4 practice.
+
+- <time>Jun 05, 2022</time> Got my guitar repaired!
+
+- <time>May 28, 2022</time> Continued with the first iteration of Module 4 practice, will be done with it tomorrow (welp, a guitar string broke again, so I'll try my best to get back to the practice ASAP).
+
+- <time>May 26, 2022</time> Finished with the Module 4 videos and got started with the first iteration of Module 4 practice. I think I'm going to increase the number of iterations to three.
+
+- <time>May 25, 2022</time> Finished [dice songwriting](https://www.justinguitar.com/guitar-lessons/introduction-to-dice-songwriting-bg-1108). Really fun lesson! (even though I didn't do too much lol)
+
+- <time>May 24, 2022</time> Finished learning about [the songs for this module](https://www.justinguitar.com/guitar-lessons/songs-for-module-11-bg-1107) (excited for the fingerstyle songs for the first iteration).
+
+- <time>May 23, 2022</time> Finished [some ear training](https://www.justinguitar.com/guitar-lessons/re-active-listening-bg-1104), felt pretty disheartened after getting the last exercise wrong.
+
+- <time>May 22, 2022</time> Had fun with [this lesson](https://www.justinguitar.com/guitar-lessons/chord-freedom-bg-1101).
+
+- <time>May 19, 2022</time> It took roughly a week but I can finally play Happy Birthday on my own!
+
+- <time>May 18, 2022</time> Hopefully I should be able to play it tomorrow...
+
+- <time>May 16, 2022</time> So close to playing Happy Birthday on my own!
+
+- <time>May 15, 2022</time> Continued with learning Happy Birthday, about two-thirds of the way there.
+
+- <time>May 13, 2022</time> Continued with learning Happy Birthday.
+
+- <time>May 12, 2022</time> Got started with learning [Happy Birthday](https://www.justinguitar.com/guitar-lessons/happy-birthday-finger-style-bg-1106) and had some fun with learning [All Falls Down](https://www.youtube.com/watch?v=gWxt9GAiKZo) (I guess I've learnt it? It sounds pretty bad though).
+
+- <time>May 11, 2022</time> Learnt more about [fingerstyle playing](https://www.justinguitar.com/guitar-lessons/finger-style-first-steps-bg-1105).
+
+- <time>May 10, 2022</time> Had fun playing How Much A Dollar Cost with [these chords](https://tabs.ultimate-guitar.com/tab/kendrick-lamar/how-much-a-dollar-cost-chords-1947283) (simplified) (only the F#, F and Dm sounded okay lol)
+
+- <time>May 09, 2022</time> Finished with [shifting the F chord](https://www.justinguitar.com/guitar-lessons/shifting-the-f-bg-1103). The way Justin played the F chord reminded me [How Much a Dollar Cost by Kendrick Lamar](https://www.youtube.com/watch?v=y8kEiL81_R4). I'm going to try to play that tomorrow.
+
+- <time>May 08, 2022</time> Got started with [Module 11 with some sus chords](https://www.justinguitar.com/guitar-lessons/beginner-sus-chords-bg-1102), I really like the transition from A sus2 to A sus4.
+
+- <time>May 06, 2022</time> Finished with the second iteration of Module 10 practice!
+
+- <time>May 05, 2022</time> Continued with the second iteration of Module 10 practice. Nearly done!
+
+- <time>May 04, 2022</time> Continued with the second iteration of Module 10 practice.
+
+- <time>May 03, 2022</time> Continued with the second iteration of Module 10 practice, I thought I forgot the C Major scale but nope, my guitar was just slightly out of tune lol.
+
+- <time>May 02, 2022</time> Got started with the second iteration of Module 10 practice.
+
+- <time>May 01, 2022</time> Finished with the first iteration of Module 10 practice! Also, small correction: I don't use the songbook tab on JustinGuitar.com (since it forces the song into three categories, which I don't like) and instead I just like the play-through video (which acts as a songbook).
+
+- <time>Apr 27, 2022</time> Continued with Module 10 practice and added two songs to my songbook!
+
+- <time>Apr 26, 2022</time> Continued with Module 10 practice, F (with bar) chord is shaping up to be pretty decent now (similar sounding to a Fmaj7) but the change from F to C is slow for me lol.
+
+- <time>Apr 23, 2022</time> Continued with Module 10 practice and did some really bad C Major improvisation (why did I choose the thinnest string?)
+
+- <time>Apr 22, 2022</time> Continued (?) with Module 10 practice.
+
+- <time>Apr 20, 2022</time> Finished with the Module 10 videos and got started with the first iteration of Module 10 practice (sort of, I need to start over with the C major scale alternate picking).
+
+- <time>Apr 19, 2022</time> Learnt some [common chord progressions](https://www.justinguitar.com/guitar-lessons/5-common-chord-progressions-bg-1011).
+
+- <time>Apr 17, 2022</time> Finished with La Bamba Riff (learnt the double note variation).
+
+- <time>Apr 16, 2022</time> Finished with [Beginner Hammer-ons](https://www.justinguitar.com/guitar-lessons/beginner-hammer-ons-bg-1008) which are super tricky and learnt the single note variation of the [La Bamba riff](https://www.justinguitar.com/guitar-lessons/la-bamba-riff-bg-1009), which is super awesome.
+
+- <time>Apr 15, 2022</time> Finished with [The Rhythm Push](https://www.justinguitar.com/guitar-lessons/the-rhythm-push-bg-1007) and also discovered that the 11th fret of the thinnest string sounds almost exactly like the "siren" sample in [Use This Gospel](https://www.youtube.com/watch?v=8yQVcGkbpAc).
+
+- <time>Apr 14, 2022</time> Finished with [Alternate Picking C Major](https://www.justinguitar.com/guitar-lessons/alternate-picking-c-major-bg-1005) and [Major Scale Improvisation](https://www.justinguitar.com/guitar-lessons/major-scale-improvisation-bg-1006) (really excited to start guitar improv in this module's practice!)
+
+- <time>Apr 13, 2022</time> Finished with [F chord changes](https://www.justinguitar.com/guitar-lessons/f-chord-changes-bg-1003) and [feeling the frets](https://www.justinguitar.com/guitar-lessons/feeling-the-frets-bg-1004).
+
+- <time>Apr 12, 2022</time> Learnt about the [weak finger G](https://www.justinguitar.com/guitar-lessons/weak-finger-g-bg-1001) (which I dislike, for now...) and the [A mini barre](https://www.justinguitar.com/guitar-lessons/first-finger-a-chord-bg-1002) (which I kinda dig)
+
+- <time>Apr 11, 2022</time> Finished the second iteration of Module 9 practice! Will start [Module 10](https://www.justinguitar.com/modules/alternate-gs-making-up-solos) tomorrow.
+
+- <time>Apr 10, 2022</time> Continued with the second iteration of Module 9 practice.
+
+- <time>Apr 09, 2022</time> Continued with the second iteration of Module 9 practice.
+
+- <time>Apr 08, 2022</time> Got started with the second iteration of Module 9 practice.
+
+- <time>Apr 07, 2022</time> Finished the first iteration of Module 9 practice, will start the second iteration tomorrow.
+
+- <time>Apr 06, 2022</time> I did it! I learnt the C Major Scale! I leveraged the previous pattern I learnt for the note circle.
+
+- <time>Apr 04, 2022</time> Continued with the first iteration of Module 9 practice and played [One by U2](https://www.youtube.com/watch?v=TBF_jCLO1l0).
+
+- <time>Apr 03, 2022</time> Continued with the first iteration of Module 9 practice. Something barely impressive: I can play the C-G-D-A-Em chord transition without looking at the guitar (kind of).
+
+- <time>Apr 01, 2022</time> Continued with the first iteration of Module 9 practice, the guitar chords Notion page is extremely handy!
+
+- <time>Mar 31, 2022</time> Revised the Em Pentatonic Scale.
+
+- <time>Mar 24, 2022</time> Continued with the first iteration of Module 9 practice.
+
+- <time>Mar 23, 2022</time> Got started with the first iteration of Module 9 practice.
+
+- <time>Mar 22, 2022</time> Finished with the Module 9 lessons, will be on the practice for some time (due to the C Major scale lol)
+
+- <time>Mar 21, 2022</time> Finished with the Red Hot Chili Peppers riff (minus the chords, might do that for fun).
+
+- <time>Mar 20, 2022</time> Got my guitar strings replaced, I've never heard a guitar so out of tune before lol.
+
+- <time>Mar 11, 2022</time> It wouldn't be a JustinGuitar module without an [odd finger training exercise](https://www.justinguitar.com/guitar-lessons/pinky-workout-b2-907). I was planning on finishing up [the Red Hot Chili Peppers riff today](https://www.justinguitar.com/guitar-lessons/californication-riff-b2-908) (since it's pretty easy) but my D string broke :(
+
+- <time>Mar 10, 2022</time> Finished with [more advanced 16th note strumming](https://www.justinguitar.com/guitar-lessons/ups-to-the-all-down-b2-906).
+
+- <time>Mar 09, 2022</time> Got done with compiling all the chords in a [Notion page](https://arjun-yadav.notion.site/Guitar-Chords-8f0d7c8cecd34495a8274b8f0ee3fa73?pvs=73).
+
+- <time>Mar 08, 2022</time> Changed my mind, [the C Major scale](https://www.justinguitar.com/guitar-lessons/c-major-scale-b2-905) got to me lol. I'll start the chord book work tomorrow.
+
+- <time>Mar 07, 2022</time> Finished with [All Stop Mute](https://www.justinguitar.com/guitar-lessons/all-stop-mute-b2-903) and [creating a chord book](https://www.justinguitar.com/guitar-lessons/your-chord-book-b2-904) (which I will do from tomorrow instead of the videos.)
+
+- <time>Mar 06, 2022</time> Finished with learning the F chord and [its variations](https://www.justinguitar.com/guitar-lessons/f-chord-cheats-b2-902). It honestly isn't _impossible_ but it certainly is tricky. Maybe I'm just lucky.
+
+- <time>Mar 03, 2022</time> Finished with the second iteration of Module 8 practice! Will start [Module 9 and the dreaded F chord](https://www.justinguitar.com/guitar-lessons/the-f-chord-b2-901) soon.
+
+- <time>Mar 02, 2022</time> Continued with the second iteration of Module 8 practice, nearly done.
+
+- <time>Mar 01, 2022</time> Continued with the second iteration of Module 8 practice.
+
+- <time>Feb 28, 2022</time> Started with the second iteration of Module 8 practice, why does my E min7 chord sound so bad?
+
+- <time>Feb 27, 2022</time> Finished with the first iteration of Module 8 practice! I'll start it all over again tomorrow.
+
+- <time>Feb 26, 2022</time> Continued with Module 8 practice.
+
+- <time>Feb 24, 2022</time> I think I'm done learning the riff! I'll check back tomorrow to see if I still remember it.
+
+- <time>Feb 23, 2022</time> Continued with the Wish You Were Here riff.
+
+- <time>Feb 22, 2022</time> I've been listening to Wish You Were Here by Pink Floyd in preparation for finishing the riff. I guess it helped a bit? Anyways, almost finished learning the riff and just a few more items are left for the first iteration of Module 1 practice!
+
+- <time>Feb 20, 2022</time> Continued with Module 8 practice.
+
+- <time>Feb 19, 2022</time> Continued with [Module 8](https://www.justinguitar.com/modules/cool-chords-fast-changes-scales) practice. I stink at Big G to D chord transitions.
+
+- <time>Feb 18, 2022</time> Memorized all the Stuck 3&4 chords!
+
+- <time>Feb 17, 2022</time> 3 days... Anyways, I've finished with all the content and I'll start with the practice tomorrow (for real this time!), it'll probably last ~2 weeks since I'll repeat it.
+
+- <time>Feb 13, 2022</time> Finished with the Wish You Were Here riff video, sort of got the introduction down. Will start the practice soon!
+
+- <time>Feb 12, 2022</time> Finished with [Notes in Open Position](https://www.justinguitar.com/guitar-lessons/notes-in-open-position-b2-809) and got started with the [Wish You Were Here riff](https://www.justinguitar.com/guitar-lessons/wish-you-were-here-riff-for-beginners-b2-808), the riff is super hard!
+
+- <time>Feb 11, 2022</time> Finished with [Pick Manipulation](https://www.justinguitar.com/guitar-lessons/pick-manipulation-b2-806).
+
+- <time>Feb 10, 2022</time> Finished with [All Down 8th Note Strumming](https://www.justinguitar.com/guitar-lessons/all-down-8th-note-strumming-b2-805), really had a lot fun today in this lesson! Strumming can sometimes be fun.
+
+- <time>Feb 09, 2022</time> Finished with [Muting Strings Deliberately](https://www.justinguitar.com/guitar-lessons/muting-strings-deliberately-b2-804).
+
+- <time>Feb 08, 2022</time> I have no excuses for not playing guitar for 4 days. Anyways, learnt about a [new exercise routine](https://www.justinguitar.com/guitar-lessons/perfect-fast-changes-b2-802) and the [Open Em Pentatonic scale](https://www.justinguitar.com/guitar-lessons/open-e-minor-pentatonic-scale-b2-803).
+
+- <time>Feb 04, 2022</time> Learnt [a ton of chord variations](https://www.justinguitar.com/guitar-lessons/the-stuck-3-4-chords-b2-801). Going to be slightly hard to remember and practice all of them :(
+
+- <time>Feb 02, 2022</time> Finished Module 7 practice. Going to start Grade 2 (in guitar!) on the weekend.
+
+- <time>Feb 01, 2022</time> It's been a while and I finished memorizing two more songs (mainly Mad World) and I only have two more before I finish all my pre-requisites! The memorizing and practising also continued my Module 7 practice.
+
+- <time>Jan 28, 2022</time> Continued with [Module 7](https://www.justinguitar.com/guitar-lessons/the-8-essential-beginner-chord-grips-b1-701)'s practice.
+
+- <time>Jan 26, 2022</time> Finished all the content of the last module for Grade 1 and got started with the practice, this (and the last pre-requisite) should be done in about 2 weeks time.
+
+- <time>Jan 25, 2022</time> Finished all the pre-requisites for Grade 2 except for memorizing the songs, still have 4-ish left.
+
+- <time>Jan 24, 2022</time> We did it! We'll soon be in [Grade 2](https://www.justinguitar.com/classes/beginner-guitar-course-grade-two) after I complete the pre-requisites and the practice for this module.
+
+- <time>Jan 23, 2022</time> Learnt about the extra modules that JustinGuitar provides (outside of the grades).
+
+- <time>Jan 22, 2022</time> Learnt more about [Dynamics](https://www.justinguitar.com/guitar-lessons/dynamic-improvements-b1-706).
+
+- <time>Jan 21, 2022</time> Learnt about [open strings between chord changes](https://www.justinguitar.com/guitar-lessons/open-strings-between-changes-b1-704) and [feel good strumming](https://www.justinguitar.com/guitar-lessons/feel-good-strumming-b1-705).
+
+- <time>Jan 20, 2022</time> Learnt about the [best chord changes to practice](https://www.justinguitar.com/guitar-lessons/best-chord-changes-to-work-on-b1-702) and [air changes](https://www.justinguitar.com/guitar-lessons/air-changes-aspire-to-this-b1-703).
+
+- <time>Jan 19, 2022</time> Started the last module with [a revision on the 8 basic chords](https://www.justinguitar.com/guitar-lessons/the-8-essential-beginner-chord-grips-b1-701).
+
+- <time>Jan 18, 2022</time> Finished with the second iteration of practice (!) and practised Mad World. Will start the last module of Grade 1 tomorrow.
+
+- <time>Jan 17, 2022</time> Continued with the second iteration of practice and Hey Joe. Nearly done.
+
+- <time>Jan 16, 2022</time> Continued with the second iteration of practice and Hey Joe.
+
+- <time>Jan 15, 2022</time> Started the second iteration of practice and added Hey Joe and [Mad World](https://www.youtube.com/watch?v=4N3N1MlvVc4) to my songbook!
+
+- <time>Jan 14, 2022</time> Finished Module 6 practice and played quite alright for this module's song, [Hey Joe](https://www.youtube.com/watch?v=rXwMrBb2x1Q).
+
+- <time>Jan 13, 2022</time> Continued with Module 6 practice, I only have the song practice left!
+
+- <time>Jan 11, 2022</time> Continued with Module 6 practice.
+
+- <time>Jan 10, 2022</time> Started with Module 6 practice. After this and the second iteration, I will have moved on to the last module of [Grade 1](https://www.justinguitar.com/classes/beginner-guitar-course-grade-one)!
+
+- <time>Jan 08, 2022</time> Finished [Module 6](https://www.justinguitar.com/modules/beginner-guitar-lesson-6)! Will start the practice soon.
+
+- <time>Jan 07, 2022</time> Learnt a [strumming pattern in 6:8 timing](https://www.justinguitar.com/guitar-lessons/a-6-8-strumming-pattern-b1-604) and [string names](https://www.justinguitar.com/guitar-lessons/open-string-note-names-b1-605).
+
+- <time>Jan 06, 2022</time> Learnt about [6:8 timing](https://www.justinguitar.com/guitar-lessons/about-time-signatures-b1-603).
+
+- <time>Jan 05, 2022</time> Learnt about [alternate picking](https://www.justinguitar.com/guitar-lessons/beginner-alternate-picking-b1-601) and a [variation of the G chord](https://www.justinguitar.com/guitar-lessons/the-g-chord-hacked-b1-602).
+
+- <time>Jan 04, 2022</time> Finished the second iteration of practice and added [Black](https://www.youtube.com/watch?v=4q9UafsiQ6k) to my songbook!
+
+- <time>Jan 03, 2022</time> Only song practice is left for the second iteration of practice! Also, I am very bad at transitioning from C chord to E chord.
+
+- <time>Jan 02, 2021</time> Continued the second iteration of practice.
+
+- <time>Jan 01, 2021</time> Sorry, I forgot what tomorrow meant, anyways, I started with the second iteration with the odd finger stretching exercise and the riff practice, will continue with the iteration tomorrow...
+
+- <time>Dec 29, 2021</time> Completed the first iteration! Will start the Module 5 practice once again tomorrow.
+
+- <time>Dec 28, 2021</time> Continued with Module 5 practice. Only song practice is left for iteration 1.
+
+- <time>Dec 27, 2021</time> Continued with Module 5 practice.
+
+- <time>Dec 26, 2021</time> Started with Module 5 practice.
+
+- <time>Dec 25, 2021</time> Finished Module 5, will take the next week solely for practice. Also going to build a songbook next week.
+
+- <time>Dec 24, 2021</time> Watched the [Songs For Module 5](https://www.justinguitar.com/guitar-lessons/songs-for-module-5-b1-507) video and tried my hands at [Daft Punk](https://www.youtube.com/watch?v=5NV6Rdv1a3I), let's just say that I'll be practising Daft Punk for a while...
+
+- <time>Dec 23, 2021</time> Learnt about [music theory and notes in guitar](https://www.justinguitar.com/guitar-lessons/understanding-music-notes-b1-504).
+
+- <time>Dec 22, 2021</time> Learnt [more about strumming](https://www.justinguitar.com/guitar-lessons/exploring-strumming-b1-503).
+
+- <time>Dec 21, 2021</time> Learnt the [Come As You Are riff](https://www.justinguitar.com/guitar-lessons/riff-come-as-you-are-b1-506).
+
+- <time>Dec 20, 2021</time> Finished with Justin's strumming tips.
+
+- <time>Dec 18, 2021</time> Got a little more than half-way through with [Justin's strumming tips](https://www.justinguitar.com/guitar-lessons/guitar-strumming-tips-b1-502).
+
+- <time>Dec 16, 2021</time> Learnt [the C Chord](https://www.justinguitar.com/guitar-lessons/the-c-chord-b1-501).
+
+- <time>Dec 15, 2021</time> Finished the second iteration of Module 4 practice and played 505 and Chocolate Jesus! I'll start [Module 5](https://www.justinguitar.com/modules/c-chord-music-notes-more) tomorrow.
+
+- <time>Dec 13, 2021</time> Continued with Module 4 practice, nearly done!
+
+- <time>Dec 12, 2021</time> Started with the second iteration of Module 4 practice.
+
+- <time>Dec 10, 2021</time> Finished the first iteration of Module 4 practice, had fun playing 505 and [Chocolate Jesus](https://www.youtube.com/watch?v=1wfamPW3Eaw).
+
+- <time>Dec 09, 2021</time> Continued with Module 4 Practice, I'll probably finish with this practice after I do the whole thing twice.
+
+- <time>Dec 08, 2021</time> Website is back up and continued with [Module 4](https://www.justinguitar.com/modules/using-a-metronome-riffs-and-tab) practice.
+
+- <time>Dec 06, 2021</time> Continued with 505 as the website is still broken.
+
+- <time>Dec 05, 2021</time> Sort of freestyled a bit since the website seems to be broken.
+
+- <time>Dec 03, 2021</time> Continued with 505, the strumming pattern is hard to master!
+
+- <time>Dec 02, 2021</time> Continued with 505.
+
+- <time>Dec 01, 2021</time> Started learning [505 by Arctic Monkeys](https://www.youtube.com/watch?v=qU9mHegkTc4) as part of my guitar practice, really nice song.
+
+- <time>Nov 30, 2021</time> Learnt [the riff to Sunshine Of Your Love by Cream](https://www.justinguitar.com/guitar-lessons/sunshine-of-your-love-b1-406), hoping to learn much more in December.
+
+- <time>Nov 29, 2021</time> Learnt about the [most common strumming patter in guitar](https://www.justinguitar.com/guitar-lessons/the-strumming-pattern-b1-404).
+
+- <time>Nov 28, 2021</time> Learnt about the [metronome](https://www.justinguitar.com/guitar-lessons/meet-the-metronome-b1-403) in guitar.
+
+- <time>Nov 27, 2021</time> Learnt the [D Minor chord](https://www.justinguitar.com/guitar-lessons/the-d-minor-chord-b1-402), really cool chord! Sounds much moodier than the other minor chords I've learnt.
+
+- <time>Nov 25, 2021</time> Continued with JustinGuitar and [learnt about this odd finger stretching exercise](https://www.justinguitar.com/guitar-lessons/beginner-finger-stretches-b1-401).
+
+- <time>Nov 22, 2021</time> Went back to Three Little Birds.
+
+- <time>Nov 21, 2021</time> Freestyled for a bit.
+
+- <time>Nov 19, 2021</time> Easing back into guitar.
+
+- <time>Nov 07, 2021</time> Finishing the whole practice was way too ambitious. I could only get done with the Seven Nation Army riff practice.
+
+- <time>Nov 06, 2021</time> Finished with Three Little Birds, hope to finish [Module 3](https://www.justinguitar.com/modules/minor-chords-and-up-strums) practice tomorrow.
+
+- <time>Nov 05, 2021</time> Continued with Three Little Birds, the A to E to D transition is really hard.
+
+- <time>Nov 04, 2021</time> Continued with Three Little Birds.
+
+- <time>Nov 03, 2021</time> Practiced [Three Little Birds by Bob Marley](https://www.youtube.com/watch?v=HNBCVM4KbUM). Beautiful song!
+
+- <time>Nov 02, 2021</time> Been some time, and learnt the [Seven Nation Army riff](https://www.justinguitar.com/guitar-lessons/seven-nation-army-b1-309).
+
+- <time>Oct 30, 2021</time> Learnt about [strumming with up strums, and using it after the 2nd beat](https://www.justinguitar.com/guitar-lessons/strumming-patterns-with-ups-b1-307).
+
+- <time>Oct 29, 2021</time> Learnt about [up strums](https://www.justinguitar.com/guitar-lessons/all-about-up-strums-b1-306).
 <hr />
 
 ## Inactive
-
-<hr />
-
-## <span id="ausresearch">AUS CSE Research Assistant</span>
-
-<small>Jun 12, 2023-present</small>  
-<small>Currently a research assistant for the computer science and engineering department at the American University of Sharjah. Will continue after my examinations this last month of the year.</small>
-
-<hr />
-
-#### Log
-
-- <time>Oct 09, 2023-Oct 11, 2023</time> Got the training results up on the AI lab machine!
-
-- <time>Sep 24, 2023</time> Finally, some good progress.
-
-- <time>Sep 17, 2023</time> Met my co-RA in-person!
-
-- <time>Sep 10, 2023</time> Solid plan for the next four to five days, excited!
-
-- <time>Sep 08, 2023</time> Back to normal training results.
-
-- <time>Sep 03, 2023</time> Sent out the report.
-
-- <time>Aug 31, 2023</time> Met my professor onsite! Really reassured now, going to continue on with a really sweet end-goal in mind!
-
-![AUS - Part Two](/AUS-2.jpeg)
-
-- <time>Aug 21, 2023-Aug 25, 2023</time> Spoke with my professor and co-RA.
-
-- <time>Aug 20, 2023</time> Jeez, the results are quite poor. Going to need to get back to Paperspace soon.
-
-- <time>Aug 12, 2023-Aug 17, 2023</time> Experimented with VAEs and GANs - going to move on now to expanding the dataset and re-training.
-
-- <time>Aug 11, 2023</time> Some lukewarm results again, better than run-through at least!
-
-- <time>Aug 08, 2023</time> Hm, running into a snafu with my code. Will check what's up tomorrow.
-
-- <time>Aug 07, 2023</time> Heard back from my co-RA!
-
-- <time>Aug 06, 2023</time> Man, my data processing work sort of meant nothing today. Oh well, we move.
-
-- <time>Aug 05, 2023</time> You can only increase the batch size <i>so much</i>.
-
-- <time>Aug 04, 2023</time> Some great results for the first day with the data!
-
-- <time>Aug 02, 2023</time> Spoke with my co-RA!
-
-- <time>Aug 01, 2023</time> Took a cursory look at the data.
-
-- <time>Jul 29, 2023-Jul 31, 2023</time> The end of this month lined up perfectly with the end of the first part of this project, excited for the next step!
-
-- <time>Jul 28, 2023-Jul 29, 2023</time> Going to move on to analysing why the model had performed poorly on FashionMNIST, but quite well on CIFAR-10.
-
-- <time>Jul 27, 2023</time> In the meanwhile, tried my hand at FashionMNIST. Did not go so well.
-
-- <time>Jul 24, 2023-Jul 25, 2023</time> CIFAR-10 training done, going to try out Tiny ImageNet next to end of training before the CameraTrap part of my research (hopefully!)
-
-- <time>Jul 23, 2023</time> CIFAR-10 training should be done tomorrow morning!
-
-- <time>Jul 22, 2023</time> Switched to Gradient.
-
-- <time>Jul 21, 2023</time> CIFAR-10 is showing great results!
-
-- <time>Jul 19, 2023-Jul 20, 2023</time> We back to training.
-
-- <time>Jul 18, 2023</time> Why is Google so stingy?
-
-- <time>Jul 17, 2023</time> Day 4b) happened! Got the 240 x 240 data set, and I think the model is better?
-
-- <time>Jul 15, 2023</time> Pre-lude to Day 4b) tomorrow.
-
-- <time>Jul 12, 2023</time> Day 4a) I guess.
-
-- <time>Jul 10, 2023</time> Heard back from my professor.
-
-- <time>Jul 08, 2023</time> Training, will see its results by tonight (hopefully, else it might time out)
-
-- <time>Jul 07, 2023</time> Need to train it on the larger dataset tomorrow, had some troubles with it today.
-
-- <time>Jul 06, 2023</time> I did it! Finally got some results on ImageNette (a smaller version of ImageNet) and while they're not very good, at least I'm somewhere tangible now!
-
-- <time>Jul 05, 2023</time> So close.
-
-- <time>Jul 02, 2023</time> Closer.
-
-- <time>Jul 01, 2023</time> More time needed.
-
-- <time>Jun 30, 2023</time> Finished my notes on the repository and, in my efforts of trying to get the results on CIFAR-10, ran into a bug that I could not squash in time. Will continue tomorrow.
-
-- <time>Jun 25, 2023-Jun 27, 2023</time> Thoroughly went through a repository - really interesting stuff! Only one roadblock is the difference between two models, but I'm sure I'll figure that out tomorrow.
-
-- <time>Jun 22, 2023</time> Read two academic papers.
-
-- <time>Jun 21, 2023</time> Read three academic papers.
-
-- <time>Jun 12, 2023</time> First day! Learnt a lot about transformers.
-
-![AUS.jpg](/AUS.jpg)
 
 <hr />
 
@@ -11182,348 +11430,136 @@ function getCount(str) {
 
 <hr />
 
-## <span id="guitar">Guitar</span>
+## <span id="coldtakesbetareading">[Cold Takes](https://www.cold-takes.com/) Beta Reading</span>
 
-<small>Oct 29, 2021-present</small>  
-<small>Trying to learn acoustic guitar via [justinguitar.com](https://justinguitar.com). Currently inactive/paused.</small>
+<small>Jan 20, 2022-present</small>  
+<small>I got accepted to beta read Holden Karnofsky's articles for his blog, Cold Takes. Trying to be as useful as I can be! Note that I only update this log when I fully finish proof-reading and when the post has been published. Currently an occasional project.</small>
 
-<hr />
-<small>Guitar's start date is the date I started logging, not the date when the project started.</small>
 <hr />
 
 #### Log
 
-- <time>Sep 16, 2022</time> Learnt [some open 7th chords](https://www.justinguitar.com/guitar-lessons/open-7th-chords-bg-1301).
+- <time>Jan 09, 2023</time> Finished my eighth proof-reading. The link to the post will be [here](https://www.cold-takes.com/spreading-messages-to-help-with-the-most-important-century/) once done.
 
-- <time>Sep 03, 2022</time> (Tried) to learn [Hey You](https://www.youtube.com/watch?v=soL8JK6kALc) by Pink Floyd.
+- <time>Dec 16, 2022</time> Finished my seventh proof-reading (possibly my last for this year - so grateful to have been a part of this). The link to the post will be [here](https://www.cold-takes.com/transformative-ai-issues-not-just-misalignment-an-overview/) once done.
 
-- <time>Aug 17, 2022</time> Freestyled to ease back in.
+- <time>Oct 12, 2022</time> Finished my sixth proof-reading (although I unfortunately missed the deadline by a bit). The link to the post will be [here](https://www.cold-takes.com/high-level-hopes-for-ai-alignment/) once done.
 
-- <time>Aug 03, 2022</time> Continued with Module 4 practice.
+- <time>Sep 08, 2022</time> Finished my fifth proof-reading. The link to the post will be [here](https://www.cold-takes.com/why-would-ai-aim-to-defeat-humanity/) once done.
 
-- <time>Aug 01, 2022</time> "Learnt" [the intro to Chop Suey!](https://www.youtube.com/watch?v=EjQxA7ulTdM) Drop C tuning is awesome.
+- <time>Sep 05, 2022</time> Along with other beta-readers, I got appreciated in [the latest Cold Takes post](https://www.cold-takes.com/beta-readers-are-great/)!
 
-- <time>Jul 28, 2022</time> Practiced a sliding power chord song that was recommended to us (why do almost all of them have iffy names?)
+- <time>May 25, 2022</time> Been a while, but finished my fourth proof-reading. The link to the post will be [here](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/) once done.
 
-- <time>Jul 27, 2022</time> Got started with Module 4 practice.
+- <time>Feb 20, 2022</time> Finished my third proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/debating-myself-on-whether-extra-lives-lived-are-as-good-as-deaths-prevented/) once done.
 
-- <time>Jul 26, 2022</time> Finished learning [an easier version of Enter Sandman](https://www.youtube.com/watch?v=j7GCEY1TALw).
+- <time>Feb 04, 2022</time> Finished my second proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/defending-one-dimensional-ethics/) once done.
 
-- <time>Jul 25, 2022</time> "Finished" with the Module 5 videos (sort of just skipped a few) and will get started with the practice tomorrow.
-
-- <time>Jul 20, 2022</time> Played an electric guitar for the first time!
-- <time>Jul 08, 2022</time> Finished [a short video](https://www.justinguitar.com/guitar-lessons/awesome-power-chord-songs-bg-1207) in the module. I guess I've been less motivated to continue with this module since it's so electric guitar focused (though maybe I'm wrong and my skill is to blame here, not the acoustic)
-
-- <time>Jul 04, 2022</time> Sort of continued with the riff.
-
-- <time>Jul 03, 2022</time> Learnt the first part of the first part of the [Enter Sandman riff](https://www.justinguitar.com/guitar-lessons/enter-sandman-bg-1205).
-
-- <time>Jul 02, 2022</time> Finished with [Palm Muting](https://www.justinguitar.com/guitar-lessons/palm-muting-bg-1203) and [Understanding Distortion](https://www.justinguitar.com/guitar-lessons/understanding-distortion-bg-1204). This module is irritating if you're using an acoustic. Why do you have to be so cool, electric?.
-
-- <time>Jun 27, 2022</time> Finished with [The Am Pentatonic Scale](https://www.justinguitar.com/guitar-lessons/the-a-minor-pentatonic-bg-1202).
-
-- <time>Jun 26, 2022</time> Finished with Power Chords (and sort of learnt [Smells Like Teen Spirit](https://www.youtube.com/watch?v=JirXTmnItd4)?)
-
-- <time>Jun 25, 2022</time> Got started with [Power Chords](https://www.justinguitar.com/guitar-lessons/power-chords-bg-1201).
-
-- <time>Jun 18, 2022</time> Six days... Finished with the second iteration of Module 4 practice.
-
-- <time>Jun 12, 2022</time> Continued with the second iteration of Module 4 practice. I finally understood why my guitar improv is so bad: I keep trying to play odd patterns.
-
-- <time>Jun 11, 2022</time> Continued with the second iteration of Module 4 practice.
-
-- <time>Jun 09, 2022</time> Got started with the second iteration of Module 4 practice.
-
-- <time>Jun 08, 2022</time> Finished with the first iteration of Module 4 practice.
-
-- <time>Jun 06, 2022</time> Continued with the first iteration of Module 4 practice.
-
-- <time>Jun 05, 2022</time> Got my guitar repaired!
-
-- <time>May 28, 2022</time> Continued with the first iteration of Module 4 practice, will be done with it tomorrow (welp, a guitar string broke again, so I'll try my best to get back to the practice ASAP).
-
-- <time>May 26, 2022</time> Finished with the Module 4 videos and got started with the first iteration of Module 4 practice. I think I'm going to increase the number of iterations to three.
-
-- <time>May 25, 2022</time> Finished [dice songwriting](https://www.justinguitar.com/guitar-lessons/introduction-to-dice-songwriting-bg-1108). Really fun lesson! (even though I didn't do too much lol)
-
-- <time>May 24, 2022</time> Finished learning about [the songs for this module](https://www.justinguitar.com/guitar-lessons/songs-for-module-11-bg-1107) (excited for the fingerstyle songs for the first iteration).
-
-- <time>May 23, 2022</time> Finished [some ear training](https://www.justinguitar.com/guitar-lessons/re-active-listening-bg-1104), felt pretty disheartened after getting the last exercise wrong.
-
-- <time>May 22, 2022</time> Had fun with [this lesson](https://www.justinguitar.com/guitar-lessons/chord-freedom-bg-1101).
-
-- <time>May 19, 2022</time> It took roughly a week but I can finally play Happy Birthday on my own!
-
-- <time>May 18, 2022</time> Hopefully I should be able to play it tomorrow...
-
-- <time>May 16, 2022</time> So close to playing Happy Birthday on my own!
-
-- <time>May 15, 2022</time> Continued with learning Happy Birthday, about two-thirds of the way there.
-
-- <time>May 13, 2022</time> Continued with learning Happy Birthday.
-
-- <time>May 12, 2022</time> Got started with learning [Happy Birthday](https://www.justinguitar.com/guitar-lessons/happy-birthday-finger-style-bg-1106) and had some fun with learning [All Falls Down](https://www.youtube.com/watch?v=gWxt9GAiKZo) (I guess I've learnt it? It sounds pretty bad though).
-
-- <time>May 11, 2022</time> Learnt more about [fingerstyle playing](https://www.justinguitar.com/guitar-lessons/finger-style-first-steps-bg-1105).
-
-- <time>May 10, 2022</time> Had fun playing How Much A Dollar Cost with [these chords](https://tabs.ultimate-guitar.com/tab/kendrick-lamar/how-much-a-dollar-cost-chords-1947283) (simplified) (only the F#, F and Dm sounded okay lol)
-
-- <time>May 09, 2022</time> Finished with [shifting the F chord](https://www.justinguitar.com/guitar-lessons/shifting-the-f-bg-1103). The way Justin played the F chord reminded me [How Much a Dollar Cost by Kendrick Lamar](https://www.youtube.com/watch?v=y8kEiL81_R4). I'm going to try to play that tomorrow.
-
-- <time>May 08, 2022</time> Got started with [Module 11 with some sus chords](https://www.justinguitar.com/guitar-lessons/beginner-sus-chords-bg-1102), I really like the transition from A sus2 to A sus4.
-
-- <time>May 06, 2022</time> Finished with the second iteration of Module 10 practice!
-
-- <time>May 05, 2022</time> Continued with the second iteration of Module 10 practice. Nearly done!
-
-- <time>May 04, 2022</time> Continued with the second iteration of Module 10 practice.
-
-- <time>May 03, 2022</time> Continued with the second iteration of Module 10 practice, I thought I forgot the C Major scale but nope, my guitar was just slightly out of tune lol.
-
-- <time>May 02, 2022</time> Got started with the second iteration of Module 10 practice.
-
-- <time>May 01, 2022</time> Finished with the first iteration of Module 10 practice! Also, small correction: I don't use the songbook tab on JustinGuitar.com (since it forces the song into three categories, which I don't like) and instead I just like the play-through video (which acts as a songbook).
-
-- <time>Apr 27, 2022</time> Continued with Module 10 practice and added two songs to my songbook!
-
-- <time>Apr 26, 2022</time> Continued with Module 10 practice, F (with bar) chord is shaping up to be pretty decent now (similar sounding to a Fmaj7) but the change from F to C is slow for me lol.
-
-- <time>Apr 23, 2022</time> Continued with Module 10 practice and did some really bad C Major improvisation (why did I choose the thinnest string?)
-
-- <time>Apr 22, 2022</time> Continued (?) with Module 10 practice.
-
-- <time>Apr 20, 2022</time> Finished with the Module 10 videos and got started with the first iteration of Module 10 practice (sort of, I need to start over with the C major scale alternate picking).
-
-- <time>Apr 19, 2022</time> Learnt some [common chord progressions](https://www.justinguitar.com/guitar-lessons/5-common-chord-progressions-bg-1011).
-
-- <time>Apr 17, 2022</time> Finished with La Bamba Riff (learnt the double note variation).
-
-- <time>Apr 16, 2022</time> Finished with [Beginner Hammer-ons](https://www.justinguitar.com/guitar-lessons/beginner-hammer-ons-bg-1008) which are super tricky and learnt the single note variation of the [La Bamba riff](https://www.justinguitar.com/guitar-lessons/la-bamba-riff-bg-1009), which is super awesome.
-
-- <time>Apr 15, 2022</time> Finished with [The Rhythm Push](https://www.justinguitar.com/guitar-lessons/the-rhythm-push-bg-1007) and also discovered that the 11th fret of the thinnest string sounds almost exactly like the "siren" sample in [Use This Gospel](https://www.youtube.com/watch?v=8yQVcGkbpAc).
-
-- <time>Apr 14, 2022</time> Finished with [Alternate Picking C Major](https://www.justinguitar.com/guitar-lessons/alternate-picking-c-major-bg-1005) and [Major Scale Improvisation](https://www.justinguitar.com/guitar-lessons/major-scale-improvisation-bg-1006) (really excited to start guitar improv in this module's practice!)
-
-- <time>Apr 13, 2022</time> Finished with [F chord changes](https://www.justinguitar.com/guitar-lessons/f-chord-changes-bg-1003) and [feeling the frets](https://www.justinguitar.com/guitar-lessons/feeling-the-frets-bg-1004).
-
-- <time>Apr 12, 2022</time> Learnt about the [weak finger G](https://www.justinguitar.com/guitar-lessons/weak-finger-g-bg-1001) (which I dislike, for now...) and the [A mini barre](https://www.justinguitar.com/guitar-lessons/first-finger-a-chord-bg-1002) (which I kinda dig)
-
-- <time>Apr 11, 2022</time> Finished the second iteration of Module 9 practice! Will start [Module 10](https://www.justinguitar.com/modules/alternate-gs-making-up-solos) tomorrow.
-
-- <time>Apr 10, 2022</time> Continued with the second iteration of Module 9 practice.
-
-- <time>Apr 09, 2022</time> Continued with the second iteration of Module 9 practice.
-
-- <time>Apr 08, 2022</time> Got started with the second iteration of Module 9 practice.
-
-- <time>Apr 07, 2022</time> Finished the first iteration of Module 9 practice, will start the second iteration tomorrow.
-
-- <time>Apr 06, 2022</time> I did it! I learnt the C Major Scale! I leveraged the previous pattern I learnt for the note circle.
-
-- <time>Apr 04, 2022</time> Continued with the first iteration of Module 9 practice and played [One by U2](https://www.youtube.com/watch?v=TBF_jCLO1l0).
-
-- <time>Apr 03, 2022</time> Continued with the first iteration of Module 9 practice. Something barely impressive: I can play the C-G-D-A-Em chord transition without looking at the guitar (kind of).
-
-- <time>Apr 01, 2022</time> Continued with the first iteration of Module 9 practice, the guitar chords Notion page is extremely handy!
-
-- <time>Mar 31, 2022</time> Revised the Em Pentatonic Scale.
-
-- <time>Mar 24, 2022</time> Continued with the first iteration of Module 9 practice.
-
-- <time>Mar 23, 2022</time> Got started with the first iteration of Module 9 practice.
-
-- <time>Mar 22, 2022</time> Finished with the Module 9 lessons, will be on the practice for some time (due to the C Major scale lol)
-
-- <time>Mar 21, 2022</time> Finished with the Red Hot Chili Peppers riff (minus the chords, might do that for fun).
-
-- <time>Mar 20, 2022</time> Got my guitar strings replaced, I've never heard a guitar so out of tune before lol.
-
-- <time>Mar 11, 2022</time> It wouldn't be a JustinGuitar module without an [odd finger training exercise](https://www.justinguitar.com/guitar-lessons/pinky-workout-b2-907). I was planning on finishing up [the Red Hot Chili Peppers riff today](https://www.justinguitar.com/guitar-lessons/californication-riff-b2-908) (since it's pretty easy) but my D string broke :(
-
-- <time>Mar 10, 2022</time> Finished with [more advanced 16th note strumming](https://www.justinguitar.com/guitar-lessons/ups-to-the-all-down-b2-906).
-
-- <time>Mar 09, 2022</time> Got done with compiling all the chords in a [Notion page](https://arjun-yadav.notion.site/Guitar-Chords-8f0d7c8cecd34495a8274b8f0ee3fa73?pvs=73).
-
-- <time>Mar 08, 2022</time> Changed my mind, [the C Major scale](https://www.justinguitar.com/guitar-lessons/c-major-scale-b2-905) got to me lol. I'll start the chord book work tomorrow.
-
-- <time>Mar 07, 2022</time> Finished with [All Stop Mute](https://www.justinguitar.com/guitar-lessons/all-stop-mute-b2-903) and [creating a chord book](https://www.justinguitar.com/guitar-lessons/your-chord-book-b2-904) (which I will do from tomorrow instead of the videos.)
-
-- <time>Mar 06, 2022</time> Finished with learning the F chord and [its variations](https://www.justinguitar.com/guitar-lessons/f-chord-cheats-b2-902). It honestly isn't _impossible_ but it certainly is tricky. Maybe I'm just lucky.
-
-- <time>Mar 03, 2022</time> Finished with the second iteration of Module 8 practice! Will start [Module 9 and the dreaded F chord](https://www.justinguitar.com/guitar-lessons/the-f-chord-b2-901) soon.
-
-- <time>Mar 02, 2022</time> Continued with the second iteration of Module 8 practice, nearly done.
-
-- <time>Mar 01, 2022</time> Continued with the second iteration of Module 8 practice.
-
-- <time>Feb 28, 2022</time> Started with the second iteration of Module 8 practice, why does my E min7 chord sound so bad?
-
-- <time>Feb 27, 2022</time> Finished with the first iteration of Module 8 practice! I'll start it all over again tomorrow.
-
-- <time>Feb 26, 2022</time> Continued with Module 8 practice.
-
-- <time>Feb 24, 2022</time> I think I'm done learning the riff! I'll check back tomorrow to see if I still remember it.
-
-- <time>Feb 23, 2022</time> Continued with the Wish You Were Here riff.
-
-- <time>Feb 22, 2022</time> I've been listening to Wish You Were Here by Pink Floyd in preparation for finishing the riff. I guess it helped a bit? Anyways, almost finished learning the riff and just a few more items are left for the first iteration of Module 1 practice!
-
-- <time>Feb 20, 2022</time> Continued with Module 8 practice.
-
-- <time>Feb 19, 2022</time> Continued with [Module 8](https://www.justinguitar.com/modules/cool-chords-fast-changes-scales) practice. I stink at Big G to D chord transitions.
-
-- <time>Feb 18, 2022</time> Memorized all the Stuck 3&4 chords!
-
-- <time>Feb 17, 2022</time> 3 days... Anyways, I've finished with all the content and I'll start with the practice tomorrow (for real this time!), it'll probably last ~2 weeks since I'll repeat it.
-
-- <time>Feb 13, 2022</time> Finished with the Wish You Were Here riff video, sort of got the introduction down. Will start the practice soon!
-
-- <time>Feb 12, 2022</time> Finished with [Notes in Open Position](https://www.justinguitar.com/guitar-lessons/notes-in-open-position-b2-809) and got started with the [Wish You Were Here riff](https://www.justinguitar.com/guitar-lessons/wish-you-were-here-riff-for-beginners-b2-808), the riff is super hard!
-
-- <time>Feb 11, 2022</time> Finished with [Pick Manipulation](https://www.justinguitar.com/guitar-lessons/pick-manipulation-b2-806).
-
-- <time>Feb 10, 2022</time> Finished with [All Down 8th Note Strumming](https://www.justinguitar.com/guitar-lessons/all-down-8th-note-strumming-b2-805), really had a lot fun today in this lesson! Strumming can sometimes be fun.
-
-- <time>Feb 09, 2022</time> Finished with [Muting Strings Deliberately](https://www.justinguitar.com/guitar-lessons/muting-strings-deliberately-b2-804).
-
-- <time>Feb 08, 2022</time> I have no excuses for not playing guitar for 4 days. Anyways, learnt about a [new exercise routine](https://www.justinguitar.com/guitar-lessons/perfect-fast-changes-b2-802) and the [Open Em Pentatonic scale](https://www.justinguitar.com/guitar-lessons/open-e-minor-pentatonic-scale-b2-803).
-
-- <time>Feb 04, 2022</time> Learnt [a ton of chord variations](https://www.justinguitar.com/guitar-lessons/the-stuck-3-4-chords-b2-801). Going to be slightly hard to remember and practice all of them :(
-
-- <time>Feb 02, 2022</time> Finished Module 7 practice. Going to start Grade 2 (in guitar!) on the weekend.
-
-- <time>Feb 01, 2022</time> It's been a while and I finished memorizing two more songs (mainly Mad World) and I only have two more before I finish all my pre-requisites! The memorizing and practising also continued my Module 7 practice.
-
-- <time>Jan 28, 2022</time> Continued with [Module 7](https://www.justinguitar.com/guitar-lessons/the-8-essential-beginner-chord-grips-b1-701)'s practice.
-
-- <time>Jan 26, 2022</time> Finished all the content of the last module for Grade 1 and got started with the practice, this (and the last pre-requisite) should be done in about 2 weeks time.
-
-- <time>Jan 25, 2022</time> Finished all the pre-requisites for Grade 2 except for memorizing the songs, still have 4-ish left.
-
-- <time>Jan 24, 2022</time> We did it! We'll soon be in [Grade 2](https://www.justinguitar.com/classes/beginner-guitar-course-grade-two) after I complete the pre-requisites and the practice for this module.
-
-- <time>Jan 23, 2022</time> Learnt about the extra modules that JustinGuitar provides (outside of the grades).
-
-- <time>Jan 22, 2022</time> Learnt more about [Dynamics](https://www.justinguitar.com/guitar-lessons/dynamic-improvements-b1-706).
-
-- <time>Jan 21, 2022</time> Learnt about [open strings between chord changes](https://www.justinguitar.com/guitar-lessons/open-strings-between-changes-b1-704) and [feel good strumming](https://www.justinguitar.com/guitar-lessons/feel-good-strumming-b1-705).
-
-- <time>Jan 20, 2022</time> Learnt about the [best chord changes to practice](https://www.justinguitar.com/guitar-lessons/best-chord-changes-to-work-on-b1-702) and [air changes](https://www.justinguitar.com/guitar-lessons/air-changes-aspire-to-this-b1-703).
-
-- <time>Jan 19, 2022</time> Started the last module with [a revision on the 8 basic chords](https://www.justinguitar.com/guitar-lessons/the-8-essential-beginner-chord-grips-b1-701).
-
-- <time>Jan 18, 2022</time> Finished with the second iteration of practice (!) and practised Mad World. Will start the last module of Grade 1 tomorrow.
-
-- <time>Jan 17, 2022</time> Continued with the second iteration of practice and Hey Joe. Nearly done.
-
-- <time>Jan 16, 2022</time> Continued with the second iteration of practice and Hey Joe.
-
-- <time>Jan 15, 2022</time> Started the second iteration of practice and added Hey Joe and [Mad World](https://www.youtube.com/watch?v=4N3N1MlvVc4) to my songbook!
-
-- <time>Jan 14, 2022</time> Finished Module 6 practice and played quite alright for this module's song, [Hey Joe](https://www.youtube.com/watch?v=rXwMrBb2x1Q).
-
-- <time>Jan 13, 2022</time> Continued with Module 6 practice, I only have the song practice left!
-
-- <time>Jan 11, 2022</time> Continued with Module 6 practice.
-
-- <time>Jan 10, 2022</time> Started with Module 6 practice. After this and the second iteration, I will have moved on to the last module of [Grade 1](https://www.justinguitar.com/classes/beginner-guitar-course-grade-one)!
-
-- <time>Jan 08, 2022</time> Finished [Module 6](https://www.justinguitar.com/modules/beginner-guitar-lesson-6)! Will start the practice soon.
-
-- <time>Jan 07, 2022</time> Learnt a [strumming pattern in 6:8 timing](https://www.justinguitar.com/guitar-lessons/a-6-8-strumming-pattern-b1-604) and [string names](https://www.justinguitar.com/guitar-lessons/open-string-note-names-b1-605).
-
-- <time>Jan 06, 2022</time> Learnt about [6:8 timing](https://www.justinguitar.com/guitar-lessons/about-time-signatures-b1-603).
-
-- <time>Jan 05, 2022</time> Learnt about [alternate picking](https://www.justinguitar.com/guitar-lessons/beginner-alternate-picking-b1-601) and a [variation of the G chord](https://www.justinguitar.com/guitar-lessons/the-g-chord-hacked-b1-602).
-
-- <time>Jan 04, 2022</time> Finished the second iteration of practice and added [Black](https://www.youtube.com/watch?v=4q9UafsiQ6k) to my songbook!
-
-- <time>Jan 03, 2022</time> Only song practice is left for the second iteration of practice! Also, I am very bad at transitioning from C chord to E chord.
-
-- <time>Jan 02, 2021</time> Continued the second iteration of practice.
-
-- <time>Jan 01, 2021</time> Sorry, I forgot what tomorrow meant, anyways, I started with the second iteration with the odd finger stretching exercise and the riff practice, will continue with the iteration tomorrow...
-
-- <time>Dec 29, 2021</time> Completed the first iteration! Will start the Module 5 practice once again tomorrow.
-
-- <time>Dec 28, 2021</time> Continued with Module 5 practice. Only song practice is left for iteration 1.
-
-- <time>Dec 27, 2021</time> Continued with Module 5 practice.
-
-- <time>Dec 26, 2021</time> Started with Module 5 practice.
-
-- <time>Dec 25, 2021</time> Finished Module 5, will take the next week solely for practice. Also going to build a songbook next week.
-
-- <time>Dec 24, 2021</time> Watched the [Songs For Module 5](https://www.justinguitar.com/guitar-lessons/songs-for-module-5-b1-507) video and tried my hands at [Daft Punk](https://www.youtube.com/watch?v=5NV6Rdv1a3I), let's just say that I'll be practising Daft Punk for a while...
-
-- <time>Dec 23, 2021</time> Learnt about [music theory and notes in guitar](https://www.justinguitar.com/guitar-lessons/understanding-music-notes-b1-504).
-
-- <time>Dec 22, 2021</time> Learnt [more about strumming](https://www.justinguitar.com/guitar-lessons/exploring-strumming-b1-503).
-
-- <time>Dec 21, 2021</time> Learnt the [Come As You Are riff](https://www.justinguitar.com/guitar-lessons/riff-come-as-you-are-b1-506).
-
-- <time>Dec 20, 2021</time> Finished with Justin's strumming tips.
-
-- <time>Dec 18, 2021</time> Got a little more than half-way through with [Justin's strumming tips](https://www.justinguitar.com/guitar-lessons/guitar-strumming-tips-b1-502).
-
-- <time>Dec 16, 2021</time> Learnt [the C Chord](https://www.justinguitar.com/guitar-lessons/the-c-chord-b1-501).
-
-- <time>Dec 15, 2021</time> Finished the second iteration of Module 4 practice and played 505 and Chocolate Jesus! I'll start [Module 5](https://www.justinguitar.com/modules/c-chord-music-notes-more) tomorrow.
-
-- <time>Dec 13, 2021</time> Continued with Module 4 practice, nearly done!
-
-- <time>Dec 12, 2021</time> Started with the second iteration of Module 4 practice.
-
-- <time>Dec 10, 2021</time> Finished the first iteration of Module 4 practice, had fun playing 505 and [Chocolate Jesus](https://www.youtube.com/watch?v=1wfamPW3Eaw).
-
-- <time>Dec 09, 2021</time> Continued with Module 4 Practice, I'll probably finish with this practice after I do the whole thing twice.
-
-- <time>Dec 08, 2021</time> Website is back up and continued with [Module 4](https://www.justinguitar.com/modules/using-a-metronome-riffs-and-tab) practice.
-
-- <time>Dec 06, 2021</time> Continued with 505 as the website is still broken.
-
-- <time>Dec 05, 2021</time> Sort of freestyled a bit since the website seems to be broken.
-
-- <time>Dec 03, 2021</time> Continued with 505, the strumming pattern is hard to master!
-
-- <time>Dec 02, 2021</time> Continued with 505.
-
-- <time>Dec 01, 2021</time> Started learning [505 by Arctic Monkeys](https://www.youtube.com/watch?v=qU9mHegkTc4) as part of my guitar practice, really nice song.
-
-- <time>Nov 30, 2021</time> Learnt [the riff to Sunshine Of Your Love by Cream](https://www.justinguitar.com/guitar-lessons/sunshine-of-your-love-b1-406), hoping to learn much more in December.
-
-- <time>Nov 29, 2021</time> Learnt about the [most common strumming patter in guitar](https://www.justinguitar.com/guitar-lessons/the-strumming-pattern-b1-404).
-
-- <time>Nov 28, 2021</time> Learnt about the [metronome](https://www.justinguitar.com/guitar-lessons/meet-the-metronome-b1-403) in guitar.
-
-- <time>Nov 27, 2021</time> Learnt the [D Minor chord](https://www.justinguitar.com/guitar-lessons/the-d-minor-chord-b1-402), really cool chord! Sounds much moodier than the other minor chords I've learnt.
-
-- <time>Nov 25, 2021</time> Continued with JustinGuitar and [learnt about this odd finger stretching exercise](https://www.justinguitar.com/guitar-lessons/beginner-finger-stretches-b1-401).
-
-- <time>Nov 22, 2021</time> Went back to Three Little Birds.
-
-- <time>Nov 21, 2021</time> Freestyled for a bit.
-
-- <time>Nov 19, 2021</time> Easing back into guitar.
-
-- <time>Nov 07, 2021</time> Finishing the whole practice was way too ambitious. I could only get done with the Seven Nation Army riff practice.
-
-- <time>Nov 06, 2021</time> Finished with Three Little Birds, hope to finish [Module 3](https://www.justinguitar.com/modules/minor-chords-and-up-strums) practice tomorrow.
-
-- <time>Nov 05, 2021</time> Continued with Three Little Birds, the A to E to D transition is really hard.
-
-- <time>Nov 04, 2021</time> Continued with Three Little Birds.
-
-- <time>Nov 03, 2021</time> Practiced [Three Little Birds by Bob Marley](https://www.youtube.com/watch?v=HNBCVM4KbUM). Beautiful song!
-
-- <time>Nov 02, 2021</time> Been some time, and learnt the [Seven Nation Army riff](https://www.justinguitar.com/guitar-lessons/seven-nation-army-b1-309).
-
-- <time>Oct 30, 2021</time> Learnt about [strumming with up strums, and using it after the 2nd beat](https://www.justinguitar.com/guitar-lessons/strumming-patterns-with-ups-b1-307).
-
-- <time>Oct 29, 2021</time> Learnt about [up strums](https://www.justinguitar.com/guitar-lessons/all-about-up-strums-b1-306).
+- <time>Jan 20, 2022</time> Got accepted (!) and finished proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/future-proof-ethics/) when it's done (for privacy reasons).
 <hr />
 
 ## Done
+
+## <span id="ausresearch">AUS CSE Research Assistant</span>
+
+<small>Jun 12, 2023-Dec 29, 2023</small>  
+<small>Currently a research assistant for the computer science and engineering department at the American University of Sharjah. Will continue after my examinations this last month of the year.</small>
+
+<hr />
+
+#### Log
+
+- <time>Oct 09, 2023-Oct 11, 2023</time> I think I'm at a good point to end this project. This has, without a doubt, been one of the most important projects in my life, ever. Will definitely pay a visit to the campus before leaving for college!
+
+- <time>Oct 09, 2023-Oct 11, 2023</time> Got the training results up on the AI lab machine!
+
+- <time>Sep 24, 2023</time> Finally, some good progress.
+
+- <time>Sep 17, 2023</time> Met my co-RA in-person!
+
+- <time>Sep 10, 2023</time> Solid plan for the next four to five days, excited!
+
+- <time>Sep 08, 2023</time> Back to normal training results.
+
+- <time>Sep 03, 2023</time> Sent out the report.
+
+- <time>Aug 31, 2023</time> Met my professor onsite! Really reassured now, going to continue on with a really sweet end-goal in mind!
+
+![AUS - Part Two](/AUS-2.jpeg)
+
+- <time>Aug 21, 2023-Aug 25, 2023</time> Spoke with my professor and co-RA.
+
+- <time>Aug 20, 2023</time> Jeez, the results are quite poor. Going to need to get back to Paperspace soon.
+
+- <time>Aug 12, 2023-Aug 17, 2023</time> Experimented with VAEs and GANs - going to move on now to expanding the dataset and re-training.
+
+- <time>Aug 11, 2023</time> Some lukewarm results again, better than run-through at least!
+
+- <time>Aug 08, 2023</time> Hm, running into a snafu with my code. Will check what's up tomorrow.
+
+- <time>Aug 07, 2023</time> Heard back from my co-RA!
+
+- <time>Aug 06, 2023</time> Man, my data processing work sort of meant nothing today. Oh well, we move.
+
+- <time>Aug 05, 2023</time> You can only increase the batch size <i>so much</i>.
+
+- <time>Aug 04, 2023</time> Some great results for the first day with the data!
+
+- <time>Aug 02, 2023</time> Spoke with my co-RA!
+
+- <time>Aug 01, 2023</time> Took a cursory look at the data.
+
+- <time>Jul 29, 2023-Jul 31, 2023</time> The end of this month lined up perfectly with the end of the first part of this project, excited for the next step!
+
+- <time>Jul 28, 2023-Jul 29, 2023</time> Going to move on to analysing why the model had performed poorly on FashionMNIST, but quite well on CIFAR-10.
+
+- <time>Jul 27, 2023</time> In the meanwhile, tried my hand at FashionMNIST. Did not go so well.
+
+- <time>Jul 24, 2023-Jul 25, 2023</time> CIFAR-10 training done, going to try out Tiny ImageNet next to end of training before the CameraTrap part of my research (hopefully!)
+
+- <time>Jul 23, 2023</time> CIFAR-10 training should be done tomorrow morning!
+
+- <time>Jul 22, 2023</time> Switched to Gradient.
+
+- <time>Jul 21, 2023</time> CIFAR-10 is showing great results!
+
+- <time>Jul 19, 2023-Jul 20, 2023</time> We back to training.
+
+- <time>Jul 18, 2023</time> Why is Google so stingy?
+
+- <time>Jul 17, 2023</time> Day 4b) happened! Got the 240 x 240 data set, and I think the model is better?
+
+- <time>Jul 15, 2023</time> Pre-lude to Day 4b) tomorrow.
+
+- <time>Jul 12, 2023</time> Day 4a) I guess.
+
+- <time>Jul 10, 2023</time> Heard back from my professor.
+
+- <time>Jul 08, 2023</time> Training, will see its results by tonight (hopefully, else it might time out)
+
+- <time>Jul 07, 2023</time> Need to train it on the larger dataset tomorrow, had some troubles with it today.
+
+- <time>Jul 06, 2023</time> I did it! Finally got some results on ImageNette (a smaller version of ImageNet) and while they're not very good, at least I'm somewhere tangible now!
+
+- <time>Jul 05, 2023</time> So close.
+
+- <time>Jul 02, 2023</time> Closer.
+
+- <time>Jul 01, 2023</time> More time needed.
+
+- <time>Jun 30, 2023</time> Finished my notes on the repository and, in my efforts of trying to get the results on CIFAR-10, ran into a bug that I could not squash in time. Will continue tomorrow.
+
+- <time>Jun 25, 2023-Jun 27, 2023</time> Thoroughly went through a repository - really interesting stuff! Only one roadblock is the difference between two models, but I'm sure I'll figure that out tomorrow.
+
+- <time>Jun 22, 2023</time> Read two academic papers.
+
+- <time>Jun 21, 2023</time> Read three academic papers.
+
+- <time>Jun 12, 2023</time> First day! Learnt a lot about transformers.
+
+![AUS.jpg](/AUS.jpg)
+
+<hr />
 
 ## <span id="aoc2023">[Advent of Code](https://adventofcode.com/) 2023</span>
 
