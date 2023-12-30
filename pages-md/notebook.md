@@ -153,6 +153,8 @@ Put simply, steering is the idea that _we can change the course of what a model 
 
 (in a rough decreasing order of "high-levelness", these terms tend to get updated as I learn more!)
 
+- Deceit and Honesty - See [this](https://www.lesswrong.com/posts/FbSAuJfCxizZGpcHc/interpreting-the-learning-of-deceit) post on LessWrong - really interesting!
+
 - Reinforcement learning from human feedback - See [this](https://openai.com/research/learning-from-human-preferences) post by OpenAI.
 
 - Mistral's 8x7B and Uncensored Models: Now this, [this is interesting](https://www.youtube.com/watch?v=GyllRd2E6fg). The uncensored models aspect is however, very scary.
