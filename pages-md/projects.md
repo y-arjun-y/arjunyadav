@@ -120,6 +120,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 30, 2023</time> Summarized the last bit of feedback.
+
 - <time>Dec 29, 2023</time> Got started!
 
 <hr />
@@ -134,6 +136,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 30, 2023</time> Squash the bugs.
 
 - <time>Dec 29, 2023</time> Making progress.
 
@@ -187,7 +191,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 21, 2023-Dec 29, 2023</time> Making progress.
+- <time>Dec 21, 2023-Dec 30, 2023</time> Making progress.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Pretty decent bug fix from the team!
 
@@ -207,6 +211,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Continuing this breath-taking journey in AI safety (the research part being with my brother). Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
+
+- <time>Dec 30, 2023</time> Set my goals in a Slack workspace, and accomplished them!
 
 - <time>Dec 29, 2023</time> Set my goals in a Slack workspace, and accomplished them!
 
@@ -265,7 +271,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 26, 2023-Dec 29, 2023</time> The work is not done just yet.
+- <time>Oct 26, 2023-Dec 30, 2023</time> The work is not done just yet.
 
 - <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
 
@@ -438,7 +444,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023-Dec 29, 2023</time> On to the next thing.
+- <time>Dec 22, 2023-Dec 30, 2023</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
@@ -627,7 +633,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 28, 2023-Dec 29, 2023</time> Actually...
+- <time>Dec 28, 2023-Dec 30, 2023</time> Actually...
 
 - <time>Dec 26, 2023</time> Welp, next year then!
 
@@ -855,6 +861,23 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Dec 30, 2023</time> Finished [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/):
+```py
+class Solution:
+    def makeEqual(self, words: List[str]) -> bool:
+        if len(words) == 1:
+            return True
+
+        chars = set("".join(words))
+
+        for char in chars:
+            if "".join(words).count(char) % len(words) != 0:
+                return False
+    
+        return True
+
+```
 
 - <time>Dec 29, 2023</time> Finished [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/):
 
