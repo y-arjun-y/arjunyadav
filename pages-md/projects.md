@@ -862,7 +862,23 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 31, 2023</time> Finished [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/), happy new year in advance!
+
+```py
+class Solution:
+    def maxLengthBetweenEqualCharacters(self, s: str) -> int:
+        lengths = []
+
+        for i in range(len(s)):
+            for j in range(len(s)):
+                if s[i] == s[j]:
+                    lengths.append(j - i - 1)
+
+        return max(lengths, default=-1)
+```
+
 - <time>Dec 30, 2023</time> Finished [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/):
+
 ```py
 class Solution:
     def makeEqual(self, words: List[str]) -> bool:
@@ -874,7 +890,7 @@ class Solution:
         for char in chars:
             if "".join(words).count(char) % len(words) != 0:
                 return False
-    
+
         return True
 
 ```
