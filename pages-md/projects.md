@@ -862,6 +862,21 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 01, 2024</time> Finished [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/):
+
+```py
+class Solution:
+    def maxLengthBetweenEqualCharacters(self, s: str) -> int:
+        lengths = []
+
+        for i in range(len(s)):
+            for j in range(len(s)):
+                if s[i] == s[j]:
+                    lengths.append(j - i - 1)
+
+        return max(lengths, default=-1)
+```
+
 - <time>Dec 31, 2023</time> Finished [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/), happy new year in advance!
 
 ```py
