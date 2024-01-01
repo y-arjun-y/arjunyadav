@@ -10,6 +10,11 @@ const nextConfig = {
         permanent: false,
       },
       {
+        source: "/time-and-memory",
+        destination: "https://youtu.be/PJiVvpH6-E0?si=x-JWFe5WZjZAg6Vs&t=10",
+        permanent: false,
+      },
+      {
         source: "/resume",
         destination: "/resume.pdf",
         permanent: false,
