@@ -170,7 +170,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 29, 2023</time> Scratch that, should be done by tomorrow.
+- <time>Jan 03, 2024</time> Scratch that, should be done by tomorrow.
 
 - <time>Dec 29, 2023</time> Should be done tomorrow.
 
@@ -217,6 +217,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Continuing this breath-taking journey in AI safety (the research part being with my brother). Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
+
+- <time>Jan 04, 2023</time> Set my goals in a Slack workspace, and accomplished them!
 
 - <time>Dec 30, 2023</time> Set my goals in a Slack workspace, and accomplished them!
 
