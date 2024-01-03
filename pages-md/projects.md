@@ -137,6 +137,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 04, 2024</time> Added another part!
+
 - <time>Dec 30, 2023</time> Squash the bugs.
 
 - <time>Dec 29, 2023</time> Making progress.
@@ -168,6 +170,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Dec 29, 2023</time> Scratch that, should be done by tomorrow.
+
 - <time>Dec 29, 2023</time> Should be done tomorrow.
 
 - <time>Dec 27, 2023-Dec 28, 2023</time> Got some feedback again.
@@ -190,6 +194,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 03, 2024</time> I think we're done for the first part! Just need to review an API and find a work-around soon.
 
 - <time>Dec 21, 2023-Dec 30, 2023</time> Making progress.
 
@@ -271,7 +277,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 26, 2023-Dec 30, 2023</time> The work is not done just yet.
+- <time>Oct 26, 2023-Jan 03, 2024</time> The work is not done just yet.
 
 - <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
 
@@ -444,7 +450,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023-Dec 30, 2023</time> On to the next thing.
+- <time>Dec 22, 2023-Jan 03, 2024</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
@@ -633,7 +639,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 28, 2023-Dec 30, 2023</time> Actually...
+- <time>Dec 28, 2023-Jan 03, 2024</time> Actually...
 
 - <time>Dec 26, 2023</time> Welp, next year then!
 
@@ -861,6 +867,18 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 03, 2024</time> Finished [Check if Bitwise OR Has Trailing Zeros](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/):
+
+```py
+class Solution:
+    def hasTrailingZeros(self, nums: List[int]) -> bool:
+        for i in range(len(nums)):
+            for j in range(i+1, len(nums)):
+                if str(bin(nums[i] | nums[j]))[-1] == "0":
+                    return True
+        return False
+```
 
 - <time>Jan 01, 2024</time> Finished [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/):
 
