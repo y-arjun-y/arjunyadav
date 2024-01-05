@@ -870,6 +870,16 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 05, 2024</time> Finished [Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot/):
+
+```py
+import pandas as pd
+
+def pivotTable(weather: pd.DataFrame) -> pd.DataFrame:
+    # Credit - https://leetcode.com/problems/reshape-data-pivot/solutions/4141086/line-by-line-explanation-easy-solution-beginner-friendly-pandas
+    return weather.pivot_table(index='month', columns='city', values='temperature', aggfunc='max')
+```
+
 - <time>Jan 03, 2024</time> Finished [Check if Bitwise OR Has Trailing Zeros](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/):
 
 ```py
