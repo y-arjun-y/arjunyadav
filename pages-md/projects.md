@@ -120,6 +120,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 04, 2024-Jan 05, 2024</time> A slide was added.
+
 - <time>Dec 30, 2023</time> Summarized the last bit of feedback.
 
 - <time>Dec 29, 2023</time> Got started!
@@ -136,6 +138,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 05, 2024</time> Done! (well, my part at least)
 
 - <time>Jan 04, 2024</time> Added another part!
 
@@ -170,6 +174,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 05, 2024</time> Scratch that, should be done by tomorrow. (x2)
+
 - <time>Jan 03, 2024</time> Scratch that, should be done by tomorrow.
 
 - <time>Dec 29, 2023</time> Should be done tomorrow.
@@ -194,6 +200,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 05, 2024</time> An interesting video was shared.
 
 - <time>Jan 03, 2024</time> I think we're done for the first part! Just need to review an API and find a work-around soon.
 
@@ -279,7 +287,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 26, 2023-Jan 03, 2024</time> The work is not done just yet.
+- <time>Oct 26, 2023-Jan 05, 2024</time> The work is not done just yet.
 
 - <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
 
@@ -452,7 +460,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023-Jan 03, 2024</time> On to the next thing.
+- <time>Dec 22, 2023-Jan 05, 2024</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
@@ -641,7 +649,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 28, 2023-Jan 03, 2024</time> Actually...
+- <time>Dec 28, 2023-Jan 05, 2024</time> Actually... Yeah, nope.
 
 - <time>Dec 26, 2023</time> Welp, next year then!
 
