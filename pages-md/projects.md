@@ -174,6 +174,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 06, 2024</time> Done.
+
 - <time>Jan 05, 2024</time> Scratch that, should be done by tomorrow. (x2)
 
 - <time>Jan 03, 2024</time> Scratch that, should be done by tomorrow.
@@ -225,6 +227,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Continuing this breath-taking journey in AI safety (the research part being with my brother). Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
+
+- <time>Jan 06, 2023</time> Set my goals in a Slack workspace, and accomplished them!
 
 - <time>Jan 04, 2023</time> Set my goals in a Slack workspace, and accomplished them!
 
@@ -877,6 +881,15 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 06, 2024</time> Finished [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/):
+
+```py
+import pandas as pd
+
+def meltTable(report: pd.DataFrame) -> pd.DataFrame:
+    return pd.melt(report, id_vars=['product'], value_vars=['quarter_1', 'quarter_2', 'quarter_3', 'quarter_4'], var_name='quarter', value_name='sales')
+```
 
 - <time>Jan 05, 2024</time> Finished [Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot/):
 
