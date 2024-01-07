@@ -882,6 +882,26 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 07, 2024</time> Finished [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/):
+
+```py
+class Solution:
+    def missingInteger(self, nums: List[int]) -> int:
+        count = nums[0]
+
+        for i in range(1, len(nums)):
+            if nums[i] == nums[i-1] + 1:
+                count += nums[i]
+            else:
+                break
+
+        while True:
+            if count not in nums:
+                return count
+            else:
+                count += 1
+```
+
 - <time>Jan 06, 2024</time> Finished [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/):
 
 ```py
