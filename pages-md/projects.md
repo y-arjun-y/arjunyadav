@@ -120,6 +120,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 12, 2024</time> My first Gatheround!
+
+![Gatheround](/gatheround.png)
+
 - <time>Jan 04, 2024-Jan 05, 2024</time> A slide was added.
 
 - <time>Dec 30, 2023</time> Summarized the last bit of feedback.
@@ -138,6 +142,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 05, 2024-Jan 12, 2024</time> More progress!
 
 - <time>Jan 05, 2024</time> Done! (well, my part at least)
 
@@ -174,7 +180,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jan 06, 2024</time> Done.
+- <time>Jan 06, 2024-Jan 12, 2024</time> Done.
 
 - <time>Jan 05, 2024</time> Scratch that, should be done by tomorrow. (x2)
 
@@ -203,6 +209,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 11, 2024-Jan 12, 2024</time> Meeting + links + comments!
+
 - <time>Jan 05, 2024</time> An interesting video was shared.
 
 - <time>Jan 03, 2024</time> I think we're done for the first part! Just need to review an API and find a work-around soon.
@@ -228,9 +236,11 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Jan 06, 2023</time> Set my goals in a Slack workspace, and accomplished them!
+- <time>Jan 12, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
-- <time>Jan 04, 2023</time> Set my goals in a Slack workspace, and accomplished them!
+- <time>Jan 06, 2024</time> Set my goals in a Slack workspace, and accomplished them!
+
+- <time>Jan 04, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
 - <time>Dec 30, 2023</time> Set my goals in a Slack workspace, and accomplished them!
 
@@ -291,7 +301,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 26, 2023-Jan 05, 2024</time> The work is not done just yet.
+- <time>Oct 26, 2023-Jan 12, 2024</time> The work is not done just yet.
 
 - <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
 
@@ -464,7 +474,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023-Jan 05, 2024</time> On to the next thing.
+- <time>Dec 22, 2023-Jan 12, 2024</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
@@ -652,6 +662,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 05, 2024-Jan 12, 2024</time> New member introduced and meeting soon!
 
 - <time>Dec 28, 2023-Jan 05, 2024</time> Actually... Yeah, nope.
 
@@ -881,6 +893,32 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 12, 2024</time> Finished [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/):
+
+```py
+import pandas as pd
+
+def dropDuplicateEmails(customers: pd.DataFrame) -> pd.DataFrame:
+    return customers.drop_duplicates(subset = ['email'])
+```
+
+- <time>Jan 10, 2024</time> Finished [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/):
+
+```py
+class Solution:
+    def areaOfMaxDiagonal(self, dimensions: List[List[int]]) -> int:
+        diagonal = sqrt(max(dimensions, key=lambda x: sqrt((x[0] ** 2) + (x[1] ** 2)))[0] ** 2 + max(dimensions, key=lambda x: sqrt((x[0] ** 2) + (x[1] ** 2)))[1] ** 2)
+
+        max_area = 0
+
+        for i in dimensions:
+            if sqrt(i[0] ** 2 + i[1] ** 2) == diagonal:
+                if i[0] * i[1] > max_area:
+                    max_area = i[0] * i[1]
+
+        return max_area
+```
 
 - <time>Jan 07, 2024</time> Finished [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/):
 
