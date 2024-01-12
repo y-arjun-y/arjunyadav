@@ -120,9 +120,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jan 12, 2024</time> My first Gatheround!
-
-![Gatheround](/gatheround.png)
+- <time>Jan 12, 2024</time> My first Gatheround ever!
 
 - <time>Jan 04, 2024-Jan 05, 2024</time> A slide was added.
 
