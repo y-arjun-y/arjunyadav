@@ -120,6 +120,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 13, 2024</time> Meetings, oh yeah - meetings!
+
 - <time>Jan 12, 2024</time> My first Gatheround ever!
 
 - <time>Jan 04, 2024-Jan 05, 2024</time> A slide was added.
@@ -178,7 +180,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jan 06, 2024-Jan 12, 2024</time> Done.
+- <time>Jan 06, 2024-Jan 12, 2024</time> Done-ish.
 
 - <time>Jan 05, 2024</time> Scratch that, should be done by tomorrow. (x2)
 
@@ -206,6 +208,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 13, 2024</time> Notion.
 
 - <time>Jan 11, 2024-Jan 12, 2024</time> Meeting + links + comments!
 
@@ -299,7 +303,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 26, 2023-Jan 12, 2024</time> The work is not done just yet.
+- <time>Oct 26, 2023-Jan 13, 2024</time> The work is not done just yet.
 
 - <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
 
@@ -472,7 +476,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023-Jan 12, 2024</time> On to the next thing.
+- <time>Dec 22, 2023-Jan 13, 2024</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
