@@ -120,6 +120,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 15, 2024</time> Had a lovely one-on-one with team member!
+
 - <time>Jan 13, 2024</time> Meetings, oh yeah - meetings!
 
 - <time>Jan 12, 2024</time> My first Gatheround ever!
@@ -303,7 +305,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 26, 2023-Jan 13, 2024</time> The work is not done just yet.
+- <time>Oct 26, 2023-Jan 15, 2024</time> The work is not done just yet.
 
 - <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
 
@@ -476,7 +478,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023-Jan 13, 2024</time> On to the next thing.
+- <time>Dec 22, 2023-Jan 15, 2024</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
@@ -895,6 +897,21 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 15, 2024</time> Finished [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/):
+
+```py
+class Solution:
+    def maxFrequencyElements(self, nums: List[int]) -> int:
+        max_count = max([nums.count(i) for i in nums])
+        total = 0
+
+        for i in nums:
+            if nums.count(i) == max_count:
+                total += 1
+
+        return total
+```
 
 - <time>Jan 12, 2024</time> Finished [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/):
 
