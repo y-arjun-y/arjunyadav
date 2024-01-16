@@ -120,6 +120,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 16, 2024</time> First team-wide meeting!
+
 - <time>Jan 15, 2024</time> Had a lovely one-on-one with team member!
 
 - <time>Jan 13, 2024</time> Meetings, oh yeah - meetings!
@@ -305,7 +307,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Oct 26, 2023-Jan 15, 2024</time> The work is not done just yet.
+- <time>Oct 26, 2023-Jan 16, 2024</time> The work is not done just yet.
 
 - <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
 
@@ -897,6 +899,42 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 16, 2024</time> Finished [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/):
+
+```py
+import random
+
+class RandomizedSet:
+
+    def __init__(self):
+        self.list = []
+
+
+    def insert(self, val: int) -> bool:
+        if val in self.list:
+            return False
+        else:
+            self.list.append(val)
+            return True
+
+    def remove(self, val: int) -> bool:
+        if val not in self.list:
+            return False
+        else:
+            self.list.remove(val)
+            return True
+
+
+    def getRandom(self) -> int:
+        return self.list[random.randrange(0, len(self.list))]
+
+# Your RandomizedSet object will be instantiated and called as such:
+# obj = RandomizedSet()
+# param_1 = obj.insert(val)
+# param_2 = obj.remove(val)
+# param_3 = obj.getRandom()
+```
 
 - <time>Jan 15, 2024</time> Finished [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/):
 
