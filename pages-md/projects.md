@@ -11507,6 +11507,8 @@ function getCount(str) {
 
 ## Done
 
+<hr />
+
 ## <span id="studentcouncil12">Student Council - 12th + Head of Events</span>
 
 <small>Mar 22, 2023-Jan 20, 2024</small>  
