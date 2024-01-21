@@ -6,14 +6,13 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (9)
+### Active (8)
 
 - <a href="#aisc2024">AI Safety Camp</a>
 - <a href="#ai-plans">AI Plans</a>
 - <a href="#dioptra">Dioptra</a>
 - <a href="#oss">Offline Streaming Systems</a>
 - <a href="#aissr">AI Safety Studying/Research</a>
-- <a href="#studentcouncil12">Student Council - 12th + Head of Events</a>
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
 - <a href="#leetcode">LeetCode</a>
@@ -31,8 +30,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a>
 - <a href="#coldtakesbetareading">Cold Takes Beta Reading</a>
 
-### Done (48)
+### Done (49)
 
+- <a href="#studentcouncil12">Student Council - 12th + Head of Events</a>
 - <a href="#ausresearch">AUS CSE Research Assistant</a>
 - <a href="#aoc2023">Advent of Code 2023</a>
 - <a href="#gratis2023">Gratis 2023</a>
@@ -295,179 +295,6 @@ Confused? See the <a href="#note">note</a> down below.
 - <time>Aug 02, 2023</time> Read up on VAEs and Sparse Coding, and had another meeting.
 
 - <time>Aug 01, 2023</time> Happy to report that [this recently completed project](/#mlsafetycourse/) was not a one-off AI safety project, I'll be continuing with self-studying and research with my brother. Super excited!
-
-<hr />
-
-## <span id="studentcouncil12">Student Council - 12th + Head of Events</span>
-
-<small>Mar 22, 2023-present</small>  
-<small>Became the vice head boy of my school. Trying to the best job I can. Also, environment club work (head of events) and another project (summary for that will come in May 2023)</small>
-
-<hr />
-
-#### Log
-
-- <time>Oct 26, 2023-Jan 16, 2024</time> The work is not done just yet.
-
-- <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
-
-- <time>Oct 08, 2023</time> College fair!
-
-![College Fair](/college-fair.jpg)
-
-- <time>Oct 06, 2023</time> (another EcoGen flash mob!)
-
-![EcoGen - Flash Mob - 2](/EcoGen-2.jpg)
-
-- <time>Sep 25, 2023-Oct 05, 2023</time> Brown is quite a nice colour.
-
-- <time>Sep 24, 2023</time> Don't be a donkey.
-
-- <time>Sep 22, 2023</time> (also, EcoGen flash mob!)
-
-![EcoGen - Flash Mob](/EcoGen.jpg)
-
-- <time>Sep 19, 2023-Sep 22, 2023</time> College. TEDx. Entrance.
-
-- <time>Sep 19, 2023</time> All colours are beautiful.
-
-- <time>Sep 16, 2023-Sep 17, 2023</time> Grading.
-
-- <time>Sep 11, 2023-Sep 15, 2023</time> Everything. In. Between.
-
-- <time>Sep 06, 2023-Sep 10, 2023</time> Everything in between!
-
-- <time>Sep 05, 2023</time> Oh, it was.
-
-![F1](/f1.jpeg)
-
-- <time>Sep 01, 2023-Sep 04, 2023</time> The 5th is going to be an exciting day!
-
-- <time>Aug 27, 2023-Sep 01, 2023</time> This has been the most productive week ever for this project: so, so much done.
-
-- <time>Aug 23, 2023-Aug 27, 2023</time> Well, that was a productive summer!
-
-- <time>Aug 22, 2023</time> Comprehensive enough?
-
-- <time>Aug 20, 2023-Aug 21, 2023</time> 2 years?!
-
-- <time>Aug 19, 2023</time> The notebook is quite filled.
-
-- <time>Aug 12, 2023-Aug 17, 2023</time> Lot's of work: organised the grading for junior classes along with another head, sent out a comprehensive guide for English proficiency tests and continued with some projects on the side.
-
-- <time>Aug 10, 2023-Aug 11, 2023</time> Lots of smaller, but important work! (pt. 2)
-
-- <time>Jul 31, 2023-Aug 09, 2023</time> Lots of smaller, but important work!
-
-- <time>Jul 28, 2023-Jul 30, 2023</time> Cubing was an interesting part of my life.
-
-- <time>Jul 26, 2023-Jul 27, 2023</time> Proud Head of Events day!
-
-- <time>Jul 26, 2023-Jul 27, 2023</time> Got word of permission for a project (which also leads to something pretty important)!
-
-- <time>Jul 19, 2023-Jul 25, 2023</time> It's hard to describe the work that's been going on, but it is certainly something..
-
-- <time>Jul 17, 2023-Jul 18, 2023</time> A lot of progress, but I hate forms.
-
-- <time>Jul 16, 2023</time> Had a call and got a good amount of work in.
-
-- <time>Jul 15, 2023</time> 2 hour long meeting! Was fun (and productive).
-
-- <time>Jul 08, 2023-Jul 14, 2023</time> So, much, environment, work.
-
-- <time>Jul 07, 2023</time> Tech FTW!
-
-- <time>Jul 04, 2023-Jul 05, 2023</time> Helped to get a message out.
-
-- <time>Jun 27, 2023-Jun 29, 2023</time> Jackets!
-
-- <time>Jun 26, 2023</time> Did some organisational work.
-
-- <time>Jun 19, 2023-Jun 21, 2023</time> Got it done.
-
-- <time>Jun 17, 2023-Jun 18, 2023</time> Did some organisational work, lots of work for this week!
-
-- <time>Jun 10, 2023</time> Polls!
-
-- <time>Jun 08, 2023</time> Checklist!
-
-- <time>Jun 01, 2023</time> Done (for now).
-
-- <time>May 30, 2023-May 31, 2023</time> Much smoother, in a way.
-
-- <time>May 29, 2023</time> Still a bit left, but got the video fixed (yay!)
-
-- <time>May 25, 2023-May 28, 2023</time> All done (soon).
-
-- <time>May 20, 2023-May 24, 2023</time> Nearly (or fully?) done with a lot of smaller projects for this.
-
-- <time>May 19, 2023</time> Got a lot of work done for both projects. Really happy!
-
-- <time>May 18, 2023</time> Cameraman, anyone? Also, won best speaker for a motion in a debate, and lots of environment work.
-
-- <time>May 15, 2023-May 17, 2023</time> Did some (really^3 important) organisational work.
-
-- <time>May 09, 2023-May 14, 2023</time> Did some (really, really important) organisational work.
-
-- <time>May 08, 2023</time> Did some (really important!) organisational work.
-
-- <time>May 07, 2023</time> Did some organisational work.
-
-- <time>May 06, 2023</time> Did some organisational work.
-
-- <time>May 05, 2023</time> Did some organisational work.
-
-- <time>May 03, 2023-May 04, 2023</time> Did some organisational work and a lot of writing for a proposal.
-
-- <time>May 02, 2023</time> Did some organisational work and a morning event.
-
-- <time>Apr 30, 2023-May 01, 2023</time> Did some organisational work and partook in a successful morning event.
-
-- <time>Apr 29, 2023</time> Got some important messages + a template out yesterday.
-
-- <time>Apr 28, 2023</time> Incredible day.
-
-![Investiture Ceremony](/investiture.png/)
-
-- <time>Apr 26, 2023</time> Got a speech ready and many rehersals (my knee can atest) done + dance was conducted somewhat successfully and an awesome Instagram post.
-
-- <time>Apr 24, 2023-Apr 25, 2023</time> Worked on a video, event should go smoothly for tomorrow and day after.
-
-- <time>Apr 23, 2023</time> Sorted out a technical issue + got content/photos for a post idea that I came up with! (worked on the main document a bit as well)
-
-- <time>Apr 19, 2023-Apr 22, 2023</time> Did some organisational work.
-
-- <time>Apr 17, 2023-Apr 19, 2023</time> Got a lot of work and recording done for an event.
-
-- <time>Apr 11, 2023-Apr 16 2023</time> Communication is key.
-
-- <time>Apr 09, 2023-Apr 11, 2023</time> Did a lot of organisational work and generally, got a lot done!
-
-- <time>Apr 08, 2023</time> Had a fruitful discussion with the design team!
-
-- <time>Apr 06, 2023-Apr 07, 2023</time> Finished a document and getting some ideas for EC!
-
-- <time>Apr 01, 2023-Apr 05, 2023</time> Lots of voting and discussions - but we're done with colour scheme.
-
-- <time>Apr 01, 2023</time> Sent out the video draft (that another person worked on!) for the event in May and helped to sort out a mini-crisis.
-
-- <time>Mar 31, 2023</time> Did some organisational work.
-
-- <time>Mar 30, 2023</time> Had a productive meeting for event in May.
-
-- <time>Mar 29, 2023</time> Top 6 now - also need to get better videos tomorrow...
-
-- <time>Mar 28, 2023</time> Compiled the top 8. Waiting for results (+ more democracy!). Also, (a pretty fun but productive) meeting for event in May.
-
-- <time>Mar 26, 2023-Mar 27, 2023</time> Colour - so trivial yet so important. Also, all applications are now sorted (EC)
-
-- <time>Mar 25, 2023</time> Worked on compiling designs and setting up voting, and also contacted someone.
-
-- Summary of Environment Club (EC) Work: Will merge this log with this one. After my [student council work in 11th](#student-council-11th), I mostly just had meetings, an application form for this academic year (which I finished) and a run!
-
-- <time>Mar 23, 2023-Mar 24, 2023</time> Did some organisational work.
-
-- <time>Mar 22, 2023</time> Finished initial organising work and informed a section of the council about an upcoming task.
 
 <hr />
 
@@ -11679,6 +11506,183 @@ function getCount(str) {
 <hr />
 
 ## Done
+
+## <span id="studentcouncil12">Student Council - 12th + Head of Events</span>
+
+<small>Mar 22, 2023-Jan 20, 2024</small>  
+<small>Became the vice head boy of my school. Tried to the best job I can. Also, I was the Head of Events for my school's environment club.</small>
+
+<hr />
+
+#### Log
+
+- <time>Jan 20, 2024</time> I don't think I can ever bring myself to summarize all that I've learnt from this project of mine, but hey, what I can bring myself to is making a collage, I graduated, baby!:
+
+![Graduation 2024](/graduation-2024.png)
+
+- <time>Oct 26, 2023-Jan 20, 2024</time> The work is not done just yet.
+
+- <time>Oct 09, 2023-Oct 26, 2023</time> What a month. Summary forthcoming!
+
+- <time>Oct 08, 2023</time> College fair!
+
+![College Fair](/college-fair.jpg)
+
+- <time>Oct 06, 2023</time> (another EcoGen flash mob!)
+
+![EcoGen - Flash Mob - 2](/EcoGen-2.jpg)
+
+- <time>Sep 25, 2023-Oct 05, 2023</time> Brown is quite a nice colour.
+
+- <time>Sep 24, 2023</time> Don't be a donkey.
+
+- <time>Sep 22, 2023</time> (also, EcoGen flash mob!)
+
+![EcoGen - Flash Mob](/EcoGen.jpg)
+
+- <time>Sep 19, 2023-Sep 22, 2023</time> College. TEDx. Entrance.
+
+- <time>Sep 19, 2023</time> All colours are beautiful.
+
+- <time>Sep 16, 2023-Sep 17, 2023</time> Grading.
+
+- <time>Sep 11, 2023-Sep 15, 2023</time> Everything. In. Between.
+
+- <time>Sep 06, 2023-Sep 10, 2023</time> Everything in between!
+
+- <time>Sep 05, 2023</time> Oh, it was.
+
+![F1](/f1.jpeg)
+
+- <time>Sep 01, 2023-Sep 04, 2023</time> The 5th is going to be an exciting day!
+
+- <time>Aug 27, 2023-Sep 01, 2023</time> This has been the most productive week ever for this project: so, so much done.
+
+- <time>Aug 23, 2023-Aug 27, 2023</time> Well, that was a productive summer!
+
+- <time>Aug 22, 2023</time> Comprehensive enough?
+
+- <time>Aug 20, 2023-Aug 21, 2023</time> 2 years?!
+
+- <time>Aug 19, 2023</time> The notebook is quite filled.
+
+- <time>Aug 12, 2023-Aug 17, 2023</time> Lot's of work: organised the grading for junior classes along with another head, sent out a comprehensive guide for English proficiency tests and continued with some projects on the side.
+
+- <time>Aug 10, 2023-Aug 11, 2023</time> Lots of smaller, but important work! (pt. 2)
+
+- <time>Jul 31, 2023-Aug 09, 2023</time> Lots of smaller, but important work!
+
+- <time>Jul 28, 2023-Jul 30, 2023</time> Cubing was an interesting part of my life.
+
+- <time>Jul 26, 2023-Jul 27, 2023</time> Proud Head of Events day!
+
+- <time>Jul 26, 2023-Jul 27, 2023</time> Got word of permission for a project (which also leads to something pretty important)!
+
+- <time>Jul 19, 2023-Jul 25, 2023</time> It's hard to describe the work that's been going on, but it is certainly something..
+
+- <time>Jul 17, 2023-Jul 18, 2023</time> A lot of progress, but I hate forms.
+
+- <time>Jul 16, 2023</time> Had a call and got a good amount of work in.
+
+- <time>Jul 15, 2023</time> 2 hour long meeting! Was fun (and productive).
+
+- <time>Jul 08, 2023-Jul 14, 2023</time> So, much, environment, work.
+
+- <time>Jul 07, 2023</time> Tech FTW!
+
+- <time>Jul 04, 2023-Jul 05, 2023</time> Helped to get a message out.
+
+- <time>Jun 27, 2023-Jun 29, 2023</time> Jackets!
+
+- <time>Jun 26, 2023</time> Did some organisational work.
+
+- <time>Jun 19, 2023-Jun 21, 2023</time> Got it done.
+
+- <time>Jun 17, 2023-Jun 18, 2023</time> Did some organisational work, lots of work for this week!
+
+- <time>Jun 10, 2023</time> Polls!
+
+- <time>Jun 08, 2023</time> Checklist!
+
+- <time>Jun 01, 2023</time> Done (for now).
+
+- <time>May 30, 2023-May 31, 2023</time> Much smoother, in a way.
+
+- <time>May 29, 2023</time> Still a bit left, but got the video fixed (yay!)
+
+- <time>May 25, 2023-May 28, 2023</time> All done (soon).
+
+- <time>May 20, 2023-May 24, 2023</time> Nearly (or fully?) done with a lot of smaller projects for this.
+
+- <time>May 19, 2023</time> Got a lot of work done for both projects. Really happy!
+
+- <time>May 18, 2023</time> Cameraman, anyone? Also, won best speaker for a motion in a debate, and lots of environment work.
+
+- <time>May 15, 2023-May 17, 2023</time> Did some (really^3 important) organisational work.
+
+- <time>May 09, 2023-May 14, 2023</time> Did some (really, really important) organisational work.
+
+- <time>May 08, 2023</time> Did some (really important!) organisational work.
+
+- <time>May 07, 2023</time> Did some organisational work.
+
+- <time>May 06, 2023</time> Did some organisational work.
+
+- <time>May 05, 2023</time> Did some organisational work.
+
+- <time>May 03, 2023-May 04, 2023</time> Did some organisational work and a lot of writing for a proposal.
+
+- <time>May 02, 2023</time> Did some organisational work and a morning event.
+
+- <time>Apr 30, 2023-May 01, 2023</time> Did some organisational work and partook in a successful morning event.
+
+- <time>Apr 29, 2023</time> Got some important messages + a template out yesterday.
+
+- <time>Apr 28, 2023</time> Incredible day.
+
+![Investiture Ceremony](/investiture.png/)
+
+- <time>Apr 26, 2023</time> Got a speech ready and many rehersals (my knee can atest) done + dance was conducted somewhat successfully and an awesome Instagram post.
+
+- <time>Apr 24, 2023-Apr 25, 2023</time> Worked on a video, event should go smoothly for tomorrow and day after.
+
+- <time>Apr 23, 2023</time> Sorted out a technical issue + got content/photos for a post idea that I came up with! (worked on the main document a bit as well)
+
+- <time>Apr 19, 2023-Apr 22, 2023</time> Did some organisational work.
+
+- <time>Apr 17, 2023-Apr 19, 2023</time> Got a lot of work and recording done for an event.
+
+- <time>Apr 11, 2023-Apr 16 2023</time> Communication is key.
+
+- <time>Apr 09, 2023-Apr 11, 2023</time> Did a lot of organisational work and generally, got a lot done!
+
+- <time>Apr 08, 2023</time> Had a fruitful discussion with the design team!
+
+- <time>Apr 06, 2023-Apr 07, 2023</time> Finished a document and getting some ideas for EC!
+
+- <time>Apr 01, 2023-Apr 05, 2023</time> Lots of voting and discussions - but we're done with colour scheme.
+
+- <time>Apr 01, 2023</time> Sent out the video draft (that another person worked on!) for the event in May and helped to sort out a mini-crisis.
+
+- <time>Mar 31, 2023</time> Did some organisational work.
+
+- <time>Mar 30, 2023</time> Had a productive meeting for event in May.
+
+- <time>Mar 29, 2023</time> Top 6 now - also need to get better videos tomorrow...
+
+- <time>Mar 28, 2023</time> Compiled the top 8. Waiting for results (+ more democracy!). Also, (a pretty fun but productive) meeting for event in May.
+
+- <time>Mar 26, 2023-Mar 27, 2023</time> Colour - so trivial yet so important. Also, all applications are now sorted (EC)
+
+- <time>Mar 25, 2023</time> Worked on compiling designs and setting up voting, and also contacted someone.
+
+- Summary of Environment Club (EC) Work: Will merge this log with this one. After my [student council work in 11th](#student-council-11th), I mostly just had meetings, an application form for this academic year (which I finished) and a run!
+
+- <time>Mar 23, 2023-Mar 24, 2023</time> Did some organisational work.
+
+- <time>Mar 22, 2023</time> Finished initial organising work and informed a section of the council about an upcoming task.
+
+<hr />
 
 ## <span id="ausresearch">AUS CSE Research Assistant</span>
 
