@@ -120,6 +120,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 17, 2024-Jan 23, 2024</time> Another successful meeting + admin work!
+
 - <time>Jan 16, 2024</time> First team-wide meeting!
 
 - <time>Jan 15, 2024</time> Had a lovely one-on-one with team member!
@@ -184,6 +186,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 13, 2024</time> Done. Finally.
+
 - <time>Jan 06, 2024-Jan 12, 2024</time> Done-ish.
 
 - <time>Jan 05, 2024</time> Scratch that, should be done by tomorrow. (x2)
@@ -213,6 +217,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 23, 2024</time> Check-in time!
+
 - <time>Jan 13, 2024</time> Notion.
 
 - <time>Jan 11, 2024-Jan 12, 2024</time> Meeting + links + comments!
@@ -241,6 +247,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Continuing this breath-taking journey in AI safety (the research part being with my brother). Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
+
+- <time>Jan 23, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
 - <time>Jan 12, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
@@ -307,7 +315,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023-Jan 15, 2024</time> On to the next thing.
+- <time>Dec 22, 2023-Jan 23, 2024</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
