@@ -735,6 +735,25 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 26, 2024</time> Finished [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/):
+
+```py
+class Solution:
+    def findCenter(self, edges: List[List[int]]) -> int:
+
+        # Credit - https://leetcode.com/problems/find-center-of-star-graph/solutions/4534529/beginner-friendly
+
+        temp = defaultdict(list)
+
+        for i in edges:
+            temp[i[0]].append(i[1])
+            temp[i[1]].append(i[0])
+
+        for i, j in temp.items():
+            if len(j) == len(temp) - 1:
+                return i
+```
+
 - <time>Jan 16, 2024</time> Finished [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/):
 
 ```py
