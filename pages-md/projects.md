@@ -120,6 +120,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 26, 2024-Jan 27, 2024</time> Finished my share of work - woo-hoo! Just got a meeting to watch tomorrow...
+
 - <time>Jan 17, 2024-Jan 23, 2024</time> Another successful meeting + admin work!
 
 - <time>Jan 16, 2024</time> First team-wide meeting!
@@ -148,6 +150,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 26, 2024-Jan 27, 2024</time> And we're back on track.
 
 - <time>Jan 05, 2024-Jan 12, 2024</time> More progress!
 
@@ -186,6 +190,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 26, 2024-Jan 27, 2024</time> Closer.
+
 - <time>Jan 13, 2024</time> Done. Finally.
 
 - <time>Jan 06, 2024-Jan 12, 2024</time> Done-ish.
@@ -216,6 +222,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 27, 2024</time> Added comments.
 
 - <time>Jan 23, 2024</time> Check-in time!
 
@@ -315,7 +323,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023-Jan 23, 2024</time> On to the next thing.
+- <time>Dec 22, 2023-Jan 27, 2024</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
@@ -503,6 +511,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jan 12, 2024-Jan 27, 2024</time> Had a small-scale meeting + working on something for future-proofing.
 
 - <time>Jan 05, 2024-Jan 12, 2024</time> New member introduced and meeting soon!
 
