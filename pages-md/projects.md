@@ -735,6 +735,16 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 27, 2024</time> Finished [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/):
+
+```py
+class Solution:
+    def checkOnesSegment(self, s: str) -> bool:
+        if len([i for i in s.split('0') if i != '']) > 1:
+            return False
+        return True
+```
+
 - <time>Jan 26, 2024</time> Finished [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/):
 
 ```py
