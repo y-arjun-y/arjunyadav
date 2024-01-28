@@ -745,6 +745,21 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 28, 2024</time> Finished [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/):
+
+```py
+class Solution:
+    def countKeyChanges(self, s: str) -> int:
+        s = s.lower()
+        count = 0
+
+        for i in range(1, len(s)):
+            if s[i] != s[i - 1]:
+                count += 1
+
+        return count
+```
+
 - <time>Jan 27, 2024</time> Finished [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/):
 
 ```py
