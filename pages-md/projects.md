@@ -120,6 +120,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jan 29, 2024</time> Oh GitHub, where would I be without you?
+
 - <time>Jan 28, 2024</time> Got back to someone about something!
 
 - <time>Jan 26, 2024-Jan 27, 2024</time> Finished my share of work - woo-hoo! Just got a meeting to watch tomorrow...
@@ -192,7 +194,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jan 28, 2024</time> Done!
+- <time>Jan 28, 2024-Jan 29, 2024</time> Done!
 
 - <time>Jan 26, 2024-Jan 27, 2024</time> Closer.
 
@@ -262,7 +264,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Jan 24, 2024-Jan 28, 2024</time> A lot has happened - some good, some luke-warm. Hope to be more consistent with logging this exact project + maintaining my notebook (not just [my X.com profile](https://x.com/y_arjun_y)...) now!
+- <time>Jan 24, 2024-Jan 29, 2024</time> A lot has happened - some good, some luke-warm. Hope to be more consistent with logging this exact project + maintaining my notebook (not just [my X.com profile](https://x.com/y_arjun_y)...) now!
 
 - <time>Jan 23, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
@@ -331,7 +333,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023-Jan 28, 2024</time> On to the next thing.
+- <time>Dec 22, 2023-Jan 29, 2024</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
@@ -520,7 +522,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jan 12, 2024-Jan 28, 2024</time> Had a small-scale meeting + working on something for future-proofing.
+- <time>Jan 12, 2024-Jan 29, 2024</time> Had a small-scale meeting + working on something for future-proofing.
 
 - <time>Jan 05, 2024-Jan 12, 2024</time> New member introduced and meeting soon!
 
