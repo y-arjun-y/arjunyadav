@@ -120,6 +120,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 02, 2024</time> Asana? Asana!
+
 - <time>Jan 29, 2024</time> Oh GitHub, where would I be without you?
 
 - <time>Jan 28, 2024</time> Got back to someone about something!
@@ -155,7 +157,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jan 26, 2024-Jan 27, 2024</time> And we're back on track.
+- <time>Jan 26, 2024-Feb 02, 2024</time> And we're back on track.
 
 - <time>Jan 05, 2024-Jan 12, 2024</time> More progress!
 
@@ -194,6 +196,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 02, 2024</time> Review time.
+
 - <time>Jan 28, 2024-Jan 29, 2024</time> Done!
 
 - <time>Jan 26, 2024-Jan 27, 2024</time> Closer.
@@ -223,11 +227,13 @@ Confused? See the <a href="#note">note</a> down below.
 ## <span id="oss">Offline Streaming Systems</span>
 
 <small>Nov 11, 2023-present</small>  
-<small>Part of the O.S.S. team as a developer.</small>
+<small>Part of the O.S.S. team as a developer and general member.</small>
 
 <hr />
 
 #### Log
+
+- <time>Feb 02, 2024</time> More discussions.
 
 - <time>Jan 28, 2024</time> Got back to someone!
 
@@ -264,7 +270,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Jan 24, 2024-Jan 29, 2024</time> A lot has happened - some good, some luke-warm. Hope to be more consistent with logging this exact project + maintaining my notebook (not just [my X.com profile](https://x.com/y_arjun_y)...) now!
+- <time>Jan 24, 2024-Feb 02, 2024</time> A lot has happened - some good, some luke-warm. Hope to be more consistent with logging this exact project + maintaining my notebook (not just [my X.com profile](https://x.com/y_arjun_y)...) now!
 
 - <time>Jan 23, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
@@ -333,7 +339,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023-Jan 29, 2024</time> On to the next thing.
+- <time>Dec 22, 2023-Feb 02, 2024</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
@@ -754,6 +760,18 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 02, 2024</time> Finished [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/):
+
+```py
+class Solution:
+    def canFormArray(self, arr: List[int], pieces: List[List[int]]) -> bool:
+        for i in pieces:
+            n = len(i)
+            if i not in list((arr[j:j + n] for j in range(0, len(arr) - (n - 1)))):
+                return False
+        return True
+```
 
 - <time>Jan 28, 2024</time> Finished [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/):
 
