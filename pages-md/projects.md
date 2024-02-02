@@ -11904,8 +11904,6 @@ function getCount(str) {
 
 <hr />
 
-<hr />
-
 ## <span id="gratis2023">Gratis 2023</span>
 
 <small>Dec 07, 2023-Dec 14, 2023</small>  
