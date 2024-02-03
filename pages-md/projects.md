@@ -120,6 +120,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 03, 2024</time> Slack.
+
 - <time>Feb 02, 2024</time> Asana? Asana!
 
 - <time>Jan 29, 2024</time> Oh GitHub, where would I be without you?
@@ -157,7 +159,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jan 26, 2024-Feb 02, 2024</time> And we're back on track.
+- <time>Jan 26, 2024-Feb 03, 2024</time> And we're back on track.
 
 - <time>Jan 05, 2024-Jan 12, 2024</time> More progress!
 
@@ -196,7 +198,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 02, 2024</time> Review time.
+- <time>Feb 02, 2024-Feb 03, 2024</time> Review time.
 
 - <time>Jan 28, 2024-Jan 29, 2024</time> Done!
 
@@ -233,7 +235,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 02, 2024</time> More discussions.
+- <time>Feb 02, 2024-Feb 03, 2024</time> More discussions.
 
 - <time>Jan 28, 2024</time> Got back to someone!
 
@@ -270,7 +272,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Jan 24, 2024-Feb 02, 2024</time> A lot has happened - some good, some luke-warm. Hope to be more consistent with logging this exact project + maintaining my notebook (not just [my X.com profile](https://x.com/y_arjun_y)...) now!
+- <time>Jan 24, 2024-Feb 03, 2024</time> A lot has happened - some good, some luke-warm. Hope to be more consistent with logging this exact project + maintaining my notebook (not just [my X.com profile](https://x.com/y_arjun_y)...) now!
 
 - <time>Jan 23, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
@@ -339,7 +341,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023-Feb 02, 2024</time> On to the next thing.
+- <time>Dec 22, 2023-Feb 03, 2024</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
@@ -528,7 +530,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jan 12, 2024-Jan 29, 2024</time> Had a small-scale meeting + working on something for future-proofing.
+- <time>Jan 12, 2024-Feb 03, 2024</time> Had a small-scale meeting + working on something for future-proofing.
 
 - <time>Jan 05, 2024-Jan 12, 2024</time> New member introduced and meeting soon!
 
