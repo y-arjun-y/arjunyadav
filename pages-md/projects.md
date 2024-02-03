@@ -761,6 +761,14 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 03, 2024</time> Finished [Word Frequency](https://leetcode.com/problems/word-frequency):
+
+```bash
+# Read from the file words.txt and output the word frequency list to stdout.
+# Credit - https://leetcode.com/problems/word-frequency/solutions/4586376/perfect
+cat words.txt | tr -s ' ' '\n' | sort | uniq -c | sort -nr | awk '{print $2, $1}'
+```
+
 - <time>Feb 02, 2024</time> Finished [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/):
 
 ```py
