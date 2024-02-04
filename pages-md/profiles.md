@@ -10,5 +10,6 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - [GitHub](https://github.com/y-arjun-y) - My code repositories can be found on my GitHub page.
 - [X.com](https://x.com/y_arjun_y) - I use X.com (formerly called Twitter) only for AI safety learnings and musings.
 - [EA Forum](https://forum.effectivealtruism.org/users/arjun-yadav) - My Effective Altruism Forum profile.
+- [Goodreads](https://www.goodreads.com/user/show/133439339-arjun) - All my books + reviews - the ones I've read and the ones I'm currently reading.
 - [Letterboxd](https://letterboxd.com/y_arjun_y) - Movie reviews from Nov 2021 onwards can be found here.
 - [Musicboard](https://musicboard.app/y_arjun_y) - Album reviews + monthly lists from Nov 2021 onwards can be found here.
