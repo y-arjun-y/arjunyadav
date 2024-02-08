@@ -120,6 +120,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 06, 2024-Feb 08, 2024</time> Lots of progress!
+
 - <time>Feb 03, 2024</time> Slack.
 
 - <time>Feb 02, 2024</time> Asana? Asana!
@@ -159,7 +161,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jan 26, 2024-Feb 03, 2024</time> And we're back on track.
+- <time>Feb 08, 2024</time> Lots of progress slated for tomorrow night!
+
+- <time>Jan 26, 2024-Feb 08, 2024</time> And we're back on track.
 
 - <time>Jan 05, 2024-Jan 12, 2024</time> More progress!
 
@@ -198,6 +202,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 08, 2024</time> PR time!
+
 - <time>Feb 02, 2024-Feb 03, 2024</time> Review time.
 
 - <time>Jan 28, 2024-Jan 29, 2024</time> Done!
@@ -235,7 +241,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 02, 2024-Feb 03, 2024</time> More discussions.
+- <time>Feb 02, 2024-Feb 08, 2024</time> More discussions.
 
 - <time>Jan 28, 2024</time> Got back to someone!
 
@@ -271,6 +277,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Continuing this breath-taking journey in AI safety (the research part being with my brother). Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
+
+- <time>Jan 24, 2024-Feb 03, 2024</time> [https://neuropedia.org](https://neuropedia.org) - quite cool!
 
 - <time>Jan 24, 2024-Feb 03, 2024</time> A lot has happened - some good, some luke-warm. Hope to be more consistent with logging this exact project + maintaining my notebook (not just [my X.com profile](https://x.com/y_arjun_y)...) now!
 
@@ -341,7 +349,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023-Feb 03, 2024</time> On to the next thing.
+- <time>Dec 22, 2023-Feb 08, 2024</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
@@ -530,7 +538,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jan 12, 2024-Feb 03, 2024</time> Had a small-scale meeting + working on something for future-proofing.
+- <time>Jan 12, 2024-Feb 08, 2024</time> Had a small-scale meeting + working on something for future-proofing.
 
 - <time>Jan 05, 2024-Jan 12, 2024</time> New member introduced and meeting soon!
 
@@ -762,6 +770,28 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 08, 2024</time> Finished [Type of Triangle II](https://leetcode.com/problems/type-of-triangle-ii/):
+
+```py
+class Solution:
+    def triangleType(self, nums: List[int]) -> str:
+        def check(li):
+            if li[0] + li[1] > li[2] and li[0] + li[2] > li[1] and li[1] + li[2] > li[0]:
+                return True
+            else:
+                return False
+
+        if check(nums):
+            if len(set(nums)) == 1:
+                return "equilateral"
+            elif len(set(nums)) == 2:
+                return "isosceles"
+            else:
+                return "scalene"
+        else:
+            return "none"
+```
 
 - <time>Feb 03, 2024</time> Finished [Word Frequency](https://leetcode.com/problems/word-frequency):
 
@@ -11668,7 +11698,7 @@ function getCount(str) {
 
 - <time>Aug 19, 2023</time> The notebook is quite filled.
 
-- <time>Aug 12, 2023-Aug 17, 2023</time> Lot's of work: organised the grading for junior classes along with another head, sent out a comprehensive guide for English proficiency tests and continued with some projects on the side.
+- <time>Aug 12, 2023-Aug 17, 2023</time> Lots of work: organised the grading for junior classes along with another head, sent out a comprehensive guide for English proficiency tests and continued with some projects on the side.
 
 - <time>Aug 10, 2023-Aug 11, 2023</time> Lots of smaller, but important work! (pt. 2)
 
