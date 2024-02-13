@@ -120,7 +120,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 06, 2024-Feb 08, 2024</time> Lots of progress!
+- <time>Feb 06, 2024-Feb 13, 2024</time> Lots of progress!
 
 - <time>Feb 03, 2024</time> Slack.
 
@@ -160,6 +160,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 09, 2024-Feb 13, 2024</time> Let me tell you one thing.
 
 - <time>Feb 08, 2024</time> Lots of progress slated for tomorrow night!
 
@@ -201,6 +203,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 09, 2024-Feb 13, 2024</time> Done. Record time!
 
 - <time>Feb 08, 2024</time> PR time!
 
@@ -349,7 +353,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023-Feb 08, 2024</time> On to the next thing.
+- <time>Dec 22, 2023-Feb 13, 2024</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
@@ -770,6 +774,47 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 10, 2024</time> Finished [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix/):
+
+```py
+class Solution:
+    def modifiedMatrix(self, matrix: List[List[int]]) -> List[List[int]]:
+        transpose = []
+
+        for i in range(len(matrix[0])):
+            col = []
+
+            for j in range(len(matrix)):
+                col.append(matrix[j][i])
+
+            transpose.append(col)
+
+        print(transpose)
+
+        for i in range(len(matrix)):
+            for j in range(len(matrix[0])):
+                if matrix[i][j] == -1:
+                    matrix[i][j] = max(transpose[j])
+
+        return matrix
+```
+
+- <time>Feb 09, 2024</time> Finished [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/):
+
+```py
+class Solution:
+    def returnToBoundaryCount(self, nums: List[int]) -> int:
+        sum = 0
+        count = 0
+
+        for i in nums:
+            sum += i
+            if sum == 0:
+                count += 1
+
+        return count
+```
 
 - <time>Feb 08, 2024</time> Finished [Type of Triangle II](https://leetcode.com/problems/type-of-triangle-ii/):
 
