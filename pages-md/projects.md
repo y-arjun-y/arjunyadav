@@ -120,6 +120,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 14, 2024</time> Slack.
+
 - <time>Feb 06, 2024-Feb 13, 2024</time> Lots of progress!
 
 - <time>Feb 03, 2024</time> Slack.
@@ -161,7 +163,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 09, 2024-Feb 13, 2024</time> Let me tell you one thing.
+- <time>Feb 09, 2024-Feb 14, 2024</time> Let me tell you one thing.
 
 - <time>Feb 08, 2024</time> Lots of progress slated for tomorrow night!
 
@@ -353,7 +355,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Dec 22, 2023-Feb 13, 2024</time> On to the next thing.
+- <time>Dec 22, 2023-Feb 14, 2024</time> On to the next thing.
 
 - <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
 
