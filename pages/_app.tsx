@@ -1,6 +1,7 @@
 import Head from "next/head";
-import Navbar from "/components/Navbar";
 import "highlight.js/styles/monokai-sublime.css";
+import Navbar from "../components/Navbar";
+import Script from "next/script";
 
 function ArjunYadav({ Component, pageProps }) {
   return (
@@ -17,12 +18,12 @@ function ArjunYadav({ Component, pageProps }) {
         <meta property="og:url" content="https://arjunyadav.net" />
         <meta property="og:site_name" content="Arjun Yadav" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <script type="module">
-          import renderMathInElement from
-          "https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/auto-render.mjs";
-          renderMathInElement(document.body);
-        </script>
       </Head>
+      <Script type="module" id="render-math">
+        import renderMathInElement from
+        "https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/auto-render.mjs";
+        renderMathInElement(document.body);
+      </Script>
       <Navbar />
       <Component {...pageProps} />
       <hr />

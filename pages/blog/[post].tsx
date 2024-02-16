@@ -2,31 +2,32 @@ import fs from "fs";
 import matter from "gray-matter";
 import Head from "next/head";
 import hljs from "highlight.js";
-const md = require("markdown-it")({
+import markdownit from "markdown-it";
+import markdownitfootnote from "markdown-it-footnote";
+
+const md = markdownit({
   html: true,
 
   highlight: function (str, lang) {
     if (lang && hljs.getLanguage(lang)) {
-      try {
-        return (
-          '<pre class="hljs"><code>' +
-          hljs.highlight(str, { language: lang, ignoreIllegals: true }).value +
-          "</code></pre>"
-        );
-      } catch (__) {}
+      return (
+        '<pre class="hljs"><code>' +
+        hljs.highlight(str, { language: lang, ignoreIllegals: true }).value +
+        "</code></pre>"
+      );
     }
 
     return (
       '<pre class="hljs"><code>' + md.utils.escapeHtml(str) + "</code></pre>"
     );
   },
-}).use(require("markdown-it-footnote"));
+}).use(markdownitfootnote);
 
 export async function getStaticPaths() {
-  const files = fs.readdirSync("./pages-md");
+  const files = fs.readdirSync("./blog-posts");
   const paths = files.map((fileName) => ({
     params: {
-      page: fileName.replace(".md", ""),
+      post: fileName.replace(".md", ""),
     },
   }));
   return {
@@ -35,8 +36,8 @@ export async function getStaticPaths() {
   };
 }
 
-export async function getStaticProps({ params: { page } }) {
-  const fileName = fs.readFileSync(`./pages-md/${page}.md`, "utf-8");
+export async function getStaticProps({ params: { post } }) {
+  const fileName = fs.readFileSync(`./blog-posts/${post}.md`, "utf-8");
   const { data: frontmatter, content } = matter(fileName);
   return {
     props: {
@@ -50,16 +51,15 @@ export default function Post({ frontmatter, content }) {
   return (
     <>
       <Head>
-        <meta property="og:title" content={frontmatter.title} />
+        <meta property="og:title" content={frontmatter.meta_description} />
         <meta property="og:image" content={frontmatter.meta_image} />
-        <meta
-          property="og:description"
-          content={frontmatter.meta_description}
-        />
         <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={frontmatter.meta_description} />
         <title>{frontmatter.title}</title>
       </Head>
       <div>
+        <h1>{frontmatter.title}</h1>
+        <p>{frontmatter.publish_date}</p>
         <div dangerouslySetInnerHTML={{ __html: md.render(content) }} />
       </div>
     </>

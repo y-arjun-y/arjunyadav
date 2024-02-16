@@ -1,25 +1,27 @@
 import fs from "fs";
 import matter from "gray-matter";
 import Head from "next/head";
-const md = require("markdown-it")({
+import hljs from "highlight.js";
+import markdownit from "markdown-it";
+import markdownitfootnote from "markdown-it-footnote";
+
+const md = markdownit({
   html: true,
 
   highlight: function (str, lang) {
     if (lang && hljs.getLanguage(lang)) {
-      try {
-        return (
-          '<pre class="hljs"><code>' +
-          hljs.highlight(str, { language: lang, ignoreIllegals: true }).value +
-          "</code></pre>"
-        );
-      } catch (__) {}
+      return (
+        '<pre class="hljs"><code>' +
+        hljs.highlight(str, { language: lang, ignoreIllegals: true }).value +
+        "</code></pre>"
+      );
     }
 
     return (
       '<pre class="hljs"><code>' + md.utils.escapeHtml(str) + "</code></pre>"
     );
   },
-}).use(require("markdown-it-footnote"));
+}).use(markdownitfootnote);
 
 export async function getStaticProps() {
   const fileName = fs.readFileSync(`./pages-md/index.md`, "utf-8");
@@ -32,7 +34,7 @@ export async function getStaticProps() {
   };
 }
 
-export default function Post({ frontmatter, content }) {
+export default function Homepage({ frontmatter, content }) {
   return (
     <>
       <Head>
