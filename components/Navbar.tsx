@@ -5,7 +5,7 @@ export default function Navbar() {
     <header>
       <Link href="/" passHref>
         <h1>Arjun Yadav</h1>
-      </a>
+      </Link>
       <nav>
         <p>
           <Link href="/">Home</Link>
