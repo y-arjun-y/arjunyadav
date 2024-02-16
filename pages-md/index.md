@@ -29,7 +29,7 @@ My name is Arjun Yadav, my interests lie in [effective altruism](/blog/what-is-e
   - Nov 2021 - [LeetCode](/projects#leetcode)
   - Oct 2021 - [bettermailto](/projects#bettermailto)
   - Oct 2021 - [Effective Altruism Data](/projects#eadata)
-  
+
 </details>
 
 Check out my projects [here](/projects/) and feel free to [contact me](https://www.bettermailto.com/user/620278e0561f820009d840d2) about anything you fancy!
