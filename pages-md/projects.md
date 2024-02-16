@@ -120,7 +120,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 14, 2024</time> Slack.
+- <time>Feb 14, 2024-Feb 16, 2024</time> Slack.
 
 - <time>Feb 06, 2024-Feb 13, 2024</time> Lots of progress!
 
@@ -206,7 +206,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 09, 2024-Feb 13, 2024</time> Done. Record time!
+- <time>Feb 09, 2024-Feb 16, 2024</time> Done. Record time!
 
 - <time>Feb 08, 2024</time> PR time!
 
@@ -354,6 +354,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 15, 2024-Feb 16, 2024</time> Hm.
 
 - <time>Dec 22, 2023-Feb 14, 2024</time> On to the next thing.
 
