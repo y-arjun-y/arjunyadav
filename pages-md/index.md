@@ -54,4 +54,4 @@ Data from [CloudFlare](https://cloudflare.com). Original SVG was created with [g
 <img src="/map.svg" />
 </details>
 
-Feel free to <a href="https://www.bettermailto.com/user/620278e0561f820009d840d2">contact me</a> about anything you fancy!
+If you wish to contact me, [feel free to do so](https://www.bettermailto.com/user/620278e0561f820009d840d2)!
