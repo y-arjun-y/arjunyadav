@@ -8,7 +8,10 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 <img src="/Arjun.png" height="350px" />
 
-My name is Arjun Yadav, my interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development and [machine learning and AI safety](/notebook/)) and [writing on my blog](/blog/) (which includes my [interesting reads](/interesting-reads/) series).
+My name is Arjun Yadav, my interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development, [machine learning and AI safety](/notebook/)) and [writing on my blog](/blog/) (which includes my [interesting reads](/interesting-reads/) series).
+
+<details open>
+<summary>Projects</summary>
 
 Some of the projects I've worked on in my life that I'm particularly proud of are (in reverse-chronological order):
 
@@ -27,4 +30,28 @@ Some of the projects I've worked on in my life that I'm particularly proud of ar
 - Oct 2021 - [bettermailto](/projects#bettermailto)
 - Oct 2021 - [Effective Altruism Data](/projects#eadata)
 
-Check out my projects [here](/projects/) and feel free to [contact me](https://www.bettermailto.com/user/620278e0561f820009d840d2) about anything you fancy!
+</details>
+
+<details open>
+<summary>My Donations</summary>
+
+These are all my donations to [effective charities](https://www.givewell.org/charities/top-charities), guided by [GiveWell](https://www.givewell.org/).
+
+| Date       | Amount    | Charity                    |
+| ---------- | --------- | -------------------------- |
+| 09/01/2022 | 13.61 USD | GiveDirectly               |
+| 09/01/2022 | 13.61 USD | Against Malaria Foundation |
+
+</details>
+
+<details id="end" open>
+<summary>Website Statistics</summary>
+
+This map showcases countries that have contributed to the overall web traffic for [arjunyadav.net](/) between Apr 18, 2022-May 18, 2022.
+
+Data from [CloudFlare](https://cloudflare.com). Original SVG was created with [gallpeters](https://gallpeters.vercel.app) (a [project](/projects/#gallpeters) I made). Last updated May 18, 2022.
+
+<img src="/map.svg" />
+</details>
+
+Feel free to <a href="https://www.bettermailto.com/user/620278e0561f820009d840d2">contact me</a> about anything you fancy!
