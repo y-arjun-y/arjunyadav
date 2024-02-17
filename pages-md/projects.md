@@ -6,16 +6,19 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (8)
+### Active (5)
 
 - <a href="#aisc2024">AI Safety Camp</a>
-- <a href="#ai-plans">AI Plans</a>
-- <a href="#dioptra">Dioptra</a>
-- <a href="#oss">Offline Streaming Systems</a>
 - <a href="#aissr">AI Safety Studying/Research</a>
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
 - <a href="#leetcode">LeetCode</a>
+
+### Paused (3)
+
+- <a href="#ai-plans">AI Plans</a>
+- <a href="#dioptra">Dioptra</a>
+- <a href="#oss">Offline Streaming Systems</a>
 
 ### Occasional (4)
 
@@ -149,131 +152,6 @@ Confused? See the <a href="#note">note</a> down below.
 - <time>Dec 30, 2023</time> Summarized the last bit of feedback.
 
 - <time>Dec 29, 2023</time> Got started!
-
-<hr />
-
-## <span id="ai-plans">[AI Plans](https://ai-plans.com)</span>
-
-<small>Dec 18, 2023-present</small>  
-<small>Part of the AI Plans dev team!</small>
-
-<hr />
-<small>AI Plans' start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Feb 09, 2024-Feb 14, 2024</time> Let me tell you one thing.
-
-- <time>Feb 08, 2024</time> Lots of progress slated for tomorrow night!
-
-- <time>Jan 26, 2024-Feb 08, 2024</time> And we're back on track.
-
-- <time>Jan 05, 2024-Jan 12, 2024</time> More progress!
-
-- <time>Jan 05, 2024</time> Done! (well, my part at least)
-
-- <time>Jan 04, 2024</time> Added another part!
-
-- <time>Dec 30, 2023</time> Squash the bugs.
-
-- <time>Dec 29, 2023</time> Making progress.
-
-- <time>Dec 28, 2023</time> PR! (x2)
-
-- <time>Dec 27, 2023</time> CSS, my old friend. (x2)
-
-- <time>Dec 26, 2023</time> PR!
-
-- <time>Dec 25, 2023</time> CSS, my old friend.
-
-- <time>Dec 22, 2023-Dec 24, 2023</time> Bug resolved! On to the next step.
-
-- <time>Dec 19, 2023-Dec 21, 2023</time> Continued with checking the database implementation.
-
-- <time>Dec 18, 2023</time> Finished setting up the new build and got back to someone! Excited to get to work.
-
-<hr />
-
-## <span id="dioptra">Dioptra</span>
-
-<small>Dec 18, 2023-present</small>  
-<small>Part of the Dioptre team, working on projects with them and trying to learn a lot in the process!.</small>
-
-<hr />
-<small>Dioptra's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Feb 09, 2024-Feb 16, 2024</time> Done. Record time!
-
-- <time>Feb 08, 2024</time> PR time!
-
-- <time>Feb 02, 2024-Feb 03, 2024</time> Review time.
-
-- <time>Jan 28, 2024-Jan 29, 2024</time> Done!
-
-- <time>Jan 26, 2024-Jan 27, 2024</time> Closer.
-
-- <time>Jan 13, 2024</time> Done. Finally.
-
-- <time>Jan 06, 2024-Jan 12, 2024</time> Done-ish.
-
-- <time>Jan 05, 2024</time> Scratch that, should be done by tomorrow. (x2)
-
-- <time>Jan 03, 2024</time> Scratch that, should be done by tomorrow.
-
-- <time>Dec 29, 2023</time> Should be done tomorrow.
-
-- <time>Dec 27, 2023-Dec 28, 2023</time> Got some feedback again.
-
-- <time>Dec 23, 2023-Dec 25, 2023</time> Done! (I think)
-
-- <time>Dec 22, 2023</time> Finally, almost done.
-
-- <time>Dec 19, 2023-Dec 21, 2023</time> Continued with the implementation of one of the games.
-
-- <time>Dec 18, 2023</time> Had a great meeting! Excited to get this show on the road.
-
-<hr />
-
-## <span id="oss">Offline Streaming Systems</span>
-
-<small>Nov 11, 2023-present</small>  
-<small>Part of the O.S.S. team as a developer and general member.</small>
-
-<hr />
-
-#### Log
-
-- <time>Feb 02, 2024-Feb 08, 2024</time> More discussions.
-
-- <time>Jan 28, 2024</time> Got back to someone!
-
-- <time>Jan 27, 2024</time> Added comments.
-
-- <time>Jan 23, 2024</time> Check-in time!
-
-- <time>Jan 13, 2024</time> Notion.
-
-- <time>Jan 11, 2024-Jan 12, 2024</time> Meeting + links + comments!
-
-- <time>Jan 05, 2024</time> An interesting video was shared.
-
-- <time>Jan 03, 2024</time> I think we're done for the first part! Just need to review an API and find a work-around soon.
-
-- <time>Dec 21, 2023-Dec 30, 2023</time> Making progress.
-
-- <time>Dec 19, 2023-Dec 20, 2023</time> Pretty decent bug fix from the team!
-
-- <time>Dec 18, 2023</time> Had a productive meeting!
-
-- <time>Dec 01, 2023</time> Got organised and got started with debugging.
-
-- <time>Nov 30, 2023</time> First meeting!
-
-- <time>Nov 17, 2023</time> Excited to see where this goes!
 
 <hr />
 
@@ -10171,6 +10049,135 @@ class Solution:
 - <time>Nov 14, 2021</time> Progress! Completed [Plus One](https://leetcode.com/problems/plus-one/) and [FizzBuzz](https://leetcode.com/problems/fizz-buzz/) without looking at the solution.
 
 - <time>Nov 13, 2021</time> Completed a few easy problems, but had to look at the solution for all of them.
+<hr />
+
+## Paused
+
+## <span id="ai-plans">[AI Plans](https://ai-plans.com)</span>
+
+<small>Dec 18, 2023-present</small>  
+<small>Part of the AI Plans dev team! Currently paused.</small>
+
+<hr />
+<small>AI Plans' start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Feb 09, 2024-Feb 16, 2024</time> Let me tell you one thing.
+
+- <time>Feb 08, 2024</time> Lots of progress slated for tomorrow night!
+
+- <time>Jan 26, 2024-Feb 08, 2024</time> And we're back on track.
+
+- <time>Jan 05, 2024-Jan 12, 2024</time> More progress!
+
+- <time>Jan 05, 2024</time> Done! (well, my part at least)
+
+- <time>Jan 04, 2024</time> Added another part!
+
+- <time>Dec 30, 2023</time> Squash the bugs.
+
+- <time>Dec 29, 2023</time> Making progress.
+
+- <time>Dec 28, 2023</time> PR! (x2)
+
+- <time>Dec 27, 2023</time> CSS, my old friend. (x2)
+
+- <time>Dec 26, 2023</time> PR!
+
+- <time>Dec 25, 2023</time> CSS, my old friend.
+
+- <time>Dec 22, 2023-Dec 24, 2023</time> Bug resolved! On to the next step.
+
+- <time>Dec 19, 2023-Dec 21, 2023</time> Continued with checking the database implementation.
+
+- <time>Dec 18, 2023</time> Finished setting up the new build and got back to someone! Excited to get to work.
+
+<hr />
+
+## <span id="dioptra">Dioptra</span>
+
+<small>Dec 18, 2023-present</small>  
+<small>Part of the Dioptre team, working on projects with them and trying to learn a lot in the process! Currently paused.</small>
+
+<hr />
+<small>Dioptra's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Feb 09, 2024-Feb 16, 2024</time> Had a meeting, now done.
+
+- <time>Feb 09, 2024-Feb 16, 2024</time> Done. Record time!
+
+- <time>Feb 08, 2024</time> PR time!
+
+- <time>Feb 02, 2024-Feb 03, 2024</time> Review time.
+
+- <time>Jan 28, 2024-Jan 29, 2024</time> Done!
+
+- <time>Jan 26, 2024-Jan 27, 2024</time> Closer.
+
+- <time>Jan 13, 2024</time> Done. Finally.
+
+- <time>Jan 06, 2024-Jan 12, 2024</time> Done-ish.
+
+- <time>Jan 05, 2024</time> Scratch that, should be done by tomorrow. (x2)
+
+- <time>Jan 03, 2024</time> Scratch that, should be done by tomorrow.
+
+- <time>Dec 29, 2023</time> Should be done tomorrow.
+
+- <time>Dec 27, 2023-Dec 28, 2023</time> Got some feedback again.
+
+- <time>Dec 23, 2023-Dec 25, 2023</time> Done! (I think)
+
+- <time>Dec 22, 2023</time> Finally, almost done.
+
+- <time>Dec 19, 2023-Dec 21, 2023</time> Continued with the implementation of one of the games.
+
+- <time>Dec 18, 2023</time> Had a great meeting! Excited to get this show on the road.
+
+<hr />
+
+## <span id="oss">Offline Streaming Systems</span>
+
+<small>Nov 11, 2023-present</small>  
+<small>Part of the O.S.S. team as a developer and general member. Currently paused</small>
+
+<hr />
+
+#### Log
+
+- <time>Feb 02, 2024-Feb 15, 2024</time> More discussions.
+
+- <time>Jan 28, 2024</time> Got back to someone!
+
+- <time>Jan 27, 2024</time> Added comments.
+
+- <time>Jan 23, 2024</time> Check-in time!
+
+- <time>Jan 13, 2024</time> Notion.
+
+- <time>Jan 11, 2024-Jan 12, 2024</time> Meeting + links + comments!
+
+- <time>Jan 05, 2024</time> An interesting video was shared.
+
+- <time>Jan 03, 2024</time> I think we're done for the first part! Just need to review an API and find a work-around soon.
+
+- <time>Dec 21, 2023-Dec 30, 2023</time> Making progress.
+
+- <time>Dec 19, 2023-Dec 20, 2023</time> Pretty decent bug fix from the team!
+
+- <time>Dec 18, 2023</time> Had a productive meeting!
+
+- <time>Dec 01, 2023</time> Got organised and got started with debugging.
+
+- <time>Nov 30, 2023</time> First meeting!
+
+- <time>Nov 17, 2023</time> Excited to see where this goes!
+
 <hr />
 
 ## Occasional
