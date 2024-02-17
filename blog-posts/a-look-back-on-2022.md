@@ -1,6 +1,6 @@
 ---
 title: A Look Back on 2022
-publish_date: Dec 31, 2022 23:58
+publish_date: Dec 31, 2022 23:59
 meta_description: 2022 was, overall, a productive, happy, healthy and incredibly fulfilling year.
 meta_image: https://arjunyadav.net/edmund-burke.jpg
 ---
