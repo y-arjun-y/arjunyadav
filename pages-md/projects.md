@@ -118,6 +118,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 18, 2024</time> Finished website structure draft.
+
 - <time>Feb 14, 2024-Feb 16, 2024</time> Slack.
 
 - <time>Feb 06, 2024-Feb 13, 2024</time> Lots of progress!
@@ -156,6 +158,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Continuing this breath-taking journey in AI safety (the research part being with my brother). Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
+
+- <time>Feb 18, 2024</time> Back to nanoGPT.
 
 - <time>Jan 24, 2024-Feb 03, 2024</time> [https://neuropedia.org](https://neuropedia.org) - quite cool!
 
@@ -651,6 +655,26 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 18, 2024</time> Finished [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/):
+
+```py
+class Solution:
+    def countPrefixSuffixPairs(self, words: List[str]) -> int:
+        # Credit - https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/solutions/4744481/simple-and-easy-to-understand-python
+
+        def isPrefixAndSuffix(presuf, word):
+            return word[:len(presuf)] == presuf and word[-len(presuf):] == presuf
+
+        count = 0
+
+        for i in range(len(words) - 1):
+            for j in range(i+1, len(words)):
+                count += isPrefixAndSuffix(words[i],words[j])
+
+        return count
+
+```
 
 - <time>Feb 10, 2024</time> Finished [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix/):
 
