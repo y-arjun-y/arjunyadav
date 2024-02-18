@@ -10,9 +10,8 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 ### What I'm Learning
 
-- Feb-March 2024: Re-building a large language model (such as GPT-2) and self-stidying LLMs more generally during this time
-- Jan 2024: Interpretability (focus on Neel Nanda's work and lectures)
-- [Nov 2023 - Jan 2024: Steering and Evaluation Research + Large Language Models (LLMs)](#nov-2023-jan-2024)
+- March 2024: Re-building a large language model (such as GPT-2) and self-stidying LLMs more generally during this time.
+- [Nov 2023 - Feb 2024: Steering and Evaluation Research + Large Language Models (LLMs)](#nov-2023-feb-2024)
 
 ### What I Want To Learn
 
@@ -47,7 +46,7 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 #### Self-Studying
 
-#### <span id="nov-2023-jan-2024">Steering and Evaluation Research + Large Language Models (LLMs)</span>
+#### <span id="nov-2023-feb-2024">Steering and Evaluation Research + Large Language Models (LLMs)</span>
 
 ##### Key Readings and Lectures
 
@@ -74,6 +73,12 @@ Put simply, steering is the idea that _we can change the course of what a model 
 
 ### Achievements
 
+#### Jan-Feb 2024
+
+- Finished with my work for Dioptra!
+- Got accepted to AI Safety Fundamentals!
+- Got accepted to AI Safety Camp 2024: VAISU project!
+
 #### Dec 2023
 
 - Became a part of the [ai-plans](https://ai-plans.com) dev team!
@@ -84,7 +89,7 @@ Put simply, steering is the idea that _we can change the course of what a model 
 - Applied to the Inspirit AI Program for Summer 2024 (July 15 - July 26, 5-7:30 PT)!
 - Applied to OpenAI's Red Teaming Network!
 - Applied to GovAI's blog editor post!
-- Applied to AGISF 2024!
+- Applied to AI Safety Fundamentals!
 - Applied to AI Safety Camp 2024!
 
 #### Summer 2023
@@ -221,6 +226,7 @@ Put simply, steering is the idea that _we can change the course of what a model 
 
 ### Projects
 
+- [AI Safety Camp](/projects#aisc2024)
 - [AI Plans](/projects#ai-plans)
 - [Dioptra](/projects#dioptra)
 - [Arjun's AI Escapades Class](/projects#aaeclass)
