@@ -118,7 +118,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 18, 2024</time> Finished website structure draft.
+- <time>Feb 18, 2024-Feb 19, 2024</time> Finished website structure draft.
 
 - <time>Feb 14, 2024-Feb 16, 2024</time> Slack.
 
@@ -159,7 +159,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Feb 18, 2024</time> Back to nanoGPT.
+- <time>Feb 18, 2024</time> Set my goals in a Slack workspace, and accomplished them!
+
+- <time>Feb 18, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
 - <time>Jan 24, 2024-Feb 03, 2024</time> [https://neuropedia.org](https://neuropedia.org) - quite cool!
 
@@ -10083,6 +10085,8 @@ class Solution:
 
 #### Log
 
+- <time>Feb 19, 2024</time> ClickUp!
+
 - <time>Feb 09, 2024-Feb 16, 2024</time> Let me tell you one thing.
 
 - <time>Feb 08, 2024</time> Lots of progress slated for tomorrow night!
@@ -10126,7 +10130,9 @@ class Solution:
 
 #### Log
 
-- <time>Feb 09, 2024-Feb 16, 2024</time> Had a meeting, now done.
+- <time>Feb 19, 2024</time> Improvements!
+
+- <time>Feb 09, 2024-Feb 17, 2024</time> Had a meeting, now done.
 
 - <time>Feb 09, 2024-Feb 16, 2024</time> Done. Record time!
 
