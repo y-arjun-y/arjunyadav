@@ -118,6 +118,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 21, 2024</time> Meeting!
+
 - <time>Feb 18, 2024-Feb 19, 2024</time> Finished website structure draft.
 
 - <time>Feb 14, 2024-Feb 16, 2024</time> Slack.
@@ -234,7 +236,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 15, 2024-Feb 16, 2024</time> Hm.
+- <time>Feb 21, 2024</time> Bounce back.
+
+- <time>Feb 15, 2024-Feb 20, 2024</time> Hm.
 
 - <time>Dec 22, 2023-Feb 14, 2024</time> On to the next thing.
 
@@ -657,6 +661,21 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 21, 2024</time> Finished [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/):
+
+```py
+class Solution:
+    def rangeBitwiseAnd(self, left: int, right: int) -> int:
+        # Credit - https://leetcode.com/problems/bitwise-and-of-numbers-range/solutions/4759869/beat-100-bitwise-operation
+
+        shift = 0
+        while left < right:
+            left >>= 1
+            right >>= 1
+            shift += 1
+        return left << shift
+```
 
 - <time>Feb 18, 2024</time> Finished [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/):
 
@@ -17736,7 +17755,7 @@ This is a retroactive recollection of all the projects I undertook in my life be
 
 <hr />
 
-### Summary
+#### Summary
 
 In my experimentations with [Bear Blog](https://bearblog.dev/) (which [I developed a replacement for](https://github.com/y-arjun-y/bear-blog-replacement-template)), I made some classless CSS files. I somewhat actively worked on them till ~August 2022. Feel free to use them!
 
@@ -17748,7 +17767,7 @@ In my experimentations with [Bear Blog](https://bearblog.dev/) (which [I develop
 
 <hr />
 
-### Summary
+#### Summary
 
 My first real "weekend" programming project (which take way longer than a weekend). You can find a screenshot of the rare instance the website wasn't broken down below:
 
@@ -17762,7 +17781,7 @@ My first real "weekend" programming project (which take way longer than a weeken
 
 <hr />
 
-### Summary
+#### Summary
 
 The last project I worked with my brother before he went for university (and the first "real" project with him) was a blog that I had developed and where we both wrote about a subject we had read about/found interesting.
 
@@ -17776,7 +17795,7 @@ We had our fair share of arguments during this project, but I'm sure it made our
 
 <hr />
 
-### Summary
+#### Summary
 
 Was quite a fun tournament! I watched CaryKH's BFDI series when I was quite young, so it was interesting to see this as a natural evolution from that. [I called my file "Elephant.py" and came in the ~92% percentile](https://docs.google.com/spreadsheets/d/1PBxAVnBSTyFpdpPIixhXRxB1JIEZzUrTnP7CZwLka70/).
 
@@ -17788,7 +17807,7 @@ Was quite a fun tournament! I watched CaryKH's BFDI series when I was quite youn
 
 <hr />
 
-### Summary
+#### Summary
 
 An interesting first foray into the world of extracurriculars for little Arjun, I distinctly remember running from the car after an outing to attend my microeconomics class. The neurodegenerative disease course was also interesting. I hope all my instructors are doing well now!
 
