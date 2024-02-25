@@ -664,6 +664,17 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Feb 25, 2024</time> Finished [Split the Array](https://leetcode.com/problems/split-the-array/):
+
+```py
+class Solution:
+    def isPossibleToSplit(self, nums: List[int]) -> bool:
+        for i in set(nums):
+            if nums.count(i) > 2:
+                return False
+        return True
+```
+
 - <time>Feb 21, 2024</time> Finished [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/):
 
 ```py
