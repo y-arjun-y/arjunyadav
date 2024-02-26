@@ -118,7 +118,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 22, 2024-Feb 23, 2024</time> Misc. stuff.
+- <time>Feb 22, 2024-Feb 26, 2024</time> Miscellaneous stuff.
 
 - <time>Feb 21, 2024</time> Meeting!
 
@@ -163,7 +163,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Feb 19, 2024-Feb 23, 2024</time> Set my goals in a Slack workspace, and accomplished them!
+- <time>Feb 19, 2024-Feb 26, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
 - <time>Feb 18, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
@@ -238,7 +238,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 21, 2024-Feb 23, 2024</time> Bounce back.
+- <time>Feb 21, 2024-Feb 26, 2024</time> Bounce back.
 
 - <time>Feb 15, 2024-Feb 20, 2024</time> Hm.
 
