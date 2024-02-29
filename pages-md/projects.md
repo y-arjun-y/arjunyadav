@@ -6,8 +6,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (6)
+### Active (7)
 
+- <a href="#aisf">AI Safety Fundamentals: Alignment Course</a>
 - <a href="#aisc2024">AI Safety Camp</a>
 - <a href="#dioptra">Dioptra</a>
 - <a href="#aissr">AI Safety Studying/Research</a>
@@ -104,6 +105,21 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 ## Active
+
+<hr />
+
+## <span id="aisf">[AI Safety Fundamentals: Alignment Course](https://aisafetyfundamentals.com/)</span>
+
+<small>Feb 29, 2023-present</small>  
+<small>Fellow for AISF 2024!</small>
+
+<hr />
+<small>AI Safety Fundamentals: Alignment Course's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+<time>Feb 29, 2024</time> Will officially start after my exams.
 
 <hr />
 
