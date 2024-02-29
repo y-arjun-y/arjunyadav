@@ -6,18 +6,18 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (5)
+### Active (6)
 
 - <a href="#aisc2024">AI Safety Camp</a>
+- <a href="#dioptra">Dioptra</a>
 - <a href="#aissr">AI Safety Studying/Research</a>
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
 - <a href="#leetcode">LeetCode</a>
 
-### Paused (3)
+### Paused (2)
 
 - <a href="#ai-plans">AI Plans</a>
-- <a href="#dioptra">Dioptra</a>
 - <a href="#oss">Offline Streaming Systems</a>
 
 ### Occasional (4)
@@ -118,7 +118,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 22, 2024-Feb 26, 2024</time> Miscellaneous stuff.
+- <time>Feb 22, 2024-Feb 28, 2024</time> Miscellaneous stuff.
 
 - <time>Feb 21, 2024</time> Meeting!
 
@@ -156,6 +156,55 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="dioptra">Dioptra</span>
+
+<small>Dec 18, 2023-present</small>  
+<small>Part of the Dioptre team, working on projects with them and trying to learn a lot in the process! Currently paused.</small>
+
+<hr />
+<small>Dioptra's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Feb 28, 2024-Feb 29, 2024</time> Improvements! (x2)
+
+- <time>Feb 19, 2024</time> Improvements!
+
+- <time>Feb 09, 2024-Feb 17, 2024</time> Had a meeting, now done.
+
+- <time>Feb 09, 2024-Feb 16, 2024</time> Done. Record time!
+
+- <time>Feb 08, 2024</time> PR time!
+
+- <time>Feb 02, 2024-Feb 03, 2024</time> Review time.
+
+- <time>Jan 28, 2024-Jan 29, 2024</time> Done!
+
+- <time>Jan 26, 2024-Jan 27, 2024</time> Closer.
+
+- <time>Jan 13, 2024</time> Done. Finally.
+
+- <time>Jan 06, 2024-Jan 12, 2024</time> Done-ish.
+
+- <time>Jan 05, 2024</time> Scratch that, should be done by tomorrow. (x2)
+
+- <time>Jan 03, 2024</time> Scratch that, should be done by tomorrow.
+
+- <time>Dec 29, 2023</time> Should be done tomorrow.
+
+- <time>Dec 27, 2023-Dec 28, 2023</time> Got some feedback again.
+
+- <time>Dec 23, 2023-Dec 25, 2023</time> Done! (I think)
+
+- <time>Dec 22, 2023</time> Finally, almost done.
+
+- <time>Dec 19, 2023-Dec 21, 2023</time> Continued with the implementation of one of the games.
+
+- <time>Dec 18, 2023</time> Had a great meeting! Excited to get this show on the road.
+
+<hr />
+
 ## <span id="aissr">AI Safety Studying/Research</span>
 
 <small>Aug 01, 2023-present</small>  
@@ -163,7 +212,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Feb 19, 2024-Feb 26, 2024</time> Set my goals in a Slack workspace, and accomplished them!
+- <time>Feb 19, 2024-Feb 29, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
 - <time>Feb 18, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
@@ -663,6 +712,49 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Feb 25, 2024</time> Finished [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/):
+
+```py
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def isEvenOddTree(self, root: Optional[TreeNode]) -> bool:
+        def traverse(tree, lvl):
+            if tree:
+                if lvl >= len(li):
+                    lst = []
+                    li.append(lst)
+
+                li[lvl].append(tree.val)
+                traverse(tree.left, lvl+1)
+                traverse(tree.right, lvl+1)
+
+        li = []
+        traverse(root, 0)
+
+        print(li)
+
+        for i in range(len(li)):
+            if i % 2 == 0:
+                for j in li[i]:
+                    if j % 2 == 0:
+                        return False
+                if not all(i < j for i, j in zip(li[i], li[i][1:])):
+                    return False
+            else:
+                for j in li[i]:
+                    if j % 2 != 0:
+                        return False
+                if not all(i > j for i, j in zip(li[i], li[i][1:])):
+                    return False
+
+        return True
+```
 
 - <time>Feb 25, 2024</time> Finished [Split the Array](https://leetcode.com/problems/split-the-array/):
 
@@ -10151,55 +10243,6 @@ class Solution:
 
 <hr />
 
-## <span id="dioptra">Dioptra</span>
-
-<small>Dec 18, 2023-present</small>  
-<small>Part of the Dioptre team, working on projects with them and trying to learn a lot in the process! Currently paused.</small>
-
-<hr />
-<small>Dioptra's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Feb 28, 2024</time> Improvements! (x2)
-
-- <time>Feb 19, 2024</time> Improvements!
-
-- <time>Feb 09, 2024-Feb 17, 2024</time> Had a meeting, now done.
-
-- <time>Feb 09, 2024-Feb 16, 2024</time> Done. Record time!
-
-- <time>Feb 08, 2024</time> PR time!
-
-- <time>Feb 02, 2024-Feb 03, 2024</time> Review time.
-
-- <time>Jan 28, 2024-Jan 29, 2024</time> Done!
-
-- <time>Jan 26, 2024-Jan 27, 2024</time> Closer.
-
-- <time>Jan 13, 2024</time> Done. Finally.
-
-- <time>Jan 06, 2024-Jan 12, 2024</time> Done-ish.
-
-- <time>Jan 05, 2024</time> Scratch that, should be done by tomorrow. (x2)
-
-- <time>Jan 03, 2024</time> Scratch that, should be done by tomorrow.
-
-- <time>Dec 29, 2023</time> Should be done tomorrow.
-
-- <time>Dec 27, 2023-Dec 28, 2023</time> Got some feedback again.
-
-- <time>Dec 23, 2023-Dec 25, 2023</time> Done! (I think)
-
-- <time>Dec 22, 2023</time> Finally, almost done.
-
-- <time>Dec 19, 2023-Dec 21, 2023</time> Continued with the implementation of one of the games.
-
-- <time>Dec 18, 2023</time> Had a great meeting! Excited to get this show on the road.
-
-<hr />
-
 ## <span id="oss">Offline Streaming Systems</span>
 
 <small>Nov 11, 2023-present</small>  
@@ -17760,7 +17803,7 @@ It was great seeing both [Benjamin Todd](https://benjamintodd.org/) and [William
 
 ## Retroactive
 
-This is a retroactive recollection of all the projects I undertook in my life before starting this website. Goes without saying that, none of these dates are particularly accurate!
+This is a retroactive recollection of all the projects I undertook in my life before starting this website. None of these dates are particularly accurate!
 
 <hr />
 
