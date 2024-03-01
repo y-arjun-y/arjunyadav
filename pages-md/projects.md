@@ -183,6 +183,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Mar 01, 2024</time> Added a more in-depth communication implementation for the two agents.
+
 - <time>Feb 28, 2024-Feb 29, 2024</time> Improvements! (x2)
 
 - <time>Feb 19, 2024</time> Improvements!
