@@ -733,6 +733,20 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Mar 03, 2024</time> Finished [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/):
+
+```py
+class Solution:
+    def minOperations(self, nums: List[int], k: int) -> int:
+        count = 0
+
+        while False in [i >= k for i in nums]:
+            nums.remove(min(nums))
+            count += 1
+
+        return count
+```
+
 - <time>Feb 25, 2024</time> Finished [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/):
 
 ```py
