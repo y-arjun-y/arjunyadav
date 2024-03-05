@@ -134,7 +134,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 22, 2024-Feb 28, 2024</time> Miscellaneous stuff.
+- <time>Feb 22, 2024-Mar 05, 2024</time> Miscellaneous stuff.
 
 - <time>Feb 21, 2024</time> Meeting!
 
@@ -183,7 +183,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 02, 2024</time> Looks to be... good.
+- <time>Mar 02, 2024-Mar 05, 2024</time> Looks to be... good.
 
 - <time>Mar 01, 2024</time> Added a more in-depth communication implementation for the two agents.
 
@@ -228,11 +228,11 @@ Confused? See the <a href="#note">note</a> down below.
 ## <span id="aissr">AI Safety Studying/Research</span>
 
 <small>Aug 01, 2023-present</small>  
-<small>Continuing this breath-taking journey in AI safety (the research part being with my brother). Please see my <a href="/notebook">notebook</a> as well!</small>
+<small>Continuing this breath-taking journey in AI safety. Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
 
-- <time>Feb 19, 2024-Feb 29, 2024</time> Set my goals in a Slack workspace, and accomplished them!
+- <time>Feb 19, 2024-Mar 05, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
 - <time>Feb 18, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
@@ -306,6 +306,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 05, 2024</time> We're back.
 
 - <time>Feb 21, 2024-Feb 26, 2024</time> Bounce back.
 
