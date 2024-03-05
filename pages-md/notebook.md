@@ -4,7 +4,7 @@ meta_description: Welcome to my public ML/AI Safety notebook!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
-This page serves as my **machine learning/AI safety** notebook, I hope for this page to serve as a more unstructured knowledge hub of all that I have discovered in ML/AIS!
+This page serves as my **machine learning/AI safety** notebook, I hope for this page to serve as a more unstructured knowledge hub of all that I have discovered in ML/AIS in the future! For all the interesting thoughts and posts I've discovered, see my [X.com](https://x.com/y_arjun_y) profile.
 
 ## Learning
 
