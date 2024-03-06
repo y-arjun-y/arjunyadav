@@ -134,7 +134,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 22, 2024-Mar 05, 2024</time> Miscellaneous stuff.
+- <time>Feb 22, 2024-Mar 06, 2024</time> Miscellaneous stuff.
 
 - <time>Feb 21, 2024</time> Meeting!
 
@@ -183,7 +183,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 02, 2024-Mar 05, 2024</time> Looks to be... good.
+- <time>Mar 02, 2024-Mar 06, 2024</time> Looks to be... good.
 
 - <time>Mar 01, 2024</time> Added a more in-depth communication implementation for the two agents.
 
@@ -232,7 +232,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Feb 19, 2024-Mar 05, 2024</time> Set my goals in a Slack workspace, and accomplished them!
+- <time>Feb 19, 2024-Mar 06, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
 - <time>Feb 18, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
@@ -307,7 +307,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 05, 2024</time> We're back.
+- <time>Mar 05, 2024-Mar 06, 2024</time> We're back.
 
 - <time>Feb 21, 2024-Feb 26, 2024</time> Bounce back.
 
