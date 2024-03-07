@@ -134,7 +134,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 22, 2024-Mar 06, 2024</time> Miscellaneous stuff.
+- <time>Feb 22, 2024-Mar 07, 2024</time> Miscellaneous stuff.
 
 - <time>Feb 21, 2024</time> Meeting!
 
@@ -183,7 +183,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 02, 2024-Mar 06, 2024</time> Looks to be... good.
+- <time>Mar 02, 2024-Mar 07, 2024</time> Looks to be... good.
 
 - <time>Mar 01, 2024</time> Added a more in-depth communication implementation for the two agents.
 
@@ -232,7 +232,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Feb 19, 2024-Mar 06, 2024</time> Set my goals in a Slack workspace, and accomplished them!
+- <time>Feb 19, 2024-Mar 07, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
 - <time>Feb 18, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
@@ -734,6 +734,31 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 07, 2024</time> Finished [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/):
+
+```py
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        # https://leetcode.com/problems/middle-of-the-linked-list/solutions/4835201/easy-code-with-100-beats-with-c-beginner-friendly
+
+        count = 0
+        ptr = head
+        while ptr is not None:
+            count += 1
+            ptr = ptr.next
+
+        ptr = head
+        for i in range(count // 2):
+            ptr = ptr.next
+
+        return ptr
+```
 
 - <time>Mar 03, 2024</time> Finished [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/):
 
