@@ -34,7 +34,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a>
 - <a href="#coldtakesbetareading">Cold Takes Beta Reading</a>
 
-### Done (51)
+### Done (50)
 
 - <a href="#studentcouncil12">Student Council - 12th + Head of Events</a>
 - <a href="#ausresearch">AUS CSE Research Assistant</a>
@@ -119,6 +119,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+<time>Mar 09, 2024</time> Session 0 done!
+
 <time>Feb 29, 2024</time> Will officially start after my exams.
 
 <hr />
@@ -134,7 +136,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 22, 2024-Mar 08, 2024</time> Miscellaneous stuff.
+- <time>Feb 22, 2024-Mar 09, 2024</time> Miscellaneous stuff.
 
 - <time>Feb 21, 2024</time> Meeting!
 
@@ -183,7 +185,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 08, 2024</time> Done.
+- <time>Mar 08, 2024-Mar 09, 2024</time> Done.
 
 - <time>Mar 02, 2024-Mar 07, 2024</time> Looks to be... good.
 
@@ -234,7 +236,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Feb 19, 2024-Mar 07, 2024</time> Set my goals in a Slack workspace, and accomplished them!
+- <time>Feb 19, 2024-Mar 09, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
 - <time>Feb 18, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
@@ -308,6 +310,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 10, 2024-Mar 13, 2024</time> Meeting!
 
 - <time>Mar 05, 2024-Mar 06, 2024</time> We're back.
 
@@ -503,6 +507,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 12, 2024-Mar 13, 2024</time> Getting back into it.
 
 - <time>Jan 12, 2024-Feb 08, 2024</time> Had a small-scale meeting + working on something for future-proofing.
 
