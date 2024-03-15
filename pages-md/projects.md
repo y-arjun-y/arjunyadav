@@ -119,9 +119,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-<time>Mar 09, 2024</time> Session 0 done!
+- <time>Mar 09, 2024</time> Session 0 done!
 
-<time>Feb 29, 2024</time> Will officially start after my exams.
+- <time>Feb 29, 2024</time> Will officially start after my exams.
 
 <hr />
 
@@ -136,7 +136,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 22, 2024-Mar 09, 2024</time> Miscellaneous stuff.
+- <time>Feb 22, 2024-Mar 15, 2024</time> Miscellaneous stuff.
 
 - <time>Feb 21, 2024</time> Meeting!
 
@@ -185,7 +185,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 08, 2024-Mar 09, 2024</time> Done.
+- <time>Mar 08, 2024-Mar 14, 2024</time> Done.
 
 - <time>Mar 02, 2024-Mar 07, 2024</time> Looks to be... good.
 
@@ -235,6 +235,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Continuing this breath-taking journey in AI safety. Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
+
+- <time>Mar 15, 2024</time> Happy to report that, everything is on track.
 
 - <time>Feb 19, 2024-Mar 09, 2024</time> Set my goals in a Slack workspace, and accomplished them!
 
@@ -310,6 +312,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 14, 2024-Mar 15, 2024</time> Discussions...
 
 - <time>Mar 10, 2024-Mar 13, 2024</time> Meeting!
 
@@ -508,7 +512,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 12, 2024-Mar 13, 2024</time> Getting back into it.
+- <time>Mar 12, 2024-Mar 15, 2024</time> Getting back into it.
 
 - <time>Jan 12, 2024-Feb 08, 2024</time> Had a small-scale meeting + working on something for future-proofing.
 
@@ -742,6 +746,23 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 15, 2024</time> Finished [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/):
+
+```py
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        # Credit - https://leetcode.com/problems/product-of-array-except-self/solutions/4876999/prefix-suffix-products-o-1-extra-space-3ms-beats-99-89
+        a = [1]*len(nums)
+        for i in range(len(nums)-2, -1, -1):
+            a[i] = nums[i+1] * a[i+1]
+        b = 1
+
+        for j in range(1,len(nums)):
+            b *= nums[j-1]
+            a[j] *= b
+        return a
+```
 
 - <time>Mar 07, 2024</time> Finished [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/):
 
