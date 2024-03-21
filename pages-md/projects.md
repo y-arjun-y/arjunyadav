@@ -8,16 +8,17 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ### Active (7)
 
-- <a href="#aisf">AI Safety Fundamentals: Alignment Course</a>
+- <a href="#aisfa">AI Safety Fundamentals: Alignment Course</a>
 - <a href="#aisc2024">AI Safety Camp</a>
 - <a href="#dioptra">Dioptra</a>
-- <a href="#aissr">AI Safety Studying/Research</a>
+- <a href="#aisu">AI Safety Umbrella</a>
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
 - <a href="#leetcode">LeetCode</a>
 
-### Paused (2)
+### Paused (3)
 
+- <a href="#aisfg">AI Safety Fundamentals: Governance Course</a>
 - <a href="#ai-plans">AI Plans</a>
 - <a href="#oss">Offline Streaming Systems</a>
 
@@ -108,7 +109,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-## <span id="aisf">[AI Safety Fundamentals: Alignment Course](https://aisafetyfundamentals.com/)</span>
+## <span id="aisfa">[AI Safety Fundamentals: Alignment Course](https://aisafetyfundamentals.com/)</span>
 
 <small>Feb 29, 2023-present</small>  
 <small>Fellow for AISF 2024!</small>
@@ -118,6 +119,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 16, 2024</time> Session 1 done!
 
 - <time>Mar 09, 2024</time> Session 0 done!
 
@@ -136,7 +139,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 22, 2024-Mar 15, 2024</time> Miscellaneous stuff.
+- <time>Feb 22, 2024-Mar 21, 2024</time> Miscellaneous stuff.
 
 - <time>Feb 21, 2024</time> Meeting!
 
@@ -185,7 +188,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 08, 2024-Mar 14, 2024</time> Done.
+- <time>Mar 08, 2024-Mar 21, 2024</time> Done.
 
 - <time>Mar 02, 2024-Mar 07, 2024</time> Looks to be... good.
 
@@ -229,12 +232,14 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-## <span id="aissr">AI Safety Studying/Research</span>
+## <span id="aisu">AI Safety Umbrella</span>
 
 <small>Aug 01, 2023-present</small>  
 <small>Continuing this breath-taking journey in AI safety. Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
+
+- <time>Mar 21, 2024</time> Got back to the ML interpretability website project!
 
 - <time>Mar 15, 2024</time> Happy to report that, everything is on track.
 
@@ -313,7 +318,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 14, 2024-Mar 15, 2024</time> Discussions...
+- <time>Mar 14, 2024-Mar 21, 2024</time> Discussions...
 
 - <time>Mar 10, 2024-Mar 13, 2024</time> Meeting!
 
@@ -512,7 +517,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 12, 2024-Mar 15, 2024</time> Getting back into it.
+- <time>Mar 12, 2024-Mar 21, 2024</time> Getting back into it.
 
 - <time>Jan 12, 2024-Feb 08, 2024</time> Had a small-scale meeting + working on something for future-proofing.
 
@@ -746,6 +751,49 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 19, 2024</time> Finished [Count Substrings Starting and Ending with Given Character](https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character/):
+
+```py
+class Solution:
+    def countSubstrings(self, s: str, c: str) -> int:
+        return s.count(c)*(s.count(c)+1)//2
+```
+
+- <time>Mar 17, 2024</time> Finished [Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/):
+
+```py
+class Solution:
+    def sumOfEncryptedInt(self, nums: List[int]) -> int:
+        def encrypt(num):
+            n = str(num)
+            l = len(n)
+
+            return int(str(max([int(i) for i in n])) * l)
+
+        return sum([encrypt(i) for i in nums])
+```
+
+- <time>Mar 16, 2024</time> Finished [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/):
+
+```py
+class Solution:
+    def minimumBoxes(self, apple: List[int], capacity: List[int]) -> int:
+        # Credit - https://leetcode.com/problems/apple-redistribution-into-boxes/solutions/4851129/easy-python-solution
+
+        count = 0
+        temp = 0
+        capacity.sort(reverse=True)
+
+        for i in capacity:
+            temp += i
+            count += 1
+
+            if temp >= sum(apple):
+                return count
+
+        return count
+```
 
 - <time>Mar 15, 2024</time> Finished [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/):
 
@@ -10287,6 +10335,21 @@ class Solution:
 <hr />
 
 ## Paused
+
+## <span id="aisfg">[AI Safety Fundamentals: Governance Course](https://aisafetyfundamentals.com/)</span>
+
+<small>Mar 21, 2023-present</small>  
+<small>Fellow for AISF Governance 2024!</small>
+
+<hr />
+<small>AI Safety Fundamentals: Governance Course's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Mar 21, 2024</time> Will officially in mid-April.
+
+<hr />
 
 ## <span id="ai-plans">[AI Plans](https://ai-plans.com)</span>
 
