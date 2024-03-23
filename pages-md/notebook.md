@@ -227,7 +227,8 @@ Put simply, steering is the idea that _we can change the course of what a model 
 
 ### Projects
 
-- [AI Safety Fundamentals: Alignment Course](/projects#aisf)
+- [AI Safety Fundamentals: Governance Course](/projects#aisfg)
+- [AI Safety Fundamentals: Alignment Course](/projects#aisfa)
 - [AI Safety Camp](/projects#aisc2024)
 - [AI Plans](/projects#ai-plans)
 - [Dioptra](/projects#dioptra)

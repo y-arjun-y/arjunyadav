@@ -120,6 +120,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Mar 23, 2024</time> Session 2 done!
+
 - <time>Mar 16, 2024</time> Session 1 done!
 
 - <time>Mar 09, 2024</time> Session 0 done!
@@ -139,7 +141,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 22, 2024-Mar 21, 2024</time> Miscellaneous stuff.
+- <time>Feb 22, 2024-Mar 23, 2024</time> Miscellaneous stuff.
 
 - <time>Feb 21, 2024</time> Meeting!
 
@@ -188,7 +190,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 08, 2024-Mar 21, 2024</time> Done.
+- <time>Mar 08, 2024-Mar 23, 2024</time> Done.
 
 - <time>Mar 02, 2024-Mar 07, 2024</time> Looks to be... good.
 
@@ -239,7 +241,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Mar 21, 2024</time> Got back to the ML interpretability website project!
+- <time>Mar 21, 2024-Mar 23, 2024</time> Got back to the ML interpretability website project!
 
 - <time>Mar 15, 2024</time> Happy to report that, everything is on track.
 
@@ -318,7 +320,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 14, 2024-Mar 21, 2024</time> Discussions...
+- <time>Mar 14, 2024-Mar 23, 2024</time> Discussions...
 
 - <time>Mar 10, 2024-Mar 13, 2024</time> Meeting!
 
@@ -517,7 +519,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 12, 2024-Mar 21, 2024</time> Getting back into it.
+- <time>Mar 12, 2024-Mar 23, 2024</time> Getting back into it.
 
 - <time>Jan 12, 2024-Feb 08, 2024</time> Had a small-scale meeting + working on something for future-proofing.
 
