@@ -5,7 +5,7 @@ meta_description: I log everything I read in Notion. Here's the highlights from 
 meta_image: https://www.arjunyadav.net/hatta.jpg
 ---
 
-![Hatta](/hatta.jpg)
+![Hatta - Alt](/hatta-alt.jpg)
 
 I log everything I read in Notion. Here's the highlights from what I've read in these past few months!
 
