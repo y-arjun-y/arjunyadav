@@ -141,7 +141,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 22, 2024-Mar 23, 2024</time> Miscellaneous stuff.
+- <time>Feb 22, 2024-Mar 29, 2024</time> Miscellaneous stuff.
 
 - <time>Feb 21, 2024</time> Meeting!
 
@@ -190,7 +190,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 08, 2024-Mar 23, 2024</time> Done.
+- <time>Mar 08, 2024-Mar 29, 2024</time> Done.
 
 - <time>Mar 02, 2024-Mar 07, 2024</time> Looks to be... good.
 
@@ -240,6 +240,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Continuing this breath-taking journey in AI safety. Please see my <a href="/notebook">notebook</a> as well!</small>
 
 <hr />
+
+- <time>Mar 24, 2024-Mar 29, 2024</time> Finally done with the website (well, for the most part).
 
 - <time>Mar 21, 2024-Mar 23, 2024</time> Got back to the ML interpretability website project!
 
@@ -319,6 +321,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 24, 2024-Mar 29, 2024</time> Progress!
 
 - <time>Mar 14, 2024-Mar 23, 2024</time> Discussions...
 
@@ -519,7 +523,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 12, 2024-Mar 23, 2024</time> Getting back into it.
+- <time>Mar 12, 2024-Mar 29, 2024</time> Getting back into it.
 
 - <time>Jan 12, 2024-Feb 08, 2024</time> Had a small-scale meeting + working on something for future-proofing.
 
@@ -753,6 +757,26 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Mar 27, 2024</time> Finished [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/):
+```py
+class Solution:
+    def numberOfPairs(self, nums: List[int]) -> List[int]:
+        # Credit - https://leetcode.com/problems/maximum-number-of-pairs-in-array/solutions/2459648/python-easy-solution
+        
+        res = []
+        pair = 0
+        unique = list(set(nums))
+
+        for i in range(len(unique)):
+            count = nums.count(unique[i]) 
+            if count % 2 != 0:
+                res.append(unique[i])
+            pair += (count) // 2
+
+        return [pair,len(res)]
+                
+```
 
 - <time>Mar 19, 2024</time> Finished [Count Substrings Starting and Ending with Given Character](https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character/):
 
