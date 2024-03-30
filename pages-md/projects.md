@@ -761,23 +761,24 @@ Confused? See the <a href="#note">note</a> down below.
 #### Log
 
 - <time>Mar 27, 2024</time> Finished [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/):
+
 ```py
 class Solution:
     def numberOfPairs(self, nums: List[int]) -> List[int]:
         # Credit - https://leetcode.com/problems/maximum-number-of-pairs-in-array/solutions/2459648/python-easy-solution
-        
+
         res = []
         pair = 0
         unique = list(set(nums))
 
         for i in range(len(unique)):
-            count = nums.count(unique[i]) 
+            count = nums.count(unique[i])
             if count % 2 != 0:
                 res.append(unique[i])
             pair += (count) // 2
 
         return [pair,len(res)]
-                
+
 ```
 
 - <time>Mar 19, 2024</time> Finished [Count Substrings Starting and Ending with Given Character](https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character/):
