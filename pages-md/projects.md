@@ -760,6 +760,15 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 02, 2024</time> Finished [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/):
+
+```py
+class Solution:
+    def isIsomorphic(self, s: str, t: str) -> bool:
+        # Credit - https://leetcode.com/problems/isomorphic-strings/solutions/4959995/beat-99-easy
+        return len(set(zip(s,t))) == len(set(s)) == len(set(t))
+```
+
 - <time>Mar 27, 2024</time> Finished [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/):
 
 ```py
