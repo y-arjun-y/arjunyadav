@@ -10,7 +10,7 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 ### What I'm Learning
 
-- Mar 2024 - Apr 2024: AI Safety Fundamentals + Re-building a large language model (such as GPT-2) and self-studying LLMs more generally during this time.
+- Mar 2024 - Apr 2024: AI Safety Fundamentals + Re-building a large language model (GPT-2)
 - [Nov 2023 - Feb 2024: Steering and Evaluation Research + Large Language Models (LLMs)](#nov-2023-feb-2024)
 
 ### What I Want To Learn
@@ -204,6 +204,10 @@ Put simply, steering is the idea that _we can change the course of what a model 
 ## People I've Met in AI Safety
 
 (anonymized - of course)
+
+### Meeting with a co-worker at Dioptra
+
+- Interesting chat with someone who is very similar to me: learnt a lot, but a lot more self-reflecting to be done.
 
 ### Meeting with a former EA VP fellow
 

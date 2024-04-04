@@ -143,7 +143,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 22, 2024-Mar 30, 2024</time> Miscellaneous stuff.
+- <time>Feb 22, 2024-Apr 04, 2024</time> Miscellaneous stuff.
 
 - <time>Feb 21, 2024</time> Meeting!
 
@@ -192,7 +192,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 08, 2024-Mar 30, 2024</time> Done.
+- <time>Mar 08, 2024-Apr 04, 2024</time> Done.
 
 - <time>Mar 02, 2024-Mar 07, 2024</time> Looks to be... good.
 
@@ -243,7 +243,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Mar 24, 2024-Mar 30, 2024</time> Finally done with the website (well, for the most part).
+- <time>Mar 24, 2024-Apr 04, 2024</time> Finally done with the website (well, for the most part).
 
 - <time>Mar 21, 2024-Mar 23, 2024</time> Got back to the ML interpretability website project!
 
@@ -324,7 +324,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 24, 2024-Mar 30, 2024</time> Progress!
+- <time>Mar 24, 2024-Apr 04, 2024</time> Progress!
 
 - <time>Mar 14, 2024-Mar 23, 2024</time> Discussions...
 
@@ -525,7 +525,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 12, 2024-Mar 30, 2024</time> Getting back into it.
+- <time>Mar 12, 2024-Apr 04, 2024</time> Getting back into it.
 
 - <time>Jan 12, 2024-Feb 08, 2024</time> Had a small-scale meeting + working on something for future-proofing.
 
@@ -759,6 +759,26 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 04, 2024</time> Finished [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/):
+
+```py
+class Solution:
+    def maxDepth(self, s: str) -> int:
+        depth = 0
+        depths = []
+
+        for i in s:
+            if i == "(":
+                depth += 1
+                depths.append(depth)
+            elif i == ")":
+                depth -= 1
+            else:
+                depths.append(depth)
+
+        return max(depths, default=1)
+```
 
 - <time>Apr 02, 2024</time> Finished [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/):
 
