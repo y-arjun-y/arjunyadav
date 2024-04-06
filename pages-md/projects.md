@@ -120,6 +120,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 06, 2024</time> Had to skip session 4, but will cover up tomorrow!
+
 - <time>Mar 30, 2024</time> Session 3 done!
 
 - <time>Mar 23, 2024</time> Session 2 done!
@@ -143,7 +145,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 22, 2024-Apr 04, 2024</time> Miscellaneous stuff.
+- <time>Feb 22, 2024-Apr 06, 2024</time> Miscellaneous stuff.
 
 - <time>Feb 21, 2024</time> Meeting!
 
@@ -192,7 +194,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 08, 2024-Apr 04, 2024</time> Done.
+- <time>Mar 08, 2024-Apr 06, 2024</time> Done.
 
 - <time>Mar 02, 2024-Mar 07, 2024</time> Looks to be... good.
 
@@ -243,7 +245,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Mar 24, 2024-Apr 04, 2024</time> Finally done with the website (well, for the most part).
+- <time>Mar 24, 2024-Apr 06, 2024</time> Finally done with the website (well, for the most part).
 
 - <time>Mar 21, 2024-Mar 23, 2024</time> Got back to the ML interpretability website project!
 
@@ -324,7 +326,11 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 24, 2024-Apr 04, 2024</time> Progress!
+- <time>Apr 06, 2024</time> Iftar Distribution 2.0 done!
+
+![Iftar Distribution 2.0](/optx-iftar-2.jpg)
+
+- <time>Mar 24, 2024-Apr 05, 2024</time> Progress!
 
 - <time>Mar 14, 2024-Mar 23, 2024</time> Discussions...
 
@@ -525,7 +531,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 12, 2024-Apr 04, 2024</time> Getting back into it.
+- <time>Mar 12, 2024-Apr 06, 2024</time> Getting back into it.
 
 - <time>Jan 12, 2024-Feb 08, 2024</time> Had a small-scale meeting + working on something for future-proofing.
 
@@ -759,6 +765,34 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 06, 2024</time> Finished [Harshad Number](https://leetcode.com/problems/harshad-number/):
+```py
+class Solution:
+    def sumOfTheDigitsOfHarshadNumber(self, x: int) -> int:
+        if x % sum([int(i) for i in list(str(x))]) == 0:
+            return sum([int(i) for i in list(str(x))])
+        else:
+            return -1
+```
+
+- <time>Apr 05, 2024</time> Finished [Make The String Great](https://leetcode.com/problems/make-the-string-great/):
+```py
+class Solution:
+    def makeGood(self, s: str) -> str:
+        def check():
+            for i in range(len(s)-1):
+                if s[i].swapcase() == s[i+1] or s[i] == s[i+1].swapcase():
+                    return True
+        
+        while check():
+            for i in range(len(s)-1):
+                if s[i].swapcase() == s[i+1] or s[i] == s[i+1].swapcase():
+                    s = s[:i] + s[i+2:]
+                    break
+
+        return s
+```
 
 - <time>Apr 04, 2024</time> Finished [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/):
 
