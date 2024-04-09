@@ -145,7 +145,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 22, 2024-Apr 07, 2024</time> Miscellaneous stuff.
+- <time>Feb 22, 2024-Apr 09, 2024</time> Miscellaneous stuff + meeting!
 
 - <time>Feb 21, 2024</time> Meeting!
 
@@ -194,7 +194,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 08, 2024-Apr 07, 2024</time> Done.
+- <time>Mar 08, 2024-Apr 09, 2024</time> Done.
 
 - <time>Mar 02, 2024-Mar 07, 2024</time> Looks to be... good.
 
@@ -245,7 +245,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Mar 24, 2024-Apr 07, 2024</time> Finally done with the website (well, for the most part).
+- <time>Mar 24, 2024-Apr 09, 2024</time> Finally done with the website (well, for the most part).
 
 - <time>Mar 21, 2024-Mar 23, 2024</time> Got back to the ML interpretability website project!
 
@@ -326,7 +326,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 07, 2024</time> Working on it...
+- <time>Apr 07, 2024-Apr 09, 2024</time> Working on it...
 
 - <time>Apr 06, 2024</time> Iftar Distribution 2.0 done!
 
@@ -533,7 +533,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 12, 2024-Apr 07, 2024</time> Getting back into it.
+- <time>Mar 12, 2024-Apr 09, 2024</time> Getting back into it.
 
 - <time>Jan 12, 2024-Feb 08, 2024</time> Had a small-scale meeting + working on something for future-proofing.
 
@@ -767,6 +767,49 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 09, 2024</time> Finished [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/):
+```py
+class Solution:
+    def timeRequiredToBuy(self, tickets: List[int], k: int) -> int:
+        # Credit - https://leetcode.com/problems/time-needed-to-buy-tickets/solutions/4996426/simple-while-loop
+
+        time = 0
+        i = 0 
+        
+        while tickets[k] != 0 :
+            if i == len(tickets):
+                i = 0 
+                
+            if tickets[i] != 0:
+                time += 1
+                tickets[i] -= 1
+
+            i += 1
+
+        return time
+```
+
+- <time>Apr 08, 2024</time> Finished [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/):
+```py
+class Solution:
+    def countStudents(self, students: List[int], sandwiches: List[int]) -> int:
+        count = 0
+
+        while len(students) > 0 and count < 300:
+            sandwich = sandwiches[0]
+            student = students[0]
+
+            if student == sandwich:
+                sandwiches = sandwiches[1:]
+                students = students[1:]
+            else:
+                students = students[1:] + [students[0]]
+            
+            count += 1
+        
+        return len(students)
+```
 
 - <time>Apr 06, 2024</time> Finished [Harshad Number](https://leetcode.com/problems/harshad-number/):
 ```py
