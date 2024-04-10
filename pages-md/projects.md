@@ -145,7 +145,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 22, 2024-Apr 09, 2024</time> Miscellaneous stuff + meeting!
+- <time>Feb 22, 2024-Apr 10, 2024</time> Miscellaneous stuff + meeting!
 
 - <time>Feb 21, 2024</time> Meeting!
 
@@ -194,7 +194,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 08, 2024-Apr 09, 2024</time> Done.
+- <time>Mar 08, 2024-Apr 10, 2024</time> Done.
 
 - <time>Mar 02, 2024-Mar 07, 2024</time> Looks to be... good.
 
@@ -245,7 +245,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-- <time>Mar 24, 2024-Apr 09, 2024</time> Finally done with the website (well, for the most part).
+- <time>Mar 24, 2024-Apr 10, 2024</time> Finally done with the website (well, for the most part).
 
 - <time>Mar 21, 2024-Mar 23, 2024</time> Got back to the ML interpretability website project!
 
@@ -326,7 +326,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 07, 2024-Apr 09, 2024</time> Working on it...
+- <time>Apr 07, 2024-Apr 10, 2024</time> Working on it...
 
 - <time>Apr 06, 2024</time> Iftar Distribution 2.0 done!
 
@@ -533,7 +533,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 12, 2024-Apr 09, 2024</time> Getting back into it.
+- <time>Mar 12, 2024-Apr 10, 2024</time> Getting back into it.
 
 - <time>Jan 12, 2024-Feb 08, 2024</time> Had a small-scale meeting + working on something for future-proofing.
 
