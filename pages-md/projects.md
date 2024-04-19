@@ -6,21 +6,20 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (7)
 
+- <a href="#ai-plans">AI Plans</a>
+- <a href="#oss">Offline Streaming Systems</a>
+### Active (10)
+
+- <a href="#aisfg">AI Safety Fundamentals: Governance Course</a>
 - <a href="#aisfa">AI Safety Fundamentals: Alignment Course</a>
 - <a href="#aisc2024">AI Safety Camp</a>
 - <a href="#dioptra">Dioptra</a>
-- <a href="#aisu">AI Safety Umbrella</a>
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
 - <a href="#leetcode">LeetCode</a>
 
-### Paused (3)
-
-- <a href="#aisfg">AI Safety Fundamentals: Governance Course</a>
-- <a href="#ai-plans">AI Plans</a>
-- <a href="#oss">Offline Streaming Systems</a>
+### Paused (0)
 
 ### Occasional (4)
 
@@ -109,6 +108,23 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="aisfg">[AI Safety Fundamentals: Governance Course](https://aisafetyfundamentals.com/)</span>
+
+<small>Mar 21, 2023-present</small>  
+<small>Fellow for AISF Governance 2024!</small>
+
+<hr />
+<small>AI Safety Fundamentals: Governance Course's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Mar 22, 2024-Apr 19, 2024</time> Icebreaker + First session done!
+
+- <time>Mar 21, 2024</time> Will officially in mid-April.
+
+<hr />
+
 ## <span id="aisfa">[AI Safety Fundamentals: Alignment Course](https://aisafetyfundamentals.com/)</span>
 
 <small>Feb 29, 2023-present</small>  
@@ -119,6 +135,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 07, 2024-Apr 19, 2024</time> Covered up everything via two recap sessions!
 
 - <time>Apr 06, 2024</time> Had to skip session 4, but will cover up tomorrow!
 
@@ -145,7 +163,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 22, 2024-Apr 10, 2024</time> Miscellaneous stuff + meeting!
+- <time>Feb 22, 2024-Apr 19, 2024</time> Miscellaneous stuff + meetings!
 
 - <time>Feb 21, 2024</time> Meeting!
 
@@ -183,6 +201,53 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="ai-plans">[AI Plans](https://ai-plans.com)</span>
+
+<small>Dec 18, 2023-present</small>  
+<small>Part of the AI Plans dev team!</small>
+
+<hr />
+<small>AI Plans' start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Apr 19, 2024</time> Back from the dead.
+
+- <time>Feb 19, 2024</time> ClickUp!
+
+- <time>Feb 09, 2024-Feb 16, 2024</time> Let me tell you one thing.
+
+- <time>Feb 08, 2024</time> Lots of progress slated for tomorrow night!
+
+- <time>Jan 26, 2024-Feb 08, 2024</time> And we're back on track.
+
+- <time>Jan 05, 2024-Jan 12, 2024</time> More progress!
+
+- <time>Jan 05, 2024</time> Done! (well, my part at least)
+
+- <time>Jan 04, 2024</time> Added another part!
+
+- <time>Dec 30, 2023</time> Squash the bugs.
+
+- <time>Dec 29, 2023</time> Making progress.
+
+- <time>Dec 28, 2023</time> PR! (x2)
+
+- <time>Dec 27, 2023</time> CSS, my old friend. (x2)
+
+- <time>Dec 26, 2023</time> PR!
+
+- <time>Dec 25, 2023</time> CSS, my old friend.
+
+- <time>Dec 22, 2023-Dec 24, 2023</time> Bug resolved! On to the next step.
+
+- <time>Dec 19, 2023-Dec 21, 2023</time> Continued with checking the database implementation.
+
+- <time>Dec 18, 2023</time> Finished setting up the new build and got back to someone! Excited to get to work.
+
+<hr />
+
 ## <span id="dioptra">Dioptra</span>
 
 <small>Dec 18, 2023-present</small>  
@@ -194,7 +259,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 08, 2024-Apr 10, 2024</time> Done.
+- <time>Mar 08, 2024-Apr 19, 2024</time> Done.
 
 - <time>Mar 02, 2024-Mar 07, 2024</time> Looks to be... good.
 
@@ -238,84 +303,45 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-## <span id="aisu">AI Safety Umbrella</span>
+## <span id="oss">Offline Streaming Systems</span>
 
-<small>Aug 01, 2023-present</small>  
-<small>Continuing this breath-taking journey in AI safety. Please see my <a href="/notebook">notebook</a> as well!</small>
+<small>Nov 11, 2023-present</small>  
+<small>Part of the O.S.S. team as a developer and general member. Currently paused</small>
+
+<hr />
+
+#### Log
+
+- <time>Feb 02, 2024-Feb 15, 2024</time> More discussions.
+
+- <time>Jan 28, 2024</time> Got back to someone!
+
+- <time>Jan 27, 2024</time> Added comments.
+
+- <time>Jan 23, 2024</time> Check-in time!
+
+- <time>Jan 13, 2024</time> Notion.
+
+- <time>Jan 11, 2024-Jan 12, 2024</time> Meeting + links + comments!
+
+- <time>Jan 05, 2024</time> An interesting video was shared.
+
+- <time>Jan 03, 2024</time> I think we're done for the first part! Just need to review an API and find a work-around soon.
+
+- <time>Dec 21, 2023-Dec 30, 2023</time> Making progress.
+
+- <time>Dec 19, 2023-Dec 20, 2023</time> Pretty decent bug fix from the team!
+
+- <time>Dec 18, 2023</time> Had a productive meeting!
+
+- <time>Dec 01, 2023</time> Got organised and got started with debugging.
+
+- <time>Nov 30, 2023</time> First meeting!
+
+- <time>Nov 17, 2023</time> Excited to see where this goes!
 
 <hr />
 
-- <time>Mar 24, 2024-Apr 10, 2024</time> Finally done with the website (well, for the most part).
-
-- <time>Mar 21, 2024-Mar 23, 2024</time> Got back to the ML interpretability website project!
-
-- <time>Mar 15, 2024</time> Happy to report that, everything is on track.
-
-- <time>Feb 19, 2024-Mar 09, 2024</time> Set my goals in a Slack workspace, and accomplished them!
-
-- <time>Feb 18, 2024</time> Set my goals in a Slack workspace, and accomplished them!
-
-- <time>Jan 24, 2024-Feb 03, 2024</time> [https://neuropedia.org](https://neuropedia.org) - quite cool!
-
-- <time>Jan 24, 2024-Feb 03, 2024</time> A lot has happened - some good, some luke-warm. Hope to be more consistent with logging this exact project + maintaining my notebook (not just [my X.com profile](https://x.com/y_arjun_y)...) now!
-
-- <time>Jan 23, 2024</time> Set my goals in a Slack workspace, and accomplished them!
-
-- <time>Jan 12, 2024</time> Set my goals in a Slack workspace, and accomplished them!
-
-- <time>Jan 06, 2024</time> Set my goals in a Slack workspace, and accomplished them!
-
-- <time>Jan 04, 2024</time> Set my goals in a Slack workspace, and accomplished them!
-
-- <time>Dec 30, 2023</time> Set my goals in a Slack workspace, and accomplished them!
-
-- <time>Dec 29, 2023</time> Set my goals in a Slack workspace, and accomplished them!
-
-- <time>Dec 28, 2023</time> Set my goals in a Slack workspace, and accomplished them!
-
-- <time>Dec 27, 2023</time> Set my goals in a Slack workspace, and accomplished them! [This](https://youtu.be/tcdVC4e6EV4) video is quite cool.
-
-- <time>Dec 24, 2023</time> Back from a small break, going to read a paper or two in the next two days.
-
-- <time>Dec 22, 2023</time> Finished the lecture!
-
-- <time>Dec 21, 2023</time> Set my goals in a Slack workspace, and accomplished them!
-
-- <time>Dec 20, 2023</time> Set my goals in a Slack workspace, and accomplished them!
-
-- <time>Dec 19, 2023</time> Set my goals in a Slack workspace, and accomplished them!
-
-- <time>Dec 18, 2023</time> Got everything set-up and got started with self-studying! Let the doubts begin.
-
-- <time>Dec 04, 2023-Dec 12, 2023</time> Spoke with a bunch of different people and had an interview!
-
-- <time>Dec 04, 2023</time> Got a response!
-
-- <time>Dec 03, 2023</time> Waiting for a work trial, in the meanwhile check [this](https://www.lesswrong.com/posts/Kwb29ye3qsvPzoof8/20-strategies-for-avoiding-deceptive-alignment-1) out!
-
-- <time>Dec 02, 2023</time> Something big might have just happened...
-
-- <time>Nov 29, 2023</time> Applied to ~two more opportunities!
-
-- <time>Nov 26, 2023</time> Applied to two more opportunities!
-
-- <time>Nov 24, 2023</time> That question led to a really helpful call today!
-
-- <time>Sep 25, 2023</time> Asked a question.
-
-- <time>Sep 24, 2023</time> Wrote a lot!
-
-- <time>Sep 10, 2023</time> Going to focus on policy following my brother's article, which ties in nicely with an essay I wish to write.
-
-- <time>Aug 07, 2023-Aug 17, 2023</time> Finished with VAEs and a bit of GAN understanding.
-
-- <time>Aug 03, 2023-Aug 06, 2023</time> Programming started for VAEs!
-
-- <time>Aug 02, 2023</time> Read up on VAEs and Sparse Coding, and had another meeting.
-
-- <time>Aug 01, 2023</time> Happy to report that [this recently completed project](/#mlsafetycourse/) was not a one-off AI safety project, I'll be continuing with self-studying and research with my brother. Super excited!
-
-<hr />
 
 ## <span id="optx">[OptX](https://www.instagram.com/optx.uae/)</span>
 
@@ -326,7 +352,13 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 07, 2024-Apr 10, 2024</time> Working on it...
+- <time>Apr 14, 2024-Apr 19, 2024</time> What's next?
+
+- <time>Apr 13, 2024</time> OptX's flagship event for the year done!
+
+![OptX - TS2](/optx-ts2.jpg)
+
+- <time>Apr 07, 2024-Apr 13, 2024</time> Working on it...
 
 - <time>Apr 06, 2024</time> Iftar Distribution 2.0 done!
 
@@ -533,7 +565,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 12, 2024-Apr 10, 2024</time> Getting back into it.
+- <time>Mar 12, 2024-Apr 19, 2024</time> Getting back into it.
 
 - <time>Jan 12, 2024-Feb 08, 2024</time> Had a small-scale meeting + working on something for future-proofing.
 
@@ -10473,104 +10505,7 @@ class Solution:
 
 ## Paused
 
-## <span id="aisfg">[AI Safety Fundamentals: Governance Course](https://aisafetyfundamentals.com/)</span>
-
-<small>Mar 21, 2023-present</small>  
-<small>Fellow for AISF Governance 2024!</small>
-
-<hr />
-<small>AI Safety Fundamentals: Governance Course's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Mar 21, 2024</time> Will officially in mid-April.
-
-<hr />
-
-## <span id="ai-plans">[AI Plans](https://ai-plans.com)</span>
-
-<small>Dec 18, 2023-present</small>  
-<small>Part of the AI Plans dev team! Currently paused.</small>
-
-<hr />
-<small>AI Plans' start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Feb 19, 2024</time> ClickUp!
-
-- <time>Feb 09, 2024-Feb 16, 2024</time> Let me tell you one thing.
-
-- <time>Feb 08, 2024</time> Lots of progress slated for tomorrow night!
-
-- <time>Jan 26, 2024-Feb 08, 2024</time> And we're back on track.
-
-- <time>Jan 05, 2024-Jan 12, 2024</time> More progress!
-
-- <time>Jan 05, 2024</time> Done! (well, my part at least)
-
-- <time>Jan 04, 2024</time> Added another part!
-
-- <time>Dec 30, 2023</time> Squash the bugs.
-
-- <time>Dec 29, 2023</time> Making progress.
-
-- <time>Dec 28, 2023</time> PR! (x2)
-
-- <time>Dec 27, 2023</time> CSS, my old friend. (x2)
-
-- <time>Dec 26, 2023</time> PR!
-
-- <time>Dec 25, 2023</time> CSS, my old friend.
-
-- <time>Dec 22, 2023-Dec 24, 2023</time> Bug resolved! On to the next step.
-
-- <time>Dec 19, 2023-Dec 21, 2023</time> Continued with checking the database implementation.
-
-- <time>Dec 18, 2023</time> Finished setting up the new build and got back to someone! Excited to get to work.
-
-<hr />
-
-## <span id="oss">Offline Streaming Systems</span>
-
-<small>Nov 11, 2023-present</small>  
-<small>Part of the O.S.S. team as a developer and general member. Currently paused</small>
-
-<hr />
-
-#### Log
-
-- <time>Feb 02, 2024-Feb 15, 2024</time> More discussions.
-
-- <time>Jan 28, 2024</time> Got back to someone!
-
-- <time>Jan 27, 2024</time> Added comments.
-
-- <time>Jan 23, 2024</time> Check-in time!
-
-- <time>Jan 13, 2024</time> Notion.
-
-- <time>Jan 11, 2024-Jan 12, 2024</time> Meeting + links + comments!
-
-- <time>Jan 05, 2024</time> An interesting video was shared.
-
-- <time>Jan 03, 2024</time> I think we're done for the first part! Just need to review an API and find a work-around soon.
-
-- <time>Dec 21, 2023-Dec 30, 2023</time> Making progress.
-
-- <time>Dec 19, 2023-Dec 20, 2023</time> Pretty decent bug fix from the team!
-
-- <time>Dec 18, 2023</time> Had a productive meeting!
-
-- <time>Dec 01, 2023</time> Got organised and got started with debugging.
-
-- <time>Nov 30, 2023</time> First meeting!
-
-- <time>Nov 17, 2023</time> Excited to see where this goes!
-
-<hr />
+Watch this space.
 
 ## Occasional
 
