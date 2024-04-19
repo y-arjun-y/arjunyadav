@@ -10,24 +10,8 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 ### What I'm Learning
 
-- Mar 2024 - Apr 2024: AI Safety Fundamentals + Re-building a large language model (GPT-2)
+- [Mar 2024 - May 2024: AI Safety Fundamentals (Alignment + Governance) + Re-building a large language model (GPT-2)](#mar-2024-may-2024)
 - [Nov 2023 - Feb 2024: Steering and Evaluation Research + Large Language Models (LLMs)](#nov-2023-feb-2024)
-
-### What I Want To Learn
-
-#### Interpretability
-
-- Sparse Coding
-
-#### Evaluation and Analysis
-
-- Independent Component Analysis
-
-#### General
-
-- Gemini by Google
-
-- How Gato by DeepMind truly works
 
 ### What I've learnt thus far
 
@@ -45,16 +29,39 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 - Principal Component Analysis
 - The underlying principle behind transformers
 
-#### Self-Studying
+#### Notebook
+
+#### <span id="mar-2024-may-2024">AI Safety Fundamentals (Alignment + Governance) + Re-building a large language model (GPT-2)</span>
+
+##### Re-building a large language model (GPT-2)
+
+Got in touch with a person who was interested in following [Neel Nanda's video](https://www.youtube.com/watch?v=dsjUDacBw8o), will be getting started with this soon and writing anything interesting here!
+
+##### AI Safety Fundamentals - Governance
+
+- Session 1: Introduction to Artificial Intelligence: Figure 01 and Palantir were wild, also, [we made a song](https://suno.com/song/febf3882-5b82-4015-8f65-ee8bdf0bf463)!
+
+##### AI Safety Fundamentals - Alignment
+
+- Session 5: Mechanistic Interpretability: [Dictionary Learning is incredible](https://transformer-circuits.pub/2023/monosemantic-features/index.html).
+
+- Session 4: Scalable Oversight: This session made me feel that I actually know what I'm talking about, a rare feeling.
+
+- Session 3: Reinforcement learning from human (or AI) feedback: Lovely.
+
+- Session 2: What is AI Safety?: The gaps are definitely getting filled. (x2)
+
+- Session 1: AI and the Years Ahead: The gaps are definitely getting filled.
 
 #### <span id="nov-2023-feb-2024">Steering and Evaluation Research + Large Language Models (LLMs)</span>
 
-##### Key Readings and Lectures
+##### Articles, Lectures and Thoughts
 
 - [Steering GPT-2-XL by adding an activation vector](https://www.lesswrong.com/posts/5spBue2z2tw4JuDCx/steering-gpt-2-xl-by-adding-an-activation-vector) - LessWrong
+
 - [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g&list=WL&index=10) - Andrej Karpathy
 
-##### The full scoop: how do LLMs work?
+###### The full scoop: how do LLMs work?
 
 A large language model consists of two things: a _massive_ file of parameters (llama-2-70b's is almost 140 GB) and a simple C file used to run the architecture that permits the user to input text and get an output back.
 
@@ -68,13 +75,13 @@ The above process is only done maybe once a year as it's really expensive. But t
 
 Currently, closed source models (ones where we can only interact through a web interface or an API at best - no access to the weights) [outperform open sources one by a fair amount](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard). The rest of the video dives into scaling laws and an excellent summary of some of the core fundamentals of AI safety, highly recommend watching the last 15 minutes in its entirety!
 
-##### What is Steering?
+###### What is Steering?
 
 Put simply, steering is the idea that _we can change the course of what a model generates_ by somehow manipulating its activation vectors, whether that involves changing individual neurons or adding activation vectors.
 
 ### Achievements
 
-#### Jan-Feb 2024
+#### Jan-Mar 2024
 
 - Finished with my work for Dioptra!
 - Got accepted to AI Safety Fundamentals!
@@ -99,7 +106,19 @@ Put simply, steering is the idea that _we can change the course of what a model 
 - Worked with my brother on variational auto-encoders and mechanistic interpretability while he was setting up BAISC.
 - Research Assistant Tenureship - got to learn a lot about transformers!
 
-## Papers + Notes (if open access)
+## Papers, Notes and Reports
+
+### Governance and Policy
+
+- [Positive AI Economic Futures](https://www3.weforum.org/docs/WEF_Positive_AI_Economic_Futures_2021.pdf)
+
+#### Misalignment and Potential Solutions
+
+- [Weak-to-Strong Generalization: Eliciting Strong Capabilities with Weak Supervision](https://arxiv.org/pdf/2312.09390.pdf)
+- [Supervising strong learners by amplifying weak experts](https://arxiv.org/pdf/1810.08575.pdf)
+- [AI Safety via Debate](https://arxiv.org/pdf/1805.00899.pdf)
+- [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/pdf/2212.08073.pdf)
+- [CycleGAN: a Master of Steganography](https://arxiv.org/pdf/1712.02950.pdf)
 
 ### Evaluation Research
 
@@ -159,13 +178,17 @@ Put simply, steering is the idea that _we can change the course of what a model 
 
 (in a rough decreasing order of "high-levelness", these terms tend to get updated as I learn more!)
 
+- Dictionary Learning - [Anthropic's tool](https://transformer-circuits.pub/2023/monosemantic-features/index.html) for this is great, see [this guide](https://transformer-circuits.pub/2023/monosemantic-features/index.html#setup-interface) as well.
+
+- Features, Circuit and Universality - [This](https://distill.pub/2020/circuits/zoom-in/) distillation is basically canon at this point.
+
 - Deceit and Honesty - See [this](https://www.lesswrong.com/posts/FbSAuJfCxizZGpcHc/interpreting-the-learning-of-deceit) post on LessWrong - really interesting!
 
 - Reinforcement learning from human feedback - See [this](https://openai.com/research/learning-from-human-preferences) post by OpenAI.
 
 - Mistral's 8x7B and Uncensored Models: Now this, [this is interesting](https://www.youtube.com/watch?v=GyllRd2E6fg). The uncensored models aspect is however, very scary.
 
-- The Reversal Curse: Ask ChatGPT who is Tom Cruise's mother: you'll get Mary Lee Pfeiffer. Ask ChatGPT who is Mary Lee Pfeiffer's son, it'll say it doesn't know.
+- The Reversal Curse: Ask ChatGPT who is Tom Cruise's mother: you'll get Mary Lee Pfeiffer. Ask ChatGPT who is Mary Lee Pfeiffer's §, it'll say it doesn't know.
 
 - Gemini by Google: See this [post](https://www.lesswrong.com/posts/9Xh2PyMzNDu3yEHqR/google-gemini-announced) (linkpost of [the announcement post](https://blog.google/technology/ai/google-gemini-ai/), see it for the comments).
 
@@ -202,8 +225,6 @@ Put simply, steering is the idea that _we can change the course of what a model 
 - Auto-encoder: An autoencoder is a type of convolutional neural network (CNN) that converts a high-dimensional input into a low-dimensional one (i.e. a latent vector), and later reconstructs the original input with the highest quality possible. It consists of both an encoder and decoder. An example of its use is removing noise from a dataset (Paperspace Blog).
 
 ## People I've Met in AI Safety
-
-(anonymized - of course)
 
 ### Meeting with a co-worker at Dioptra
 
