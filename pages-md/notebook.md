@@ -43,6 +43,8 @@ Got in touch with a person who was interested in following [Neel Nanda's video](
 
 ##### AI Safety Fundamentals - Alignment
 
+- Session 6: Technical governance approaches: Some lovely one-on-ones!
+
 - Session 5: Mechanistic Interpretability: [Dictionary Learning is incredible](https://transformer-circuits.pub/2023/monosemantic-features/index.html).
 
 - Session 4: Scalable Oversight: This session made me feel that I actually know what I'm talking about, a rare feeling.
