@@ -6,15 +6,14 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-
-- <a href="#ai-plans">AI Plans</a>
-- <a href="#oss">Offline Streaming Systems</a>
 ### Active (10)
 
 - <a href="#aisfg">AI Safety Fundamentals: Governance Course</a>
 - <a href="#aisfa">AI Safety Fundamentals: Alignment Course</a>
 - <a href="#aisc2024">AI Safety Camp</a>
+- <a href="#ai-plans">AI Plans</a>
 - <a href="#dioptra">Dioptra</a>
+- <a href="#oss">Offline Streaming Systems</a>
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
 - <a href="#leetcode">LeetCode</a>
@@ -136,6 +135,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 20, 2024</time> Session 5 done!
+
 - <time>Apr 07, 2024-Apr 19, 2024</time> Covered up everything via two recap sessions!
 
 - <time>Apr 06, 2024</time> Had to skip session 4, but will cover up tomorrow!
@@ -163,7 +164,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 22, 2024-Apr 19, 2024</time> Miscellaneous stuff + meetings!
+- <time>Feb 22, 2024-Apr 21, 2024</time> Miscellaneous stuff + meetings!
 
 - <time>Feb 21, 2024</time> Meeting!
 
@@ -212,7 +213,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 19, 2024</time> Back from the dead.
+- <time>Apr 21, 2024</time> Back from the dead.
 
 - <time>Feb 19, 2024</time> ClickUp!
 
@@ -259,7 +260,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 08, 2024-Apr 19, 2024</time> Done.
+- <time>Mar 08, 2024-Apr 21, 2024</time> Done.
 
 - <time>Mar 02, 2024-Mar 07, 2024</time> Looks to be... good.
 
@@ -312,6 +313,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 21, 2024</time> I'm back!
+
 - <time>Feb 02, 2024-Feb 15, 2024</time> More discussions.
 
 - <time>Jan 28, 2024</time> Got back to someone!
@@ -352,7 +355,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 14, 2024-Apr 19, 2024</time> What's next?
+- <time>Apr 14, 2024-Apr 21, 2024</time> What's next? + Meeting!
 
 - <time>Apr 13, 2024</time> OptX's flagship event for the year done!
 
@@ -565,7 +568,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 12, 2024-Apr 19, 2024</time> Getting back into it.
+- <time>Mar 12, 2024-Apr 21, 2024</time> Getting back into it.
 
 - <time>Jan 12, 2024-Feb 08, 2024</time> Had a small-scale meeting + working on something for future-proofing.
 
@@ -799,6 +802,81 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 21, 2024</time> Finished [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/):
+```py
+class Solution:
+    def numberOfSpecialChars(self, word: str) -> int:
+        count = 0
+
+        for i in list(dict.fromkeys(word.upper())):
+            if i.lower() in word and i.upper() in word:
+                count += 1
+        
+        return count
+```
+
+- <time>Apr 18, 2024</time> Finished [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/):
+```py
+class Solution:
+    def resultArray(self, nums: List[int]) -> List[int]:
+        arr1 = [nums[0]]
+        arr2 = [nums[1]]
+
+        for i in range(2, len(nums)):
+            if arr1[-1] > arr2[-1]:
+                arr1.append(nums[i])
+            else:
+                arr2.append(nums[i])
+        
+        return arr1 + arr2
+```
+
+- <time>Apr 17, 2024</time> Finished [Score of a String](https://leetcode.com/problems/score-of-a-string/):
+```py
+class Solution:
+    def scoreOfString(self, s: str) -> int:
+        res = 0
+        for i in range(1, len(s)):
+            res += abs(ord(s[i]) - ord(s[i-1]))
+        return res
+
+```
+
+- <time>Apr 15, 2024</time> Finished [Latest Time You Can Obtain After Replacing Characters](https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/):
+```py
+class Solution:
+    def findLatestTime(self, s: str) -> str:
+        new_str = ""
+        flag = False
+
+        for i in range(len(s)):
+            if s[i] == "?":
+                if i == 0:
+                    if s[1] == "?" and flag == False:
+                        new_str += "11"
+                        flag = True
+                    elif int(s[1]) < 2 and flag == False:
+                        new_str += "1"
+                    elif flag == False:
+                        new_str += "0"
+                elif i == 1:
+                    if s[0] == "?" and flag == False:
+                        new_str += "11"
+                        flag = True
+                    elif s[0] == "1" and flag == False:
+                        new_str += "1"
+                    elif flag == False:
+                        new_str += "9"
+                elif i == 4:
+                    new_str += "9"
+                elif i == 3:
+                    new_str += "5"
+            else:
+                new_str += s[i]
+        
+        return new_str
+```
 
 - <time>Apr 09, 2024</time> Finished [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/):
 ```py
