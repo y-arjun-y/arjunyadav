@@ -9,10 +9,11 @@ export default function Navbar() {
       <nav>
         <p>
           <Link href="/">Home</Link>
-          <span><Link href="/blog/">Blog</Link>(<Link href="https://yarjuny.substack.com/subscribe">subscribe!</Link>)</span>
+          <Link href="/blog/">Blog</Link>
           <Link href="/series">Series</Link>
-          <Link href="/projects/">Projects</Link>
+          <Link href="https://yarjuny.substack.com/subscribe">Subscribe</Link>
           <br />
+          <Link href="/projects/">Projects</Link>
           <Link href="/notebook">Notebook</Link>
           <Link href="/profiles">Profiles</Link>
           <Link href="/resume">Résumé</Link>
