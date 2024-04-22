@@ -6,13 +6,13 @@ const nextConfig = {
   async redirects() {
     return [
       {
-        source: "/rainbows",
-        destination: "https://youtu.be/sWqDIZxO-nU?t=20",
+        source: "/aae-class",
+        destination: "https://forms.gle/NpvofSH5AUCY2mFd6",
         permanent: false,
       },
       {
-        source: "/time-and-memory",
-        destination: "https://youtu.be/PJiVvpH6-E0?si=x-JWFe5WZjZAg6Vs&t=10",
+        source: "/rainbows",
+        destination: "https://youtu.be/sWqDIZxO-nU?t=20",
         permanent: false,
       },
       {
@@ -21,13 +21,18 @@ const nextConfig = {
         permanent: false,
       },
       {
+        source: "/subscribe",
+        destination: "https://yarjuny.substack.com/subscribe",
+        permanent: false,
+      },
+      {
         source: "/the-busy-persons-introduction-to-ai-safety",
         destination: "/blog/the-busy-persons-introduction-to-ai-safety",
         permanent: false,
       },
       {
-        source: "/aae-class",
-        destination: "https://forms.gle/NpvofSH5AUCY2mFd6",
+        source: "/time-and-memory",
+        destination: "https://youtu.be/PJiVvpH6-E0?si=x-JWFe5WZjZAg6Vs&t=10",
         permanent: false,
       },
     ];
