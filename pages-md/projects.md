@@ -118,6 +118,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 24, 2024</time> Second session done!
+
 - <time>Mar 22, 2024-Apr 19, 2024</time> Icebreaker + First session done!
 
 - <time>Mar 21, 2024</time> Will officially in mid-April.
@@ -164,7 +166,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 22, 2024-Apr 22, 2024</time> Miscellaneous stuff + meetings!
+- <time>Feb 22, 2024-Apr 24, 2024</time> Miscellaneous stuff + meetings!
 
 - <time>Feb 21, 2024</time> Meeting!
 
@@ -213,7 +215,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 21, 2024-Apr 22, 2024</time> Back from the dead.
+- <time>Apr 21, 2024-Apr 24, 2024</time> Back from the dead.
 
 - <time>Feb 19, 2024</time> ClickUp!
 
@@ -260,7 +262,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 08, 2024-Apr 22, 2024</time> Done.
+- <time>Mar 08, 2024-Apr 24, 2024</time> Done.
 
 - <time>Mar 02, 2024-Mar 07, 2024</time> Looks to be... good.
 
@@ -313,7 +315,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 22, 2024</time> I'm back!
+- <time>Apr 24, 2024-</time> I'm back!
 
 - <time>Feb 02, 2024-Feb 15, 2024</time> More discussions.
 
@@ -355,7 +357,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 14, 2024-Apr 22, 2024</time> What's next? + Meeting!
+- <time>Apr 14, 2024-Apr 24, 2024</time> What's next? + Meeting!
 
 - <time>Apr 13, 2024</time> OptX's flagship event for the year done!
 
@@ -568,7 +570,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 12, 2024-Apr 22, 2024</time> Getting back into it.
+- <time>Mar 12, 2024-Apr 24, 2024</time> Getting back into it.
 
 - <time>Jan 12, 2024-Feb 08, 2024</time> Had a small-scale meeting + working on something for future-proofing.
 
@@ -802,6 +804,18 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 23, 2024</time> Finished [Sort By](https://leetcode.com/problems/sort-by/):
+```js
+/**
+ * @param {Array} arr
+ * @param {Function} fn
+ * @return {Array}
+ */
+var sortBy = function(arr, fn) {
+    return arr.sort((a, b) => fn(a) - fn(b));
+};
+```
 
 - <time>Apr 22, 2024</time> Finished [Transpose File](https://leetcode.com/problems/transpose-file/):
 ```bash
