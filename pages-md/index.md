@@ -8,14 +8,14 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 <img src="/Arjun.png" height="350px" />
 
-My name is Arjun Yadav, my interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development, [machine learning and AI safety](/notebook/)) and [writing on my blog](/blog/) (which includes my [interesting reads](/interesting-reads/) series).
+My name is Arjun Yadav, my interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development, [machine learning and AI safety](/notebook/)) and [writing on my blog](/blog/). In addition, I love running, drumming (and music in general) and [poetry](/poetry).
 
 <details open>
 <summary>Projects</summary>
 
 Some of the projects I've worked on in my life that I'm particularly proud of are (in reverse-chronological order):
 
-- Dec 2023, Aug 2023, Jul 2022, Jun 2023, Jul 2022 - Machine Learning and AI Safety: [AI Safety Fundamentals: Alignment Course](/projects#aisf), [AI Safety Camp](/projects#aisc2024), [AI Plans](/projects#ai-plans), [Dioptra](/projects#dioptra), [teaching a class](/projects#aaeclass) and completing three courses ([1](/projects#mathforml), [2](/projects#mlsafetycourse), [3](/projects#introml))
+- Mar 2024, Feb 2024, Dec 2023, Aug 2023, Jul 2022, Jun 2023, Jul 2022 - Machine Learning and AI Safety: [AI Safety Fundamentals: Governance Course](/projects#aisfg), [AI Safety Fundamentals: Alignment Course](/projects#aisfa), [AI Safety Camp](/projects#aisc2024), [AI Plans](/projects#ai-plans), [Dioptra](/projects#dioptra), [teaching a class](/projects#aaeclass) and completing three courses ([1](/projects#mathforml), [2](/projects#mlsafetycourse), [3](/projects#introml))
 - Dec 2023, Nov 2022, Aug 2022, Oct 2021 - Music: ([1](/projects#gratis2023), [2](/projects#ukulele), [3](/projects#drums), [4](/projects#guitar))
 - Dec 2023, Oct 2023, Jun 2023, Feb 2023, Nov 2022 - MUNs: ([1](/projects#dxbmun2023), [2](/projects#nmsmun), [3](/projects#gfsmun2023), [4](/projects#admun2023), [5](/projects#gfsmun2022))
 - Oct 2023 - Moderating at [Project: Unboxed](/projects#projectunboxed)
