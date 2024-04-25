@@ -166,7 +166,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Feb 22, 2024-Apr 24, 2024</time> Miscellaneous stuff + meetings!
+- <time>Feb 22, 2024-Apr 25, 2024</time> Miscellaneous stuff + meetings!
 
 - <time>Feb 21, 2024</time> Meeting!
 
@@ -215,7 +215,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 21, 2024-Apr 24, 2024</time> Back from the dead.
+- <time>Apr 21, 2024-Apr 25, 2024</time> Back from the dead.
 
 - <time>Feb 19, 2024</time> ClickUp!
 
@@ -262,7 +262,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 08, 2024-Apr 24, 2024</time> Done.
+- <time>Mar 08, 2024-Apr 25, 2024</time> Done.
 
 - <time>Mar 02, 2024-Mar 07, 2024</time> Looks to be... good.
 
@@ -315,7 +315,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 24, 2024-</time> I'm back!
+- <time>Apr 24, 2024-Apr 25, 2024</time> I'm back!
 
 - <time>Feb 02, 2024-Feb 15, 2024</time> More discussions.
 
@@ -347,7 +347,6 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-
 ## <span id="optx">[OptX](https://www.instagram.com/optx.uae/)</span>
 
 <small>Jan 04, 2023-present</small>  
@@ -357,7 +356,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 14, 2024-Apr 24, 2024</time> What's next? + Meeting!
+- <time>Apr 14, 2024-Apr 25, 2024</time> What's next? + Meeting!
 
 - <time>Apr 13, 2024</time> OptX's flagship event for the year done!
 
@@ -570,7 +569,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 12, 2024-Apr 24, 2024</time> Getting back into it.
+- <time>Mar 12, 2024-Apr 25, 2024</time> Getting back into it.
 
 - <time>Jan 12, 2024-Feb 08, 2024</time> Had a small-scale meeting + working on something for future-proofing.
 
@@ -805,19 +804,49 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 25, 2024</time> Finished [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/):
+
+```py
+class Solution:
+    def calculateTax(self, brackets: List[List[int]], income: int) -> float:
+        tax = 0
+
+        for i in range(len(brackets)):
+            if i == 0:
+                amount_taxed = brackets[i][0]
+                if amount_taxed <= income:
+                    tax += amount_taxed * (brackets[i][1]/100)
+                    income -= amount_taxed
+                else:
+                    tax += income * (brackets[i][1]/100)
+                    income = 0
+            else:
+                amount_taxed = brackets[i][0] - brackets[i-1][0]
+                if amount_taxed <= income:
+                    tax += amount_taxed * (brackets[i][1]/100)
+                    income -= amount_taxed
+                else:
+                    tax += income * (brackets[i][1]/100)
+                    income = 0
+
+        return tax
+```
+
 - <time>Apr 23, 2024</time> Finished [Sort By](https://leetcode.com/problems/sort-by/):
+
 ```js
 /**
  * @param {Array} arr
  * @param {Function} fn
  * @return {Array}
  */
-var sortBy = function(arr, fn) {
-    return arr.sort((a, b) => fn(a) - fn(b));
+var sortBy = function (arr, fn) {
+  return arr.sort((a, b) => fn(a) - fn(b));
 };
 ```
 
 - <time>Apr 22, 2024</time> Finished [Transpose File](https://leetcode.com/problems/transpose-file/):
+
 ```bash
 # Read from the file file.txt and print its transposed content to stdout.
 
@@ -841,6 +870,7 @@ END {
 ```
 
 - <time>Apr 21, 2024</time> Finished [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/):
+
 ```py
 class Solution:
     def numberOfSpecialChars(self, word: str) -> int:
@@ -849,11 +879,12 @@ class Solution:
         for i in list(dict.fromkeys(word.upper())):
             if i.lower() in word and i.upper() in word:
                 count += 1
-        
+
         return count
 ```
 
 - <time>Apr 18, 2024</time> Finished [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/):
+
 ```py
 class Solution:
     def resultArray(self, nums: List[int]) -> List[int]:
@@ -865,11 +896,12 @@ class Solution:
                 arr1.append(nums[i])
             else:
                 arr2.append(nums[i])
-        
+
         return arr1 + arr2
 ```
 
 - <time>Apr 17, 2024</time> Finished [Score of a String](https://leetcode.com/problems/score-of-a-string/):
+
 ```py
 class Solution:
     def scoreOfString(self, s: str) -> int:
@@ -881,6 +913,7 @@ class Solution:
 ```
 
 - <time>Apr 15, 2024</time> Finished [Latest Time You Can Obtain After Replacing Characters](https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/):
+
 ```py
 class Solution:
     def findLatestTime(self, s: str) -> str:
@@ -911,23 +944,24 @@ class Solution:
                     new_str += "5"
             else:
                 new_str += s[i]
-        
+
         return new_str
 ```
 
 - <time>Apr 09, 2024</time> Finished [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/):
+
 ```py
 class Solution:
     def timeRequiredToBuy(self, tickets: List[int], k: int) -> int:
         # Credit - https://leetcode.com/problems/time-needed-to-buy-tickets/solutions/4996426/simple-while-loop
 
         time = 0
-        i = 0 
-        
+        i = 0
+
         while tickets[k] != 0 :
             if i == len(tickets):
-                i = 0 
-                
+                i = 0
+
             if tickets[i] != 0:
                 time += 1
                 tickets[i] -= 1
@@ -938,6 +972,7 @@ class Solution:
 ```
 
 - <time>Apr 08, 2024</time> Finished [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/):
+
 ```py
 class Solution:
     def countStudents(self, students: List[int], sandwiches: List[int]) -> int:
@@ -952,13 +987,14 @@ class Solution:
                 students = students[1:]
             else:
                 students = students[1:] + [students[0]]
-            
+
             count += 1
-        
+
         return len(students)
 ```
 
 - <time>Apr 06, 2024</time> Finished [Harshad Number](https://leetcode.com/problems/harshad-number/):
+
 ```py
 class Solution:
     def sumOfTheDigitsOfHarshadNumber(self, x: int) -> int:
@@ -969,6 +1005,7 @@ class Solution:
 ```
 
 - <time>Apr 05, 2024</time> Finished [Make The String Great](https://leetcode.com/problems/make-the-string-great/):
+
 ```py
 class Solution:
     def makeGood(self, s: str) -> str:
@@ -976,7 +1013,7 @@ class Solution:
             for i in range(len(s)-1):
                 if s[i].swapcase() == s[i+1] or s[i] == s[i+1].swapcase():
                     return True
-        
+
         while check():
             for i in range(len(s)-1):
                 if s[i].swapcase() == s[i+1] or s[i] == s[i+1].swapcase():
@@ -18213,7 +18250,7 @@ An interesting first foray into the world of extracurriculars for little Arjun, 
 
 ## <span id="note">Note</span>
 
-I define a project as anything I am actively building, creating or participating in (preparing for a project doesn't count, the project must be actively ongoing before it gets logged). I don't count my content and schoolwork as projects. One-off tasks (such as updating documentation or fixing a small glitch for a previous project) also don't count.
+I define a project as anything I am actively building, creating or participating in (preparing for a project doesn't count, the project must be actively ongoing before it gets logged). I don't count my content and schoolwork as projects. One-off tasks (such as updating documentation or fixing a small glitch for a previous project) and hobbies really personal to me (such as meditation, running and [poetry](/poetry)) also don't count.
 
 Any gaps between logs does not mean that I worked on the project in between, any work done for the project will be logged (unless any special circumstance occurs).
 
