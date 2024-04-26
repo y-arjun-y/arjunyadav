@@ -85,6 +85,11 @@ Put simply, steering is the idea that _we can change the course of what a model 
 
 ### Achievements
 
+#### Apr-May 2024
+
+- Applied for the AI Safety, Ethics and Society course!
+- Got accepted to AI Safety Fundamentals: Governance course!
+
 #### Jan-Mar 2024
 
 - Finished with my work for Dioptra!
