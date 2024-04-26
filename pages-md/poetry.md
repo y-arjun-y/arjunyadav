@@ -26,5 +26,3 @@ Here I am, by the lakeside, <br />
 where no one's around to turn me to faith's side. <br />
 But what's one to do, <br />
 if and when a man reaches his waste side?
-
-<hr />
