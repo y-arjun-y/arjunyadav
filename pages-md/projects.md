@@ -6,8 +6,10 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (10)
+### Active (12)
 
+- <a href="horizonomega">Horizon Omega (HΩ)</a>
+- <a href="zerodha">Zerodha Varsity</a>
 - <a href="#aisfg">AI Safety Fundamentals: Governance Course</a>
 - <a href="#aisfa">AI Safety Fundamentals: Alignment Course</a>
 - <a href="#aisc2024">AI Safety Camp</a>
@@ -107,6 +109,36 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="horizonomega">[Horizon Omega (HΩ)](https://www.horizonomega.org/)</span>
+
+<small>Apr 26, 2024-present</small>  
+<small>Part of the Horizon Omega team!</small>
+
+<hr />
+<small>Horizon Omega's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Apr 26, 2024</time> Meeting soon!
+
+<hr />
+
+## <span id="zerodha">[Zerodha Varsity](https://zerodha.com/varsity)</span>
+
+<small>Apr 26, 2024-present</small>  
+<small>Finishing the Zerodha Varsity course with some friends.</small>
+
+<hr />
+<small>Zerodha Varsity's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Apr 26, 2024</time> Finished the first two modules!
+
+<hr />
+
 ## <span id="aisfg">[AI Safety Fundamentals: Governance Course](https://aisafetyfundamentals.com/)</span>
 
 <small>Mar 21, 2023-present</small>  
@@ -166,6 +198,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 26, 2024</time> Another meeting! Some 1-on-1 soon.
+
 - <time>Feb 22, 2024-Apr 25, 2024</time> Miscellaneous stuff + meetings!
 
 - <time>Feb 21, 2024</time> Meeting!
@@ -215,6 +249,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 26, 2024</time> Close!
+
 - <time>Apr 21, 2024-Apr 25, 2024</time> Back from the dead.
 
 - <time>Feb 19, 2024</time> ClickUp!
@@ -254,13 +290,15 @@ Confused? See the <a href="#note">note</a> down below.
 ## <span id="dioptra">Dioptra</span>
 
 <small>Dec 18, 2023-present</small>  
-<small>Part of the Dioptre team, working on projects with them and trying to learn a lot in the process! Currently paused.</small>
+<small>Part of the Dioptre team, working on projects with them and trying to learn a lot in the process!</small>
 
 <hr />
 <small>Dioptra's start date is the date I started logging, not the date when the project started.</small>
 <hr />
 
 #### Log
+
+- <time>Apr 26, 2024</time> Need to speed up my code a bit before it reaches testing,
 
 - <time>Mar 08, 2024-Apr 25, 2024</time> Done.
 
@@ -314,6 +352,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 26, 2024</time> Spoke with my teammate, meeting soon!
 
 - <time>Apr 24, 2024-Apr 25, 2024</time> I'm back!
 
@@ -803,6 +843,18 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 26, 2024</time> Finished [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/):
+
+```py
+class Solution:
+    def matrixReshape(self, mat: List[List[int]], r: int, c: int) -> List[List[int]]:
+        import numpy as np
+        try:
+            return np.array(mat).reshape((r, c)).tolist()
+        except:
+            return mat
+```
 
 - <time>Apr 25, 2024</time> Finished [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/):
 
