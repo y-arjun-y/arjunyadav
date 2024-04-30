@@ -31,23 +31,28 @@ export default function Blog({ posts }) {
     );
   });
 
+  console.log(posts);
+
   return (
     <>
       <Head>
-         <meta property="og:title" content="Welcome to arjunyadav.net!" />
-         <meta
-           property="og:image"
-           content="https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1"
-         />
-         <meta name="twitter:card" content="summary_large_image" />
-         <meta name="twitter:title" content="Welcome to arjunyadav.net!" />
-         <title>Blog</title>
-       </Head>
+        <meta property="og:title" content="Welcome to arjunyadav.net!" />
+        <meta
+          property="og:image"
+          content="https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1"
+        />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Welcome to arjunyadav.net!" />
+        <title>Blog</title>
+      </Head>
       <ul>
         {posts.map(({ slug, frontmatter }) => (
           <li key={slug}>
             <span style={{ display: "inline" }}>
-              <time>{frontmatter.publish_date.substring(0, 12)}</time>
+              <time>
+                {frontmatter.publish_date.substring(0, 4) +
+                  frontmatter.publish_date.substring(7, 12)}
+              </time>
               <a href={`/blog/${slug}`}>{frontmatter.title}</a>
             </span>
           </li>
