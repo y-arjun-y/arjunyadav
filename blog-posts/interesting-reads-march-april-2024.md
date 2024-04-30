@@ -19,6 +19,6 @@ Here are some of the highlights of this month!
 
 ## Articles
 
-- Currently completing a course on personal finance and investing by Zerodha, you can find all the course and the articles related to the course [here](https://zerodha.com/varsity/modules/). As a bonus, here's [a guide on Candlestick patterns](/candlestick-patterns.pdf)
+- Currently completing a course on personal finance and investing by Zerodha, you can find all the course and the articles related to the course [here](https://zerodha.com/varsity/modules/). As a bonus, here's [a guide on Candlestick patterns](/candlestick-patterns.pdf).
 
-- Many a great AI alignment articles, here are two of the more "essay-like" ones: [Four Background Claims by Nate Soares](https://intelligence.org/2015/07/24/four-background-claims/), [The Bitter Lesson by Rich Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), 
+- Many a great AI alignment articles, here are two of the more "essay-like" ones: [Four Background Claims by Nate Soares](https://intelligence.org/2015/07/24/four-background-claims/) and [The Bitter Lesson by Rich Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
