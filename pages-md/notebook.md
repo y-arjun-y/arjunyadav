@@ -41,9 +41,13 @@ Got in touch with a person who was interested in following [Neel Nanda's video](
 
 ##### AI Safety Fundamentals - Governance
 
+- Session 2: The Promise of AI: A bit more slow, but still really valuable.
+
 - Session 1: Introduction to Artificial Intelligence: Figure 01 and Palantir were wild, also, [we made a song](https://suno.com/song/febf3882-5b82-4015-8f65-ee8bdf0bf463)!
 
 ##### AI Safety Fundamentals - Alignment
+
+- Session 7: Contributing to AI Alignment: Gained a lot of clarity in career and a great coincidence happened today!
 
 - Session 6: Technical governance approaches: Some lovely one-on-ones!
 
