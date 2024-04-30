@@ -4,10 +4,24 @@ meta_description: Welcome to all of the poetry on my website!!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
-I write poetry every day, most of it isn't very good nor very long - but I enjoy the process of distilling my thoughts into a few couplets. Enjoy!
+I write poetry _almost_ every day, most of it isn't very good nor very long - but I enjoy the process of distilling my thoughts into a few couplets. Enjoy!
 
+- Apr 30, 2024 - <a href="#reflection">Reflection</a>
 - Apr 26, 2024 - <a href="#dread">Dread</a>
 - Apr 25, 2024 - <a href="#lakeside">Lakeside</a>
+
+
+<h2 id="reflection">Reflection</h2>
+<p>Apr 30, 2024</p>
+
+![Ocean](/ocean.jpg)
+
+Gaze your eyes upon the ocean, <br />
+where man often refines their notion. <br />
+As you walk away from the sun, <br />
+you'll find the true meaning of a job well done.
+
+<hr />
 
 <h2 id="lakeside">Dread</h2>
 <p>Apr 26, 2024</p>
