@@ -10,6 +10,8 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 My name is Arjun Yadav, my interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development, [machine learning and AI safety](/notebook/)) and [writing on my blog](/blog/). In addition, I love running, drumming (and music in general) and [poetry](/poetry).
 
+If you wish to contact me, feel free to [email me](https://www.bettermailto.com/user/620278e0561f820009d840d2) or [schedule time to chat with me](https://calendly.com/arjun-yadav).
+
 <details open>
 <summary>Projects</summary>
 
@@ -53,5 +55,3 @@ Data from [CloudFlare](https://cloudflare.com). Original SVG was created with [g
 
 <img src="/map.svg" />
 </details>
-
-If you wish to contact me, [feel free to do so](https://www.bettermailto.com/user/620278e0561f820009d840d2)!
