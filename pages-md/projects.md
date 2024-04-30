@@ -6,13 +6,13 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (12)
+### Active (11)
 
 - <a href="horizonomega">Horizon Omega (HΩ)</a>
 - <a href="zerodha">Zerodha Varsity</a>
 - <a href="#aisfg">AI Safety Fundamentals: Governance Course</a>
 - <a href="#aisfa">AI Safety Fundamentals: Alignment Course</a>
-- <a href="#aisc2024">AI Safety Camp</a>
+- <a href="#aisc2024">AI Safety Camp: VAISU</a>
 - <a href="#ai-plans">AI Plans</a>
 - <a href="#dioptra">Dioptra</a>
 - <a href="#oss">Offline Streaming Systems</a>
@@ -35,8 +35,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a>
 - <a href="#coldtakesbetareading">Cold Takes Beta Reading</a>
 
-### Done (50)
+### Done (51)
 
+- <a href="#gmamunjr">GMAMUN Jr.'24</a>
 - <a href="#studentcouncil12">Student Council - 12th + Head of Events</a>
 - <a href="#ausresearch">AUS CSE Research Assistant</a>
 - <a href="#aoc2023">Advent of Code 2023</a>
@@ -120,7 +121,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 26, 2024</time> Meeting soon!
+- <time>Apr 26, 2024-Apr 30, 2024</time> Meeting soon!
 
 <hr />
 
@@ -134,6 +135,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 27, 2024-Apr 30, 2024</time> Got started with the third module.
 
 - <time>Apr 26, 2024</time> Finished the first two modules!
 
@@ -169,7 +172,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 20, 2024</time> Session 5 done!
+- <time>Apr 27, 2024</time> Session 7 done! That's the learning part done, now time to work on my project.
+
+- <time>Apr 20, 2024</time> Session 6 done!
 
 - <time>Apr 07, 2024-Apr 19, 2024</time> Covered up everything via two recap sessions!
 
@@ -187,10 +192,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-## <span id="aisc2024">[AI Safety Camp](https://aisafety.camp)</span>
+## <span id="aisc2024">[AI Safety Camp: VAISU](https://aisafety.camp)</span>
 
 <small>Dec 29, 2023-present</small>  
-<small>Inductee for AISC 2024!</small>
+<small>Inductee for AISC 2024! Part of Project #29: VAISU.</small>
 
 <hr />
 <small>AI Safety Camp's start date is the date I started logging, not the date when the project started.</small>
@@ -198,7 +203,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 26, 2024</time> Another meeting! Some 1-on-1 soon.
+- <time>Apr 30-, 2024</time> Successful 1-on-1!
+
+- <time>Apr 26, 2024-Apr 29, 2024</time> Another meeting! Some 1-on-1 soon.
 
 - <time>Feb 22, 2024-Apr 25, 2024</time> Miscellaneous stuff + meetings!
 
@@ -249,7 +256,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 26, 2024</time> Close!
+- <time>Apr 26, 2024-Apr 30, 2024</time> Close!
 
 - <time>Apr 21, 2024-Apr 25, 2024</time> Back from the dead.
 
@@ -297,6 +304,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 27, 2024-Apr 30, 2024</time> Done. For real this time.
 
 - <time>Apr 26, 2024</time> Need to speed up my code a bit before it reaches testing,
 
@@ -353,7 +362,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 26, 2024</time> Spoke with my teammate, meeting soon!
+- <time>Apr 26, 2024-Apr 30, 2024</time> Spoke with my teammate, meeting soon!
 
 - <time>Apr 24, 2024-Apr 25, 2024</time> I'm back!
 
@@ -396,7 +405,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 14, 2024-Apr 25, 2024</time> What's next? + Meeting!
+- <time>Apr 14, 2024-Apr 30, 2024</time> What's next? + Meeting!
 
 - <time>Apr 13, 2024</time> OptX's flagship event for the year done!
 
@@ -609,7 +618,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Mar 12, 2024-Apr 25, 2024</time> Getting back into it.
+- <time>Mar 12, 2024-Apr 30, 2024</time> Getting back into it.
 
 - <time>Jan 12, 2024-Feb 08, 2024</time> Had a small-scale meeting + working on something for future-proofing.
 
@@ -843,6 +852,19 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Apr 30, 2024</time> Finished [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/):
+```bash
+# Read from the file file.txt and output all valid phone numbers to stdout.
+grep -e "^[0-9]\{3\}\-[0-9]\{3\}\-[0-9]\{4\}$" -e "^([0-9]\{3\}) [0-9]\{3\}\-[0-9]\{4\}$" file.txt
+```
+
+- <time>Apr 29, 2024</time> Finished [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/):
+```py
+class Solution:
+    def addedInteger(self, nums1: List[int], nums2: List[int]) -> int:
+        return sorted(nums2)[0] - sorted(nums1)[0]
+```
 
 - <time>Apr 26, 2024</time> Finished [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/):
 
@@ -12223,6 +12245,21 @@ function getCount(str) {
 <hr />
 
 ## Done
+
+<hr />
+
+## <span id="gmamunjr">GMAMUN Jr.'24</span>
+
+<small>Apr 28, 2023</small>  
+<small>Was head chair of the United Nations Office on Outer Space Affairs!</small>
+
+<hr />
+
+#### Summary
+
+First (and probably last) time chairing was a decent success (even though I had skipped the first day, oh well - it was well worth it).
+
+![GMAMUN Jr.](/gmamunjr.jpg)
 
 <hr />
 
