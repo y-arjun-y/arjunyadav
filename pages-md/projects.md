@@ -8,8 +8,8 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ### Active (11)
 
-- <a href="horizonomega">Horizon Omega (HΩ)</a>
-- <a href="zerodha">Zerodha Varsity</a>
+- <a href="#horizonomega">Horizon Omega (HΩ)</a>
+- <a href="#zerodha">Zerodha Varsity</a>
 - <a href="#aisfg">AI Safety Fundamentals: Governance Course</a>
 - <a href="#aisfa">AI Safety Fundamentals: Alignment Course</a>
 - <a href="#aisc2024">AI Safety Camp: VAISU</a>
