@@ -41,6 +41,8 @@ Got in touch with a person who was interested in following [Neel Nanda's video](
 
 ##### AI Safety Fundamentals - Governance
 
+- Session 3: The Perils of AI: Didn't enjoy this session as much, but again - still valuable.
+
 - Session 2: The Promise of AI: A bit more slow, but still really valuable.
 
 - Session 1: Introduction to Artificial Intelligence: Figure 01 and Palantir were wild, also, [we made a song](https://suno.com/song/febf3882-5b82-4015-8f65-ee8bdf0bf463)!
