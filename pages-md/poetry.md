@@ -6,9 +6,20 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 I write poetry _almost_ every day, most of it isn't very good nor very long - but I enjoy the process of distilling my thoughts into a few couplets. Enjoy!
 
+- May 01, 2024 - <a href="#mayday">Mayday</a>
 - Apr 30, 2024 - <a href="#reflection">Reflection</a>
 - Apr 26, 2024 - <a href="#dread">Dread</a>
 - Apr 25, 2024 - <a href="#lakeside">Lakeside</a>
+
+<h2 id="mayday">Mayday</h2>
+<p>May 01, 2024</p>
+
+Mayday! Mayday! <br />
+But we stand in fear. <br />
+A fear that's gripping, <br />
+us all, a song leaving them in tears.
+
+<hr />
 
 
 <h2 id="reflection">Reflection</h2>
