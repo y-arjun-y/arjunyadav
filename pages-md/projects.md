@@ -153,6 +153,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 01, 2024</time> Third session done!
+
 - <time>Apr 24, 2024</time> Second session done!
 
 - <time>Mar 22, 2024-Apr 19, 2024</time> Icebreaker + First session done!
@@ -203,7 +205,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 30-, 2024</time> Successful 1-on-1!
+- <time>May 01, 2024</time> Threads.
+
+- <time>Apr 30, 2024</time> Successful 1-on-1!
 
 - <time>Apr 26, 2024-Apr 29, 2024</time> Another meeting! Some 1-on-1 soon.
 
@@ -305,7 +309,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 27, 2024-Apr 30, 2024</time> Done. For real this time.
+- <time>Apr 27, 2024-May 01, 2024</time> Done. For real this time.
 
 - <time>Apr 26, 2024</time> Need to speed up my code a bit before it reaches testing,
 
@@ -852,6 +856,24 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 01, 2024</time> Finished [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/):
+```py
+class Solution:
+    def reversePrefix(self, word: str, ch: str) -> str:
+        import re
+        
+        if re.findall(f"[a-zA-Z]*{ch}[a-zA-Z]*", word) == []:
+            return word
+        
+        count = 0
+        
+        for i in word:
+            count += 1
+            if i == ch:
+                tempRes = word[0:count]
+                return tempRes[::-1] + word[count:len(word)]
+```
 
 - <time>Apr 30, 2024</time> Finished [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/):
 ```bash
