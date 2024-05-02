@@ -6,7 +6,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (11)
+### Active (12)
 
 - <a href="#horizonomega">Horizon Omega (HΩ)</a>
 - <a href="#zerodha">Zerodha Varsity</a>
@@ -16,16 +16,18 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#ai-plans">AI Plans</a>
 - <a href="#dioptra">Dioptra</a>
 - <a href="#oss">Offline Streaming Systems</a>
+- <a href="#oceanbusters">Ocean Busters</a>
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
 - <a href="#leetcode">LeetCode</a>
 
 ### Paused (0)
 
-### Occasional (4)
+Watch this space.
+
+### Occasional (3)
 
 - <a href="#ukulele">Ukulele</a>
-- <a href="#oceanbusters">Ocean Busters</a>
 - <a href="#drums">Drums</a>
 - <a href="#guitar">Guitar</a>
 
@@ -121,6 +123,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Apr 26, 2024-Apr 30, 2024</time> Successful meeting! + organised the Notion.
+
 - <time>Apr 26, 2024-Apr 30, 2024</time> Meeting soon!
 
 <hr />
@@ -205,7 +209,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 01, 2024</time> Threads.
+- <time>May 01, 2024-May 02, 2024</time> Threads.
 
 - <time>Apr 30, 2024</time> Successful 1-on-1!
 
@@ -260,7 +264,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 26, 2024-Apr 30, 2024</time> Close!
+- <time>Apr 26, 2024-May 02, 2024</time> Close!
 
 - <time>Apr 21, 2024-Apr 25, 2024</time> Back from the dead.
 
@@ -309,7 +313,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 27, 2024-May 01, 2024</time> Done. For real this time.
+- <time>Apr 27, 2024-May 02, 2024</time> Done. For real this time.
 
 - <time>Apr 26, 2024</time> Need to speed up my code a bit before it reaches testing,
 
@@ -400,6 +404,53 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="oceanbusters">Ocean Busters</span>
+
+<small>Jul 08, 2023-present</small>  
+<small>Currently a blog writer and editor at Ocean Busters, a new organisation dedicated to effectively tackling ocean pollution. Currently an occasional project.</small>
+
+<hr />
+
+#### Log
+
+- <time>May 02, 2024</time> Back at it, been working on the website.
+
+- <time>Oct 12, 2023</time> Finished editing for this month!
+
+- <time>Sep 23, 2023</time> Finished editing for this month!
+
+- <time>Sep 19, 2023</time> Admin for this month.
+
+- <time>Aug 31, 2023</time> Done for this month!
+
+- <time>Aug 20, 2023</time> Always expect the unexpected.
+
+- <time>Aug 19, 2023</time> Submitted the blog post in record time.
+
+- <time>Aug 12, 2023-Aug 18, 2023</time> Working with my new blog writer for this month!
+
+- <time>Aug 07, 2023</time> August's theme has been announced!
+
+- <time>Jul 29, 2023</time> Finished the blog post with my blog writer!
+
+- <time>Jul 27, 2023-Jul 28, 2023</time> Reviewed the second draft. Nearly done (I think)!
+
+- <time>Jul 22, 2023-Jul 25, 2023</time> Reviewed the draft and added comments.
+
+- <time>Jul 21, 2023</time> Got the draft!
+
+- <time>Jul 14, 2023-Jul 20, 2023</time> Did some organisational work.
+
+- <time>Jul 13, 2023</time> Had a productive meeting.
+
+- <time>Jul 11, 2023-Jul 12, 2023</time> Meeting soon!
+
+- <time>Jul 09, 2023-Jul 10, 2023</time> Got in touch with my blog writer for this month (who's writing I'll be editing and proof-reading)
+
+- <time>Jul 08, 2023</time> Got accepted! Interesting to see where this project goes (especially considering my Cold Takes project has been inactive for about half a year).
+
+<hr />
+
 ## <span id="optx">[OptX](https://www.instagram.com/optx.uae/)</span>
 
 <small>Jan 04, 2023-present</small>  
@@ -408,6 +459,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 02, 2024</time> Advised some juniors.
 
 - <time>Apr 14, 2024-Apr 30, 2024</time> What's next? + Meeting!
 
@@ -10773,51 +10826,6 @@ Watch this space.
 - <time>Nov 27, 2023-Dec 24, 2023</time> Learnt a lot of songs: Postcards from Italy - Beirut, worldstar money (interlude) - Joji, Forrest Gump - Frank Ocean, Vance Joy - Riptide, Nothing Else Matters (Intro) - Metallica, Go with the Flow - Queens of the Stone Age and Losing My Religion - R.E.M.
 
 - <time>Nov 26, 2023</time> I think I've gotten "Going to California" by Led Zeppelin fully down now.
-
-<hr />
-
-## <span id="oceanbusters">Ocean Busters</span>
-
-<small>Jul 08, 2023-present</small>  
-<small>Currently a blog writer and editor at Ocean Busters, a new organisation dedicated to effectively tackling ocean pollution. Currently an occasional project.</small>
-
-<hr />
-
-#### Log
-
-- <time>Oct 12, 2023</time> Finished editing for this month!
-
-- <time>Sep 23, 2023</time> Finished editing for this month!
-
-- <time>Sep 19, 2023</time> Admin for this month.
-
-- <time>Aug 31, 2023</time> Done for this month!
-
-- <time>Aug 20, 2023</time> Always expect the unexpected.
-
-- <time>Aug 19, 2023</time> Submitted the blog post in record time.
-
-- <time>Aug 12, 2023-Aug 18, 2023</time> Working with my new blog writer for this month!
-
-- <time>Aug 07, 2023</time> August's theme has been announced!
-
-- <time>Jul 29, 2023</time> Finished the blog post with my blog writer!
-
-- <time>Jul 27, 2023-Jul 28, 2023</time> Reviewed the second draft. Nearly done (I think)!
-
-- <time>Jul 22, 2023-Jul 25, 2023</time> Reviewed the draft and added comments.
-
-- <time>Jul 21, 2023</time> Got the draft!
-
-- <time>Jul 14, 2023-Jul 20, 2023</time> Did some organisational work.
-
-- <time>Jul 13, 2023</time> Had a productive meeting.
-
-- <time>Jul 11, 2023-Jul 12, 2023</time> Meeting soon!
-
-- <time>Jul 09, 2023-Jul 10, 2023</time> Got in touch with my blog writer for this month (who's writing I'll be editing and proof-reading)
-
-- <time>Jul 08, 2023</time> Got accepted! Interesting to see where this project goes (especially considering my Cold Takes project has been inactive for about half a year).
 
 <hr />
 
