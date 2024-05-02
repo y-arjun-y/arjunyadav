@@ -6,10 +6,22 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 I write poetry _almost_ every day, most of it isn't very good nor very long - but I enjoy the process of distilling my thoughts into a few couplets. Enjoy!
 
+- May 02, 2024 - <a href="#honour">Honour</a>
 - May 01, 2024 - <a href="#mayday">Mayday</a>
 - Apr 30, 2024 - <a href="#reflection">Reflection</a>
 - Apr 26, 2024 - <a href="#dread">Dread</a>
 - Apr 25, 2024 - <a href="#lakeside">Lakeside</a>
+
+<h2 id="honour">Honour</h2>
+<p>May 02, 2024</p>
+
+Redemption, measurable it is not. <br />
+But whose there to count? One caught <br />
+in the act isn't to care. <br />
+But taking that first step? <br />
+Only few men would dare.
+
+<hr />
 
 <h2 id="mayday">Mayday</h2>
 <p>May 01, 2024</p>
