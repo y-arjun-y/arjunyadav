@@ -11,6 +11,11 @@ const nextConfig = {
         permanent: false,
       },
       {
+        source: "/profiles",
+        destination: "https://linktr.ee/y_arjun_y",
+        permanent: false,
+      },
+      {
         source: "/rainbows",
         destination: "https://youtu.be/sWqDIZxO-nU?t=20",
         permanent: false,
