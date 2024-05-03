@@ -93,6 +93,7 @@ Put simply, steering is the idea that _we can change the course of what a model 
 
 #### Apr-May 2024
 
+- Part of the [Horizon Omega team](/projects#horizonomega)!
 - Applied for the AI Safety, Ethics and Society course!
 - Got accepted to AI Safety Fundamentals: Governance course!
 
@@ -240,6 +241,7 @@ Put simply, steering is the idea that _we can change the course of what a model 
 - Auto-encoder: An autoencoder is a type of convolutional neural network (CNN) that converts a high-dimensional input into a low-dimensional one (i.e. a latent vector), and later reconstructs the original input with the highest quality possible. It consists of both an encoder and decoder. An example of its use is removing noise from a dataset (Paperspace Blog).
 
 ## People I've Met in AI Safety
+Note that these are outside of formal projects.
 
 ### Meeting with a co-worker at Dioptra
 

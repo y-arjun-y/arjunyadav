@@ -123,6 +123,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 03, 2024</time> Another meeting!
+
 - <time>Apr 26, 2024-Apr 30, 2024</time> Successful meeting! + organised the Notion.
 
 - <time>Apr 26, 2024-Apr 30, 2024</time> Meeting soon!
@@ -139,6 +141,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 03, 2024</time> Back at it.
 
 - <time>Apr 27, 2024-Apr 30, 2024</time> Got started with the third module.
 
@@ -209,6 +213,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 03, 2024</time> Meeting x2!
+
 - <time>May 01, 2024-May 02, 2024</time> Threads.
 
 - <time>Apr 30, 2024</time> Successful 1-on-1!
@@ -264,6 +270,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 03, 2024</time> Conflict-resolution.
+
 - <time>Apr 26, 2024-May 02, 2024</time> Close!
 
 - <time>Apr 21, 2024-Apr 25, 2024</time> Back from the dead.
@@ -313,7 +321,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 27, 2024-May 02, 2024</time> Done. For real this time.
+- <time>Apr 27, 2024-May 03, 2024</time> Done. For real this time.
 
 - <time>Apr 26, 2024</time> Need to speed up my code a bit before it reaches testing,
 
@@ -413,6 +421,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 03, 2024</time> Buttons are fixed!
+
 - <time>May 02, 2024</time> Back at it, been working on the website.
 
 - <time>Oct 12, 2023</time> Finished editing for this month!
@@ -459,6 +469,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 03, 2024</time> Certificates finally out!
 
 - <time>May 02, 2024</time> Advised some juniors.
 
@@ -909,6 +921,19 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 03, 2024</time> Finished [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/):
+```js
+/**
+ * @param {number[]} nums
+ * @param {Function} fn
+ * @param {number} init
+ * @return {number}
+ */
+var reduce = function(nums, fn, init) {
+    return nums.reduce(fn, init);
+};
+```
 
 - <time>May 01, 2024</time> Finished [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/):
 ```py
