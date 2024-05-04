@@ -6,12 +6,16 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 I write poetry _almost_ every day, most of it isn't very good nor very long - but I enjoy the process of distilling my thoughts into a few couplets. Enjoy!
 
+<hr />
+
 - May 03, 2024 - <a href="#delays">Delays</a>
 - May 02, 2024 - <a href="#honour">Honour</a>
 - May 01, 2024 - <a href="#mayday">Mayday</a>
 - Apr 30, 2024 - <a href="#reflection">Reflection</a>
 - Apr 26, 2024 - <a href="#dread">Dread</a>
 - Apr 25, 2024 - <a href="#lakeside">Lakeside</a>
+
+<hr />
 
 <h2 id="delays">Delays</h2>
 <p>May 03, 2024</p>
