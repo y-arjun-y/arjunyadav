@@ -29,7 +29,6 @@ function ArjunYadav({ Component, pageProps }) {
       <Component {...pageProps} />
       <hr />
       <Footer />
-      <hr />      
     </>
   );
 }
