@@ -18,8 +18,8 @@ In addition, I love running, drumming (and music in general) and [poetry](/poetr
 Some of the projects I've worked on in my life that I'm particularly proud of are (in reverse-chronological order):
 
 - Machine Learning and AI Safety: [Horizon Omega](/projects#horizonomega), [AI Safety Fundamentals: Governance Course](/projects#aisfg), [AI Safety Fundamentals: Alignment Course](/projects#aisfa), [AI Safety Camp](/projects#aisc2024), [AI Plans](/projects#ai-plans), [Dioptra](/projects#dioptra), [teaching a class](/projects#aaeclass) and completing three courses ([1](/projects#mathforml), [2](/projects#mlsafetycourse), [3](/projects#introml))
-- Music: ([1](/projects#gratis2023), [2](/projects#ukulele), [3](/projects#drums), [4](/projects#guitar))
-- MUNs: ([1](/projects#dxbmun2023), [2](/projects#nmsmun), [3](/projects#gfsmun2023), [4](/projects#admun2023), [5](/projects#gfsmun2022))
+- Music: [Gratis](/projects#gratis2023), [Ukulele](/projects#ukulele), [Drums](/projects#drums), [Guitar](/projects#guitar)
+- MUNs: [GMAMUN Jr.'24](/projects#gmamunjr), [DXBMUN 2023](/projects#dxbmun2023), [NMSMUN 2023](/projects#nmsmun2023), [GFSMUN III](/projects#gfsmun2023), [ADMUN 2023](/projects#admun2023), [GFSMUN II](/projects#gfsmun2022)
 - [Project: Unboxed](/projects#projectunboxed)
 - [TEDxYouth@DPSS 2023](/projects#tedx2023)
 - SOLARIS: ([1](/projects#solaris-3), [2](/projects#solaris-2), [3](/projects#solaris-1))

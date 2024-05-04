@@ -39,7 +39,7 @@ Watch this space.
 
 ### Done (51)
 
-- <a href="#gmamunjr">GMAMUN Jr.'24</a>
+- <a href="#gmamunjr24">GMAMUN Jr.'24</a>
 - <a href="#studentcouncil12">Student Council - 12th + Head of Events</a>
 - <a href="#ausresearch">AUS CSE Research Assistant</a>
 - <a href="#aoc2023">Advent of Code 2023</a>
@@ -13211,7 +13211,7 @@ This was quite an experience - finished going through the ML Safety Course by th
 
 <hr />
 
-## <span id="gfsmun2023">GFSMUN 2023</span>
+## <span id="gfsmun2023">GFSMUN III</span>
 
 <small>Jun 23, 2023-Jun 25, 2023</small>  
 <small>Attended GFSMUN 2023 as part of my school team, and won best speaker!</small>
@@ -14886,7 +14886,7 @@ Happy to report that we've won the senior category of a "state" hackathon! Hope 
 
 <hr />
 
-## <span id="gfsmun2022">GFSMUN 2022</span>
+## <span id="gfsmun2022">GFSMUN II</span>
 
 <small>Nov 04, 2022-Nov 06, 2022</small>  
 <small>Attended GFSMUN 2022 as part of my school team. Due to privacy reasons, I was being incredibly vague.</small>
