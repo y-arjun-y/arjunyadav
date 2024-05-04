@@ -8,12 +8,25 @@ I write poetry _almost_ every day, most of it isn't very good nor very long - bu
 
 <hr />
 
+- May 04, 2024 - <a href="#freewill">Free Will</a>
 - May 03, 2024 - <a href="#delays">Delays</a>
 - May 02, 2024 - <a href="#honour">Honour</a>
 - May 01, 2024 - <a href="#mayday">Mayday</a>
 - Apr 30, 2024 - <a href="#reflection">Reflection</a>
 - Apr 26, 2024 - <a href="#dread">Dread</a>
 - Apr 25, 2024 - <a href="#lakeside">Lakeside</a>
+<hr />
+
+<h2 id="freewill">Free Will</h2>
+<p>May 04, 2024</p>
+
+As you stand on the edge of a waterfall, <br />
+you ask yourself, "why am I above it all?" <br />
+Did you come here on your own? <br />
+"Of course I did, not behest to the throne." <br />
+But you think and start to realize, <br />
+that whatever had happened, you'd be here, on the throughline.
+
 <hr />
 
 <h2 id="delays">Delays</h2>
