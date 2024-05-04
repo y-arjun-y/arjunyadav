@@ -11,4 +11,4 @@ It's been a while since I've made a non-series blog post (Jul 2023), and while I
 
 I hope to now write weekly on this website of mine, I've blocked one hour for myself to write on Saturdays, I'm not sure what I'd expect the posts to look like: some of them will probably be about thoughts on AI (just because I consume a lot of AI-related media throughout the week), but I don't really want to limit myself to a certain topic or theme.
 
-Until next time!
+Until next time, May the Fourth be with you.
