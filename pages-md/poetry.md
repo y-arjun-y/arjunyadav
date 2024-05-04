@@ -14,7 +14,6 @@ I write poetry _almost_ every day, most of it isn't very good nor very long - bu
 - Apr 30, 2024 - <a href="#reflection">Reflection</a>
 - Apr 26, 2024 - <a href="#dread">Dread</a>
 - Apr 25, 2024 - <a href="#lakeside">Lakeside</a>
-
 <hr />
 
 <h2 id="delays">Delays</h2>
