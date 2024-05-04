@@ -11,4 +11,4 @@ I log everything I read in Notion. Here's the highlights from what I've read in 
 
 ## Newsletters and Articles
 
-- Just, this [one](https://forum.effectivealtruism.org/posts/RXFcmrf7E5fLhb43e/things-to-check-about-a-job-or-internship).
+Just, this [one](https://forum.effectivealtruism.org/posts/RXFcmrf7E5fLhb43e/things-to-check-about-a-job-or-internship).
