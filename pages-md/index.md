@@ -49,7 +49,7 @@ These are all my donations to [effective charities](https://www.givewell.org/cha
 <details id="end" open>
 <summary>Website Statistics</summary>
 
-This map showcases countries that have contributed to the overall web traffic for [arjunyadav.net](/) between Apr 18, 2022-May 18, 2022. Data from [CloudFlare](https://cloudflare.com), with the original SVG being created thanks to [gallpeters](https://gallpeters.vercel.app).
+This map showcases countries that have contributed to the overall web traffic for [arjunyadav.net](/) between Apr 18, 2022-May 18, 2022. Data from [CloudFlare](https://cloudflare.com), map created with [gallpeters](https://gallpeters.vercel.app).
 
 <img src="/map.svg" />
 </details>
