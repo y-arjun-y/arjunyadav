@@ -6,7 +6,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Hello!
 
-<img src="/Arjun.png" height="350px" />
+<img src="/Arjun.png" height="250px" />
 
 My name is Arjun Yadav, my interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development, [machine learning and AI safety](/notebook/)) and [writing on my blog](/blog/). In addition, I love running, drumming (and music in general) and [poetry](/poetry).
 
