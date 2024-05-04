@@ -2,6 +2,7 @@ import Head from "next/head";
 import "highlight.js/styles/monokai-sublime.css";
 import Navbar from "../components/Navbar";
 import Script from "next/script";
+import Footer from "../components/Footer";
 
 function ArjunYadav({ Component, pageProps }) {
   return (
@@ -27,6 +28,8 @@ function ArjunYadav({ Component, pageProps }) {
       <Navbar />
       <Component {...pageProps} />
       <hr />
+      <Footer />
+      <hr />      
     </>
   );
 }
