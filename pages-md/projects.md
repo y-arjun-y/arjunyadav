@@ -213,6 +213,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 04, 2024</time> Volunteers!
+
 - <time>May 03, 2024</time> Meeting x2!
 
 - <time>May 01, 2024-May 02, 2024</time> Threads.
@@ -270,7 +272,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 03, 2024</time> Conflict-resolution.
+- <time>May 03, 2024-May 04, 2024</time> Conflict resolution.
 
 - <time>Apr 26, 2024-May 02, 2024</time> Close!
 
@@ -420,6 +422,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 04, 2024</time> Borders...
 
 - <time>May 03, 2024</time> Buttons are fixed!
 
