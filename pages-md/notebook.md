@@ -31,13 +31,17 @@ Concurrently working on [this levelling up guide](https://docs.google.com/docume
 - Principal Component Analysis
 - The underlying principle behind transformers
 
+### What I'm planning to learn/do
+
+- Apply to [SERI Mats](https://www.matsprogram.org/).
+- Completing CS50 and [this](https://www.cloudskillsboost.google/paths/17) course by Google.
+- Either with a course or independently, finishing this [notebook](https://www.aisafetybook.com/).
+- Seeing [this](https://github.com/rasbt/LLMs-from-scratch/tree/main) repository.
+- Re-building a large language model (GPT-2) - Got in touch with a person who was interested in following [Neel Nanda's video](https://www.youtube.com/watch?v=dsjUDacBw8o), will be getting started with this soon and writing anything interesting here!
+
 #### Notebook
 
 #### <span id="mar-2024-may-2024">AI Safety Fundamentals (Alignment + Governance) + Re-building a large language model (GPT-2)</span>
-
-##### Re-building a large language model (GPT-2)
-
-Got in touch with a person who was interested in following [Neel Nanda's video](https://www.youtube.com/watch?v=dsjUDacBw8o), will be getting started with this soon and writing anything interesting here!
 
 ##### AI Safety Fundamentals - Governance
 
@@ -93,6 +97,7 @@ Put simply, steering is the idea that _we can change the course of what a model 
 
 #### Apr-May 2024
 
+- Applied for the AI Safety Careers Course!
 - Part of the [Horizon Omega team](/projects#horizonomega)!
 - Applied for the AI Safety, Ethics and Society course!
 - Got accepted to AI Safety Fundamentals: Governance course!
