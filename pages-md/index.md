@@ -8,7 +8,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 <img src="/collage.jpg" />
 
-My name is Arjun Yadav, my interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development, [machine learning and AI safety](/notebook/)) and [writing on my blog](/blog/). 
+My name is Arjun Yadav, my interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development, [machine learning and AI safety](/notebook/)) and [writing on my blog](/blog/) ([subscribe!](/subscribe)). 
 
 In addition, I love running, drumming (and music in general) and [poetry](/poetry)! Feel free to [email me](https://www.bettermailto.com/user/620278e0561f820009d840d2) or [schedule time to chat with me](https://calendly.com/arjun-yadav).
 
@@ -49,7 +49,8 @@ These are all my donations to [effective charities](https://www.givewell.org/cha
 <details id="end" open>
 <summary>Website Statistics</summary>
 
-This map showcases countries that have contributed to the overall web traffic for [arjunyadav.net](/) between Apr 18, 2022-May 18, 2022. Data from [CloudFlare](https://cloudflare.com), map created with [gallpeters](https://gallpeters.vercel.app).
+This map showcases countries that have contributed to the overall web traffic for [arjunyadav.net](/) between Apr 18, 2022-May 18, 2022.
+Data from [CloudFlare](https://cloudflare.com), map created with [gallpeters](https://gallpeters.vercel.app).
 
 <img src="/map.svg" />
 </details>
