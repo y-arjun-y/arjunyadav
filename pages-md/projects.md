@@ -123,6 +123,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 05, 2024</time> New workspace.
+
 - <time>May 03, 2024</time> Another meeting!
 
 - <time>Apr 26, 2024-Apr 30, 2024</time> Successful meeting! + organised the Notion.
@@ -142,7 +144,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 03, 2024</time> Back at it.
+- <time>May 03, 2024-May 05, 2024 </time> Back at it, continuing with the third module.
 
 - <time>Apr 27, 2024-Apr 30, 2024</time> Got started with the third module.
 
@@ -323,7 +325,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 27, 2024-May 03, 2024</time> Done. For real this time.
+- <time>Apr 27, 2024-May 05, 2024</time> Done. For real this time.
 
 - <time>Apr 26, 2024</time> Need to speed up my code a bit before it reaches testing,
 
@@ -423,7 +425,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 04, 2024</time> Borders...
+- <time>May 04, 2024-May 05, 2024</time> Borders...
 
 - <time>May 03, 2024</time> Buttons are fixed!
 
@@ -473,6 +475,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 04, 2024</time> Discussions...
 
 - <time>May 03, 2024</time> Certificates finally out!
 
@@ -925,6 +929,26 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 05, 2024</time> Finished [Valid Word]()https://leetcode.com/problems/valid-word/:
+```py
+class Solution:
+    def isValid(self, word: str) -> bool:
+        if len(word) >= 3:
+            for i in word:
+                if i.isalnum() == False:
+                    return False
+            
+            for i in word:
+                if i.isalpha():
+                    if i in "aeiouAEIOU":
+                        for j in word:
+                            if j.isalpha():
+                                if j not in "aeiouAEIOU":
+                                    return True
+        
+        return False
+```
 
 - <time>May 03, 2024</time> Finished [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/):
 ```js
