@@ -45,6 +45,8 @@ Concurrently working on [this levelling up guide](https://docs.google.com/docume
 
 ##### AI Safety Fundamentals - Governance
 
+- Session 4: Obstacles to Controlling AI: Great session (finally!) and thoroughly enjoyed the debate!
+
 - Session 3: The Perils of AI: Didn't enjoy this session as much, but again - still valuable.
 
 - Session 2: The Promise of AI: A bit more slow, but still really valuable.
