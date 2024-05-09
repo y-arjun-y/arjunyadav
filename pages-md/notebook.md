@@ -99,7 +99,8 @@ Put simply, steering is the idea that _we can change the course of what a model 
 
 #### Apr-May 2024
 
-- Applied for the AI Safety Careers Course!
+- Applied for [SPAR 2024](https://supervisedprogramforalignment.org/)!
+- Applied for the [AI Safety Careers Course](https://impactacademy.org/aiscc/)!
 - Part of the [Horizon Omega team](/projects#horizonomega)!
 - Applied for the AI Safety, Ethics and Society course!
 - Got accepted to AI Safety Fundamentals: Governance course!
