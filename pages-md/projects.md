@@ -123,6 +123,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 09, 2024</time> Reviewed the table.
+
 - <time>May 05, 2024</time> New workspace.
 
 - <time>May 03, 2024</time> Another meeting!
@@ -216,6 +218,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 09, 2024</time> Updated everyone on everything.
 
 - <time>May 07, 2024</time> 1-on-1!
 
@@ -480,7 +484,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 07, 2024-May 08, 2024</time> Some what back to it.
+- <time>May 07, 2024-May 09, 2024</time> Some what back to it.
 
 - <time>May 04, 2024</time> Discussions...
 
@@ -700,6 +704,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 09, 2024</time> An interesting update!
 
 - <time>Mar 12, 2024-Apr 30, 2024</time> Getting back into it.
 
@@ -935,6 +941,26 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 09, 2024</time> Finished [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/):
+```py
+class Solution:
+    def findMinimumOperations(self, s1: str, s2: str, s3: str) -> int:
+        # Credit - https://leetcode.com/problems/make-three-strings-equal/solutions/4305578/beats-100-users-by-speed-and-memory-by-prodonik-java-c-c-python-ruby
+        
+        lengths = [len(s1), len(s2), len(s3)]
+        minimum_length = min(lengths)
+        count = 0
+        for i in range(minimum_length):
+            if s1[i] == s2[i] == s3[i]:
+                count += 1
+            else:
+                break
+        if count == 0:
+            return -1
+        result = sum(length - count for length in lengths)
+        return result
+```
 
 - <time>May 05, 2024</time> Finished [Valid Word](https://leetcode.com/problems/valid-word/):
 ```py
