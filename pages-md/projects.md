@@ -123,7 +123,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 09, 2024</time> Reviewed the table.
+- <time>May 09, 2024-May 11, 2024</time> Reviewed the table and sorted out my projects!
 
 - <time>May 05, 2024</time> New workspace.
 
@@ -188,6 +188,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 10, 2024</time> Session 8 done!
+
 - <time>Apr 27, 2024</time> Session 7 done! That's the learning part done, now time to work on my project.
 
 - <time>Apr 20, 2024</time> Session 6 done!
@@ -218,6 +220,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 10, 2024-May 11, 2024</time> Mildly chaotic but everything worked out in the end!
 
 - <time>May 09, 2024</time> Updated everyone on everything, really productive day.
 
@@ -282,7 +286,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 03, 2024-May 04, 2024</time> Conflict resolution.
+- <time>May 03, 2024-May 11, 2024</time> Conflict resolution.
 
 - <time>Apr 26, 2024-May 02, 2024</time> Close!
 
@@ -333,7 +337,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Apr 27, 2024-May 08, 2024</time> Done. For real this time.
+- <time>Apr 27, 2024-May 11, 2024</time> Done. For real this time.
 
 - <time>Apr 26, 2024</time> Need to speed up my code a bit before it reaches testing,
 
@@ -432,6 +436,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 11, 2024</time> Back to editing duty.
 
 - <time>May 04, 2024-May 05, 2024</time> Borders...
 
@@ -705,7 +711,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 09, 2024</time> An interesting update!
+- <time>May 09, 2024-May 11, 2024</time> An interesting update!
 
 - <time>Mar 12, 2024-Apr 30, 2024</time> Getting back into it.
 
