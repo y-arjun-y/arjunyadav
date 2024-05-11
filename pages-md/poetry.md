@@ -8,6 +8,7 @@ I write poetry _almost_ every day, most of it isn't very good nor very long - bu
 
 <hr />
 
+- May 11, 2024 - <a href="#headache">Headache</a>
 - May 08, 2024 - <a href="#closer">Closer</a>
 - May 04, 2024 - <a href="#freewill">Free Will</a>
 - May 03, 2024 - <a href="#delays">Delays</a>
@@ -16,6 +17,16 @@ I write poetry _almost_ every day, most of it isn't very good nor very long - bu
 - Apr 30, 2024 - <a href="#reflection">Reflection</a>
 - Apr 26, 2024 - <a href="#dread">Dread</a>
 - Apr 25, 2024 - <a href="#lakeside">Lakeside</a>
+
+<hr />
+
+<h2 id="headache">Headache</h2>
+<p>May 11, 2024</p>
+
+Ash from the timber flows through you, <br />
+the trigger is in place too. <br />
+All one can do is wait and see, <br />
+and hope for their headache to _subceed_.
 
 <hr />
 
