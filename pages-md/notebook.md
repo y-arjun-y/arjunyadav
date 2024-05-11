@@ -15,22 +15,6 @@ Concurrently working on [this levelling up guide](https://docs.google.com/docume
 - [Mar 2024 - May 2024: AI Safety Fundamentals (Alignment + Governance) + Re-building a large language model (GPT-2)](#mar-2024-may-2024)
 - [Nov 2023 - Feb 2024: Steering and Evaluation Research + Large Language Models (LLMs)](#nov-2023-feb-2024)
 
-### What I've learnt thus far
-
-#### Interpretability
-
-- Variational Autoencoders
-
-#### Policy
-
-- More about the EU's AI policy
-- UAE's AIS Space (or at least the most recent parts of it)
-
-#### General
-
-- Principal Component Analysis
-- The underlying principle behind transformers
-
 ### What I'm planning to learn/do
 
 - Apply to [SERI Mats](https://www.matsprogram.org/).
@@ -54,6 +38,8 @@ Concurrently working on [this levelling up guide](https://docs.google.com/docume
 - Session 1: Introduction to Artificial Intelligence: Figure 01 and Palantir were wild, also, [we made a song](https://suno.com/song/febf3882-5b82-4015-8f65-ee8bdf0bf463)!
 
 ##### AI Safety Fundamentals - Alignment
+
+- Session 8-11: Contined work on my alignment project, which will have its own section in this notebook real soon!
 
 - Session 7: Contributing to AI Alignment: Gained a lot of clarity in career and a great coincidence happened today!
 
