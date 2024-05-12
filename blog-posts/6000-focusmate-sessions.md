@@ -7,11 +7,11 @@ meta_image: https://images.unsplash.com/photo-1583502023205-ddc936828b48?q=80&w=
 
 ![Pottery - British Library](https://images.unsplash.com/photo-1583502023205-ddc936828b48?q=80&w=2847&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-[Credit for the image above.](https://images.unsplash.com/photo-1583502023205-ddc936828b48?q=80&w=2847&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+[Credit for the image above](https://unsplash.com/photos/man-in-blue-and-white-plaid-dress-shirt-playing-brown-acoustic-guitar-hB2Y6UZ-XOQ).
 
 <small>Disclaimer: This post was not sponsored by Focusmate, all of these thoughts are my own.</small>
 
-It's been about two and a half years since my first blog post talking about my experience with Focusmate, and after nearly breaching 40x the initial session count I was bragging about, I thought it would be somewhat interesting to revisit my initial assessment of the app:
+It's been about two and a half years since my first blog post talking about my experience with Focusmate, and after breaching more than 40x the initial session count I was bragging about, I thought it would be somewhat interesting to revisit my initial assessment of the app:
 
 To get what's obvious out of the way - yes, I like the app, I wouldn't have sunken in almost six months on it continuously otherwise. I had even gotten a scholarship of sorts for the Focusmate Turbo (I think it's called Plus now?) plan, which coincidentally seemed to have expired today. Oh well.
 
