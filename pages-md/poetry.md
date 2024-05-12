@@ -8,6 +8,7 @@ I write poetry _almost_ every day, most of it isn't very good nor very long - bu
 
 <hr />
 
+- May 12, 2024 - <a href="#animals-all-of-them">Animals, All of Them</a>
 - May 11, 2024 - <a href="#headache">Headache</a>
 - May 08, 2024 - <a href="#closer">Closer</a>
 - May 04, 2024 - <a href="#freewill">Free Will</a>
@@ -17,6 +18,16 @@ I write poetry _almost_ every day, most of it isn't very good nor very long - bu
 - Apr 30, 2024 - <a href="#reflection">Reflection</a>
 - Apr 26, 2024 - <a href="#dread">Dread</a>
 - Apr 25, 2024 - <a href="#lakeside">Lakeside</a>
+
+<hr />
+
+<h2 id="animals-all-of-them">Animals, All of Them</h2>
+<p>May 12, 2024</p>
+
+The gallows echo with laughter, <br />
+for the hangman played his last letter. <br />
+"A bad man", they all say. <br />
+"Animals, All of Them" is all you can say.
 
 <hr />
 
