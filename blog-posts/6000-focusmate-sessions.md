@@ -15,8 +15,10 @@ It's been about two and a half years since my first blog post talking about my e
 
 To get what's obvious out of the way - yes, I like the app, wouldn't have sunken in an equivalent amount of time to six months on it continuously. I had even gotten a scholarship of sorts for the Focusmate Turbo (I think it's called Plus now?) plan, which coincidentally seemed to have expired today. Oh well.
 
-After my initial blog post, I was concerned about my dependence on the app, "would I be able to stay focused on a computer-based task without it?" and in the two years after that: I think my worry was unfounded.
+After my initial blog post, I was concerned about my dependence on the app, "would I be able to stay focused on a computer-based task without it?" and in the two years after that: I think I can safely say that my worry was unfounded.
 
-I guess the last "big question" I have from my time spent with Focusmate is the "why?" - why should someone use this app? The first answer that comes to mind is structure, being able to divide a day into discrete blocks seems useful for keeping things under wraps. But then comes the concept of "flow", a concept that a lot of people on Focusmate (including myself) will bring up after the session time has elapsed, I've noticed several times my flow being completely lost because of the 10 or 15-minute break between 50 or 75-minute sessions, times where I know that I wouldn't have gotten distracted otherwise and I may have been able to work without distraction for much longer.
+I guess the last "big question" I have from my time spent with Focusmate is the "why?" - why should someone use this app? 
+
+The first answer that comes to mind is structure, being able to divide a day into discrete blocks seems useful for keeping things under wraps. But then comes the concept of "flow", a concept that a lot of people on Focusmate (including myself) will bring up after the session time has elapsed, I've noticed that maybe ~40% of the time I mentioned "flow", it then gets completely lost because of the 10 or 15-minute break between 50 or 75-minute sessions.
 
 In the end, there doesn't seem to be any sign of me discontinuing the app. Who knows, maybe I'll make a third retrospective when I reach ten thousand sessions or something.
