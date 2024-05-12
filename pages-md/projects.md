@@ -6,7 +6,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (12)
+### Active (11)
 
 - <a href="#horizonomega">Horizon Omega (HΩ)</a>
 - <a href="#zerodha">Zerodha Varsity</a>
@@ -14,16 +14,15 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#aisfa">AI Safety Fundamentals: Alignment Course</a>
 - <a href="#aisc2024">AI Safety Camp: VAISU</a>
 - <a href="#ai-plans">AI Plans</a>
-- <a href="#dioptra">Dioptra</a>
 - <a href="#oss">Offline Streaming Systems</a>
 - <a href="#oceanbusters">Ocean Busters</a>
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
 - <a href="#leetcode">LeetCode</a>
 
-### Paused (0)
+### Paused (1)
 
-Watch this space.
+- <a href="#dioptra">Dioptra</a>
 
 ### Occasional (3)
 
@@ -221,7 +220,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 10, 2024-May 11, 2024</time> Mildly chaotic but everything worked out in the end!
+- <time>May 10, 2024-May 12, 2024</time> Mildly chaotic but everything worked out in the end!
 
 - <time>May 09, 2024</time> Updated everyone on everything, really productive day.
 
@@ -326,65 +325,6 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-## <span id="dioptra">Dioptra</span>
-
-<small>Dec 18, 2023-present</small>  
-<small>Part of the Dioptre team, working on projects with them and trying to learn a lot in the process!</small>
-
-<hr />
-<small>Dioptra's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Apr 27, 2024-May 11, 2024</time> Done. For real this time.
-
-- <time>Apr 26, 2024</time> Need to speed up my code a bit before it reaches testing,
-
-- <time>Mar 08, 2024-Apr 25, 2024</time> Done.
-
-- <time>Mar 02, 2024-Mar 07, 2024</time> Looks to be... good.
-
-- <time>Mar 01, 2024</time> Added a more in-depth communication implementation for the two agents.
-
-- <time>Feb 28, 2024-Feb 29, 2024</time> Improvements! (x2)
-
-- <time>Feb 19, 2024</time> Improvements!
-
-- <time>Feb 09, 2024-Feb 17, 2024</time> Had a meeting, now done.
-
-- <time>Feb 09, 2024-Feb 16, 2024</time> Done. Record time!
-
-- <time>Feb 08, 2024</time> PR time!
-
-- <time>Feb 02, 2024-Feb 03, 2024</time> Review time.
-
-- <time>Jan 28, 2024-Jan 29, 2024</time> Done!
-
-- <time>Jan 26, 2024-Jan 27, 2024</time> Closer.
-
-- <time>Jan 13, 2024</time> Done. Finally.
-
-- <time>Jan 06, 2024-Jan 12, 2024</time> Done-ish.
-
-- <time>Jan 05, 2024</time> Scratch that, should be done by tomorrow. (x2)
-
-- <time>Jan 03, 2024</time> Scratch that, should be done by tomorrow.
-
-- <time>Dec 29, 2023</time> Should be done tomorrow.
-
-- <time>Dec 27, 2023-Dec 28, 2023</time> Got some feedback again.
-
-- <time>Dec 23, 2023-Dec 25, 2023</time> Done! (I think)
-
-- <time>Dec 22, 2023</time> Finally, almost done.
-
-- <time>Dec 19, 2023-Dec 21, 2023</time> Continued with the implementation of one of the games.
-
-- <time>Dec 18, 2023</time> Had a great meeting! Excited to get this show on the road.
-
-<hr />
-
 ## <span id="oss">Offline Streaming Systems</span>
 
 <small>Nov 11, 2023-present</small>  
@@ -437,7 +377,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 11, 2024</time> Back to editing duty.
+- <time>May 11, 2024-May 12, 2024</time> Back to editing duty.
 
 - <time>May 04, 2024-May 05, 2024</time> Borders...
 
@@ -490,7 +430,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 07, 2024-May 09, 2024</time> Some what back to it.
+- <time>May 07, 2024-May 12, 2024</time> Some what back to it.
 
 - <time>May 04, 2024</time> Discussions...
 
@@ -947,6 +887,21 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 12, 2024</time> Finished [Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions/):
+```py
+class Solution:
+    def satisfiesConditions(self, grid: List[List[int]]) -> bool:
+        for i in range(len(grid)):
+            for j in range(len(grid[i])):
+                if i != len(grid) - 1:
+                    if grid[i][j] != grid[i + 1][j]:
+                        return False
+                if j != len(grid[i]) - 1:
+                    if grid[i][j] == grid[i][j + 1]:
+                        return False
+        return True
+```
 
 - <time>May 09, 2024</time> Finished [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/):
 ```py
@@ -10897,7 +10852,64 @@ class Solution:
 
 ## Paused
 
-Watch this space.
+## <span id="dioptra">Dioptra</span>
+
+<small>Dec 18, 2023-present</small>  
+<small>Part of the Dioptre team, working on projects with them and trying to learn a lot in the process! Currently paused</small>
+
+<hr />
+<small>Dioptra's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Apr 27, 2024-May 11, 2024</time> Done. For real this time.
+
+- <time>Apr 26, 2024</time> Need to speed up my code a bit before it reaches testing,
+
+- <time>Mar 08, 2024-Apr 25, 2024</time> Done.
+
+- <time>Mar 02, 2024-Mar 07, 2024</time> Looks to be... good.
+
+- <time>Mar 01, 2024</time> Added a more in-depth communication implementation for the two agents.
+
+- <time>Feb 28, 2024-Feb 29, 2024</time> Improvements! (x2)
+
+- <time>Feb 19, 2024</time> Improvements!
+
+- <time>Feb 09, 2024-Feb 17, 2024</time> Had a meeting, now done.
+
+- <time>Feb 09, 2024-Feb 16, 2024</time> Done. Record time!
+
+- <time>Feb 08, 2024</time> PR time!
+
+- <time>Feb 02, 2024-Feb 03, 2024</time> Review time.
+
+- <time>Jan 28, 2024-Jan 29, 2024</time> Done!
+
+- <time>Jan 26, 2024-Jan 27, 2024</time> Closer.
+
+- <time>Jan 13, 2024</time> Done. Finally.
+
+- <time>Jan 06, 2024-Jan 12, 2024</time> Done-ish.
+
+- <time>Jan 05, 2024</time> Scratch that, should be done by tomorrow. (x2)
+
+- <time>Jan 03, 2024</time> Scratch that, should be done by tomorrow.
+
+- <time>Dec 29, 2023</time> Should be done tomorrow.
+
+- <time>Dec 27, 2023-Dec 28, 2023</time> Got some feedback again.
+
+- <time>Dec 23, 2023-Dec 25, 2023</time> Done! (I think)
+
+- <time>Dec 22, 2023</time> Finally, almost done.
+
+- <time>Dec 19, 2023-Dec 21, 2023</time> Continued with the implementation of one of the games.
+
+- <time>Dec 18, 2023</time> Had a great meeting! Excited to get this show on the road.
+
+<hr />
 
 ## Occasional
 
