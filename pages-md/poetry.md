@@ -8,6 +8,7 @@ I write poetry _almost_ every day, most of it isn't very good nor very long - bu
 
 <hr />
 
+- May 13, 2024 - <a href="#borealis">Borealis</a>
 - May 12, 2024 - <a href="#animals-all-of-them">Animals, All of Them</a>
 - May 11, 2024 - <a href="#headache">Headache</a>
 - May 08, 2024 - <a href="#closer">Closer</a>
@@ -18,6 +19,18 @@ I write poetry _almost_ every day, most of it isn't very good nor very long - bu
 - Apr 30, 2024 - <a href="#reflection">Reflection</a>
 - Apr 26, 2024 - <a href="#dread">Dread</a>
 - Apr 25, 2024 - <a href="#lakeside">Lakeside</a>
+
+<hr />
+
+<h2 id="borealis">Borealis</h2>
+<p>May 13, 2024</p>
+
+The aura around you scares you from within, <br />
+"But alas, how can I change, <br />
+won't they end up finding me a little strange?" <br />
+So you cast that thought away, <br />
+and lay down to watch the Borealis <br />
+enchant you today.
 
 <hr />
 
