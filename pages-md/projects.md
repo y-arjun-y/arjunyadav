@@ -220,6 +220,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 13, 2024</time> Lot's of async work.
+
 - <time>May 10, 2024-May 12, 2024</time> Mildly chaotic but everything worked out in the end!
 
 - <time>May 09, 2024</time> Updated everyone on everything, really productive day.
@@ -285,7 +287,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 03, 2024-May 11, 2024</time> Conflict resolution.
+- <time>May 03, 2024-May 13, 2024</time> Conflict resolution + misc work.
 
 - <time>Apr 26, 2024-May 02, 2024</time> Close!
 
@@ -377,7 +379,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 11, 2024-May 12, 2024</time> Back to editing duty.
+- <time>May 11, 2024-May 13, 2024</time> Back to editing duty.
 
 - <time>May 04, 2024-May 05, 2024</time> Borders...
 
@@ -430,7 +432,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 07, 2024-May 12, 2024</time> Some what back to it.
+- <time>May 07, 2024-May 13, 2024</time> Some what back to it.
 
 - <time>May 04, 2024</time> Discussions...
 
@@ -651,7 +653,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 09, 2024-May 11, 2024</time> An interesting update!
+- <time>May 09, 2024-May 13, 2024</time> An interesting update!
 
 - <time>Mar 12, 2024-Apr 30, 2024</time> Getting back into it.
 
