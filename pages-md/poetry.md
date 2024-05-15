@@ -8,6 +8,7 @@ I write poetry _almost_ every day, most of it isn't very good nor very long - bu
 
 <hr />
 
+- May 15, 2024 - <a href="#wrath-of-man">Wrath of Man</a>
 - May 13, 2024 - <a href="#borealis">Borealis</a>
 - May 12, 2024 - <a href="#animals-all-of-them">Animals, All of Them</a>
 - May 11, 2024 - <a href="#headache">Headache</a>
@@ -22,7 +23,17 @@ I write poetry _almost_ every day, most of it isn't very good nor very long - bu
 
 <hr />
 
-<h2 id="borealis">Borealis</h2>
+## <span id="wrath-of-man">[Wrath of Man](https://genius.com/Metallica-72-seasons-lyrics)</span>
+<p>May 15, 2024</p>
+
+No mercy from the ghost within, <br />
+blinded by the ashes of the past. <br />
+"Wither!" under looming shadow cast, <br />
+Herein, lies the wrath of man.
+
+<hr />
+
+## <span id="borealis">Borealis</span>
 <p>May 13, 2024</p>
 
 The aura around you scares you from within, <br />
@@ -34,7 +45,7 @@ enchant you today.
 
 <hr />
 
-<h2 id="animals-all-of-them">Animals, All of Them</h2>
+## <span id="animals-all-of-them">Animals, All of Them</span>
 <p>May 12, 2024</p>
 
 The gallows echo with laughter, <br />
@@ -44,7 +55,7 @@ for the hangman played his last letter. <br />
 
 <hr />
 
-<h2 id="headache">Headache</h2>
+## <span id="headache">Headache</span>
 <p>May 11, 2024</p>
 
 Ash from the timber flows through you, <br />
@@ -54,7 +65,7 @@ and hope for their headache to _subceed_.
 
 <hr />
 
-<h2 id="closer">Closer</h2>
+## <span id="closer">Closer</span>
 <p>May 08, 2024</p>
 
 To feel closer to something, <br />
@@ -65,7 +76,7 @@ is to be at peace with a renewed sense of meaning.
 <hr />
 
 
-<h2 id="freewill">Free Will</h2>
+## <span id="freewill">Free Will</span>
 <p>May 04, 2024</p>
 
 As you stand on the edge of a waterfall, <br />
@@ -77,7 +88,7 @@ that whatever had happened, you'd be here, on the throughline.
 
 <hr />
 
-<h2 id="delays">Delays</h2>
+## <span id="delays">Delays</span>
 <p>May 03, 2024</p>
 
 What can one do but stare, <br />
@@ -88,7 +99,7 @@ But in the end, at least you dared.
 <hr />
 
 
-<h2 id="honour">Honour</h2>
+## <span id="honour">Honour</span>
 <p>May 02, 2024</p>
 
 Redemption, measurable it is not. <br />
@@ -99,7 +110,7 @@ Only few men would dare.
 
 <hr />
 
-<h2 id="mayday">Mayday</h2>
+## <span id="mayday">Mayday</span>
 <p>May 01, 2024</p>
 
 Mayday! Mayday! <br />
@@ -110,7 +121,7 @@ us all, a song leaving them in tears.
 <hr />
 
 
-<h2 id="reflection">Reflection</h2>
+## <span id="reflection">Reflection</span>
 <p>Apr 30, 2024</p>
 
 ![Ocean](/ocean.jpg)
@@ -122,7 +133,7 @@ you'll find the true meaning of a job well done.
 
 <hr />
 
-<h2 id="lakeside">Dread</h2>
+## <span id="lakeside">Dread</span>
 <p>Apr 26, 2024</p>
 
 Dread is a funny little game, <br />
@@ -132,7 +143,7 @@ if that time was spent on what's true.
 
 <hr />
 
-<h2 id="lakeside">Lakeside</h2>
+## <span id="lakeside">Lakeside</span>
 <p>Apr 25, 2024</p>
 
 Here I am, by the lakeside, <br />
