@@ -6,8 +6,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (11)
+### Active (12)
 
+- <a href="#dpsinternship">Internship @ DPS Sharjah</a>
 - <a href="#horizonomega">Horizon Omega (HΩ)</a>
 - <a href="#zerodha">Zerodha Varsity</a>
 - <a href="#aisfg">AI Safety Fundamentals: Governance Course</a>
@@ -15,7 +16,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#aisc2024">AI Safety Camp: VAISU</a>
 - <a href="#ai-plans">AI Plans</a>
 - <a href="#oss">Offline Streaming Systems</a>
-- <a href="#oceanbusters">Ocean Busters</a>
+- <a href="#oceanbusters">Ocean Busters</a>s
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
 - <a href="#leetcode">LeetCode</a>
@@ -111,6 +112,17 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="dpsinternship">Internship @ DPS Sharjah</span>
+
+<small>May 15, 2024-present</small>  
+<small>Interning at my high school for a brief stint.</small>
+
+#### Log
+
+- <time>May 15, 2024</time> Got caught up with everything from the past two days.
+
+<hr />
+
 ## <span id="horizonomega">[Horizon Omega (HΩ)](https://www.horizonomega.org/)</span>
 
 <small>Apr 26, 2024-present</small>  
@@ -122,7 +134,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 09, 2024-May 14, 2024</time> Reviewed the table and sorted out my projects!
+- <time>May 09, 2024-May 15, 2024</time> Reviewed the table and sorted out my projects!
 
 - <time>May 05, 2024</time> New workspace.
 
@@ -163,6 +175,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 15, 2024</time> Fifth session done! Should have prepared more.
 
 - <time>May 08, 2024</time> Fourth session done! Debate was fun.
 
@@ -220,7 +234,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 13, 2024-May 14, 2024</time> Lot's of async work.
+- <time>May 13, 2024-May 15, 2024</time> Lot's of async work + last volunteer training session.
 
 - <time>May 10, 2024-May 12, 2024</time> Mildly chaotic but everything worked out in the end!
 
@@ -287,7 +301,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 03, 2024-May 14, 2024</time> Conflict resolution + misc work.
+- <time>May 03, 2024-May 15, 2024</time> Conflict resolution + misc work.
 
 - <time>Apr 26, 2024-May 02, 2024</time> Close!
 
