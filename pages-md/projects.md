@@ -119,6 +119,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 17, 2024</time> Board + reel!
+
 - <time>May 15, 2024</time> Got caught up with everything from the past two days.
 
 <hr />
@@ -234,7 +236,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 13, 2024-May 15, 2024</time> Lot's of async work + last volunteer training session.
+- <time>May 13, 2024-May 17, 2024</time> Lot's of async work + last volunteer training session.
 
 - <time>May 10, 2024-May 12, 2024</time> Mildly chaotic but everything worked out in the end!
 
@@ -446,7 +448,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 07, 2024-May 14, 2024</time> Some what back to it.
+- <time>May 07, 2024-May 17, 2024</time> Some what back to it.
 
 - <time>May 04, 2024</time> Discussions...
 
