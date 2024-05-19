@@ -8,6 +8,7 @@ I write poetry _almost_ every day, most of it isn't very good nor very long - bu
 
 <hr />
 
+- May 19, 2024 - <a href="#coming-home">Coming Home</a>
 - May 15, 2024 - <a href="#wrath-of-man">Wrath of Man</a>
 - May 13, 2024 - <a href="#borealis">Borealis</a>
 - May 12, 2024 - <a href="#animals-all-of-them">Animals, All of Them</a>
@@ -22,6 +23,17 @@ I write poetry _almost_ every day, most of it isn't very good nor very long - bu
 - Apr 25, 2024 - <a href="#lakeside">Lakeside</a>
 
 <hr />
+
+## <span id="coming-home">Coming Home</span>
+<p>May 19, 2024</p>
+
+The crack of dawn, with its radiant rays, <br />
+casts a shadow of doubt on your outlook. <br />
+But when the people start chiming, the words start flowing, <br />
+that's when all seems right in place.
+
+<hr />
+
 
 ## <span id="wrath-of-man">[Wrath of Man](https://genius.com/Metallica-72-seasons-lyrics)</span>
 <p>May 15, 2024</p>
