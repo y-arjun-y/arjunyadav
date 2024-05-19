@@ -27,6 +27,8 @@ I write poetry _almost_ every day, most of it isn't very good nor very long - bu
 ## <span id="coming-home">Coming Home</span>
 <p>May 19, 2024</p>
 
+![Tunnel](/tunnel.png)
+
 The crack of dawn, with its radiant rays, <br />
 casts a shadow of doubt on your outlook. <br />
 But when the people start chiming, the words start flowing, <br />

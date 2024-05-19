@@ -29,6 +29,8 @@ Concurrently working on [this levelling up guide](https://docs.google.com/docume
 
 ##### AI Safety Fundamentals - Governance
 
+- Session 5: AI Policy Levers: Should have prepared better for this session. Oh well.
+
 - Session 4: Obstacles to Controlling AI: Great session (finally!) and thoroughly enjoyed the debate!
 
 - Session 3: The Perils of AI: Didn't enjoy this session as much, but again - still valuable.
@@ -85,6 +87,7 @@ Put simply, steering is the idea that _we can change the course of what a model 
 
 #### Apr-May 2024
 
+- Applied for [ESPR & PAIR 2024](https://espr-camp.org/)!
 - Applied for [SPAR 2024](https://supervisedprogramforalignment.org/)!
 - Applied for the [AI Safety Careers Course](https://impactacademy.org/aiscc/)!
 - Part of the [Horizon Omega team](/projects#horizonomega)!
