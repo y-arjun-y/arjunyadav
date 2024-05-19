@@ -236,7 +236,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 13, 2024-May 17, 2024</time> Lot's of async work + last volunteer training session.
+- <time>May 13, 2024-May 19, 2024</time> Lot's of async work + last volunteer training session.
 
 - <time>May 10, 2024-May 12, 2024</time> Mildly chaotic but everything worked out in the end!
 
@@ -303,6 +303,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 19, 2024</time> Close call. Going to be a lot more active now.
+
 - <time>May 03, 2024-May 15, 2024</time> Conflict resolution + misc work.
 
 - <time>Apr 26, 2024-May 02, 2024</time> Close!
@@ -351,6 +353,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 19, 2024</time> Meeting!
 
 - <time>Apr 26, 2024-Apr 30, 2024</time> Spoke with my teammate, meeting soon!
 
@@ -448,7 +452,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 07, 2024-May 17, 2024</time> Some what back to it.
+- <time>May 07, 2024-May 19, 2024</time> Some what back to it.
 
 - <time>May 04, 2024</time> Discussions...
 
@@ -669,7 +673,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 09, 2024-May 13, 2024</time> An interesting update!
+- <time>May 09, 2024-May 19, 2024</time> An interesting update!
 
 - <time>Mar 12, 2024-Apr 30, 2024</time> Getting back into it.
 
@@ -905,6 +909,22 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 19, 2024</time> Finished [Special Array I](https://leetcode.com/problems/special-array-i/):
+```py
+class Solution:
+    def isArraySpecial(self, nums: List[int]) -> bool:
+        if len(nums) == 1:
+            return True
+        else:
+            for i in range(len(nums) - 1):
+                if nums[i+1] % 2 == 0 and nums[i] % 2 == 0:
+                    return False
+                elif nums[i+1] % 2 != 0 and nums[i] % 2 != 0:
+                    return False
+        return True
+
+```
 
 - <time>May 12, 2024</time> Finished [Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions/):
 ```py
