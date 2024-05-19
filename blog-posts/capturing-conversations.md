@@ -1,5 +1,5 @@
 ---
-title: Captuing Conversations
+title: Capturing Conversations
 publish_date: May 19, 2024
 meta_description: How does one go about capturing conversations? Here's my attempt at answering that question.
 meta_image: https://arjunyadav.net/abu-dhabi.png
