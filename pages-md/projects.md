@@ -119,6 +119,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 20, 2024</time> Helped with some design work and went through a bunch of photographs.
+
 - <time>May 17, 2024</time> Board + reel!
 
 - <time>May 15, 2024</time> Got caught up with everything from the past two days.
@@ -136,7 +138,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 09, 2024-May 15, 2024</time> Reviewed the table and sorted out my projects!
+- <time>May 09, 2024-May 20, 2024</time> Reviewed the table and sorted out my projects!
 
 - <time>May 05, 2024</time> New workspace.
 
@@ -236,7 +238,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 13, 2024-May 19, 2024</time> Lot's of async work + last volunteer training session.
+- <time>May 13, 2024-May 20, 2024</time> Lot's of async work + last volunteer training session.
 
 - <time>May 10, 2024-May 12, 2024</time> Mildly chaotic but everything worked out in the end!
 
