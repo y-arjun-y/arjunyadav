@@ -6,7 +6,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (12)
+### Active (14)
 
 - <a href="#dpsinternship">Internship @ DPS Sharjah</a>
 - <a href="#horizonomega">Horizon Omega (HΩ)</a>
@@ -15,25 +15,25 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#aisfa">AI Safety Fundamentals: Alignment Course</a>
 - <a href="#aisc2024">AI Safety Camp: VAISU</a>
 - <a href="#ai-plans">AI Plans</a>
+- <a href="#ukulele">Ukulele</a>
 - <a href="#oss">Offline Streaming Systems</a>
 - <a href="#oceanbusters">Ocean Busters</a>s
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
+- <a href="#codewars">Codewars</a>
 - <a href="#leetcode">LeetCode</a>
 
 ### Paused (1)
 
 - <a href="#dioptra">Dioptra</a>
 
-### Occasional (3)
+### Occasional (2)
 
-- <a href="#ukulele">Ukulele</a>
 - <a href="#drums">Drums</a>
 - <a href="#guitar">Guitar</a>
 
-### Inactive (3)
+### Inactive (2)
 
-- <a href="#codewars">Codewars</a>
 - <a href="#chess">Chess</a>
 - <a href="#coldtakesbetareading">Cold Takes Beta Reading</a>
 
@@ -118,6 +118,8 @@ Confused? See the <a href="#note">note</a> down below.
 <small>Interning at my high school for a brief stint.</small>
 
 #### Log
+
+- <time>May 21, 2024</time> Lot's of walking.
 
 - <time>May 20, 2024</time> Helped with some design work and went through a bunch of photographs.
 
@@ -344,6 +346,23 @@ Confused? See the <a href="#note">note</a> down below.
 - <time>Dec 19, 2023-Dec 21, 2023</time> Continued with checking the database implementation.
 
 - <time>Dec 18, 2023</time> Finished setting up the new build and got back to someone! Excited to get to work.
+
+<hr />
+
+## <span id="ukulele">Ukulele</span>
+
+<small>Nov 26, 2023-present</small>  
+<small>Just for some fun, I practice the ukulele every morning.</small>
+
+<hr />
+<small>Ukulele's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Nov 27, 2023-Dec 24, 2023</time> Learnt a lot of songs: Postcards from Italy - Beirut, worldstar money (interlude) - Joji, Forrest Gump - Frank Ocean, Vance Joy - Riptide, Nothing Else Matters (Intro) - Metallica, Go with the Flow - Queens of the Stone Age and Losing My Religion - R.E.M.
+
+- <time>Nov 26, 2023</time> I think I've gotten "Going to California" by Led Zeppelin fully down now.
 
 <hr />
 
@@ -903,6 +922,508 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="codewars">[Codewars](https://www.codewars.com)</span>
+
+<small>Dec 13, 2022-present</small>  
+<small>Trying to practice different programming languages with Codewars (<a href="#leetcode">LeetCode</a> is for harder, more Python-oriented problems).</small>
+
+<hr />
+
+#### Log
+
+- <time>Jan 29, 2023</time> Finished [ISBN-10 Validation](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001) in Python:
+
+```py
+def valid_ISBN10(isbn):
+    if len(isbn) != 10:
+        return False
+
+    first_9 = isbn[:-1]
+    last_digit = isbn[-1]
+
+    total = 0
+
+    try:
+        total += sum([int(first_9[i]) * (i + 1) for i in range(len(first_9))])
+    except:
+        return False
+
+    if last_digit.isdigit():
+        total += int(last_digit) * 10
+    elif last_digit == "X":
+        total += 100
+    else:
+        return False
+
+    return total % 11 == 0
+```
+
+- <time>Jan 28, 2023</time> Finished [Mean Square Error](https://www.codewars.com/kata/51edd51599a189fe7f000015) in Python:
+
+```py
+def solution(array_a, array_b):
+    return sum((array_a[i] - array_b[i]) ** 2 for i in range(len(array_a))) / len(array_a)
+```
+
+- <time>Jan 27, 2023</time> Finished [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) in Python:
+
+```py
+def find_uniq(arr):
+    return [i for i in set(arr) if arr.count(i) == 1][0]
+```
+
+- <time>Jan 25, 2023</time> Couldn't solve a problem today, but that's okay.
+
+- <time>Jan 22, 2023</time> Finished [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/) in Python:
+
+```py
+def first_non_repeating_letter(string):
+    for i in range(len(string)):
+        if len([j for j in range(len(string)) if string[j].lower() == string[i].lower() and j != i]) == 0:
+            return string[i]
+    else:
+        return ""
+```
+
+- <time>Jan 21, 2023</time> Finished [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7) in Python:
+
+```py
+def make_readable(seconds):
+    hours = seconds // 3600
+    minutes = (seconds - (hours * 3600)) // 60
+    seconds_print = seconds - (minutes * 60) - (hours * 3600)
+
+    if len(str(hours)) < 2:
+        hours = "0" + str(hours)
+
+    if len(str(minutes)) < 2:
+        minutes = "0" + str(minutes)
+
+    if len(str(seconds_print)) < 2:
+        seconds_print = "0" + str(seconds_print)
+
+    return f"{hours}:{minutes}:{seconds_print}"
+```
+
+- <time>Jan 20, 2023</time> Finished [Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059/) in Python:
+
+```py
+def cakes(recipe, available):
+    count = 0
+    max_scale = []
+
+    for k, v in recipe.items():
+        if k not in available:
+            max_scale = [0]
+        else:
+            if available[k] < v:
+                max_scale = [0]
+            else:
+                max_scale.append(available[k] // v)
+
+    count = min(max_scale, default=0)
+    return count
+```
+
+- <time>Jan 18, 2023</time> Still no luck.
+
+- <time>Jan 17, 2023</time> Trying to solve [Catching Car Mileage Numbers](https://www.codewars.com/kata/52c4dd683bfd3b434c000292/train/python)
+
+- <time>Jan 16, 2023</time> Tried to solve a couple of problems in Python, but to no avail.
+
+- <time>Jan 15, 2023</time> Finished [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c/) in Python:
+
+```py
+def narcissistic(value):
+    return sum([int(i) ** len(str(value)) for i in str(value)]) == value
+```
+
+- <time>Jan 04, 2023</time> Finished [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/) in Python:
+
+```py
+def pig_it(text):
+    res = []
+
+    for i in text.split(" "):
+        if i.isalpha():
+            word = i[1:] + i[0] + "ay"
+            res.append(word)
+        else:
+            res.append(i)
+
+    return " ".join(res)
+```
+
+- <time>Jan 03, 2023</time> Finished [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a/) in Python:
+
+```py
+def count_smileys(arr):
+    valid_smiley_faces = [':)', ';)', ':-)', ';-)', ':~)', ';~)', ':D', ';D', ':-D', ';-D', ':~D', ';~D', ':D', ';D']
+
+    return len([i for i in arr if i in valid_smiley_faces])
+```
+
+- <time>Jan 02, 2023</time> Finished [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c) in Python:
+
+```py
+def comp(array1, array2):
+    if array1 == None or array2 == None:
+        return False
+
+    if sorted([i**2 for i in array1]) == sorted(array2):
+        return True
+    else:
+        return False
+```
+
+- <time>Jan 01, 2023</time> Finished [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) in Python:
+
+```py
+def move_zeros(lst):
+  return [i for i in lst if i != 0] + [i for i in lst if i == 0]
+```
+
+- <time>Dec 31, 2022</time> Finished [(Multiplicative Persistence)](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/) in Python. Hoping to do more Java problems in 2023:
+
+```py
+import math
+
+def persistence(n):
+    count = 0
+
+    while len(str(n)) != 1:
+        n = math.prod([int(i) for i in str(n)])
+        count += 1
+
+    return count
+```
+
+- <time>Dec 30, 2022</time> Finished [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/) in Python:
+
+```py
+def zero(operand_num=""): #your code here
+    return eval("0" + operand_num)
+def one(operand_num=""): #your code here
+    return eval("1" + operand_num)
+def two(operand_num=""): #your code here
+    return eval("2" + operand_num)
+def three(operand_num=""): #your code here
+    return eval("3" + operand_num)
+def four(operand_num=""): #your code here
+    return eval("4" + operand_num)
+def five(operand_num=""): #your code here
+    return eval("5" + operand_num)
+def six(operand_num=""): #your code here
+    return eval("6" + operand_num)
+def seven(operand_num=""): #your code here
+    return eval("7" + operand_num)
+def eight(operand_num=""): #your code here
+    return eval("8" + operand_num)
+def nine(operand_num=""): #your code here
+    return eval("9" + operand_num)
+
+def plus(num): #your code here
+    return f"+{num}"
+def minus(num): #your code here
+    return f"-{num}"
+def times(num): #your code here
+    return f"*{num}"
+def divided_by(num): #your code here
+    return f"//{num}"
+```
+
+- <time>Dec 29, 2022</time> Finished [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148/solutions) in Python:
+
+```py
+def solution(s):
+    res = ""
+
+    for i in s:
+        if ord(i) >= 65 and ord(i) <= 90:
+            res += f" {i}"
+        else:
+            res += i
+
+    return res
+```
+
+- <time>Dec 28, 2022</time> Finished [Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f/) in Python:
+
+```py
+def friend(x):
+	return [i for i in x if len(i) == 4]
+```
+
+- <time>Dec 27, 2022</time> Finished [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014/) in Python:
+
+```py
+def sum_two_smallest_numbers(numbers):
+    return min(numbers) + min([i for i in numbers if i != min(numbers)])
+```
+
+- <time>Dec 26, 2022</time> Finished [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) in Python:
+
+```py
+def high_and_low(numbers):
+    return f"{max([int(i) for i in numbers.split(' ')])} {min([int(i) for i in numbers.split(' ')])}"
+```
+
+- <time>Dec 25, 2022</time> Finished [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e/) in Python:
+
+```py
+from preloaded import MORSE_CODE
+
+def decode_morse(morse_code):
+    # Remember - you can use the preloaded MORSE_CODE dictionary:
+    # For example:
+    # MORSE_CODE['.-'] = 'A'
+    # MORSE_CODE['--...'] = '7'
+    # MORSE_CODE['...-..-'] = '$'
+    temp_morse_code = morse_code.strip().split('   ')
+    decoded_message = []
+
+    for i in temp_morse_code:
+        for j in i.split(' '):
+            decoded_message.append(MORSE_CODE[j])
+        decoded_message.append(" ")
+
+    return "".join(decoded_message).rstrip()
+```
+
+- <time>Dec 24, 2022</time> Finished [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd) in Python:
+
+```py
+def filter_list(l):
+    return [i for i in l if str(i).isdigit() and isinstance(i, int)]
+```
+
+- <time>Dec 23, 2022</time> Finished [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/) in Python:
+
+```py
+def solution(string, ending):
+    if ending == '':
+        return True
+    else:
+        if ending in string:
+            if string[len(string) - len(ending):] == ending:
+                return True
+            else:
+                return False
+        else:
+            return False
+```
+
+- <time>Dec 22, 2022</time> Finished [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/) in Java:
+
+```java
+import java.util.ArrayList;
+
+public class FindOdd {
+	public static int findIt(int[] a) {
+    ArrayList<Integer> count_al = new ArrayList<Integer>();
+
+  	for (int i = 0; i < a.length; i++) {
+      int number = a[i];
+      int count = 0;
+
+      for (int j = 0; j < a.length; j++) {
+        if (a[j] == number) {
+          count++;
+        }
+      }
+
+      count_al.add(count);
+    }
+
+    for (int i = 0; i < count_al.size(); i++) {
+      if (count_al.get(i) % 2 != 0) {
+        return a[i];
+      }
+    }
+
+    return 0;
+  }
+}
+```
+
+- <time>Dec 21, 2022</time> Finished [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) in Python (accidentally left the print statement in my final solution - oh well):
+
+```py
+def solution(s):
+    print(s)
+    if len(s) % 2 != 0:
+        temp_res = [s[i:i+2] for i in range(0, len(s), 2)]
+        temp_res[-1] = temp_res[-1] + "_"
+        return temp_res
+    else:
+        return [s[i:i+2] for i in range(0, len(s), 2)]
+```
+
+- <time>Dec 20, 2022</time> Finished [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) in Java:
+
+```java
+public class Kata {
+  public static String createPhoneNumber(int[] numbers) {
+   String phoneNumber = "(" + String.valueOf(numbers[0]) + String.valueOf(numbers[1]) + String.valueOf(numbers[2]) + ") " + String.valueOf(numbers[3]) + String.valueOf(numbers[4]) + String.valueOf(numbers[5]) + "-" + String.valueOf(numbers[6]) + String.valueOf(numbers[7]) + String.valueOf(numbers[8]) + String.valueOf(numbers[9]);
+   return phoneNumber;
+  }
+}
+```
+
+- <time>Dec 19, 2022</time> Finished [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) in Java:
+
+```java
+import java.util.ArrayList;
+
+public class DescendingOrder {
+  public static int sortDesc(final int num) {
+    int temp = num;
+    ArrayList<Integer> digits = new ArrayList<Integer>();
+
+    while (temp != 0) { // while loop for appending digits
+      int digit = temp % 10;
+      digits.add(digit);
+      temp /= 10;
+    }
+
+    for (int i = 0; i < digits.size() - 1; i++) { // for loops for sorting - bubble sort
+      for (int j = 0; j < digits.size() - 1 - i; j++) {
+        if (digits.get(i + j + 1) > digits.get(i)) {
+          int temp_digit = digits.get(i);
+          digits.set(i, digits.get(i + j + 1));
+          digits.set(i + j + 1, temp_digit);
+        }
+      }
+    }
+
+    int res = 0;
+
+    for (int i = 0; i < digits.size(); i++) { // converting list of digits to int
+      int digit = digits.get(i);
+      res = (res * 10) + digit;
+    }
+
+    return res;
+  }
+}
+```
+
+- <time>Dec 18, 2022</time> Finished [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) in Java:
+
+```java
+import java.util.ArrayList;
+
+public class SpinWords {
+
+  public String spinWords(String sentence) {
+    String[] words = sentence.split(" "); // credit - https://www.geeksforgeeks.org/split-string-java-examples/
+    ArrayList<String> tempRes = new ArrayList<String>(); // creating a temp ArrayList for words
+
+   for (int i = 0; i < words.length; i++) {
+      if (words[i].length() >= 5) {
+        String reverseString = "";
+
+        for (int j = words[i].length() - 1; j >= 0; j--) { // inner for-loop for reversing the string
+          reverseString += words[i].charAt(j);
+        }
+
+        tempRes.add(reverseString);
+
+      } else {
+        tempRes.add(words[i]);
+      }
+    }
+
+    String res = String.join(" ", tempRes); // credit - https://stackoverflow.com/questions/599161/best-way-to-convert-an-arraylist-to-a-string
+
+    return res;
+  }
+}
+```
+
+- <time>Dec 17, 2022</time> Finished [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/) in Java:
+
+```java
+public class Solution {
+
+  public int solution(int number) {
+    if (number < 0) {
+      return -1; // returning -1 if the number is negative
+    } else {
+      int res = 0;
+
+      for (int i = 1; i < number; i++) {
+        if (i % 3 == 0 || i % 5 == 0) { // only counting the number once if multiple of 15
+          res += i;
+        }
+      }
+
+      return res;
+    }
+  }
+}
+```
+
+- <time>Dec 16, 2022</time> Finished [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/java) in Java:
+
+```java
+public class Accumul {
+
+    public static String accum(String s) {
+      String res = ""; // result string
+
+      for (int i = 0; i < s.length(); i++) {
+        char chr = s.charAt(i); // getting character at each index
+        res += Character.toUpperCase(chr); // converting character to uppercase
+
+        for (int j = 0; j < i; j++) {
+          char chr_repeat = s.charAt(i); // repeatedly getting the same character based on index
+          res += Character.toLowerCase(chr_repeat); // converting character to lowercase
+        }
+
+        if (i != s.length() - 1) { // as long as not last character, add hyphen
+          res += "-";
+        }
+      }
+
+      return res;
+    }
+}
+```
+
+- <time>Dec 15, 2022</time> Finished [Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b/) in JavaScript:
+
+```js
+function isTriangle(a, b, c) {
+  if (a + b > c && b + c > a && a + c > b) return true;
+  else return false;
+}
+```
+
+- <time>Dec 14, 2022</time> Finished [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/) in JavaScript:
+
+```js
+function getCount(str) {
+  let count = 0;
+  for (let i = 0; i < str.length; i++) {
+    if (
+      str[i] == "a" ||
+      str[i] == "e" ||
+      str[i] == "i" ||
+      str[i] == "o" ||
+      str[i] == "u"
+    )
+      count++;
+  }
+  return count;
+}
+```
+
+- <time>Dec 13, 2022</time> Finished a couple of different problems (?) and got to 8 kyu.
+
+<hr />
+
+
 ## <span id="leetcode">[LeetCode](https://leetcode.com/y-arjun-y/)</span>
 
 <small>Nov 13, 2021-present</small>  
@@ -911,6 +1432,27 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 21, 2024</time> Finished [Subsets](https://leetcode.com/problems/subsets/):
+```py
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        # Credit - https://leetcode.com/problems/subsets/solutions/5186387/fastest-100-easy-to-understand
+         result = []
+
+        def explore(index, curr):
+            if index == len(nums):
+                result.append(curr.copy())
+                return
+
+            curr.append(nums[index])
+            explore(index + 1, curr)
+            curr.pop()
+            explore(index + 1, curr)
+
+        explore(0, [])
+        return result
+```
 
 - <time>May 19, 2024</time> Finished [Special Array I](https://leetcode.com/problems/special-array-i/):
 ```py
@@ -10955,23 +11497,6 @@ class Solution:
 
 <hr />
 
-## <span id="ukulele">Ukulele</span>
-
-<small>Nov 26, 2022-present</small>  
-<small>Just for some fun. Currently an occasional project.</small>
-
-<hr />
-<small>Ukulele's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Nov 27, 2023-Dec 24, 2023</time> Learnt a lot of songs: Postcards from Italy - Beirut, worldstar money (interlude) - Joji, Forrest Gump - Frank Ocean, Vance Joy - Riptide, Nothing Else Matters (Intro) - Metallica, Go with the Flow - Queens of the Stone Age and Losing My Religion - R.E.M.
-
-- <time>Nov 26, 2023</time> I think I've gotten "Going to California" by Led Zeppelin fully down now.
-
-<hr />
-
 ## <span id="drums">Drums</span>
 
 <small>Aug 02, 2022-present</small>  
@@ -11403,507 +11928,6 @@ class Solution:
 <hr />
 
 ## Inactive
-
-<hr />
-
-## <span id="codewars">[Codewars](https://www.codewars.com)</span>
-
-<small>Dec 13, 2022-present</small>  
-<small>Trying to practice different programming languages with Codewars (<a href="#leetcode">LeetCode</a> is for harder, more Python-oriented problems). Currently inactive.</small>
-
-<hr />
-
-#### Log
-
-- <time>Jan 29, 2023</time> Finished [ISBN-10 Validation](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001) in Python:
-
-```py
-def valid_ISBN10(isbn):
-    if len(isbn) != 10:
-        return False
-
-    first_9 = isbn[:-1]
-    last_digit = isbn[-1]
-
-    total = 0
-
-    try:
-        total += sum([int(first_9[i]) * (i + 1) for i in range(len(first_9))])
-    except:
-        return False
-
-    if last_digit.isdigit():
-        total += int(last_digit) * 10
-    elif last_digit == "X":
-        total += 100
-    else:
-        return False
-
-    return total % 11 == 0
-```
-
-- <time>Jan 28, 2023</time> Finished [Mean Square Error](https://www.codewars.com/kata/51edd51599a189fe7f000015) in Python:
-
-```py
-def solution(array_a, array_b):
-    return sum((array_a[i] - array_b[i]) ** 2 for i in range(len(array_a))) / len(array_a)
-```
-
-- <time>Jan 27, 2023</time> Finished [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) in Python:
-
-```py
-def find_uniq(arr):
-    return [i for i in set(arr) if arr.count(i) == 1][0]
-```
-
-- <time>Jan 25, 2023</time> Couldn't solve a problem today, but that's okay.
-
-- <time>Jan 22, 2023</time> Finished [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/) in Python:
-
-```py
-def first_non_repeating_letter(string):
-    for i in range(len(string)):
-        if len([j for j in range(len(string)) if string[j].lower() == string[i].lower() and j != i]) == 0:
-            return string[i]
-    else:
-        return ""
-```
-
-- <time>Jan 21, 2023</time> Finished [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7) in Python:
-
-```py
-def make_readable(seconds):
-    hours = seconds // 3600
-    minutes = (seconds - (hours * 3600)) // 60
-    seconds_print = seconds - (minutes * 60) - (hours * 3600)
-
-    if len(str(hours)) < 2:
-        hours = "0" + str(hours)
-
-    if len(str(minutes)) < 2:
-        minutes = "0" + str(minutes)
-
-    if len(str(seconds_print)) < 2:
-        seconds_print = "0" + str(seconds_print)
-
-    return f"{hours}:{minutes}:{seconds_print}"
-```
-
-- <time>Jan 20, 2023</time> Finished [Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059/) in Python:
-
-```py
-def cakes(recipe, available):
-    count = 0
-    max_scale = []
-
-    for k, v in recipe.items():
-        if k not in available:
-            max_scale = [0]
-        else:
-            if available[k] < v:
-                max_scale = [0]
-            else:
-                max_scale.append(available[k] // v)
-
-    count = min(max_scale, default=0)
-    return count
-```
-
-- <time>Jan 18, 2023</time> Still no luck.
-
-- <time>Jan 17, 2023</time> Trying to solve [Catching Car Mileage Numbers](https://www.codewars.com/kata/52c4dd683bfd3b434c000292/train/python)
-
-- <time>Jan 16, 2023</time> Tried to solve a couple of problems in Python, but to no avail.
-
-- <time>Jan 15, 2023</time> Finished [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c/) in Python:
-
-```py
-def narcissistic(value):
-    return sum([int(i) ** len(str(value)) for i in str(value)]) == value
-```
-
-- <time>Jan 04, 2023</time> Finished [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/) in Python:
-
-```py
-def pig_it(text):
-    res = []
-
-    for i in text.split(" "):
-        if i.isalpha():
-            word = i[1:] + i[0] + "ay"
-            res.append(word)
-        else:
-            res.append(i)
-
-    return " ".join(res)
-```
-
-- <time>Jan 03, 2023</time> Finished [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a/) in Python:
-
-```py
-def count_smileys(arr):
-    valid_smiley_faces = [':)', ';)', ':-)', ';-)', ':~)', ';~)', ':D', ';D', ':-D', ';-D', ':~D', ';~D', ':D', ';D']
-
-    return len([i for i in arr if i in valid_smiley_faces])
-```
-
-- <time>Jan 02, 2023</time> Finished [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c) in Python:
-
-```py
-def comp(array1, array2):
-    if array1 == None or array2 == None:
-        return False
-
-    if sorted([i**2 for i in array1]) == sorted(array2):
-        return True
-    else:
-        return False
-```
-
-- <time>Jan 01, 2023</time> Finished [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) in Python:
-
-```py
-def move_zeros(lst):
-  return [i for i in lst if i != 0] + [i for i in lst if i == 0]
-```
-
-- <time>Dec 31, 2022</time> Finished [(Multiplicative Persistence)](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/) in Python. Hoping to do more Java problems in 2023:
-
-```py
-import math
-
-def persistence(n):
-    count = 0
-
-    while len(str(n)) != 1:
-        n = math.prod([int(i) for i in str(n)])
-        count += 1
-
-    return count
-```
-
-- <time>Dec 30, 2022</time> Finished [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/) in Python:
-
-```py
-def zero(operand_num=""): #your code here
-    return eval("0" + operand_num)
-def one(operand_num=""): #your code here
-    return eval("1" + operand_num)
-def two(operand_num=""): #your code here
-    return eval("2" + operand_num)
-def three(operand_num=""): #your code here
-    return eval("3" + operand_num)
-def four(operand_num=""): #your code here
-    return eval("4" + operand_num)
-def five(operand_num=""): #your code here
-    return eval("5" + operand_num)
-def six(operand_num=""): #your code here
-    return eval("6" + operand_num)
-def seven(operand_num=""): #your code here
-    return eval("7" + operand_num)
-def eight(operand_num=""): #your code here
-    return eval("8" + operand_num)
-def nine(operand_num=""): #your code here
-    return eval("9" + operand_num)
-
-def plus(num): #your code here
-    return f"+{num}"
-def minus(num): #your code here
-    return f"-{num}"
-def times(num): #your code here
-    return f"*{num}"
-def divided_by(num): #your code here
-    return f"//{num}"
-```
-
-- <time>Dec 29, 2022</time> Finished [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148/solutions) in Python:
-
-```py
-def solution(s):
-    res = ""
-
-    for i in s:
-        if ord(i) >= 65 and ord(i) <= 90:
-            res += f" {i}"
-        else:
-            res += i
-
-    return res
-```
-
-- <time>Dec 28, 2022</time> Finished [Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f/) in Python:
-
-```py
-def friend(x):
-	return [i for i in x if len(i) == 4]
-```
-
-- <time>Dec 27, 2022</time> Finished [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014/) in Python:
-
-```py
-def sum_two_smallest_numbers(numbers):
-    return min(numbers) + min([i for i in numbers if i != min(numbers)])
-```
-
-- <time>Dec 26, 2022</time> Finished [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) in Python:
-
-```py
-def high_and_low(numbers):
-    return f"{max([int(i) for i in numbers.split(' ')])} {min([int(i) for i in numbers.split(' ')])}"
-```
-
-- <time>Dec 25, 2022</time> Finished [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e/) in Python:
-
-```py
-from preloaded import MORSE_CODE
-
-def decode_morse(morse_code):
-    # Remember - you can use the preloaded MORSE_CODE dictionary:
-    # For example:
-    # MORSE_CODE['.-'] = 'A'
-    # MORSE_CODE['--...'] = '7'
-    # MORSE_CODE['...-..-'] = '$'
-    temp_morse_code = morse_code.strip().split('   ')
-    decoded_message = []
-
-    for i in temp_morse_code:
-        for j in i.split(' '):
-            decoded_message.append(MORSE_CODE[j])
-        decoded_message.append(" ")
-
-    return "".join(decoded_message).rstrip()
-```
-
-- <time>Dec 24, 2022</time> Finished [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd) in Python:
-
-```py
-def filter_list(l):
-    return [i for i in l if str(i).isdigit() and isinstance(i, int)]
-```
-
-- <time>Dec 23, 2022</time> Finished [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/) in Python:
-
-```py
-def solution(string, ending):
-    if ending == '':
-        return True
-    else:
-        if ending in string:
-            if string[len(string) - len(ending):] == ending:
-                return True
-            else:
-                return False
-        else:
-            return False
-```
-
-- <time>Dec 22, 2022</time> Finished [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/) in Java:
-
-```java
-import java.util.ArrayList;
-
-public class FindOdd {
-	public static int findIt(int[] a) {
-    ArrayList<Integer> count_al = new ArrayList<Integer>();
-
-  	for (int i = 0; i < a.length; i++) {
-      int number = a[i];
-      int count = 0;
-
-      for (int j = 0; j < a.length; j++) {
-        if (a[j] == number) {
-          count++;
-        }
-      }
-
-      count_al.add(count);
-    }
-
-    for (int i = 0; i < count_al.size(); i++) {
-      if (count_al.get(i) % 2 != 0) {
-        return a[i];
-      }
-    }
-
-    return 0;
-  }
-}
-```
-
-- <time>Dec 21, 2022</time> Finished [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) in Python (accidentally left the print statement in my final solution - oh well):
-
-```py
-def solution(s):
-    print(s)
-    if len(s) % 2 != 0:
-        temp_res = [s[i:i+2] for i in range(0, len(s), 2)]
-        temp_res[-1] = temp_res[-1] + "_"
-        return temp_res
-    else:
-        return [s[i:i+2] for i in range(0, len(s), 2)]
-```
-
-- <time>Dec 20, 2022</time> Finished [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) in Java:
-
-```java
-public class Kata {
-  public static String createPhoneNumber(int[] numbers) {
-   String phoneNumber = "(" + String.valueOf(numbers[0]) + String.valueOf(numbers[1]) + String.valueOf(numbers[2]) + ") " + String.valueOf(numbers[3]) + String.valueOf(numbers[4]) + String.valueOf(numbers[5]) + "-" + String.valueOf(numbers[6]) + String.valueOf(numbers[7]) + String.valueOf(numbers[8]) + String.valueOf(numbers[9]);
-   return phoneNumber;
-  }
-}
-```
-
-- <time>Dec 19, 2022</time> Finished [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) in Java:
-
-```java
-import java.util.ArrayList;
-
-public class DescendingOrder {
-  public static int sortDesc(final int num) {
-    int temp = num;
-    ArrayList<Integer> digits = new ArrayList<Integer>();
-
-    while (temp != 0) { // while loop for appending digits
-      int digit = temp % 10;
-      digits.add(digit);
-      temp /= 10;
-    }
-
-    for (int i = 0; i < digits.size() - 1; i++) { // for loops for sorting - bubble sort
-      for (int j = 0; j < digits.size() - 1 - i; j++) {
-        if (digits.get(i + j + 1) > digits.get(i)) {
-          int temp_digit = digits.get(i);
-          digits.set(i, digits.get(i + j + 1));
-          digits.set(i + j + 1, temp_digit);
-        }
-      }
-    }
-
-    int res = 0;
-
-    for (int i = 0; i < digits.size(); i++) { // converting list of digits to int
-      int digit = digits.get(i);
-      res = (res * 10) + digit;
-    }
-
-    return res;
-  }
-}
-```
-
-- <time>Dec 18, 2022</time> Finished [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) in Java:
-
-```java
-import java.util.ArrayList;
-
-public class SpinWords {
-
-  public String spinWords(String sentence) {
-    String[] words = sentence.split(" "); // credit - https://www.geeksforgeeks.org/split-string-java-examples/
-    ArrayList<String> tempRes = new ArrayList<String>(); // creating a temp ArrayList for words
-
-   for (int i = 0; i < words.length; i++) {
-      if (words[i].length() >= 5) {
-        String reverseString = "";
-
-        for (int j = words[i].length() - 1; j >= 0; j--) { // inner for-loop for reversing the string
-          reverseString += words[i].charAt(j);
-        }
-
-        tempRes.add(reverseString);
-
-      } else {
-        tempRes.add(words[i]);
-      }
-    }
-
-    String res = String.join(" ", tempRes); // credit - https://stackoverflow.com/questions/599161/best-way-to-convert-an-arraylist-to-a-string
-
-    return res;
-  }
-}
-```
-
-- <time>Dec 17, 2022</time> Finished [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/) in Java:
-
-```java
-public class Solution {
-
-  public int solution(int number) {
-    if (number < 0) {
-      return -1; // returning -1 if the number is negative
-    } else {
-      int res = 0;
-
-      for (int i = 1; i < number; i++) {
-        if (i % 3 == 0 || i % 5 == 0) { // only counting the number once if multiple of 15
-          res += i;
-        }
-      }
-
-      return res;
-    }
-  }
-}
-```
-
-- <time>Dec 16, 2022</time> Finished [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/java) in Java:
-
-```java
-public class Accumul {
-
-    public static String accum(String s) {
-      String res = ""; // result string
-
-      for (int i = 0; i < s.length(); i++) {
-        char chr = s.charAt(i); // getting character at each index
-        res += Character.toUpperCase(chr); // converting character to uppercase
-
-        for (int j = 0; j < i; j++) {
-          char chr_repeat = s.charAt(i); // repeatedly getting the same character based on index
-          res += Character.toLowerCase(chr_repeat); // converting character to lowercase
-        }
-
-        if (i != s.length() - 1) { // as long as not last character, add hyphen
-          res += "-";
-        }
-      }
-
-      return res;
-    }
-}
-```
-
-- <time>Dec 15, 2022</time> Finished [Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b/) in JavaScript:
-
-```js
-function isTriangle(a, b, c) {
-  if (a + b > c && b + c > a && a + c > b) return true;
-  else return false;
-}
-```
-
-- <time>Dec 14, 2022</time> Finished [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/) in JavaScript:
-
-```js
-function getCount(str) {
-  let count = 0;
-  for (let i = 0; i < str.length; i++) {
-    if (
-      str[i] == "a" ||
-      str[i] == "e" ||
-      str[i] == "i" ||
-      str[i] == "o" ||
-      str[i] == "u"
-    )
-      count++;
-  }
-  return count;
-}
-```
-
-- <time>Dec 13, 2022</time> Finished a couple of different problems (?) and got to 8 kyu.
 
 <hr />
 
