@@ -8,6 +8,7 @@ I write poetry _almost_ every day, most of it isn't very good nor very long - bu
 
 <hr />
 
+- May 24, 2024 - <a href="#highway-star">Highway Star</a>
 - May 19, 2024 - <a href="#coming-home">Coming Home</a>
 - May 15, 2024 - <a href="#wrath-of-man">Wrath of Man</a>
 - May 13, 2024 - <a href="#borealis">Borealis</a>
@@ -21,6 +22,16 @@ I write poetry _almost_ every day, most of it isn't very good nor very long - bu
 - Apr 30, 2024 - <a href="#reflection">Reflection</a>
 - Apr 26, 2024 - <a href="#dread">Dread</a>
 - Apr 25, 2024 - <a href="#lakeside">Lakeside</a>
+
+<hr />
+
+## <span id="highway-star">Highway Star</span>
+<p>May 24, 2024</p>
+
+There's a shooting star in place, <br />
+stationary yet lacking any complacency. <br />
+Who's one to stop it? Who's one to control it? <br />
+Only _it_, can find its pathway forward.
 
 <hr />
 
