@@ -119,6 +119,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 22, 2024</time> Lot's of, well, everything!
+
 - <time>May 21, 2024</time> Lot's of walking.
 
 - <time>May 20, 2024</time> Helped with some design work and went through a bunch of photographs.
@@ -240,7 +242,9 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 13, 2024-May 20, 2024</time> Lot's of async work + last volunteer training session.
+- <time>May 23, 2024-May 24, 2024</time> And we're off to the races! Will present a better summary after the conference is over.
+
+- <time>May 13, 2024-May 22, 2024</time> Lot's of async work + last volunteer training session.
 
 - <time>May 10, 2024-May 12, 2024</time> Mildly chaotic but everything worked out in the end!
 
