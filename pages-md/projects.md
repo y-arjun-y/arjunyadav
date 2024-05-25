@@ -242,7 +242,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 23, 2024-May 24, 2024</time> And we're off to the races! Will present a better summary after the conference is over.
+- <time>May 23, 2024-May 25, 2024</time> And we're off to the races! Will present a better summary after the conference is over.
 
 - <time>May 13, 2024-May 22, 2024</time> Lot's of async work + last volunteer training session.
 
@@ -477,7 +477,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 07, 2024-May 19, 2024</time> Some what back to it.
+- <time>May 07, 2024-May 25, 2024</time> Some what back to it.
 
 - <time>May 04, 2024</time> Discussions...
 
@@ -697,6 +697,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 25, 2024</time> Weekly check-in.
 
 - <time>May 09, 2024-May 19, 2024</time> An interesting update!
 
@@ -1436,6 +1438,19 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>May 25, 2024</time> Finished [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/):
+```py
+class Solution:
+    def duplicateNumbersXOR(self, nums: List[int]) -> int:
+        # Credit - https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/solutions/5206859/easy-solution-contest-25-05-2024
+        
+        result = 0
+        for num, count in Counter(nums).items():
+            if count == 2:
+                result ^= num
+        return result
+```
 
 - <time>May 21, 2024</time> Finished [Subsets](https://leetcode.com/problems/subsets/):
 ```py
