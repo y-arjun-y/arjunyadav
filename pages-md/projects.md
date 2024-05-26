@@ -119,6 +119,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 25, 2024-May 26, 2024</time> Worked on some documents.
+
 - <time>May 22, 2024</time> Lot's of, well, everything!
 
 - <time>May 21, 2024</time> Lot's of walking.
@@ -242,7 +244,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 23, 2024-May 25, 2024</time> And we're off to the races! Will present a better summary after the conference is over.
+- <time>May 23, 2024-May 26, 2024</time> And we're off to the races! Will present a better summary after the conference is over.
 
 - <time>May 13, 2024-May 22, 2024</time> Lot's of async work + last volunteer training session.
 
@@ -477,7 +479,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 07, 2024-May 25, 2024</time> Some what back to it.
+- <time>May 07, 2024-May 26, 2024</time> Some what back to it.
 
 - <time>May 04, 2024</time> Discussions...
 
@@ -936,6 +938,24 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 26, 2024</time> Finished [Split String](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/python) in Python:
+```py
+def solution(s):
+    res = []
+    
+    for i in range(0, len(s), 2):
+        sub = s[i:i+2]
+        res.append(sub)
+    
+    try:
+        if len(res[-1]) == 1:
+            res[-1] += "_"
+    except:
+        pass
+    
+    return res  
+```
 
 - <time>Jan 29, 2023</time> Finished [ISBN-10 Validation](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001) in Python:
 
@@ -1438,6 +1458,20 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>May 26, 2024</time> Finished [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/):
+```py
+class Solution:
+    def numberOfPairs(self, nums1: List[int], nums2: List[int], k: int) -> int:
+        count = 0
+
+        for i in nums1:
+            for j in nums2:
+                if i % (j * k) == 0:
+                    count += 1
+        
+        return count
+```
 
 - <time>May 25, 2024</time> Finished [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/):
 ```py
