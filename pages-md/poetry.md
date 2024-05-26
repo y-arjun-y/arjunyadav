@@ -8,6 +8,7 @@ I write poetry _almost_ every day, most of it isn't very good nor very long - bu
 
 <hr />
 
+- May 26, 2024 - <a href="#ideal-situations">Ideal Situations</a>
 - May 24, 2024 - <a href="#highway-star">Highway Star</a>
 - May 19, 2024 - <a href="#coming-home">Coming Home</a>
 - May 15, 2024 - <a href="#wrath-of-man">Wrath of Man</a>
@@ -24,6 +25,17 @@ I write poetry _almost_ every day, most of it isn't very good nor very long - bu
 - Apr 25, 2024 - <a href="#lakeside">Lakeside</a>
 
 <hr />
+
+## <span id="ideal-situations">Ideal Situations</span>
+<p>May 26, 2024</p>
+
+Idealism isn't a young man's game, <br />
+for delusions often make him tame. <br />
+"Is our sole purpose to live our story? <br />
+or is it to write our own history?"
+
+<hr />
+
 
 ## <span id="highway-star">Highway Star</span>
 <p>May 24, 2024</p>
