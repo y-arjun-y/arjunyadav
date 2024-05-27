@@ -119,7 +119,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 25, 2024-May 26, 2024</time> Worked on some documents.
+- <time>May 25, 2024-May 27, 2024</time> Worked on some documents and presentations.
 
 - <time>May 22, 2024</time> Lot's of, well, everything!
 
