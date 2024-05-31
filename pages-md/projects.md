@@ -6,9 +6,8 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (14)
+### Active (13)
 
-- <a href="#dpsinternship">Internship @ DPS Sharjah</a>
 - <a href="#horizonomega">Horizon Omega (HΩ)</a>
 - <a href="#zerodha">Zerodha Varsity</a>
 - <a href="#aisfg">AI Safety Fundamentals: Governance Course</a>
@@ -37,8 +36,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a>
 - <a href="#coldtakesbetareading">Cold Takes Beta Reading</a>
 
-### Done (51)
+### Done (52)
 
+- <a href="#dpsinternship">Internship @ DPS Sharjah</a>
 - <a href="#gmamunjr24">GMAMUN Jr.'24</a>
 - <a href="#studentcouncil12">Student Council - 12th + Head of Events</a>
 - <a href="#ausresearch">AUS CSE Research Assistant</a>
@@ -112,27 +112,6 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-## <span id="dpsinternship">Internship @ DPS Sharjah</span>
-
-<small>May 15, 2024-present</small>  
-<small>Interning at my high school for a brief stint.</small>
-
-#### Log
-
-- <time>May 25, 2024-May 27, 2024</time> Worked on some documents and presentations.
-
-- <time>May 22, 2024</time> Lot's of, well, everything!
-
-- <time>May 21, 2024</time> Lot's of walking.
-
-- <time>May 20, 2024</time> Helped with some design work and went through a bunch of photographs.
-
-- <time>May 17, 2024</time> Board + reel!
-
-- <time>May 15, 2024</time> Got caught up with everything from the past two days.
-
-<hr />
-
 ## <span id="horizonomega">[Horizon Omega (HΩ)](https://www.horizonomega.org/)</span>
 
 <small>Apr 26, 2024-present</small>  
@@ -186,6 +165,10 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 29, 2024</time> Seventh session done!
+
+- <time>May 22, 2024</time> Couldn't make it for the sixth, oh well.
+
 - <time>May 15, 2024</time> Fifth session done! Should have prepared more.
 
 - <time>May 08, 2024</time> Fourth session done! Debate was fun.
@@ -210,6 +193,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 11, 2024-May 31, 2024</time> Couldn't attend the rest of the sessions, but will finish my report.
 
 - <time>May 10, 2024</time> Session 8 done!
 
@@ -1458,6 +1443,23 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>May 28, 2024</time> Finished [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/):
+```py
+class Solution:
+    def minMovesToSeat(self, seats: List[int], students: List[int]) -> int:
+        # Credit - https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/submissions/1270074368
+        
+        total = 0
+
+        seats.sort()
+        students.sort()
+
+        for i in range(len(students)):
+            total += abs(students[i] - seats[i])
+
+        return total
+```
 
 - <time>May 26, 2024</time> Finished [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/):
 ```py
@@ -12495,6 +12497,29 @@ class Solution:
 <hr />
 
 ## Done
+
+<hr />
+
+## <span id="dpsinternship">Internship @ DPS Sharjah</span>
+
+<small>May 15, 2024-May 30, 2024</small>  
+<small>Interning at my high school for a brief stint.</small>
+
+#### Log
+
+- <time>May 25, 2024-May 29, 2024</time> Done! Retrospective soon.
+
+- <time>May 25, 2024-May 29, 2024</time> Worked on some documents and presentations.
+
+- <time>May 22, 2024</time> Lot's of, well, everything!
+
+- <time>May 21, 2024</time> Lot's of walking.
+
+- <time>May 20, 2024</time> Helped with some design work and went through a bunch of photographs.
+
+- <time>May 17, 2024</time> Board + reel!
+
+- <time>May 15, 2024</time> Got caught up with everything from the past two days.
 
 <hr />
 
