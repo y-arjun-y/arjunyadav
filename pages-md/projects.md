@@ -123,6 +123,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>May 21, 2024-Jun 04, 2024</time> Preparing to host a summit.
+
 - <time>May 09, 2024-May 20, 2024</time> Reviewed the table and sorted out my projects!
 
 - <time>May 05, 2024</time> New workspace.
@@ -298,7 +300,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 19, 2024</time> Close call. Going to be a lot more active now.
+- <time>May 19, 2024-Jun 04, 2024</time> Close call. Going to be a lot more active now.
 
 - <time>May 03, 2024-May 15, 2024</time> Conflict resolution + misc work.
 
@@ -366,7 +368,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 19, 2024</time> Meeting!
+- <time>May 19, 2024-Jun 04, 2024</time> Meeting(s) + met a really interesting person!
 
 - <time>Apr 26, 2024-Apr 30, 2024</time> Spoke with my teammate, meeting soon!
 
@@ -411,7 +413,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 11, 2024-May 13, 2024</time> Back to editing duty.
+- <time>May 11, 2024-Jun 04, 2024</time> Back to editing duty.
 
 - <time>May 04, 2024-May 05, 2024</time> Borders...
 
@@ -464,7 +466,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 07, 2024-May 26, 2024</time> Some what back to it.
+- <time>May 07, 2024-Jun 04, 2024</time> Some what back to it.
 
 - <time>May 04, 2024</time> Discussions...
 
@@ -684,6 +686,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>Jun 02, 2024-Jun 04, 2024</time> Some interesting follow-ups!
 
 - <time>May 25, 2024</time> Weekly check-in.
 
@@ -923,6 +927,8 @@ Confused? See the <a href="#note">note</a> down below.
 <hr />
 
 #### Log
+
+- <time>May 27, 2024-Jun 04, 2024</time> It's very annoying to log this particular project.
 
 - <time>May 26, 2024</time> Finished [Split String](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/python) in Python:
 ```py
@@ -1443,6 +1449,22 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jun 05, 2024</time> Finished [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/):
+```py
+class Solution:
+    def longestPalindrome(self, s: str) -> int:
+        # Credit - https://leetcode.com/problems/longest-palindrome/solutions/5255543/python3-solution
+        c = Counter(s)
+        ans = 0
+
+        for i in c.values():
+            ans += int(i/2)*2
+            if ans%2 == 0 and i%2 == 1:
+                ans += 1
+                
+        return ans
+```
 
 - <time>May 28, 2024</time> Finished [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/):
 ```py
