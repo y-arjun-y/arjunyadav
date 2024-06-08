@@ -6,13 +6,12 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (13)
+### Active (12)
 
 - <a href="#horizonomega">Horizon Omega (HΩ)</a>
 - <a href="#zerodha">Zerodha Varsity</a>
 - <a href="#aisfg">AI Safety Fundamentals: Governance Course</a>
 - <a href="#aisfa">AI Safety Fundamentals: Alignment Course</a>
-- <a href="#aisc2024">AI Safety Camp: VAISU</a>
 - <a href="#ai-plans">AI Plans</a>
 - <a href="#ukulele">Ukulele</a>
 - <a href="#oss">Offline Streaming Systems</a>
@@ -36,8 +35,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a>
 - <a href="#coldtakesbetareading">Cold Takes Beta Reading</a>
 
-### Done (52)
+### Done (53)
 
+- <a href="#aisc2024">AI Safety Camp: VAISU</a>
 - <a href="#dpsinternship">Internship @ DPS Sharjah</a>
 - <a href="#gmamunjr24">GMAMUN Jr.'24</a>
 - <a href="#studentcouncil12">Student Council - 12th + Head of Events</a>
@@ -123,7 +123,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 21, 2024-Jun 04, 2024</time> Preparing to host a summit.
+- <time>May 21, 2024-Jun 09, 2024</time> Preparing to host a seminar online.
 
 - <time>May 09, 2024-May 20, 2024</time> Reviewed the table and sorted out my projects!
 
@@ -167,6 +167,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jun 05, 2024</time> Eighth session done! On to the project.
+
 - <time>May 29, 2024</time> Seventh session done!
 
 - <time>May 22, 2024</time> Couldn't make it for the sixth, oh well.
@@ -196,7 +198,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 11, 2024-May 31, 2024</time> Couldn't attend the rest of the sessions, but will finish my report.
+- <time>May 11, 2024-Jun 09, 2024</time> Couldn't attend the rest of the sessions, but will finish my project.
 
 - <time>May 10, 2024</time> Session 8 done!
 
@@ -220,75 +222,6 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-## <span id="aisc2024">[AI Safety Camp: VAISU](https://aisafety.camp)</span>
-
-<small>Dec 29, 2023-present</small>  
-<small>Inductee for AISC 2024! Part of Project #29: VAISU.</small>
-
-<hr />
-<small>AI Safety Camp's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>May 23, 2024-May 26, 2024</time> And we're off to the races! Will present a better summary after the conference is over.
-
-- <time>May 13, 2024-May 22, 2024</time> Lot's of async work + last volunteer training session.
-
-- <time>May 10, 2024-May 12, 2024</time> Mildly chaotic but everything worked out in the end!
-
-- <time>May 09, 2024</time> Updated everyone on everything, really productive day.
-
-- <time>May 07, 2024</time> 1-on-1!
-
-- <time>May 04, 2024</time> Volunteers!
-
-- <time>May 03, 2024</time> Meeting x2!
-
-- <time>May 01, 2024-May 02, 2024</time> Threads.
-
-- <time>Apr 30, 2024</time> Successful 1-on-1!
-
-- <time>Apr 26, 2024-Apr 29, 2024</time> Another meeting! Some 1-on-1 soon.
-
-- <time>Feb 22, 2024-Apr 25, 2024</time> Miscellaneous stuff + meetings!
-
-- <time>Feb 21, 2024</time> Meeting!
-
-- <time>Feb 18, 2024-Feb 19, 2024</time> Finished website structure draft.
-
-- <time>Feb 14, 2024-Feb 16, 2024</time> Slack.
-
-- <time>Feb 06, 2024-Feb 13, 2024</time> Lots of progress!
-
-- <time>Feb 03, 2024</time> Slack.
-
-- <time>Feb 02, 2024</time> Asana? Asana!
-
-- <time>Jan 29, 2024</time> Oh GitHub, where would I be without you?
-
-- <time>Jan 28, 2024</time> Got back to someone about something!
-
-- <time>Jan 26, 2024-Jan 27, 2024</time> Finished my share of work - woo-hoo! Just got a meeting to watch tomorrow...
-
-- <time>Jan 17, 2024-Jan 23, 2024</time> Another successful meeting + admin work!
-
-- <time>Jan 16, 2024</time> First team-wide meeting!
-
-- <time>Jan 15, 2024</time> Had a lovely one-on-one with team member!
-
-- <time>Jan 13, 2024</time> Meetings, oh yeah - meetings!
-
-- <time>Jan 12, 2024</time> My first Gatheround ever!
-
-- <time>Jan 04, 2024-Jan 05, 2024</time> A slide was added.
-
-- <time>Dec 30, 2023</time> Summarized the last bit of feedback.
-
-- <time>Dec 29, 2023</time> Got started!
-
-<hr />
-
 ## <span id="ai-plans">[AI Plans](https://ai-plans.com)</span>
 
 <small>Dec 18, 2023-present</small>  
@@ -300,7 +233,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 19, 2024-Jun 04, 2024</time> Close call. Going to be a lot more active now.
+- <time>May 19, 2024-Jun 09, 2024</time> Close call. Going to be a lot more active now.
 
 - <time>May 03, 2024-May 15, 2024</time> Conflict resolution + misc work.
 
@@ -368,7 +301,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 19, 2024-Jun 04, 2024</time> Meeting(s) + met a really interesting person!
+- <time>May 19, 2024-Jun 09, 2024</time> Meeting(s) + met a really interesting person!
 
 - <time>Apr 26, 2024-Apr 30, 2024</time> Spoke with my teammate, meeting soon!
 
@@ -413,7 +346,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 11, 2024-Jun 04, 2024</time> Back to editing duty.
+- <time>May 11, 2024-Jun 09, 2024</time> Back to editing duty.
 
 - <time>May 04, 2024-May 05, 2024</time> Borders...
 
@@ -466,7 +399,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 07, 2024-Jun 04, 2024</time> Some what back to it.
+- <time>May 07, 2024-Jun 09, 2024</time> Some what back to it.
 
 - <time>May 04, 2024</time> Discussions...
 
@@ -687,7 +620,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 02, 2024-Jun 04, 2024</time> Some interesting follow-ups!
+- <time>Jun 02, 2024-Jun 09, 2024</time> Some interesting follow-ups!
 
 - <time>May 25, 2024</time> Weekly check-in.
 
@@ -12519,6 +12452,75 @@ class Solution:
 <hr />
 
 ## Done
+
+<hr />
+
+## <span id="aisc2024">[AI Safety Camp: VAISU](https://aisafety.camp)</span>
+
+<small>Dec 29, 2023-Jun 09, 2024</small>  
+<small>Inductee for AISC 2024! Part of Project #29: VAISU.</small>
+
+<hr />
+<small>AI Safety Camp's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>May 23, 2024-Jun 09, 2024</time> And we're off to the races! Will present a better summary after the team retrospective is over.
+
+- <time>May 13, 2024-May 22, 2024</time> Lot's of async work + last volunteer training session.
+
+- <time>May 10, 2024-May 12, 2024</time> Mildly chaotic but everything worked out in the end!
+
+- <time>May 09, 2024</time> Updated everyone on everything, really productive day.
+
+- <time>May 07, 2024</time> 1-on-1!
+
+- <time>May 04, 2024</time> Volunteers!
+
+- <time>May 03, 2024</time> Meeting x2!
+
+- <time>May 01, 2024-May 02, 2024</time> Threads.
+
+- <time>Apr 30, 2024</time> Successful 1-on-1!
+
+- <time>Apr 26, 2024-Apr 29, 2024</time> Another meeting! Some 1-on-1 soon.
+
+- <time>Feb 22, 2024-Apr 25, 2024</time> Miscellaneous stuff + meetings!
+
+- <time>Feb 21, 2024</time> Meeting!
+
+- <time>Feb 18, 2024-Feb 19, 2024</time> Finished website structure draft.
+
+- <time>Feb 14, 2024-Feb 16, 2024</time> Slack.
+
+- <time>Feb 06, 2024-Feb 13, 2024</time> Lots of progress!
+
+- <time>Feb 03, 2024</time> Slack.
+
+- <time>Feb 02, 2024</time> Asana? Asana!
+
+- <time>Jan 29, 2024</time> Oh GitHub, where would I be without you?
+
+- <time>Jan 28, 2024</time> Got back to someone about something!
+
+- <time>Jan 26, 2024-Jan 27, 2024</time> Finished my share of work - woo-hoo! Just got a meeting to watch tomorrow...
+
+- <time>Jan 17, 2024-Jan 23, 2024</time> Another successful meeting + admin work!
+
+- <time>Jan 16, 2024</time> First team-wide meeting!
+
+- <time>Jan 15, 2024</time> Had a lovely one-on-one with team member!
+
+- <time>Jan 13, 2024</time> Meetings, oh yeah - meetings!
+
+- <time>Jan 12, 2024</time> My first Gatheround ever!
+
+- <time>Jan 04, 2024-Jan 05, 2024</time> A slide was added.
+
+- <time>Dec 30, 2023</time> Summarized the last bit of feedback.
+
+- <time>Dec 29, 2023</time> Got started!
 
 <hr />
 
