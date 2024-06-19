@@ -21,10 +21,6 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#codewars">Codewars</a>
 - <a href="#leetcode">LeetCode</a>
 
-### Paused (1)
-
-- <a href="#dioptra">Dioptra</a>
-
 ### Occasional (2)
 
 - <a href="#drums">Drums</a>
@@ -35,8 +31,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#chess">Chess</a>
 - <a href="#coldtakesbetareading">Cold Takes Beta Reading</a>
 
-### Done (53)
+### Done (54)
 
+- <a href="#dioptra">Dioptra</a>
 - <a href="#aisc2024">AI Safety Camp: VAISU</a>
 - <a href="#dpsinternship">Internship @ DPS Sharjah</a>
 - <a href="#gmamunjr24">GMAMUN Jr.'24</a>
@@ -123,6 +120,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jun 10, 2024-Jun 19, 2024</time> Done! On to the next thing(s).
+
 - <time>May 21, 2024-Jun 09, 2024</time> Preparing to host a seminar online.
 
 - <time>May 09, 2024-May 20, 2024</time> Reviewed the table and sorted out my projects!
@@ -167,7 +166,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 05, 2024</time> Eighth session done! On to the project.
+- <time>Jun 05, 2024-Jun 19, 2024</time> Eighth session done! On to the project.
 
 - <time>May 29, 2024</time> Seventh session done!
 
@@ -198,7 +197,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 11, 2024-Jun 09, 2024</time> Couldn't attend the rest of the sessions, but will finish my project.
+- <time>May 11, 2024-Jun 19, 2024</time> Couldn't attend the rest of the sessions, but will finish my project.
 
 - <time>May 10, 2024</time> Session 8 done!
 
@@ -233,7 +232,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 19, 2024-Jun 09, 2024</time> Close call. Going to be a lot more active now.
+- <time>May 19, 2024-Jun 19, 2024</time> Close call. Going to be a lot more active now.
 
 - <time>May 03, 2024-May 15, 2024</time> Conflict resolution + misc work.
 
@@ -301,6 +300,8 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
+- <time>Jun 10, 2024-Jun 19, 2024</time> Turns out, that really interesting person sparked new life into this project!
+
 - <time>May 19, 2024-Jun 09, 2024</time> Meeting(s) + met a really interesting person!
 
 - <time>Apr 26, 2024-Apr 30, 2024</time> Spoke with my teammate, meeting soon!
@@ -346,7 +347,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 11, 2024-Jun 09, 2024</time> Back to editing duty.
+- <time>May 11, 2024-Jun 19, 2024</time> Back to editing duty.
 
 - <time>May 04, 2024-May 05, 2024</time> Borders...
 
@@ -399,7 +400,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 07, 2024-Jun 09, 2024</time> Some what back to it.
+- <time>May 07, 2024-Jun 19, 2024</time> Some what back to it.
 
 - <time>May 04, 2024</time> Discussions...
 
@@ -620,7 +621,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 02, 2024-Jun 09, 2024</time> Some interesting follow-ups!
+- <time>Jun 02, 2024-Jun 19, 2024</time> Some interesting follow-ups!
 
 - <time>May 25, 2024</time> Weekly check-in.
 
@@ -861,7 +862,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 27, 2024-Jun 04, 2024</time> It's very annoying to log this particular project.
+- <time>May 27, 2024-Jun 19, 2024</time> It's very annoying to log this particular project.
 
 - <time>May 26, 2024</time> Finished [Split String](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/python) in Python:
 ```py
@@ -1382,6 +1383,8 @@ function getCount(str) {
 <hr />
 
 #### Log
+
+- <time>Jun 06, 2024-Jul 19, 2024</time> Loads of problems.
 
 - <time>Jun 05, 2024</time> Finished [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/):
 ```py
@@ -11444,64 +11447,7 @@ class Solution:
 
 ## Paused
 
-## <span id="dioptra">Dioptra</span>
-
-<small>Dec 18, 2023-present</small>  
-<small>Part of the Dioptre team, working on projects with them and trying to learn a lot in the process! Currently paused</small>
-
-<hr />
-<small>Dioptra's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Apr 27, 2024-May 11, 2024</time> Done. For real this time.
-
-- <time>Apr 26, 2024</time> Need to speed up my code a bit before it reaches testing,
-
-- <time>Mar 08, 2024-Apr 25, 2024</time> Done.
-
-- <time>Mar 02, 2024-Mar 07, 2024</time> Looks to be... good.
-
-- <time>Mar 01, 2024</time> Added a more in-depth communication implementation for the two agents.
-
-- <time>Feb 28, 2024-Feb 29, 2024</time> Improvements! (x2)
-
-- <time>Feb 19, 2024</time> Improvements!
-
-- <time>Feb 09, 2024-Feb 17, 2024</time> Had a meeting, now done.
-
-- <time>Feb 09, 2024-Feb 16, 2024</time> Done. Record time!
-
-- <time>Feb 08, 2024</time> PR time!
-
-- <time>Feb 02, 2024-Feb 03, 2024</time> Review time.
-
-- <time>Jan 28, 2024-Jan 29, 2024</time> Done!
-
-- <time>Jan 26, 2024-Jan 27, 2024</time> Closer.
-
-- <time>Jan 13, 2024</time> Done. Finally.
-
-- <time>Jan 06, 2024-Jan 12, 2024</time> Done-ish.
-
-- <time>Jan 05, 2024</time> Scratch that, should be done by tomorrow. (x2)
-
-- <time>Jan 03, 2024</time> Scratch that, should be done by tomorrow.
-
-- <time>Dec 29, 2023</time> Should be done tomorrow.
-
-- <time>Dec 27, 2023-Dec 28, 2023</time> Got some feedback again.
-
-- <time>Dec 23, 2023-Dec 25, 2023</time> Done! (I think)
-
-- <time>Dec 22, 2023</time> Finally, almost done.
-
-- <time>Dec 19, 2023-Dec 21, 2023</time> Continued with the implementation of one of the games.
-
-- <time>Dec 18, 2023</time> Had a great meeting! Excited to get this show on the road.
-
-<hr />
+Watch this space.
 
 ## Occasional
 
@@ -12455,6 +12401,67 @@ class Solution:
 
 <hr />
 
+## <span id="dioptra">Dioptra</span>
+
+<small>Dec 18, 2023-Jun 7, 2024</small>  
+<small>Part of the Dioptra team, working on projects with them and trying to learn a lot in the process! Currently paused</small>
+
+<hr />
+<small>Dioptra's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Jun 07, 2024</time> My first paper has been [published on arXiv](https://arxiv.org/abs/2406.06613)!
+
+- <time>Apr 27, 2024-Jun 06, 2024</time> Done. For real this time.
+
+- <time>Apr 26, 2024</time> Need to speed up my code a bit before it reaches testing,
+
+- <time>Mar 08, 2024-Apr 25, 2024</time> Done.
+
+- <time>Mar 02, 2024-Mar 07, 2024</time> Looks to be... good.
+
+- <time>Mar 01, 2024</time> Added a more in-depth communication implementation for the two agents.
+
+- <time>Feb 28, 2024-Feb 29, 2024</time> Improvements! (x2)
+
+- <time>Feb 19, 2024</time> Improvements!
+
+- <time>Feb 09, 2024-Feb 17, 2024</time> Had a meeting, now done.
+
+- <time>Feb 09, 2024-Feb 16, 2024</time> Done. Record time!
+
+- <time>Feb 08, 2024</time> PR time!
+
+- <time>Feb 02, 2024-Feb 03, 2024</time> Review time.
+
+- <time>Jan 28, 2024-Jan 29, 2024</time> Done!
+
+- <time>Jan 26, 2024-Jan 27, 2024</time> Closer.
+
+- <time>Jan 13, 2024</time> Done. Finally.
+
+- <time>Jan 06, 2024-Jan 12, 2024</time> Done-ish.
+
+- <time>Jan 05, 2024</time> Scratch that, should be done by tomorrow. (x2)
+
+- <time>Jan 03, 2024</time> Scratch that, should be done by tomorrow.
+
+- <time>Dec 29, 2023</time> Should be done tomorrow.
+
+- <time>Dec 27, 2023-Dec 28, 2023</time> Got some feedback again.
+
+- <time>Dec 23, 2023-Dec 25, 2023</time> Done! (I think)
+
+- <time>Dec 22, 2023</time> Finally, almost done.
+
+- <time>Dec 19, 2023-Dec 21, 2023</time> Continued with the implementation of one of the games.
+
+- <time>Dec 18, 2023</time> Had a great meeting! Excited to get this show on the road.
+
+<hr />
+
 ## <span id="aisc2024">[AI Safety Camp: VAISU](https://aisafety.camp)</span>
 
 <small>Dec 29, 2023-Jun 09, 2024</small>  
@@ -12463,6 +12470,13 @@ class Solution:
 <hr />
 <small>AI Safety Camp's start date is the date I started logging, not the date when the project started.</small>
 <hr />
+
+
+#### Retrospective
+
+While not everything went smoothly, this event represents the culmination of countless nights working on the little things to make the process of being a speaker, giving your talk and inspiring others as smooth as possible, and there's untold value in having events like these always present for newcomers in the field.
+
+![VAISU](/vaisu.jpg)
 
 #### Log
 
@@ -12528,6 +12542,12 @@ class Solution:
 
 <small>May 15, 2024-May 30, 2024</small>  
 <small>Interning at my high school for a brief stint.</small>
+
+#### Retrospective
+
+This internship was a lot (turns out, it's pretty hard to go back to waking up at 5:30 after thinking you're "done with school") but the conversations between teachers, mentors and friends are memories I'll cherish forever.
+
+![Internship](/internship.jpg)
 
 #### Log
 
