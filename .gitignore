@@ -281,4 +281,8 @@ $RECYCLE.BIN/
 # and uncomment the following lines
 # .pnp.*
 
+# Drafts
+
+/blog-posts/drafts
+
 # End of https://www.toptal.com/developers/gitignore/api/yarn,nextjs,node,visualstudiocode,windows,macos,linux
