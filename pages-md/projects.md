@@ -6,36 +6,27 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ## Table of Contents
 
-### Active (12)
+### Active
 
-- <a href="#horizonomega">Horizon Omega (HΩ)</a>
-- <a href="#zerodha">Zerodha Varsity</a>
-- <a href="#aisfg">AI Safety Fundamentals: Governance Course</a>
-- <a href="#aisfa">AI Safety Fundamentals: Alignment Course</a>
-- <a href="#ai-plans">AI Plans</a>
+- <a href="#harmonica">Harmonica</a>
 - <a href="#ukulele">Ukulele</a>
+- <a href="#horizonomega">Horizon Omega (HΩ)</a>
 - <a href="#oss">Offline Streaming Systems</a>
-- <a href="#oceanbusters">Ocean Busters</a>
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
 - <a href="#codewars">Codewars</a>
 - <a href="#leetcode">LeetCode</a>
 
-### Occasional (2)
+### Completed
 
-- <a href="#drums">Drums</a>
-- <a href="#guitar">Guitar</a>
-
-### Inactive (2)
-
-- <a href="#chess">Chess</a>
-- <a href="#coldtakesbetareading">Cold Takes Beta Reading</a>
-
-### Done (54)
-
+- <a href="#ai-plans">AI Plans</a>
+- <a href="#aisfg">AI Safety Fundamentals: Governance Course</a>
+- <a href="#aisfa">AI Safety Fundamentals: Alignment Course</a>
+- <a href="#zerodha">Zerodha Varsity</a>
 - <a href="#dioptra">Dioptra</a>
 - <a href="#aisc2024">AI Safety Camp: VAISU</a>
 - <a href="#dpsinternship">Internship @ DPS Sharjah</a>
+- <a href="#oceanbusters">Ocean Busters</a>
 - <a href="#gmamunjr24">GMAMUN Jr.'24</a>
 - <a href="#studentcouncil12">Student Council - 12th + Head of Events</a>
 - <a href="#ausresearch">AUS CSE Research Assistant</a>
@@ -61,7 +52,8 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#admun2023">ADMUN 2023</time>
 - <a href="#brilliant">Brilliant</a>
 - <a href="#middleschoolcsevent">Middle School CS Event</a>
-- <a href="#adventofcode">Advent of Code</a>
+- <a href="#adventofcodepytech">Advent of Code (PyTech)</a>
+- <a href="#coldtakesbetareading">Cold Takes Beta Reading</a>
 - <a href="#y1d2">y1d2</a>
 - <a href="#introml">Introduction to Machine Learning</a>
 - <a href="#computingcamp2022">Winter Computing Camp</a>
@@ -73,6 +65,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#kenken">KENKEN</a>
 - <a href="#duolingo">Duolingo</a>
 - <a href="#localaiprogram">Local AI Program</a>
+- <a href="#chess">Chess</a>
 - <a href="#eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</a>
 - <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#bearblogreplacementtemplate">Bear Blog Replacement Template</a>
@@ -88,13 +81,18 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - <a href="#eaindepth">Effective Altruism In-Depth Fellowship</a>
 - <a href="#eaglobal2021">EA Global: London 2021</a>
 
-### Retroactive (5)
+### Retroactive
 
 - <a href="#webdevmisc">Classless CSS + Bear Blog Replacement</a>
 - <a href="#youthree">youthree</a>
 - <a href="#symposiumproject">Symposium Project</a>
 - <a href="#carykhpd">CaryKH's Prisoner's Dilemma Tournament</a>
 - <a href="#wavelf">WaveLF Courses</a>
+
+### Archive
+
+- <a href="#drums">Drums</a>
+- <a href="#guitar">Guitar</a>
 
 #### Navigation Tips
 
@@ -109,6 +107,36 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="harmonica">Harmonica</span>
+
+<small>Jul 20, 2024-present</small>  
+<small>I practice the harmonica every morning, trying to get better.</small>
+
+<hr />
+<small>Harmonica's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+To be logged soon.
+
+<hr />
+
+## <span id="ukulele">Ukulele</span>
+
+<small>Jul 20, 2024-present</small>  
+<small>I practice the ukulele every morning, trying to get better.</small>
+
+<hr />
+<small>Ukulele's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+To be logged soon.
+
+<hr />
+
 ## <span id="horizonomega">[Horizon Omega (HΩ)](https://www.horizonomega.org/)</span>
 
 <small>Apr 26, 2024-present</small>  
@@ -120,7 +148,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 10, 2024-Jul 10, 2024</time> Done! On to the next thing(s).
+- <time>Jun 10, 2024-Jul 19, 2024</time> Done! On to the next thing(s).
 
 - <time>May 21, 2024-Jun 09, 2024</time> Preparing to host a seminar online.
 
@@ -136,163 +164,6 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-## <span id="zerodha">[Zerodha Varsity](https://zerodha.com/varsity)</span>
-
-<small>Apr 26, 2024-present</small>  
-<small>Finishing the Zerodha Varsity course with some friends.</small>
-
-<hr />
-<small>Zerodha Varsity's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Jun 23, 2024-Jun 28, 2024</time> Finished with the third module.
-
-- <time>May 03, 2024-May 05, 2024</time> Back at it, continuing with the third module.
-
-- <time>Apr 27, 2024-Apr 30, 2024</time> Got started with the third module.
-
-- <time>Apr 26, 2024</time> Finished the first two modules!
-
-<hr />
-
-## <span id="aisfg">[AI Safety Fundamentals: Governance Course](https://aisafetyfundamentals.com/)</span>
-
-<small>Mar 21, 2023-present</small>  
-<small>Fellow for AISF Governance 2024!</small>
-
-<hr />
-<small>AI Safety Fundamentals: Governance Course's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Jun 05, 2024-Jul 10, 2024</time> Eighth session done! On to the project.
-
-- <time>May 29, 2024</time> Seventh session done!
-
-- <time>May 22, 2024</time> Couldn't make it for the sixth, oh well.
-
-- <time>May 15, 2024</time> Fifth session done! Should have prepared more.
-
-- <time>May 08, 2024</time> Fourth session done! Debate was fun.
-
-- <time>May 01, 2024</time> Third session done!
-
-- <time>Apr 24, 2024</time> Second session done!
-
-- <time>Mar 22, 2024-Apr 19, 2024</time> Icebreaker + First session done!
-
-- <time>Mar 21, 2024</time> Will officially in mid-April.
-
-<hr />
-
-## <span id="aisfa">[AI Safety Fundamentals: Alignment Course](https://aisafetyfundamentals.com/)</span>
-
-<small>Feb 29, 2023-present</small>  
-<small>Fellow for AISF 2024!</small>
-
-<hr />
-<small>AI Safety Fundamentals: Alignment Course's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>May 11, 2024-Jul 10, 2024</time> Couldn't attend the rest of the sessions, but will finish my project.
-
-- <time>May 10, 2024</time> Session 8 done!
-
-- <time>Apr 27, 2024</time> Session 7 done! That's the learning part done, now time to work on my project.
-
-- <time>Apr 20, 2024</time> Session 6 done!
-
-- <time>Apr 07, 2024-Apr 19, 2024</time> Covered up everything via two recap sessions!
-
-- <time>Apr 06, 2024</time> Had to skip session 4, but will cover up tomorrow!
-
-- <time>Mar 30, 2024</time> Session 3 done!
-
-- <time>Mar 23, 2024</time> Session 2 done!
-
-- <time>Mar 16, 2024</time> Session 1 done!
-
-- <time>Mar 09, 2024</time> Session 0 done!
-
-- <time>Feb 29, 2024</time> Will officially start after my exams.
-
-<hr />
-
-## <span id="ai-plans">[AI Plans](https://ai-plans.com)</span>
-
-<small>Dec 18, 2023-present</small>  
-<small>Part of the AI Plans dev team!</small>
-
-<hr />
-<small>AI Plans' start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>May 19, 2024-Jul 10, 2024</time> Close call. Going to be a lot more active now.
-
-- <time>May 03, 2024-May 15, 2024</time> Conflict resolution + misc work.
-
-- <time>Apr 26, 2024-May 02, 2024</time> Close!
-
-- <time>Apr 21, 2024-Apr 25, 2024</time> Back from the dead.
-
-- <time>Feb 19, 2024</time> ClickUp!
-
-- <time>Feb 09, 2024-Feb 16, 2024</time> Let me tell you one thing.
-
-- <time>Feb 08, 2024</time> Lots of progress slated for tomorrow night!
-
-- <time>Jan 26, 2024-Feb 08, 2024</time> And we're back on track.
-
-- <time>Jan 05, 2024-Jan 12, 2024</time> More progress!
-
-- <time>Jan 05, 2024</time> Done! (well, my part at least)
-
-- <time>Jan 04, 2024</time> Added another part!
-
-- <time>Dec 30, 2023</time> Squash the bugs.
-
-- <time>Dec 29, 2023</time> Making progress.
-
-- <time>Dec 28, 2023</time> PR! (x2)
-
-- <time>Dec 27, 2023</time> CSS, my old friend. (x2)
-
-- <time>Dec 26, 2023</time> PR!
-
-- <time>Dec 25, 2023</time> CSS, my old friend.
-
-- <time>Dec 22, 2023-Dec 24, 2023</time> Bug resolved! On to the next step.
-
-- <time>Dec 19, 2023-Dec 21, 2023</time> Continued with checking the database implementation.
-
-- <time>Dec 18, 2023</time> Finished setting up the new build and got back to someone! Excited to get to work.
-
-<hr />
-
-## <span id="ukulele">Ukulele</span>
-
-<small>Nov 26, 2023-present</small>  
-<small>Just for some fun, I practice the ukulele every morning.</small>
-
-<hr />
-<small>Ukulele's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Nov 27, 2023-Dec 24, 2023</time> Learnt a lot of songs: Postcards from Italy - Beirut, worldstar money (interlude) - Joji, Forrest Gump - Frank Ocean, Vance Joy - Riptide, Nothing Else Matters (Intro) - Metallica, Go with the Flow - Queens of the Stone Age and Losing My Religion - R.E.M.
-
-- <time>Nov 26, 2023</time> I think I've gotten "Going to California" by Led Zeppelin fully down now.
-
-<hr />
-
 ## <span id="oss">Offline Streaming Systems</span>
 
 <small>Nov 11, 2023-present</small>  
@@ -302,7 +173,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 10, 2024-Jul 10, 2024</time> Turns out, that really interesting person sparked new life into this project!
+- <time>Jun 10, 2024-Jul 19, 2024</time> Turns out, that really interesting person sparked new life into this project!
 
 - <time>May 19, 2024-Jun 09, 2024</time> Meeting(s) + met a really interesting person!
 
@@ -340,59 +211,6 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-## <span id="oceanbusters">Ocean Busters</span>
-
-<small>Jul 08, 2023-present</small>  
-<small>Currently a blog writer and editor at Ocean Busters, a new organisation dedicated to effectively tackling ocean pollution. Currently an occasional project.</small>
-
-<hr />
-
-#### Log
-
-- <time>May 11, 2024-Jul 10, 2024</time> Back to editing duty.
-
-- <time>May 04, 2024-May 05, 2024</time> Borders...
-
-- <time>May 03, 2024</time> Buttons are fixed!
-
-- <time>May 02, 2024</time> Back at it, been working on the website.
-
-- <time>Oct 12, 2023</time> Finished editing for this month!
-
-- <time>Sep 23, 2023</time> Finished editing for this month!
-
-- <time>Sep 19, 2023</time> Admin for this month.
-
-- <time>Aug 31, 2023</time> Done for this month!
-
-- <time>Aug 20, 2023</time> Always expect the unexpected.
-
-- <time>Aug 19, 2023</time> Submitted the blog post in record time.
-
-- <time>Aug 12, 2023-Aug 18, 2023</time> Working with my new blog writer for this month!
-
-- <time>Aug 07, 2023</time> August's theme has been announced!
-
-- <time>Jul 29, 2023</time> Finished the blog post with my blog writer!
-
-- <time>Jul 27, 2023-Jul 28, 2023</time> Reviewed the second draft. Nearly done (I think)!
-
-- <time>Jul 22, 2023-Jul 25, 2023</time> Reviewed the draft and added comments.
-
-- <time>Jul 21, 2023</time> Got the draft!
-
-- <time>Jul 14, 2023-Jul 20, 2023</time> Did some organisational work.
-
-- <time>Jul 13, 2023</time> Had a productive meeting.
-
-- <time>Jul 11, 2023-Jul 12, 2023</time> Meeting soon!
-
-- <time>Jul 09, 2023-Jul 10, 2023</time> Got in touch with my blog writer for this month (who's writing I'll be editing and proof-reading)
-
-- <time>Jul 08, 2023</time> Got accepted! Interesting to see where this project goes (especially considering my Cold Takes project has been inactive for about half a year).
-
-<hr />
-
 ## <span id="optx">[OptX](https://www.instagram.com/optx.uae/)</span>
 
 <small>Jan 04, 2023-present</small>  
@@ -402,7 +220,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 07, 2024-Jul 10, 2024</time> Some what back to it.
+- <time>May 07, 2024-Jul 19, 2024</time> Some what back to it.
 
 - <time>May 04, 2024</time> Discussions...
 
@@ -623,7 +441,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>Jun 02, 2024-Jul 10, 2024</time> Some interesting follow-ups!
+- <time>Jun 02, 2024-Jul 19, 2024</time> Some interesting follow-ups!
 
 - <time>May 25, 2024</time> Weekly check-in.
 
@@ -864,7 +682,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 27, 2024-Jul 10, 2024</time> It's very annoying to log this particular project.
+- <time>May 27, 2024-Jul 19, 2024</time> It's very annoying to log this particular project.
 
 - <time>May 26, 2024</time> Finished [Split String](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/python) in Python:
 ```py
@@ -1386,7 +1204,7 @@ function getCount(str) {
 
 #### Log
 
-- <time>Jun 06, 2024-Jul 10, 2024</time> Loads of problems.
+- <time>Jun 06, 2024-Jul 19, 2024</time> Loads of problems.
 
 - <time>Jun 05, 2024</time> Finished [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/):
 ```py
@@ -11447,965 +11265,153 @@ class Solution:
 - <time>Nov 13, 2021</time> Completed a few easy problems, but had to look at the solution for all of them.
 <hr />
 
-## Paused
-
-Watch this space.
-
-## Occasional
+## Completed
 
 <hr />
 
-## <span id="drums">Drums</span>
+## <span id="ai-plans">[AI Plans](https://ai-plans.com)</span>
 
-<small>Aug 02, 2022-present</small>  
-<small>Trying to get better every day and have some fun as well! Currently an occasional project.</small>
+<small>Dec 18, 2023-Jul 10, 2024</small>  
+<small>I was formerly an active member of the AI Plans dev team.</small>
 
 <hr />
-<small>Drums' start date is the date I started logging, not the date when the project started.</small>
+<small>AI Plans' start date is the date I started logging, not the date when the project started.</small>
 <hr />
 
 #### Log
 
-- <time>Dec 24, 2023</time> More acoustic drums should be there in hip-hop music, both live drums and drum machine samples can coexist!
+- <time>May 19, 2024-Jul 10, 2024</time> Close call.
 
-- <time>Dec 07, 2023-Dec 12, 2023</time> Learnt ~about two songs for, something!
+- <time>May 03, 2024-May 15, 2024</time> Conflict resolution + misc work.
 
-- <time>Nov 30, 2023</time> Recorded and uploading Clocks by Coldplay.
+- <time>Apr 26, 2024-May 02, 2024</time> Close!
 
-- <time>Nov 14, 2023</time> It's up!
+- <time>Apr 21, 2024-Apr 25, 2024</time> Back from the dead.
 
-- <time>Nov 11, 2023-Nov 13, 2023</time> Recorded a song that a couple of my schoolmates and I are covering!
+- <time>Feb 19, 2024</time> ClickUp!
 
-- <time>Oct 07, 2023</time> Recorded Zero by The Smashing Pumpkins!
+- <time>Feb 09, 2024-Feb 16, 2024</time> Let me tell you one thing.
 
-- <time>Oct 07, 2023</time> Recorded Suck My Kiss by Red Hot Chili Peppers - really loved how this one came out!
+- <time>Feb 08, 2024</time> Lots of progress slated for tomorrow night!
 
-- <time>Sep 24, 2023</time> Do air drums count?
+- <time>Jan 26, 2024-Feb 08, 2024</time> And we're back on track.
 
-- <time>Sep 23, 2023</time> Recorded Rope by Foo Fighters! (finally)
+- <time>Jan 05, 2024-Jan 12, 2024</time> More progress!
 
-- <time>Sep 22, 2023</time> Recorded Rock and Roll by Led Zeppelin!
+- <time>Jan 05, 2024</time> Done! (well, my part at least)
 
-- <time>Sep 19, 2023</time> Played the acoustic drum kit in school!
+- <time>Jan 04, 2024</time> Added another part!
 
-- <time>Sep 17, 2023</time> Almost recorded Rope by Foo Fighters.
+- <time>Dec 30, 2023</time> Squash the bugs.
 
-- <time>Sep 05, 2023-Sep 10, 2023</time> Recorded Heartbreaker by Led Zeppelin.
+- <time>Dec 29, 2023</time> Making progress.
 
-- <time>Sep 04, 2023</time> I think I made my teacher proud!
+- <time>Dec 28, 2023</time> PR! (x2)
 
-- <time>Sep 04, 2023</time> Played Summer of 69' by Bryan Adams for tomorrow.
+- <time>Dec 27, 2023</time> CSS, my old friend. (x2)
 
-- <time>Sep 03, 2023</time> I am Iron Man. Also, Heartbreaker! Will finish learning it by Friday.
+- <time>Dec 26, 2023</time> PR!
 
-- <time>Aug 21, 2023</time> Finished an audition.
+- <time>Dec 25, 2023</time> CSS, my old friend.
 
-- <time>Aug 20, 2023</time> Messed around with some blink-182 and Van Halen.
+- <time>Dec 22, 2023-Dec 24, 2023</time> Bug resolved! On to the next step.
 
-- <time>Aug 12, 2023-Aug 17, 2023</time> Finished Grade 3 for the most part (one song is left I believe) and blink-182!
+- <time>Dec 19, 2023-Dec 21, 2023</time> Continued with checking the database implementation.
 
-- <time>Aug 11, 2023</time> Recorded Smells Like Teen Spirit by Nirvana.
-
-- <time>Aug 07, 2023</time> Recorded Come Together by The Beatles.
-
-- <time>Jul 31, 2023-Aug 06, 2023</time> Continuing to learn Sweet Child O' Mine by Guns N' Roses.
-
-- <time>Jul 29, 2023-Jul 30, 2023</time> Learnt Weird Fishes/ Arpeggi by Radiohead.
-
-- <time>Jul 28, 2023</time> Los.
-
-- <time>Jul 27, 2023</time> 'Breed' by Nirvana is quite a fun song to play.
-
-- <time>Jul 26, 2023</time> Played the intro to Toxicity and shared it.
-
-- <time>Jul 24, 2023</time> Learnt Boulevard of Broken Dreams and I Believe I'll Dust My Broom
-
-- <time>Jul 21, 2023-Jul 23, 2023</time> "I've given.... UUUUUPPPP!"
-
-- <time>Jul 17, 2023-Jul 20, 2023</time> Back to playing random songs, 'Los' is quite fun to play! Turns out that I broke my snare pad, so swapped with a tom pad. Works.
-
-- <time>Jul 16, 2023</time> Played 'Chop Suey!' by System of a Down and shared it to the interwebs.
-
-- <time>Jul 11, 2023-Jul 15, 2023</time> So much fun just playing random songs (mostly by a certain NDH band). Going to record a little something tomorrow.
-
-- <time>Jul 08, 2023</time> Played some Radiohead songs. This is a lot more fun than I remember!
-
-- <time>Dec 20, 2022</time> Sort of messed around for a bit.
-
-- <time>Aug 13, 2022</time> Played [Fever by The Black Keys](https://www.youtube.com/watch?v=tk5m_TAD_AM).
-
-- <time>Aug 12, 2022</time> Played [I Want to Break Free by Queen](https://www.youtube.com/watch?v=wIqa9uVnXCQ).
-
-- <time>Aug 06, 2022</time> Finished learning Back in Black by AC/DC. The snare-kick-hi-hat pattern was the only thing I had to get down.
-
-- <time>Aug 04, 2022</time> Played [Back in Black by AC/DC](https://www.youtube.com/watch?v=pAgnJDJN4VA).
-
-- <time>Aug 02, 2022</time> Played [Yellow by Coldplay](https://www.youtube.com/watch?v=fviwj5P1FCc).
+- <time>Dec 18, 2023</time> Finished setting up the new build and got back to someone! Excited to get to work.
 
 <hr />
 
-## <span id="guitar">Guitar</span>
+## <span id="aisfg">[AI Safety Fundamentals: Governance Course](https://aisafetyfundamentals.com/)</span>
 
-<small>Oct 29, 2021-present</small>  
-<small>Trying to learn acoustic guitar via [justinguitar.com](https://justinguitar.com). Currently inactive/paused.</small>
+<small>Mar 21, 2023-Jul 10, 2024</small>  
+<small>I was a fellow for AISF Governance 2024! I finished my project a bit later on however due to other commitments.</small>
 
 <hr />
-<small>Guitar's start date is the date I started logging, not the date when the project started.</small>
+<small>AI Safety Fundamentals: Governance Course's start date is the date I started logging, not the date when the project started.</small>
 <hr />
 
 #### Log
 
-- <time>Sep 16, 2022</time> Learnt [some open 7th chords](https://www.justinguitar.com/guitar-lessons/open-7th-chords-bg-1301).
+- <time>Jun 05, 2024-Jul 10, 2024</time> Eighth session done! On to the project.
 
-- <time>Sep 03, 2022</time> (Tried) to learn [Hey You](https://www.youtube.com/watch?v=soL8JK6kALc) by Pink Floyd.
+- <time>May 29, 2024</time> Seventh session done!
 
-- <time>Aug 17, 2022</time> Freestyled to ease back in.
+- <time>May 22, 2024</time> Couldn't make it for the sixth, oh well.
 
-- <time>Aug 03, 2022</time> Continued with Module 4 practice.
+- <time>May 15, 2024</time> Fifth session done! Should have prepared more.
 
-- <time>Aug 01, 2022</time> "Learnt" [the intro to Chop Suey!](https://www.youtube.com/watch?v=EjQxA7ulTdM) Drop C tuning is awesome.
+- <time>May 08, 2024</time> Fourth session done! Debate was fun.
 
-- <time>Jul 28, 2022</time> Practiced a sliding power chord song that was recommended to us (why do almost all of them have iffy names?)
+- <time>May 01, 2024</time> Third session done!
 
-- <time>Jul 27, 2022</time> Got started with Module 4 practice.
+- <time>Apr 24, 2024</time> Second session done!
 
-- <time>Jul 26, 2022</time> Finished learning [an easier version of Enter Sandman](https://www.youtube.com/watch?v=j7GCEY1TALw).
+- <time>Mar 22, 2024-Apr 19, 2024</time> Icebreaker + First session done!
 
-- <time>Jul 25, 2022</time> "Finished" with the Module 5 videos (sort of just skipped a few) and will get started with the practice tomorrow.
-
-- <time>Jul 20, 2022</time> Played an electric guitar for the first time!
-- <time>Jul 08, 2022</time> Finished [a short video](https://www.justinguitar.com/guitar-lessons/awesome-power-chord-songs-bg-1207) in the module. I guess I've been less motivated to continue with this module since it's so electric guitar focused (though maybe I'm wrong and my skill is to blame here, not the acoustic)
-
-- <time>Jul 04, 2022</time> Sort of continued with the riff.
-
-- <time>Jul 03, 2022</time> Learnt the first part of the first part of the [Enter Sandman riff](https://www.justinguitar.com/guitar-lessons/enter-sandman-bg-1205).
-
-- <time>Jul 02, 2022</time> Finished with [Palm Muting](https://www.justinguitar.com/guitar-lessons/palm-muting-bg-1203) and [Understanding Distortion](https://www.justinguitar.com/guitar-lessons/understanding-distortion-bg-1204). This module is irritating if you're using an acoustic. Why do you have to be so cool, electric?.
-
-- <time>Jun 27, 2022</time> Finished with [The Am Pentatonic Scale](https://www.justinguitar.com/guitar-lessons/the-a-minor-pentatonic-bg-1202).
-
-- <time>Jun 26, 2022</time> Finished with Power Chords (and sort of learnt [Smells Like Teen Spirit](https://www.youtube.com/watch?v=JirXTmnItd4)?)
-
-- <time>Jun 25, 2022</time> Got started with [Power Chords](https://www.justinguitar.com/guitar-lessons/power-chords-bg-1201).
-
-- <time>Jun 18, 2022</time> Six days... Finished with the second iteration of Module 4 practice.
-
-- <time>Jun 12, 2022</time> Continued with the second iteration of Module 4 practice. I finally understood why my guitar improv is so bad: I keep trying to play odd patterns.
-
-- <time>Jun 11, 2022</time> Continued with the second iteration of Module 4 practice.
-
-- <time>Jun 09, 2022</time> Got started with the second iteration of Module 4 practice.
-
-- <time>Jun 08, 2022</time> Finished with the first iteration of Module 4 practice.
-
-- <time>Jun 06, 2022</time> Continued with the first iteration of Module 4 practice.
-
-- <time>Jun 05, 2022</time> Got my guitar repaired!
-
-- <time>May 28, 2022</time> Continued with the first iteration of Module 4 practice, will be done with it tomorrow (welp, a guitar string broke again, so I'll try my best to get back to the practice ASAP).
-
-- <time>May 26, 2022</time> Finished with the Module 4 videos and got started with the first iteration of Module 4 practice. I think I'm going to increase the number of iterations to three.
-
-- <time>May 25, 2022</time> Finished [dice songwriting](https://www.justinguitar.com/guitar-lessons/introduction-to-dice-songwriting-bg-1108). Really fun lesson! (even though I didn't do too much lol)
-
-- <time>May 24, 2022</time> Finished learning about [the songs for this module](https://www.justinguitar.com/guitar-lessons/songs-for-module-11-bg-1107) (excited for the fingerstyle songs for the first iteration).
-
-- <time>May 23, 2022</time> Finished [some ear training](https://www.justinguitar.com/guitar-lessons/re-active-listening-bg-1104), felt pretty disheartened after getting the last exercise wrong.
-
-- <time>May 22, 2022</time> Had fun with [this lesson](https://www.justinguitar.com/guitar-lessons/chord-freedom-bg-1101).
-
-- <time>May 19, 2022</time> It took roughly a week but I can finally play Happy Birthday on my own!
-
-- <time>May 18, 2022</time> Hopefully I should be able to play it tomorrow...
-
-- <time>May 16, 2022</time> So close to playing Happy Birthday on my own!
-
-- <time>May 15, 2022</time> Continued with learning Happy Birthday, about two-thirds of the way there.
-
-- <time>May 13, 2022</time> Continued with learning Happy Birthday.
-
-- <time>May 12, 2022</time> Got started with learning [Happy Birthday](https://www.justinguitar.com/guitar-lessons/happy-birthday-finger-style-bg-1106) and had some fun with learning [All Falls Down](https://www.youtube.com/watch?v=gWxt9GAiKZo) (I guess I've learnt it? It sounds pretty bad though).
-
-- <time>May 11, 2022</time> Learnt more about [fingerstyle playing](https://www.justinguitar.com/guitar-lessons/finger-style-first-steps-bg-1105).
-
-- <time>May 10, 2022</time> Had fun playing How Much A Dollar Cost with [these chords](https://tabs.ultimate-guitar.com/tab/kendrick-lamar/how-much-a-dollar-cost-chords-1947283) (simplified) (only the F#, F and Dm sounded okay lol)
-
-- <time>May 09, 2022</time> Finished with [shifting the F chord](https://www.justinguitar.com/guitar-lessons/shifting-the-f-bg-1103). The way Justin played the F chord reminded me [How Much a Dollar Cost by Kendrick Lamar](https://www.youtube.com/watch?v=y8kEiL81_R4). I'm going to try to play that tomorrow.
-
-- <time>May 08, 2022</time> Got started with [Module 11 with some sus chords](https://www.justinguitar.com/guitar-lessons/beginner-sus-chords-bg-1102), I really like the transition from A sus2 to A sus4.
-
-- <time>May 06, 2022</time> Finished with the second iteration of Module 10 practice!
-
-- <time>May 05, 2022</time> Continued with the second iteration of Module 10 practice. Nearly done!
-
-- <time>May 04, 2022</time> Continued with the second iteration of Module 10 practice.
-
-- <time>May 03, 2022</time> Continued with the second iteration of Module 10 practice, I thought I forgot the C Major scale but nope, my guitar was just slightly out of tune lol.
-
-- <time>May 02, 2022</time> Got started with the second iteration of Module 10 practice.
-
-- <time>May 01, 2022</time> Finished with the first iteration of Module 10 practice! Also, small correction: I don't use the songbook tab on JustinGuitar.com (since it forces the song into three categories, which I don't like) and instead I just like the play-through video (which acts as a songbook).
-
-- <time>Apr 27, 2022</time> Continued with Module 10 practice and added two songs to my songbook!
-
-- <time>Apr 26, 2022</time> Continued with Module 10 practice, F (with bar) chord is shaping up to be pretty decent now (similar sounding to a Fmaj7) but the change from F to C is slow for me lol.
-
-- <time>Apr 23, 2022</time> Continued with Module 10 practice and did some really bad C Major improvisation (why did I choose the thinnest string?)
-
-- <time>Apr 22, 2022</time> Continued (?) with Module 10 practice.
-
-- <time>Apr 20, 2022</time> Finished with the Module 10 videos and got started with the first iteration of Module 10 practice (sort of, I need to start over with the C major scale alternate picking).
-
-- <time>Apr 19, 2022</time> Learnt some [common chord progressions](https://www.justinguitar.com/guitar-lessons/5-common-chord-progressions-bg-1011).
-
-- <time>Apr 17, 2022</time> Finished with La Bamba Riff (learnt the double note variation).
-
-- <time>Apr 16, 2022</time> Finished with [Beginner Hammer-ons](https://www.justinguitar.com/guitar-lessons/beginner-hammer-ons-bg-1008) which are super tricky and learnt the single note variation of the [La Bamba riff](https://www.justinguitar.com/guitar-lessons/la-bamba-riff-bg-1009), which is super awesome.
-
-- <time>Apr 15, 2022</time> Finished with [The Rhythm Push](https://www.justinguitar.com/guitar-lessons/the-rhythm-push-bg-1007) and also discovered that the 11th fret of the thinnest string sounds almost exactly like the "siren" sample in [Use This Gospel](https://www.youtube.com/watch?v=8yQVcGkbpAc).
-
-- <time>Apr 14, 2022</time> Finished with [Alternate Picking C Major](https://www.justinguitar.com/guitar-lessons/alternate-picking-c-major-bg-1005) and [Major Scale Improvisation](https://www.justinguitar.com/guitar-lessons/major-scale-improvisation-bg-1006) (really excited to start guitar improv in this module's practice!)
-
-- <time>Apr 13, 2022</time> Finished with [F chord changes](https://www.justinguitar.com/guitar-lessons/f-chord-changes-bg-1003) and [feeling the frets](https://www.justinguitar.com/guitar-lessons/feeling-the-frets-bg-1004).
-
-- <time>Apr 12, 2022</time> Learnt about the [weak finger G](https://www.justinguitar.com/guitar-lessons/weak-finger-g-bg-1001) (which I dislike, for now...) and the [A mini barre](https://www.justinguitar.com/guitar-lessons/first-finger-a-chord-bg-1002) (which I kinda dig)
-
-- <time>Apr 11, 2022</time> Finished the second iteration of Module 9 practice! Will start [Module 10](https://www.justinguitar.com/modules/alternate-gs-making-up-solos) tomorrow.
-
-- <time>Apr 10, 2022</time> Continued with the second iteration of Module 9 practice.
-
-- <time>Apr 09, 2022</time> Continued with the second iteration of Module 9 practice.
-
-- <time>Apr 08, 2022</time> Got started with the second iteration of Module 9 practice.
-
-- <time>Apr 07, 2022</time> Finished the first iteration of Module 9 practice, will start the second iteration tomorrow.
-
-- <time>Apr 06, 2022</time> I did it! I learnt the C Major Scale! I leveraged the previous pattern I learnt for the note circle.
-
-- <time>Apr 04, 2022</time> Continued with the first iteration of Module 9 practice and played [One by U2](https://www.youtube.com/watch?v=TBF_jCLO1l0).
-
-- <time>Apr 03, 2022</time> Continued with the first iteration of Module 9 practice. Something barely impressive: I can play the C-G-D-A-Em chord transition without looking at the guitar (kind of).
-
-- <time>Apr 01, 2022</time> Continued with the first iteration of Module 9 practice, the guitar chords Notion page is extremely handy!
-
-- <time>Mar 31, 2022</time> Revised the Em Pentatonic Scale.
-
-- <time>Mar 24, 2022</time> Continued with the first iteration of Module 9 practice.
-
-- <time>Mar 23, 2022</time> Got started with the first iteration of Module 9 practice.
-
-- <time>Mar 22, 2022</time> Finished with the Module 9 lessons, will be on the practice for some time (due to the C Major scale lol)
-
-- <time>Mar 21, 2022</time> Finished with the Red Hot Chili Peppers riff (minus the chords, might do that for fun).
-
-- <time>Mar 20, 2022</time> Got my guitar strings replaced, I've never heard a guitar so out of tune before lol.
-
-- <time>Mar 11, 2022</time> It wouldn't be a JustinGuitar module without an [odd finger training exercise](https://www.justinguitar.com/guitar-lessons/pinky-workout-b2-907). I was planning on finishing up [the Red Hot Chili Peppers riff today](https://www.justinguitar.com/guitar-lessons/californication-riff-b2-908) (since it's pretty easy) but my D string broke :(
-
-- <time>Mar 10, 2022</time> Finished with [more advanced 16th note strumming](https://www.justinguitar.com/guitar-lessons/ups-to-the-all-down-b2-906).
-
-- <time>Mar 09, 2022</time> Got done with compiling all the chords in a [Notion page](https://arjun-yadav.notion.site/Guitar-Chords-8f0d7c8cecd34495a8274b8f0ee3fa73?pvs=73).
-
-- <time>Mar 08, 2022</time> Changed my mind, [the C Major scale](https://www.justinguitar.com/guitar-lessons/c-major-scale-b2-905) got to me lol. I'll start the chord book work tomorrow.
-
-- <time>Mar 07, 2022</time> Finished with [All Stop Mute](https://www.justinguitar.com/guitar-lessons/all-stop-mute-b2-903) and [creating a chord book](https://www.justinguitar.com/guitar-lessons/your-chord-book-b2-904) (which I will do from tomorrow instead of the videos.)
-
-- <time>Mar 06, 2022</time> Finished with learning the F chord and [its variations](https://www.justinguitar.com/guitar-lessons/f-chord-cheats-b2-902). It honestly isn't _impossible_ but it certainly is tricky. Maybe I'm just lucky.
-
-- <time>Mar 03, 2022</time> Finished with the second iteration of Module 8 practice! Will start [Module 9 and the dreaded F chord](https://www.justinguitar.com/guitar-lessons/the-f-chord-b2-901) soon.
-
-- <time>Mar 02, 2022</time> Continued with the second iteration of Module 8 practice, nearly done.
-
-- <time>Mar 01, 2022</time> Continued with the second iteration of Module 8 practice.
-
-- <time>Feb 28, 2022</time> Started with the second iteration of Module 8 practice, why does my E min7 chord sound so bad?
-
-- <time>Feb 27, 2022</time> Finished with the first iteration of Module 8 practice! I'll start it all over again tomorrow.
-
-- <time>Feb 26, 2022</time> Continued with Module 8 practice.
-
-- <time>Feb 24, 2022</time> I think I'm done learning the riff! I'll check back tomorrow to see if I still remember it.
-
-- <time>Feb 23, 2022</time> Continued with the Wish You Were Here riff.
-
-- <time>Feb 22, 2022</time> I've been listening to Wish You Were Here by Pink Floyd in preparation for finishing the riff. I guess it helped a bit? Anyways, almost finished learning the riff and just a few more items are left for the first iteration of Module 1 practice!
-
-- <time>Feb 20, 2022</time> Continued with Module 8 practice.
-
-- <time>Feb 19, 2022</time> Continued with [Module 8](https://www.justinguitar.com/modules/cool-chords-fast-changes-scales) practice. I stink at Big G to D chord transitions.
-
-- <time>Feb 18, 2022</time> Memorized all the Stuck 3&4 chords!
-
-- <time>Feb 17, 2022</time> 3 days... Anyways, I've finished with all the content and I'll start with the practice tomorrow (for real this time!), it'll probably last ~2 weeks since I'll repeat it.
-
-- <time>Feb 13, 2022</time> Finished with the Wish You Were Here riff video, sort of got the introduction down. Will start the practice soon!
-
-- <time>Feb 12, 2022</time> Finished with [Notes in Open Position](https://www.justinguitar.com/guitar-lessons/notes-in-open-position-b2-809) and got started with the [Wish You Were Here riff](https://www.justinguitar.com/guitar-lessons/wish-you-were-here-riff-for-beginners-b2-808), the riff is super hard!
-
-- <time>Feb 11, 2022</time> Finished with [Pick Manipulation](https://www.justinguitar.com/guitar-lessons/pick-manipulation-b2-806).
-
-- <time>Feb 10, 2022</time> Finished with [All Down 8th Note Strumming](https://www.justinguitar.com/guitar-lessons/all-down-8th-note-strumming-b2-805), really had a lot fun today in this lesson! Strumming can sometimes be fun.
-
-- <time>Feb 09, 2022</time> Finished with [Muting Strings Deliberately](https://www.justinguitar.com/guitar-lessons/muting-strings-deliberately-b2-804).
-
-- <time>Feb 08, 2022</time> I have no excuses for not playing guitar for 4 days. Anyways, learnt about a [new exercise routine](https://www.justinguitar.com/guitar-lessons/perfect-fast-changes-b2-802) and the [Open Em Pentatonic scale](https://www.justinguitar.com/guitar-lessons/open-e-minor-pentatonic-scale-b2-803).
-
-- <time>Feb 04, 2022</time> Learnt [a ton of chord variations](https://www.justinguitar.com/guitar-lessons/the-stuck-3-4-chords-b2-801). Going to be slightly hard to remember and practice all of them :(
-
-- <time>Feb 02, 2022</time> Finished Module 7 practice. Going to start Grade 2 (in guitar!) on the weekend.
-
-- <time>Feb 01, 2022</time> It's been a while and I finished memorizing two more songs (mainly Mad World) and I only have two more before I finish all my pre-requisites! The memorizing and practising also continued my Module 7 practice.
-
-- <time>Jan 28, 2022</time> Continued with [Module 7](https://www.justinguitar.com/guitar-lessons/the-8-essential-beginner-chord-grips-b1-701)'s practice.
-
-- <time>Jan 26, 2022</time> Finished all the content of the last module for Grade 1 and got started with the practice, this (and the last pre-requisite) should be done in about 2 weeks time.
-
-- <time>Jan 25, 2022</time> Finished all the pre-requisites for Grade 2 except for memorizing the songs, still have 4-ish left.
-
-- <time>Jan 24, 2022</time> We did it! We'll soon be in [Grade 2](https://www.justinguitar.com/classes/beginner-guitar-course-grade-two) after I complete the pre-requisites and the practice for this module.
-
-- <time>Jan 23, 2022</time> Learnt about the extra modules that JustinGuitar provides (outside of the grades).
-
-- <time>Jan 22, 2022</time> Learnt more about [Dynamics](https://www.justinguitar.com/guitar-lessons/dynamic-improvements-b1-706).
-
-- <time>Jan 21, 2022</time> Learnt about [open strings between chord changes](https://www.justinguitar.com/guitar-lessons/open-strings-between-changes-b1-704) and [feel good strumming](https://www.justinguitar.com/guitar-lessons/feel-good-strumming-b1-705).
-
-- <time>Jan 20, 2022</time> Learnt about the [best chord changes to practice](https://www.justinguitar.com/guitar-lessons/best-chord-changes-to-work-on-b1-702) and [air changes](https://www.justinguitar.com/guitar-lessons/air-changes-aspire-to-this-b1-703).
-
-- <time>Jan 19, 2022</time> Started the last module with [a revision on the 8 basic chords](https://www.justinguitar.com/guitar-lessons/the-8-essential-beginner-chord-grips-b1-701).
-
-- <time>Jan 18, 2022</time> Finished with the second iteration of practice (!) and practised Mad World. Will start the last module of Grade 1 tomorrow.
-
-- <time>Jan 17, 2022</time> Continued with the second iteration of practice and Hey Joe. Nearly done.
-
-- <time>Jan 16, 2022</time> Continued with the second iteration of practice and Hey Joe.
-
-- <time>Jan 15, 2022</time> Started the second iteration of practice and added Hey Joe and [Mad World](https://www.youtube.com/watch?v=4N3N1MlvVc4) to my songbook!
-
-- <time>Jan 14, 2022</time> Finished Module 6 practice and played quite alright for this module's song, [Hey Joe](https://www.youtube.com/watch?v=rXwMrBb2x1Q).
-
-- <time>Jan 13, 2022</time> Continued with Module 6 practice, I only have the song practice left!
-
-- <time>Jan 11, 2022</time> Continued with Module 6 practice.
-
-- <time>Jan 10, 2022</time> Started with Module 6 practice. After this and the second iteration, I will have moved on to the last module of [Grade 1](https://www.justinguitar.com/classes/beginner-guitar-course-grade-one)!
-
-- <time>Jan 08, 2022</time> Finished [Module 6](https://www.justinguitar.com/modules/beginner-guitar-lesson-6)! Will start the practice soon.
-
-- <time>Jan 07, 2022</time> Learnt a [strumming pattern in 6:8 timing](https://www.justinguitar.com/guitar-lessons/a-6-8-strumming-pattern-b1-604) and [string names](https://www.justinguitar.com/guitar-lessons/open-string-note-names-b1-605).
-
-- <time>Jan 06, 2022</time> Learnt about [6:8 timing](https://www.justinguitar.com/guitar-lessons/about-time-signatures-b1-603).
-
-- <time>Jan 05, 2022</time> Learnt about [alternate picking](https://www.justinguitar.com/guitar-lessons/beginner-alternate-picking-b1-601) and a [variation of the G chord](https://www.justinguitar.com/guitar-lessons/the-g-chord-hacked-b1-602).
-
-- <time>Jan 04, 2022</time> Finished the second iteration of practice and added [Black](https://www.youtube.com/watch?v=4q9UafsiQ6k) to my songbook!
-
-- <time>Jan 03, 2022</time> Only song practice is left for the second iteration of practice! Also, I am very bad at transitioning from C chord to E chord.
-
-- <time>Jan 02, 2021</time> Continued the second iteration of practice.
-
-- <time>Jan 01, 2021</time> Sorry, I forgot what tomorrow meant, anyways, I started with the second iteration with the odd finger stretching exercise and the riff practice, will continue with the iteration tomorrow...
-
-- <time>Dec 29, 2021</time> Completed the first iteration! Will start the Module 5 practice once again tomorrow.
-
-- <time>Dec 28, 2021</time> Continued with Module 5 practice. Only song practice is left for iteration 1.
-
-- <time>Dec 27, 2021</time> Continued with Module 5 practice.
-
-- <time>Dec 26, 2021</time> Started with Module 5 practice.
-
-- <time>Dec 25, 2021</time> Finished Module 5, will take the next week solely for practice. Also going to build a songbook next week.
-
-- <time>Dec 24, 2021</time> Watched the [Songs For Module 5](https://www.justinguitar.com/guitar-lessons/songs-for-module-5-b1-507) video and tried my hands at [Daft Punk](https://www.youtube.com/watch?v=5NV6Rdv1a3I), let's just say that I'll be practising Daft Punk for a while...
-
-- <time>Dec 23, 2021</time> Learnt about [music theory and notes in guitar](https://www.justinguitar.com/guitar-lessons/understanding-music-notes-b1-504).
-
-- <time>Dec 22, 2021</time> Learnt [more about strumming](https://www.justinguitar.com/guitar-lessons/exploring-strumming-b1-503).
-
-- <time>Dec 21, 2021</time> Learnt the [Come As You Are riff](https://www.justinguitar.com/guitar-lessons/riff-come-as-you-are-b1-506).
-
-- <time>Dec 20, 2021</time> Finished with Justin's strumming tips.
-
-- <time>Dec 18, 2021</time> Got a little more than half-way through with [Justin's strumming tips](https://www.justinguitar.com/guitar-lessons/guitar-strumming-tips-b1-502).
-
-- <time>Dec 16, 2021</time> Learnt [the C Chord](https://www.justinguitar.com/guitar-lessons/the-c-chord-b1-501).
-
-- <time>Dec 15, 2021</time> Finished the second iteration of Module 4 practice and played 505 and Chocolate Jesus! I'll start [Module 5](https://www.justinguitar.com/modules/c-chord-music-notes-more) tomorrow.
-
-- <time>Dec 13, 2021</time> Continued with Module 4 practice, nearly done!
-
-- <time>Dec 12, 2021</time> Started with the second iteration of Module 4 practice.
-
-- <time>Dec 10, 2021</time> Finished the first iteration of Module 4 practice, had fun playing 505 and [Chocolate Jesus](https://www.youtube.com/watch?v=1wfamPW3Eaw).
-
-- <time>Dec 09, 2021</time> Continued with Module 4 Practice, I'll probably finish with this practice after I do the whole thing twice.
-
-- <time>Dec 08, 2021</time> Website is back up and continued with [Module 4](https://www.justinguitar.com/modules/using-a-metronome-riffs-and-tab) practice.
-
-- <time>Dec 06, 2021</time> Continued with 505 as the website is still broken.
-
-- <time>Dec 05, 2021</time> Sort of freestyled a bit since the website seems to be broken.
-
-- <time>Dec 03, 2021</time> Continued with 505, the strumming pattern is hard to master!
-
-- <time>Dec 02, 2021</time> Continued with 505.
-
-- <time>Dec 01, 2021</time> Started learning [505 by Arctic Monkeys](https://www.youtube.com/watch?v=qU9mHegkTc4) as part of my guitar practice, really nice song.
-
-- <time>Nov 30, 2021</time> Learnt [the riff to Sunshine Of Your Love by Cream](https://www.justinguitar.com/guitar-lessons/sunshine-of-your-love-b1-406), hoping to learn much more in December.
-
-- <time>Nov 29, 2021</time> Learnt about the [most common strumming patter in guitar](https://www.justinguitar.com/guitar-lessons/the-strumming-pattern-b1-404).
-
-- <time>Nov 28, 2021</time> Learnt about the [metronome](https://www.justinguitar.com/guitar-lessons/meet-the-metronome-b1-403) in guitar.
-
-- <time>Nov 27, 2021</time> Learnt the [D Minor chord](https://www.justinguitar.com/guitar-lessons/the-d-minor-chord-b1-402), really cool chord! Sounds much moodier than the other minor chords I've learnt.
-
-- <time>Nov 25, 2021</time> Continued with JustinGuitar and [learnt about this odd finger stretching exercise](https://www.justinguitar.com/guitar-lessons/beginner-finger-stretches-b1-401).
-
-- <time>Nov 22, 2021</time> Went back to Three Little Birds.
-
-- <time>Nov 21, 2021</time> Freestyled for a bit.
-
-- <time>Nov 19, 2021</time> Easing back into guitar.
-
-- <time>Nov 07, 2021</time> Finishing the whole practice was way too ambitious. I could only get done with the Seven Nation Army riff practice.
-
-- <time>Nov 06, 2021</time> Finished with Three Little Birds, hope to finish [Module 3](https://www.justinguitar.com/modules/minor-chords-and-up-strums) practice tomorrow.
-
-- <time>Nov 05, 2021</time> Continued with Three Little Birds, the A to E to D transition is really hard.
-
-- <time>Nov 04, 2021</time> Continued with Three Little Birds.
-
-- <time>Nov 03, 2021</time> Practiced [Three Little Birds by Bob Marley](https://www.youtube.com/watch?v=HNBCVM4KbUM). Beautiful song!
-
-- <time>Nov 02, 2021</time> Been some time, and learnt the [Seven Nation Army riff](https://www.justinguitar.com/guitar-lessons/seven-nation-army-b1-309).
-
-- <time>Oct 30, 2021</time> Learnt about [strumming with up strums, and using it after the 2nd beat](https://www.justinguitar.com/guitar-lessons/strumming-patterns-with-ups-b1-307).
-
-- <time>Oct 29, 2021</time> Learnt about [up strums](https://www.justinguitar.com/guitar-lessons/all-about-up-strums-b1-306).
-<hr />
-
-## Inactive
+- <time>Mar 21, 2024</time> Will officially in mid-April.
 
 <hr />
 
-## <span id="chess">[Chess](https://lichess.org/@/y_arjun_y)</span>
+## <span id="aisfa">[AI Safety Fundamentals: Alignment Course](https://aisafetyfundamentals.com/)</span>
 
-<small>Oct 28, 2021-present</small>  
-<small>Trying to get better at chess via practicing on [lichess](https://lichess.org). You can see all my games that I refer to [here](https://lichess.org/@/y_arjun_y/all). Previously, I practiced on [chess.com](https://chess.com). Currently inactive.</small>
+<small>Feb 29, 2023-Jul 10, 2024</small>  
+<small>I was a fellow for AISF Alignment 2024! I finished my project a bit later on however due to other commitments.</small>
 
 <hr />
-<small>Chess's start date is the date I started logging, not the date when the project started.</small>
+<small>AI Safety Fundamentals: Alignment Course's start date is the date I started logging, not the date when the project started.</small>
 <hr />
 
 #### Log
 
-- <time>Sep 30, 2022</time> [Interesting queen sacrifice](https://lichess.org/3pQlaLpP)?
+- <time>May 11, 2024-Jul 10, 2024</time> Couldn't attend the rest of the sessions, but will finish my project.
 
-- <time>Sep 25, 2022</time> [Why didn't I see the knight for move 18](https://lichess.org/YkihwvUv75yf)?
+- <time>May 10, 2024</time> Session 8 done!
 
-- <time>Sep 18, 2022</time> [What a terrible middlegame lol](https://lichess.org/5QgJw2gx).
+- <time>Apr 27, 2024</time> Session 7 done! That's the learning part done, now time to work on my project.
 
-- <time>Sep 16, 2022</time> [Oops](https://lichess.org/fcnivxJg).
+- <time>Apr 20, 2024</time> Session 6 done!
 
-- <time>Sep 10, 2022</time> [?](https://lichess.org/zFoqiMsj)
+- <time>Apr 07, 2024-Apr 19, 2024</time> Covered up everything via two recap sessions!
 
-- <time>Aug 22, 2022</time> [Good game](https://lichess.org/wUWnxnr0/)! (I mean, it was barely passable at my end, but it was fun nonetheless)
+- <time>Apr 06, 2024</time> Had to skip session 4, but will cover up tomorrow!
 
-- <time>Aug 17, 2022</time> [Hmm](https://lichess.org/gKJgrr3O).
+- <time>Mar 30, 2024</time> Session 3 done!
 
-- <time>Aug 12, 2022</time> [11 blunders](https://lichess.org/96a0IFbf)!
+- <time>Mar 23, 2024</time> Session 2 done!
 
-- <time>Aug 07, 2022</time> This is, probably by a lot, [the most surprising checkmate I've received](https://lichess.org/VLZ8KdYlThwJ).
+- <time>Mar 16, 2024</time> Session 1 done!
 
-- <time>Aug 05, 2022</time> [I was **this** close to a checkmate and](https://lichess.org/qkecYsz9)...
+- <time>Mar 09, 2024</time> Session 0 done!
 
-- <time>Jul 31, 2022</time> [Sigh](https://lichess.org/Qp3Ydw1h).
-
-- <time>Jul 29, 2022</time> Decided to play sort of fast and loose with [this game](https://lichess.org/2cs4kdik0fxR), turns out I was _too_ fast and loose.
-
-- <time>Jul 24, 2022</time> I'm very angry with myself over [this game](https://lichess.org/XeJSNnRm4dws).
-
-- <time>Jul 20, 2022</time> I hate [unexpected checkmates](https://lichess.org/3T5gDELMTfXH).
-
-- <time>Jul 11, 2022</time> [Interesting game](https://lichess.org/rDjC0oG5/), made a lot of silly blunders.
-
-- <time>Jul 06, 2022</time> [An Antichess Tragedy](https://lichess.org/puOItG13/black). Will get back to regular chess tomorrow.
-
-- <time>Jun 26, 2022</time> [Absolutely no clue](https://lichess.org/pqDJpI96)
-
-- <time>Jun 24, 2022</time> [Rough game](https://lichess.org/i7vpImEA). I had like ~4 takebacks over move 15 lol.
-
-- <time>Jun 19, 2022</time> [Short and sweet](https://lichess.org/i7vpImEA).
-
-- <time>Jun 17, 2022</time> [~5 takebacks, pretty fun endgame](https://lichess.org/EgyZXQch/white).
-
-- <time>Jun 12, 2022</time> [Infinite Takebacks](https://lichess.org/yAlVZwn50kEX).
-
-- <time>Jun 10, 2022</time> [One pawn move ended the game for me lol](https://lichess.org/WpBVCKzo).
-
-- <time>Jun 05, 2022</time> [Drawtastic](https://lichess.org/doDkKQco/).
-
-- <time>Jun 03, 2022</time> [Saddest game ever](https://lichess.org/PQct3m2W). I couldn't save myself at some point even with takebacks.
-
-- <time>May 28, 2022</time> [A good game to end of the week](https://lichess.org/GXCRZmvP) (even though I lost).
-
-- <time>May 27, 2022</time> [Anitchess!](https://lichess.org/HRZsuTAD) (with a lot of takebacks, I'll get back to non-variant chess tomorrow)
-
-- <time>May 26, 2022</time> [Antichess!](https://lichess.org/JJN0JMOm)
-
-- <time>May 25, 2022</time> [Sometimes even takebacks can't save you from a terrible game](https://lichess.org/H7G28pQz).
-
-- <time>May 24, 2022</time> [Less than 20 moves lol](https://lichess.org/KKSIrpCF).
-
-- <time>May 23, 2022</time> [A near perfect game](https://lichess.org/KikhiqhZ/) (but not really, also 3 takebacks)
-
-- <time>May 22, 2022</time> Shockingly, [only 1 blunder](https://lichess.org/Q7XEKg6mwPrF) (though that's because it was so short lol)
-
-- <time>May 21, 2022</time> Played [a Chess960 game](https://lichess.org/IoQY2wWPLSGP) for fun.
-
-- <time>May 20, 2022</time> Another [Antichess game](https://lichess.org/5XuI5yt3/).
-
-- <time>May 19, 2022</time> No clue what I was doing [here](https://lichess.org/Y5NjdSfUPQht).
-
-- <time>May 18, 2022</time> Again, had some fun with antichess (or Antichess?) ([1](https://lichess.org/auEtS0Q2DpGt), [2](https://lichess.org/C8tsL3q2/))
-
-- <time>May 17, 2022</time> Took me forever to checkmate with just a king and a queen, [but I did it](https://lichess.org/GE1wmusO)! (overall, with 1 takeback)
-
-- <time>May 16, 2022</time> [A pretty humiliating defeat](https://lichess.org/YnThdAwC1whT).
-
-- <time>May 15, 2022</time> [So close, yet so far](https://lichess.org/ikwCysD1/).
-
-- <time>May 14, 2022</time> [??](https://lichess.org/CN2tFl9K5zWK)
-
-- <time>May 13, 2022</time> [?](https://lichess.org/k57tWxr1rFL6)
-
-- <time>May 12, 2022</time> [I stupidly stalemated after ~6 takebacks](https://lichess.org/mHdsSRo3).
-
-- <time>May 11, 2022</time> [Defeated Stockfish Level 4](https://lichess.org/IKQshfI3) with intense focus... and like 3 takebacks lol.
-
-- <time>May 10, 2022</time> [Drew Stockfish Level 4](https://lichess.org/2lojjiiC) with (very roughly) 15 takebacks.
-
-- <time>May 09, 2022</time> For some fun, I played an [Antichess](https://lichess.org/nq1ouE5CMjYS) and a [Chess960](https://lichess.org/E2RAI2Lm8qFN) game.
-
-- <time>May 08, 2022</time> [I liked this game a lot](https://lichess.org/VZNkBq9SqGQT) (even though I lost).
-
-- <time>May 07, 2022</time> [Went back to Level 3 for a game](https://lichess.org/Sjw5zGaS).
-
-- <time>May 06, 2022</time> [Oof](https://lichess.org/ubDbzVToEEN8).
-
-- <time>May 05, 2022</time> [I thought I played well in this game](https://lichess.org/ucqFj9yk/). Nope, 11 blunders (I also missed such an obvious check that could have potentially won the game).
-
-- <time>May 04, 2022</time> [Another win](https://lichess.org/fih99502)! (though I did takeback once)
-
-- <time>May 03, 2022</time> I got checkmated 3 times... ([1](https://lichess.org/vXVawh68BJmO), [2](https://lichess.org/HhSS3DsT1Rbx), [3](https://lichess.org/naFAOqR61XJP))
-- <time>May 02, 2022</time> [Back to being bad at chess](https://lichess.org/GSmnChPu).
-
-- <time>May 01, 2022</time> What a way to start off the month: [defeated Stockfish Level 4 without takebacks with the black pieces](https://lichess.org/3NcHqVM1/) (only 1 blunder from my side!)
-
-- <time>Apr 30, 2022</time> [That is certainly one way to end of the month](https://lichess.org/zNJYBuZj/).
-
-- <time>Apr 29, 2022</time> Two checkmates for the price of one: [1](https://lichess.org/Kke677aa0wul), [2](https://lichess.org/E9SB0eHPTbn2).
-
-- <time>Apr 28, 2022</time> [Stalemate after some takebacks](https://lichess.org/ssTgvmXno5Xz).
-
-- <time>Apr 27, 2022</time> [Played a blitz game against my friend](https://lichess.org/xJwvwn5y).
-
-- <time>Apr 26, 2022</time> [One of my shortest game ever](https://lichess.org/hsw1Ahwq) (also [drew Level 4 after a couple of takebacks](https://lichess.org/DOp6uGXV)).
-
-- <time>Apr 25, 2022</time> [Sort of didn't expect that](https://lichess.org/tA4Tj0yC3bx3).
-
-- <time>Apr 24, 2022</time> [I went from 3 pawns up to checkmate in like 15 moves](https://lichess.org/eScmA5Gt/) :(
-
-- <time>Apr 23, 2022</time> [Sigh](https://lichess.org/h8l6S4dz).
-
-- <time>Apr 22, 2022</time> [Rough game](https://lichess.org/b98zhIeb).
-
-- <time>Apr 21, 2022</time> I think I need to go back to Level 3.
-
-- <time>Apr 20, 2022</time> [Definitely doesn't count but still a fun game](https://lichess.org/L5E379tJ).
-
-- <time>Apr 19, 2022</time> [Only ~2 takebacks this time](https://lichess.org/uv5bB7OP)!
-
-- <time>Apr 18, 2022</time> [I won using the Tennison Gambit!](https://lichess.org/3hVwF3GxP5xS) (note: this doesn't count towards my battle against Stockfish Level 4 lol)
-
-- <time>Apr 17, 2022</time> [Sigh](https://lichess.org/nCWfEusDxGRY).
-
-- <time>Apr 16, 2022</time> [I think this one counts](https://lichess.org/mIHX8ii514Sz), I did takeback once but it was accidental.
-
-- <time>Apr 15, 2022</time> [Another game that doesn't really count because of takebacks](https://lichess.org/DwmZrFAH).
-
-- <time>Apr 14, 2022</time> [The uphill battle against Stockfish Level 4 is going to be a long one...](https://lichess.org/mDhrPoHpjsFE)
-
-- <time>Apr 13, 2022</time> [This WOULD have been my first win against Stockfish Level 4](https://lichess.org/anOmMF1T) if I hadn't taken back so many times in the endgame (still a fun game!)
-
-- <time>Apr 12, 2022</time> [Nice](https://lichess.org/YkoW8FUw).
-
-- <time>Apr 11, 2022</time> [With one take back, I got my revenge against Stockfish.](https://lichess.org/UVSVtH9k/)
-
-- <time>Apr 10, 2022</time> Sigh. ([1](https://lichess.org/HDJrnGzmtZw1), [2](https://lichess.org/dZp9iTRN5Nac))
-
-- <time>Apr 09, 2022</time> Played sort of absent-mindedly but here we are: [1](https://lichess.org/qtWsajtnYHld), [2](https://lichess.org/tep1fr7y9Ej0).
-
-- <time>Apr 08, 2022</time> [Sigh](https://lichess.org/hfP10Qiry8FK).
-
-- <time>Apr 07, 2022</time> [Ouch](https://lichess.org/auFUm9pP), I don't think there were any good moves at move 15 lol.
-
-- <time>Apr 06, 2022</time> [Possibly the wildest game I've ever played](https://lichess.org/QMhUWQ2Y). I was so close to losing and then I pulled up with the promotion that made me win with the black pieces!
-
-- <time>Apr 05, 2022</time> [I need to practice with the black pieces](https://lichess.org/AFzchdPIX70b) against Stockfish Level 3. [I'm fine with the white pieces](https://lichess.org/5WWgfcxNo3lC).
-
-- <time>Apr 04, 2022</time> [Maybe a simple 1. e4 with good opening principles and development is all you need at this level](https://lichess.org/dPXpnyW2wv3E).
-
-- <time>Apr 03, 2022</time> No idea what I did today for chess today. I need to change my opening repertoire.
-
-- <time>Apr 02, 2022</time> I present to you, [the biggest throw ever](https://lichess.org/IisosILB).
-
-- <time>Apr 01, 2022</time> [I feel like Stockfish wanted to throw an April Fools' Day joke at me...](https://lichess.org/YNk1DPtz)
-
-- <time>Mar 31, 2022</time> [Sigh](https://lichess.org/Uw3QuLpa).
-
-- <time>Mar 30, 2022</time> [I threw this game so badly lol](https://lichess.org/Zq3UitfH).
-
-- <time>Mar 29, 2022</time> Man, [I really lost my luck with the King's Indian Attack](https://lichess.org/vk4ykawkKQ9I).
-
-- <time>Mar 28, 2022</time> Not sure what I was doing today.
-
-- <time>Mar 27, 2022</time> [Stockfish Level 4 made me suffer in the last few moves](https://lichess.org/Wnc5FazT). We quickly went from the best game yet to possibly the worst game yet lol.
-
-- <time>Mar 26, 2022</time> [My best game yet with the King's Indian Setup](https://lichess.org/wBuMt14Y), no blunders and I never lost the advantage + didn't lose a forced checkmate sequence lol. Played a few other King's Indian Setups as well ([1](https://lichess.org/kNel3RsmqMzZ), [2](https://lichess.org/CTYOZMYD43bT))
-
-- <time>Mar 24, 2022</time> [I threw away a game so badly](https://lichess.org/J5UWKcCf) that I'm actually disappointed in myself. At least the King's Indian Setup has proven its worth to me with the white pieces.
-
-- <time>Mar 23, 2022</time> I think this will be my opening repertoire: black pieces with e4 will be the Caro-Kann Defense and anything else (white or black pieces) will mean the [King's Indian Setup](https://www.youtube.com/watch?v=kK0cq6UBt1Y) (need to study this one).
-
-- <time>Mar 22, 2022</time> [This game definitely doesn't count](https://lichess.org/I9LuxSgMDNQq) (took back a lot of blunders) but it was so calming to checkmate my opponent with three queens while listening to Pentatonic.
-
-- <time>Mar 21, 2022</time> [Explored the Blackmar-Diemer Gambit](https://lichess.org/Xc9lFTBf) (also this game doesn't count as a win because I used so many takebacks lol)
-
-- <time>Mar 20, 2022</time> [Explored Stockfish Level 4 with many takebacks](https://lichess.org/ONdJj5ni).
-
-- <time>Mar 19, 2022</time> Never mind. ([1](https://lichess.org/SpRBdlSncvt3), [2](https://lichess.org/q8ZmSMxcg74v))
-- <time>Mar 18, 2022</time> [Time to move on to Level 4?](https://lichess.org/uPYtO4TB/white#107)
-
-- <time>Mar 17, 2022</time> I was trying out the [Italian Game](https://www.chess.com/openings/Italian-Game) and [I got this gem of a game](https://lichess.org/YD5Pn3BV/), so I guess my opening with the white pieces is now the Italian Game? Need to study it for some time.
-
-- <time>Mar 16, 2022</time> [Had no clue what I was doing with the London System](https://lichess.org/8bDyoPeDvpO4).
-
-- <time>Mar 15, 2022</time> [Saddest game yet?](https://lichess.org/ZmFrvgiAxmp5)
-
-- <time>Mar 14, 2022</time> [My best worst game ever](https://lichess.org/fq9QmZ1Sw5Ch). I thought I was being smart with the pawn promotion sacrifice but nope.
-
-- <time>Mar 13, 2022</time> Haha! [Pawn to knight promotion leads to checkmate](https://lichess.org/JegQsvaRNl86) (Note: I did do a couple of take backs).
-
-- <time>Mar 12, 2022</time> Yeah, that game didn't go too well... Also played a few random games against bots for fun.
-
-- <time>Mar 11, 2022</time> Started learning the [Giuoco Piano](https://www.chess.com/article/view/giuoco-piano-chess-opening) opening and [I got pretty far with it against Stockfish Level 3](https://lichess.org/SapRQi1L).
-
-- <time>Mar 10, 2022</time> [Lost against my classmate after exchange variation](https://lichess.org/HAQ06c9b/). I thought move 22 was sort of smart but nope it was a blunder lol.
-
-- <time>Mar 09, 2022</time> [This is most definitely the best game I've ever played so far](https://lichess.org/CqVRzsEy). Only one blunder with the Caro-Kann exchange variation and man was the endgame fun.
-
-- <time>Mar 08, 2022</time> [What a game](https://lichess.org/RaKOMjdW).
-
-- <time>Mar 07, 2022</time> Just sort of fooled around a bit. Second game wasn't too horrible (but I had no idea how to continue), [1](https://lichess.org/OtB1RmQBwona), [2](https://lichess.org/j6nnPFlM).
-
-- <time>Mar 06, 2022</time> [Stockfish Level 2](https://lichess.org/9I8onA5B) is too easy and level 3 is too "meh" (can sometimes win if I'm focused) and I've noticed that very low rated bots just give up their queens sometimes.
-
-- <time>Mar 05, 2022</time> [Resigned after losing my queen](https://lichess.org/O1I8KDut), though I performed a "push" variation of the Caro-Kann without referring back to the video!
-
-- <time>Mar 04, 2022</time> Lost that game and played my [most humiliating game yet](https://lichess.org/bWdVW8XW).
-
-- <time>Mar 03, 2022</time> [Started an interesting exchange variation](https://lichess.org/5xod7PlS), I have no idea where to go from here.
-
-- <time>Mar 02, 2022</time> [Quick death for me after a rook blunder on my side](https://lichess.org/oYGKOnah).
-
-- <time>Mar 01, 2022</time> Finished yesterday's game, did not go well.
-
-- <time>Feb 28, 2022</time> [Started a really interesting game after the classical variation](https://lichess.org/TzlTqMPh/black).
-
-- <time>Feb 27, 2022</time> [Resigned after advanced variation](https://lichess.org/15bmgKkj).
-
-- <time>Feb 26, 2022</time> [Exchange variation which led to me getting checkmated](https://lichess.org/CkUjsYND).
-
-- <time>Feb 25, 2022</time> [This game with the Caro-Kann defense was rough](https://lichess.org/kU0wRiiR7Gfz).
-
-- <time>Feb 24, 2022</time> [First win after learning the Caro-Kann defense](https://lichess.org/AaDNOf1o)!
-
-- <time>Feb 23, 2022</time> [Lost to Stockfish Level 3 after the advanced variation](https://lichess.org/GSOkSqqtrV4v).
-
-- <time>Feb 22, 2022</time> Continued learning the advanced variation.
-
-- <time>Feb 21, 2022</time> Continued learning the advanced variation.
-
-- <time>Feb 20, 2022</time> [Got checkmated after Caro-Kann defense](https://lichess.org/mktV30iE).
-
-- <time>Feb 19, 2022</time> [This one](https://lichess.org/FswbwI7V) is just funny, got checkmated in 20 moves lol.
-
-- <time>Feb 18, 2022</time> Learnt some lines against the Fanatasy Caro-Kann variation.
-
-- <time>Feb 17, 2022</time> [Lost very badly after the white pawn pushed](https://lichess.org/9Ksu9gK8).
-
-- <time>Feb 16, 2022</time> [Lost badly after a classical variation](https://lichess.org/mpHlY3Jp).
-
-- <time>Feb 15, 2022</time> [This may be the angriest I've been with myself over a chess game](https://lichess.org/bXJDmXL0hwOp). Two major blunders from a Caro-Kann opening.
-
-- <time>Feb 14, 2022</time> [Continued with the Caro-Kann Defense](https://lichess.org/o0Wpu0Dg).
-
-- <time>Feb 13, 2022</time> Continued with the Caro-Kann Defense.
-
-- <time>Feb 12, 2022</time> Continued with the Caro-Kann Defense.
-
-- <time>Feb 11, 2022</time> Continued with the Caro-Kann Defense.
-
-- <time>Feb 10, 2022</time> Continued with the Caro-Kann Defense.
-
-- <time>Feb 09, 2022</time> Started learning [the Caro-Kann Defense via GothamChess](https://www.youtube.com/watch?v=ebfzL_GwiIE) and (sort of) [played it against Stockfish Level 1](https://lichess.org/RyNrtNW2B3q7).
-
-- <time>Feb 08, 2022</time> For fun, I played against Stockfish Level 4 twice ([1](https://lichess.org/BZsxD5VrVPL1), [2](https://lichess.org/AOpeeeDwoC3l)). Will learn an opening tomorrow and practice it against Level 3 and 4.
-
-- <time>Feb 07, 2022</time> Finished with Knight & Bishop Mate, which means I've finished the whole practice section!
-
-- <time>Feb 06, 2022</time> Finished with 7th Rank Rook Pawn (Passive)!
-
-- <time>Feb 05, 2022</time> Started with [7th Rank Rook Pawn (Passive)](https://lichess.org/practice/rook-endgames/7th-rank-rook-pawn/).
-
-- <time>Feb 04, 2022</time> Finished with 7th Rank Rook Pawn!
-
-- <time>Feb 03, 2022</time> Continued with 7th Rank Rook Pawn. Will be done with this tomorrow!
-
-- <time>Feb 02, 2022</time> Continued with 7th Rank Rook Pawn. Nearly done.
-
-- <time>Feb 01, 2022</time> Continued with 7th Rank Rook Pawn.
-
-- <time>Jan 31, 2022</time> Continued with 7th Rank Rook Pawn.
-
-- <time>Jan 30, 2022</time> Started with [7th-Rank Rook Pawn](https://lichess.org/practice/pawn-endgames/7th-rank-rook-pawn/), this section is quite long!
-
-- <time>Jan 29, 2022</time> Finished Opposition, really cool practice section!
-
-- <time>Jan 28, 2022</time> Finished [the Direct Opposition part of Opposition](https://lichess.org/practice/pawn-endgames/opposition/).
-
-- <time>Jan 27, 2022</time> Finished with Key Squares.
-
-- <time>Jan 26, 2022</time> Started with [Key Squares](https://lichess.org/practice/pawn-endgames/key-squares/).
-- <time>Jan 25, 2022</time> Continued with my Knight and Bishop Mate lesson.
-
-- <time>Jan 24, 2022</time> Finished with [Desperado](https://lichess.org/practice/intermediate-tactics/desperado/).
-
-- <time>Jan 23, 2022</time> Finished with [Deflection](https://lichess.org/practice/intermediate-tactics/deflection/).
-
-- <time>Jan 22, 2022</time> Finished with [Attraction](https://lichess.org/practice/intermediate-tactics/attraction)
-
-- <time>Jan 21, 2022</time> Finished with [Counter Check](https://lichess.org/practice/intermediate-tactics/counter-check/).
-
-- <time>Jan 20, 2022</time> Finished with [Undermining](https://lichess.org/practice/intermediate-tactics/undermining/).
-
-- <time>Jan 19, 2022</time> Finished with [X-Ray](https://lichess.org/practice/basic-tactics/x-ray/).
-
-- <time>Jan 18, 2022</time> Finished with [Interference](https://lichess.org/practice/intermediate-tactics/interference/), really interesting!
-
-- <time>Jan 17, 2022</time> Finished with [Zugzwang](https://lichess.org/practice/intermediate-tactics/zugzwang) (my new favourite word) and [Underpromotion](https://lichess.org/practice/intermediate-tactics/underpromotion)
-
-- <time>Jan 16, 2022</time> Finished with [Overloaded Pieces](https://lichess.org/practice/basic-tactics/overloaded-pieces/o734CNqp/TgeQz3DF) and got close, [but ultimately still resigned to Stockfish Level 4 after a long break](https://lichess.org/ngkPjQiq).
-
-- <time>Jan 15, 2022</time> Finished with [Double Check](https://lichess.org/practice/basic-tactics/double-check/RUQASaZm) and [Zwischenzug](https://lichess.org/practice/basic-tactics/zwischenzug/ITWY4GN2).
-
-- <time>Jan 14, 2022</time> Finished with Discovered Attacks.
-
-- <time>Jan 13, 2022</time> Started with Discovered Attacks.
-
-- <time>Jan 12, 2022</time> Finished The Fork! Will start [Discovered Attacks](https://lichess.org/practice/basic-tactics/discovered-attacks/MnsJEWnI) tomorrow.
-
-- <time>Jan 11, 2022</time> Continued with The Fork.
-
-- <time>Jan 10, 2022</time> Started with [The Fork](https://lichess.org/practice/basic-tactics/the-fork/Qj281y1p).
-
-- <time>Jan 09, 2022</time> Going to actually practice chess by learning theory and finishing my practice on lichess (+ doing a puzzle every day starting from tomorrow). Finished [learning about skewers](https://lichess.org/practice/basic-tactics/the-skewer/tuoBxVE5/DXc6bhG2).
-
-- <time>Jan 08, 2022</time> Lost two games ([1](https://lichess.org/M8ivEcSR4DdN), [2](https://lichess.org/IYmMcmkwMy4c)), one against Stockfish Level 4 and against a person in rapid.
-
-- <time>Jan 07, 2022</time> [I HAD TWO QUEENS AND I STILL STALEMATED STOCKFISH LEVEL 4!](https://lichess.org/zAd107Wb) This is why there are so few grandmasters.
-
-- <time>Jan 06, 2022</time> Resigned again in my final game against my brother.
-
-- <time>Jan 05, 2022</time> Resigned against my brother.
-
-- <time>Jan 04, 2022</time> [Checkmated Stockfish Level 3](https://lichess.org/aSZ6xu0R), it shocks me how well made lichess is, all for free and open-source.
-
-- <time>Jan 03, 2022</time> Continued my Knight & Bishop Mate lessons.
-
-- <time>Jan 02, 2022</time> Learnt about [the Greek Gift](https://lichess.org/practice/intermediate-tactics/greek-gift) and won against my brother as black via resignation.
-
-- <time>Jan 01, 2022</time> Lost a couple of games, but [at least I beat level 3](https://lichess.org/dIIOAovkznvI).
-
-- <time>Dec 31, 2021</time> Lost countless number of times to bots and 2 times in Blitz, hope to see some improvement in 2022 for chess.
-
-- <time>Dec 30, 2021</time> Lost to my brother twice in Blitz.
-
-- <time>Dec 29, 2021</time> Stockfish Level 4 [got a surprise checkmate for me](https://lichess.org/WBSHbU3NCtjX) as a belated Christmas gift...
-
-- <time>Dec 28, 2021</time> Stockfish Level 4 is still out of reach, lost three games. ([1](https://lichess.org/dOtufNjh95pj), [2](https://lichess.org/eowlokNciIP3), [3](https://lichess.org/r3XK9OrQWzno))
-
-- <time>Dec 27, 2021</time> Won against my brother via resignation.
-
-- <time>Dec 26, 2021</time> Lost (badly) to Stockfish Level 4 in three games ([1](https://lichess.org/3slS78GzEO03), [2](https://lichess.org/60oZW1XtM7Qw), [3](https://lichess.org/vBr40xEKWHmB)). At least I won twice against my brother.
-
-- <time>Dec 25, 2021</time> Lost (badly) to my brother in chess.
-
-- <time>Dec 24, 2021</time> Resigned twice against Stockfish Level 4 ([1](https://lichess.org/vtoIvaZ2ryOe), [2](https://lichess.org/VziO9EPPqzO3)).
-
-- <time>Dec 23, 2021</time> Played 4 games against Stockfish Level 3 ([1](https://lichess.org/uWabhhcoX1Mx), [2](https://lichess.org/YudvFGz2ha2M), [3](https://lichess.org/4jRE3GWC1ay0), [4](https://lichess.org/gEUKIC6wlR9o)) which resulted in 2 losses ([1 checkmate](https://lichess.org/uWabhhcoX1Mx) and [1 resignation](https://lichess.org/4jRE3GWC1ay0)), [a stalemate](https://lichess.org/YudvFGz2ha2M) (which resulted in a facepalm) and [a win](https://lichess.org/gEUKIC6wlR9o)!
-
-- <time>Dec 22, 2021</time> Played 3 games against Stockfish Level 2 ([1](https://lichess.org/MlE35gfEgXnO), [2](https://lichess.org/MYEEyCi41Tko), [3](https://lichess.org/iD4XbTGjQQYN)), I was so close to losing in the 3rd game, then the bot makes a huge, huge blunder by not taking my queen with his bishop, which led to checkmate.
-
-- <time>Dec 21, 2021</time> Played 3 games against Stockfish Level 1 ([1](https://lichess.org/K4QhMifiyTql), [2](https://lichess.org/zqJkIJjC8evH), [3](https://lichess.org/MmRJXrJc3C1i)) and got checkmate in the first and last game. My revenge against Level 1 is complete.
-
-- <time>Dec 20, 2021</time> [Stalemated Level 1 again](https://lichess.org/KjGeLucv), how does this keep happening?
-
-- <time>Dec 19, 2021</time> I am so bad at chess it's funny, I played three games ([1](https://lichess.org/w3qLvswJRtBa), [2](https://lichess.org/gEbIMqtyK7xr), [3](https://lichess.org/dmJPaET7D5z3)) with the first being a loss to Stockfish Level 3, to boost my confidence I played against Level 1 and somehow lost and stalemated respectively.
-
-- <time>Dec 18, 2021</time> Played two games this time ([1](https://lichess.org/CHS7tA4S8k07), [2](https://lichess.org/7JdlfKzuRmdZ)) and the second one was very interesting.
-
-- <time>Dec 17, 2021</time> Played three games against Stockfish Level 3 and [lost all three](https://lichess.org/@/y_arjun_y/all).
-
-- <time>Dec 16, 2021</time> Checkmated [Stockfish Level 2 as black](https://lichess.org/s0GesXfH)!
-
-- <time>Dec 15, 2021</time> So close to checkmating Stockfish Level 2! Alas, [I stalemated](https://lichess.org/hrhwm3EO).
-
-- <time>Dec 14, 2021</time> Started with the [Knight & Bishop Mate](https://lichess.org/practice/checkmates/knight--bishop-mate/), [messed up against Stockfish Level 2](https://lichess.org/l8vSC5KKHEuP) and finished [The Pin](https://lichess.org/practice/basic-tactics/the-pin/).
-
-- <time>Dec 13, 2021</time> [Got destroyed by Stockfish Level 2](https://lichess.org/hsAFJKeHh2at) and finished Piece Checkmates II.
-
-- <time>Dec 12, 2021</time> Continued with Piece Checkmates II.
-
-- <time>Dec 11, 2021</time> Started with [Piece Checkmates II](https://lichess.org/practice/checkmates/piece-checkmates-ii)
-
-- <time>Dec 10, 2021</time> [Last game against Stockfish Level 1](https://lichess.org/qi4YECRe).
-
-- <time>Dec 09, 2021</time> Finished with Checkmate Patterns IV.
-
-- <time>Dec 08, 2021</time> Started with [Checkmate Patterns IV](https://lichess.org/practice/checkmates/checkmate-patterns-iv/) and [had a fun game against Stockfish Level 1](https://lichess.org/Ta5BnnXi). Magnus might win today, but we'll see. (Edit: [Draw.](https://www.theguardian.com/sport/live/2021/dec/08/magnus-carlsen-v-ian-nepomniachtchi-world-chess-championship-game-10-live))
-
-- <time>Dec 07, 2021</time> Finished Checkmate Patterns III. I smell a draw for today's match, both Magnus and Nepo will be well-rested. (Edit: I'm so sorry Nepo.)
-
-- <time>Dec 06, 2021</time> Started with [Checkmate Patterns III](https://lichess.org/practice/checkmates/checkmate-patterns-iii).
-
-- <time>Dec 05, 2021</time> Continued with Checkmate Patterns II. I'm going to take a risk and say that Nepo wins today. Let's see if I'm right. (Edit: I was [very wrong](https://www.theguardian.com/sport/live/2021/dec/05/magnus-carlsen-v-ian-nepomniachtchi-world-chess-championship-game-8-live).)
-
-- <time>Dec 04, 2021</time> Continued with Checkmate Patterns II. [Magnus won the sixth game and he and Ian now have the longest game in a World Chess Championship!](https://www.theguardian.com/sport/2021/dec/03/chess-carlsen-and-nepomniachtchi-face-weekend-crunch-games-in-dubai)
-
-- <time>Dec 03, 2021</time> Won against my dad with the black pieces via checkmate.
-
-- <time>Dec 02, 2021</time> Started [Checkmate Patterns II](https://lichess.org/practice/checkmates/checkmate-patterns-ii/).
-
-- <time>Dec 01, 2021</time> Completed Checkmate Patterns I. Pretty sure today's [World Chess Championship](https://en.wikipedia.org/wiki/World_Chess_Championship_2021) match is going to be a draw. (Edit: I was right.)
-
-- <time>Nov 30, 2021</time> Started with [Checkmate Patterns I](https://lichess.org/practice/checkmates/checkmate-patterns-i/), what a crazy month for chess!
-
-- <time>Nov 29, 2021</time> Finished Piece Checkmates I and [got absolutely destroyed by Stockfish Level 2](https://lichess.org/HYLIMU7TSZqm).
-
-- <time>Nov 28, 2021</time> Started with [Piece Checkmates I](https://lichess.org/practice/checkmates/piece-checkmates-i) and [played my first game on lichess v.s. Stockfish level 1.](https://lichess.org/gI7HGjiW#0)
-
-- <time>Nov 27, 2021</time> Finished the ["learning section"](https://lichess.org/learn#/) of the chess course!
-
-- <time>Nov 26, 2021</time> Switched to [lichess](https://lichess.org) and started their [chess course](https://lichess.org/learn).
-
-- <time>Nov 25, 2021</time> Damn, my game against Antonio today was incredible (even though I lost). I got 74 accuracy! [Here's the game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.25%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22arjunyadav7%22%5D%0A%5BBlack%20%22Antonio%22%5D%0A%5BResult%20%220-1%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%5BBlackElo%20%221500%22%5D%0A%5BWhiteElo%20%22744%22%5D%0A%0A1.%20e4%20e5%202.%20Nf3%20Nc6%203.%20d4%20exd4%204.%20Nxd4%20Nxd4%205.%20Qxd4%20d6%206.%20Bc4%20Be6%207.%20b3%20c6%208.%0AO-O%20Qf6%209.%20Qxf6%20Nxf6%2010.%20Re1%20Bxc4%2011.%20bxc4%20h6%2012.%20e5%20dxe5%2013.%20Rxe5%2B%20Kd7%2014.%20Nc3%0ARe8%2015.%20Bf4%20Rxe5%2016.%20Bxe5%20Ng4%2017.%20f4%20Nxe5%2018.%20fxe5%20Bb4%2019.%20Ne4%20Re8%2020.%20Rd1%2B%20Ke6%0A21.%20Rd6%2B%20Bxd6%2022.%20Nxd6%20Rf8%2023.%20h3%20Kxe5%2024.%20Nxb7%20Rb8%2025.%20Nc5%20Kd4%2026.%20Nb3%2B%20Kc3%2027.%0ANa5%20Rb6%2028.%20c5%20Ra6%2029.%20Nb7%20Rxa2%2030.%20Nd8%20a5%2031.%20Nxc6%20Ra4%2032.%20Na7%20Rc4%2033.%20c6%20a4%0A34.%20Nb5%2B%20Kb4%2035.%20Na7%20Rc3%2036.%20g4%20Rxc2%2037.%20h4%20a3%2038.%20g5%20a2%2039.%20gxh6%20a1%3DQ%23%200-1&tab=analysis&referrer=vs-computer-analyze).
-
-- <time>Nov 24, 2021</time> Completed the [Value of the Pieces](https://www.chess.com/lessons/capturing-pieces/value-of-the-pieces) and had some fun [learning about the Stafford Gambit](https://www.chess.com/blog/ThummimS/stafford-gambit-traps-a-complete-guide)
-
-- <time>Nov 23, 2021</time> Antonio is really tough.
-
-- <time>Nov 22, 2021</time> [Antonio](https://chess.com/play/computer/) is tough.
-
-- <time>Nov 21, 2021</time> Defeated Nelson with the black pieces! [Here's the game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.21%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22arjunyadav7%22%5D%0A%5BBlack%20%22Nelson%22%5D%0A%5BResult%20%221-0%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%5BBlackElo%20%221300%22%5D%0A%5BWhiteElo%20%22744%22%5D%0A%0A1.%20d4%20e6%202.%20e4%20Qh4%203.%20Nc3%20Bd6%204.%20Nf3%20Qg4%205.%20h3%20Qg6%206.%20e5%20Bb4%207.%20a3%20Bxc3%2B%208.%20bxc3%0ANe7%209.%20Bc4%20d5%2010.%20Bb3%20O-O%2011.%20O-O%20f6%2012.%20Nh4%20Qf7%2013.%20c4%20Nf5%2014.%20Nf3%20dxc4%2015.%0ABxc4%20fxe5%2016.%20dxe5%20b5%2017.%20Bxb5%20c6%2018.%20Bc4%20Ba6%2019.%20Bd3%20Bxd3%2020.%20cxd3%20Nd4%2021.%20Nxd4%0ANd7%2022.%20Nxc6%20Rac8%2023.%20Nxa7%20Rc7%2024.%20Nb5%20Nxe5%2025.%20d4%20Nf3%2B%2026.%20Qxf3%20Qxf3%2027.%20gxf3%0ARb7%2028.%20a4%20h6%2029.%20Nd6%20Rb4%2030.%20Rd1%20Rb3%2031.%20Kg2%20Rfxf3%2032.%20a5%20Rxh3%2033.%20a6%20Rhc3%2034.%0Aa7%20Kh7%2035.%20a8%3DQ%20Rf3%2036.%20Rd3%20Rxf2%2B%2037.%20Kxf2%20Rxd3%2038.%20Qe4%2B%20g6%2039.%20Qxd3%20h5%2040.%20Qe4%0AKh8%2041.%20Qxe6%20Kh7%2042.%20Qe7%2B%20Kh8%2043.%20Ne4%20Kg8%2044.%20d5%20Kh8%2045.%20d6%20Kg8%2046.%20d7%20Kh8%2047.%0Ad8%3DQ%23%201-0&tab=analysis&referrer=vs-computer-analyze).
-
-- <time>Nov 20, 2021</time> Played 2 games with Nelson, and drew one!
-
-- <time>Nov 19, 2021</time> Very close to winning against [Nelson](https://chess.com/play/computer), but I eventually lost way too much material.
-
-- <time>Nov 18, 2021</time> "One day Sven, one day." Well folks, that day finally came! [I checkmated Sven with the black pieces](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.18%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22Sven%22%5D%0A%5BBlack%20%22arjunyadav7%22%5D%0A%5BResult%20%220-1%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%5BBlackElo%20%22744%22%5D%0A%5BWhiteElo%20%221100%22%5D%0A%0A1.%20d4%20d5%202.%20Nf3%20Nc6%203.%20c4%20f6%204.%20c5%20e5%205.%20g3%20exd4%206.%20Nxd4%20Bxc5%207.%20Nc2%20Nge7%208.%20Qd3%0AO-O%209.%20Qb3%20Bf5%2010.%20Rg1%20Na5%2011.%20Qc3%20b6%2012.%20Ne3%20Bd7%2013.%20Bg2%20d4%2014.%20Bxa8%20dxc3%2015.%0ABe4%20cxb2%2016.%20Bxb2%20Bb4%2B%2017.%20Nc3%20Bh3%2018.%20a4%20Qd4%2019.%20Bd3%20Bxc3%2B%2020.%20Kd1%20Bxb2%2021.%20Ra2%0AQb4%2022.%20Nc2%20Qb3%2023.%20Rh1%20Qxa2%2024.%20Bxh7%2B%20Kxh7%2025.%20Ne1%20Rd8%2B%2026.%20Nd3%20Ba3%2027.%20Ke1%0AQa1%2B%2028.%20Kd2%20Qxh1%2029.%20Kc2%20Nc4%2030.%20f4%20Ne3%2B%2031.%20Kb3%20Be6%2B%2032.%20Kxa3%20Qa1%2B%2033.%20Kb4%0AQb1%2B%2034.%20Kc3%20Rd4%2035.%20Kxd4%20Nc6%2B%2036.%20Kxe3%20Nb4%2037.%20h4%20Nxd3%2038.%20exd3%20Qe1%2B%2039.%20Kf3%0AQf1%2B%2040.%20Ke4%20Qe1%2B%2041.%20Kf3%20Bd5%2B%2042.%20Kg4%20Qe6%2B%2043.%20f5%20Qe2%2B%2044.%20Kh3%20Bg2%2B%2045.%20Kh2%0ABf3%2B%2046.%20Kg1%20Qe1%2B%2047.%20Kh2%20c5%2048.%20g4%20Bxg4%2049.%20Kg2%20c4%2050.%20a5%20cxd3%2051.%20axb6%20axb6%0A52.%20h5%20d2%2053.%20h6%20gxh6%2054.%20Kh2%20d1%3DQ%2055.%20Kg2%20Qdd2%23%200-1&tab=analysis&referrer=vs-computer-analyze)!
-
-- <time>Nov 17, 2021</time> Played several games online.
-
-- <time>Nov 16, 2021</time> One day Sven, one day. Also played [a really, really funny blitz game where my opponent only moved their king for the majority of the game.](https://www.chess.com/game/live/30805164009)
-
-- <time>Nov 15, 2021</time> Finished my [weekly lesson.](https://www.chess.com/lessons/winning-the-game)
-
-- <time>Nov 14, 2021</time> Drew Sven due to a mouse slip. [Here is the game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.14%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22Sven%22%5D%0A%5BBlack%20%22arjunyadav7%22%5D%0A%5BResult%20%221/2-1/2%22%5D%0A%5BBlackElo%20%22744%22%5D%0A%5BWhiteElo%20%221100%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%0A1.%20d4%20d5%202.%20c4%20e6%203.%20Nf3%20Nf6%204.%20Nc3%20Nc6%205.%20Bg5%20Bd6%206.%20Qc1%20O-O%207.%20Bh4%20h6%208.%20e3%20g5%0A9.%20cxd5%20exd5%2010.%20a3%20a6%2011.%20Bxg5%20hxg5%2012.%20Kd1%20g4%2013.%20Ng5%20b5%2014.%20Bd3%20b4%2015.%20Na2%0ABb7%2016.%20Be2%20bxa3%2017.%20h4%20axb2%2018.%20Qxb2%20Qb8%2019.%20Kc2%20a5%2020.%20Kb1%20Nb4%2021.%20Nc3%20Ne4%2022.%0ANcxe4%20dxe4%2023.%20Re1%20a4%2024.%20Bxg4%20a3%2025.%20Qd2%20a2%2B%2026.%20Kc1%20Ra3%2027.%20Rh1%20Rd3%2028.%20Qe2%0ARc3%2B%2029.%20Kd1%20Qa7%2030.%20Qf1%20Qa3%2031.%20Qb5%20Qb2%2032.%20Nxe4%20Bxe4%2033.%20Bf5%20Bxf5%2034.%20Qxf5%20Nc6%0A35.%20Re1%20f6%2036.%20Qg6%2B%20Kh8%2037.%20Qh6%2B%20Kg8%2038.%20Qg6%2B%20Kh8%2039.%20Qh6%2B%20Kg8%2040.%20Qg6%2B%201/2-1/2&tab=analysis&referrer=vs-computer-analyze).
-
-- <time>Nov 13, 2021</time> Thinking about (seriously) playing online.
-
-- <time>Nov 12, 2021</time> Had some fun with [lower-rated bots](https://chess.com/play/computer).
-
-- <time>Nov 11, 2021</time> Completed my weekly lesson. Moved away from Sven, and (for fun) I tried my hand at [DanyaBot](https://chess.com/play/computer/), I'm actually proud to say I only made 1 blunder (even though I lost).
-
-- <time>Nov 10, 2021</time> I think I will put the bots on the side and try to actually study the game instead of brute-forcing it.
-
-- <time>Nov 09, 2021</time> Same old, same old. I also had some fun [analyzing games](https://chess.com/analysis) and [learning the Caro-Kann](https://www.chess.com/openings/Caro-Kann-Defense). Later, I won against my dad with the black pieces via checkmate.
-
-- <time>Nov 08, 2021</time> So close! I blundered my queen again. I'll get three crowns against Sven sooner or later.
-
-- <time>Nov 07, 2021</time> I was so close but I blundered too many times.
-
-- <time>Nov 06, 2021</time> 1000 -> 1100 transition is tough.
-
-- <time>Nov 05, 2021</time> Jumped around different bots. Need to defeat Sven with three crowns soon.
-
-- <time>Nov 04, 2021</time> I played against [Jimmy](https://chess.com/play/computer) ~3 times, blundering my queen in the first two games, but winning in the last. [Here's that last game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.04%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22arjunyadav7%22%5D%0A%5BBlack%20%22Jimmy%22%5D%0A%5BResult%20%221-0%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%5BBlackElo%20%22600%22%5D%0A%5BWhiteElo%20%22744%22%5D%0A%0A1.%20e4%20d5%202.%20f3%20c5%203.%20d3%20Nh6%204.%20h3%20Bxh3%205.%20Nxh3%20f6%206.%20g4%20%7B%5B%25cal%20dh6g4%5D%5B%25c_arrow%0Ah6g4;from;h6;to;g4%5D%7D%206...%20Qd7%207.%20Nc3%20Kf7%208.%20Nxd5%20a6%209.%20b3%20b5%2010.%20Be2%20Qe6%2011.%20O-O%0ANc6%2012.%20b4%20Ra7%2013.%20bxc5%20b4%2014.%20Nxb4%20Qd7%2015.%20f4%20Nd8%2016.%20e5%20Ne6%2017.%20f5%20%7B%5B%25cal%0Adh6f5%5D%5B%25c_arrow%20h6f5;from;h6;to;f5%5D%7D%2017...%20Qc8%2018.%20fxe6%2B%20Kg8%2019.%20Bf4%20Qd8%2020.%20Nc6%0Aa5%2021.%20Nxd8%20Ra6%2022.%20g5%20fxe5%2023.%20Bxe5%20a4%2024.%20gxh6%20Rxe6%2025.%20Nxe6%20gxh6%2026.%20Nxf8%20h5%0A27.%20Nd7%20h6%2028.%20Bxh8%20h4%2029.%20Rf4%20a3%2030.%20Rxh4%20Kh7%2031.%20Ra4%20Kg8%2032.%20Rxa3%20Kxh8%2033.%0ARa8%2B%20Kh7%2034.%20Bg4%20Kg7%2035.%20Be6%20Kh7%2036.%20Qh5%20Kg7%2037.%20Qe8%20h5%2038.%20Rf1%20Kh6%2039.%20Nf4%20h4%0A40.%20Rf3%20Kg5%2041.%20Qg8%2B%20Kh6%2042.%20Qh8%2B%20Kg5%2043.%20Rg8%23%201-0&tab=analysis&referrer=vs-computer-analyze). Later, I played two games against my dad, I think the first one was a draw? (no legal moves but not in check) and the second one was a win via resignation.
-
-- <time>Nov 03, 2021</time> I finally defeated the pumpkin 3 days after Halloween. [Here's the game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.03%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22Pumpkin%22%5D%0A%5BBlack%20%22arjunyadav7%22%5D%0A%5BResult%20%220-1%22%5D%0A%5BBlackElo%20%22744%22%5D%0A%5BWhiteElo%20%221000%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%0A1.%20Nc3%20e5%202.%20Ne4%20d5%203.%20Nc3%20c6%204.%20b3%20Nf6%205.%20Bb2%20Bc5%206.%20a3%20O-O%207.%20f3%20e4%208.%20f4%20h6%0A9.%20e3%20g5%2010.%20g3%20Bg4%2011.%20Nce2%20a5%2012.%20f5%20Nh5%2013.%20c4%20Bxf5%2014.%20b4%20axb4%2015.%20Kf2%20dxc4%0A16.%20Bg2%20bxa3%2017.%20Be5%20Nd7%2018.%20Bc3%20Nb6%2019.%20Nh3%20Na4%2020.%20Nd4%20Nxc3%2021.%20dxc3%20a2%2022.%0AQg1%20Ra3%2023.%20Qe1%20Qa5%2024.%20Rc1%20g4%2025.%20Ng5%20hxg5%2026.%20Rf1%20b5%2027.%20Nxf5%20Re8%2028.%20Bh1%20Re5%0A29.%20Kg2%20Kh7%2030.%20Kg1%20Kg6%2031.%20Nd4%20Bxd4%2032.%20Rd1%20Bxc3%2033.%20Qe2%20Kh6%2034.%20Rd6%2B%20Kg7%2035.%0ARa1%20Bxa1%2036.%20Kg2%20Rb3%2037.%20Rd7%20c3%2038.%20Kf2%20Rb2%2039.%20Rd1%20Rxe2%2B%2040.%20Kxe2%20c2%2041.%20Rxa1%0AQc3%2042.%20Bg2%20Qxa1%2043.%20Kd2%20c1%3DQ%2B%2044.%20Ke2%20Qc2%23%200-1&tab=analysis&referrer=vs-computer-analyze). I also resigned against Sven again.
-
-- <time>Nov 02, 2021</time> So close, but I hanged my queen accidentally.
-
-- <time>Nov 01, 2021</time> I hate pumpkins. (Also, [I completed a lesson on rook checkmates.](https://www.chess.com/lessons/winning-the-game))
-
-- <time>Oct 31, 2021</time> Resigned against Sven for the quadrillionth time.
-
-- <time>Oct 30, 2021</time> Tried to defeat the damn [Pumpkin](https://chess.com/play/computer), was close but blundered the endgame.
-
-- <time>Oct 29, 2021</time> Kept resigning against Sven. Later in the day, I learnt about the [Scandinavian Defense](https://www.chess.com/openings/Scandinavian-Defense) and won against my dad with the white pieces via checkmate!
-
-- <time>Oct 28, 2021</time> Kept resigning against [Sven](https://chess.com/play/computer) and [finished the Assisted Checkmate lesson](https://www.chess.com/lessons/winning-the-game/assisted-checkmates).
+- <time>Feb 29, 2024</time> Will officially start after my exams.
 
 <hr />
 
-## <span id="coldtakesbetareading">[Cold Takes](https://www.cold-takes.com/) Beta Reading</span>
+## <span id="zerodha">[Zerodha Varsity](https://zerodha.com/varsity)</span>
 
-<small>Jan 20, 2022-present</small>  
-<small>I got accepted to beta read Holden Karnofsky's articles for his blog, Cold Takes. Trying to be as useful as I can be! Note that I only update this log when I fully finish proof-reading and when the post has been published. Currently an occasional project.</small>
+<small>Apr 26, 2024-Jun 28, 2024</small>  
+<small>Finished the Zerodha Varsity course till the third module (as I did not find much value beyond then).</small>
 
+<hr />
+<small>Zerodha Varsity's start date is the date I started logging, not the date when the project started.</small>
 <hr />
 
 #### Log
 
-- <time>Jan 09, 2023</time> Finished my eighth proof-reading. The link to the post will be [here](https://www.cold-takes.com/spreading-messages-to-help-with-the-most-important-century/) once done.
+- <time>Jun 23, 2024-Jun 28, 2024</time> Finished with the third module.
 
-- <time>Dec 16, 2022</time> Finished my seventh proof-reading (possibly my last for this year - so grateful to have been a part of this). The link to the post will be [here](https://www.cold-takes.com/transformative-ai-issues-not-just-misalignment-an-overview/) once done.
+- <time>May 03, 2024-May 05, 2024</time> Back at it, continuing with the third module.
 
-- <time>Oct 12, 2022</time> Finished my sixth proof-reading (although I unfortunately missed the deadline by a bit). The link to the post will be [here](https://www.cold-takes.com/high-level-hopes-for-ai-alignment/) once done.
+- <time>Apr 27, 2024-Apr 30, 2024</time> Got started with the third module.
 
-- <time>Sep 08, 2022</time> Finished my fifth proof-reading. The link to the post will be [here](https://www.cold-takes.com/why-would-ai-aim-to-defeat-humanity/) once done.
-
-- <time>Sep 05, 2022</time> Along with other beta-readers, I got appreciated in [the latest Cold Takes post](https://www.cold-takes.com/beta-readers-are-great/)!
-
-- <time>May 25, 2022</time> Been a while, but finished my fourth proof-reading. The link to the post will be [here](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/) once done.
-
-- <time>Feb 20, 2022</time> Finished my third proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/debating-myself-on-whether-extra-lives-lived-are-as-good-as-deaths-prevented/) once done.
-
-- <time>Feb 04, 2022</time> Finished my second proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/defending-one-dimensional-ethics/) once done.
-
-- <time>Jan 20, 2022</time> Got accepted (!) and finished proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/future-proof-ethics/) when it's done (for privacy reasons).
-<hr />
-
-## Done
+- <time>Apr 26, 2024</time> Finished the first two modules!
 
 <hr />
 
 ## <span id="dioptra">Dioptra</span>
 
-<small>Dec 18, 2023-Jun 7, 2024</small>  
+<small>Dec 18, 2023-Jun 07, 2024</small>  
 <small>Part of the Dioptra team, working on projects with them and trying to learn a lot in the process! Currently paused</small>
 
 <hr />
@@ -12566,6 +11572,55 @@ This internship was a lot (turns out, it's pretty hard to go back to waking up a
 - <time>May 17, 2024</time> Board + reel!
 
 - <time>May 15, 2024</time> Got caught up with everything from the past two days.
+
+<hr />
+
+## <span id="oceanbusters">Ocean Busters</span>
+
+<small>Jul 08, 2023-May 10, 2024</small>  
+<small>I was formerly a blog writer and editor at Ocean Busters, a new organisation dedicated to effectively tackling ocean pollution.</small>
+
+<hr />
+
+#### Log
+
+- <time>May 03, 2024-May 10, 2024</time> Buttons are fixed!
+
+- <time>May 02, 2024</time> Back at it, been working on the website.
+
+- <time>Oct 12, 2023</time> Finished editing for this month!
+
+- <time>Sep 23, 2023</time> Finished editing for this month!
+
+- <time>Sep 19, 2023</time> Admin for this month.
+
+- <time>Aug 31, 2023</time> Done for this month!
+
+- <time>Aug 20, 2023</time> Always expect the unexpected.
+
+- <time>Aug 19, 2023</time> Submitted the blog post in record time.
+
+- <time>Aug 12, 2023-Aug 18, 2023</time> Working with my new blog writer for this month!
+
+- <time>Aug 07, 2023</time> August's theme has been announced!
+
+- <time>Jul 29, 2023</time> Finished the blog post with my blog writer!
+
+- <time>Jul 27, 2023-Jul 28, 2023</time> Reviewed the second draft. Nearly done (I think)!
+
+- <time>Jul 22, 2023-Jul 25, 2023</time> Reviewed the draft and added comments.
+
+- <time>Jul 21, 2023</time> Got the draft!
+
+- <time>Jul 14, 2023-Jul 20, 2023</time> Did some organisational work.
+
+- <time>Jul 13, 2023</time> Had a productive meeting.
+
+- <time>Jul 11, 2023-Jul 12, 2023</time> Meeting soon!
+
+- <time>Jul 09, 2023-Jul 10, 2023</time> Got in touch with my blog writer for this month (who's writing I'll be editing and proof-reading)
+
+- <time>Jul 08, 2023</time> Got accepted! Interesting to see where this project goes (especially considering my Cold Takes project has been inactive for about half a year).
 
 <hr />
 
@@ -14880,7 +13935,7 @@ The student council in your junior year should (hopefully!) just be a taste of w
 
 <hr />
 
-## <span id="adventofcode">Advent of Code</span>
+## <span id="adventofcodepytech">Advent of Code (PyTech)</span>
 
 <small>Dec 01, 2022-Jan 16, 2023</small>  
 <small>Trying to Currently running an advent of code for my school's Python club. Due to privacy reasons, I'm being incredibly vague.</small>
@@ -14940,6 +13995,34 @@ The student council in your junior year should (hopefully!) just be a taste of w
 - <time>Dec 02, 2022</time> Second problem is up.
 
 - <time>Dec 01, 2022</time> First problem is up! Hope to get some responses soon.
+<hr />
+
+## <span id="coldtakesbetareading">[Cold Takes](https://www.cold-takes.com/) Beta Reading</span>
+
+<small>Jan 20, 2022-Jan 09, 2023</small>  
+<small>I was accepted to beta read Holden Karnofsky's articles for his blog, Cold Takes. Note that I only updated this log when I fully finish proof-reading and when the post has been published.</small>
+
+<hr />
+
+#### Log
+
+- <time>Jan 09, 2023</time> Finished my eighth proof-reading. The link to the post will be [here](https://www.cold-takes.com/spreading-messages-to-help-with-the-most-important-century/) once done.
+
+- <time>Dec 16, 2022</time> Finished my seventh proof-reading (possibly my last for this year - so grateful to have been a part of this). The link to the post will be [here](https://www.cold-takes.com/transformative-ai-issues-not-just-misalignment-an-overview/) once done.
+
+- <time>Oct 12, 2022</time> Finished my sixth proof-reading (although I unfortunately missed the deadline by a bit). The link to the post will be [here](https://www.cold-takes.com/high-level-hopes-for-ai-alignment/) once done.
+
+- <time>Sep 08, 2022</time> Finished my fifth proof-reading. The link to the post will be [here](https://www.cold-takes.com/why-would-ai-aim-to-defeat-humanity/) once done.
+
+- <time>Sep 05, 2022</time> Along with other beta-readers, I got appreciated in [the latest Cold Takes post](https://www.cold-takes.com/beta-readers-are-great/)!
+
+- <time>May 25, 2022</time> Been a while, but finished my fourth proof-reading. The link to the post will be [here](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/) once done.
+
+- <time>Feb 20, 2022</time> Finished my third proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/debating-myself-on-whether-extra-lives-lived-are-as-good-as-deaths-prevented/) once done.
+
+- <time>Feb 04, 2022</time> Finished my second proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/defending-one-dimensional-ethics/) once done.
+
+- <time>Jan 20, 2022</time> Got accepted (!) and finished proof-reading. The link to the blog post will be [here](https://www.cold-takes.com/future-proof-ethics/) when it's done (for privacy reasons).
 <hr />
 
 ## <span id="y1d2">[y1d2](https://y1d2.com)</span>
@@ -17100,6 +16183,488 @@ But regardless of which possibility is correct, **3 and 6 are always in the bott
 
 <hr />
 
+## <span id="chess">[Chess](https://lichess.org/@/y_arjun_y)</span>
+
+<small>Oct 28, 2021-Sep 30, 2022</small>  
+<small>Tried to get better at chess via practicing on [lichess](https://lichess.org). You can see all my games that I refer to [here](https://lichess.org/@/y_arjun_y/all). Previously, I practiced on [chess.com](https://chess.com).</small>
+
+<hr />
+<small>Chess's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Sep 30, 2022</time> [Interesting queen sacrifice](https://lichess.org/3pQlaLpP)?
+
+- <time>Sep 25, 2022</time> [Why didn't I see the knight for move 18](https://lichess.org/YkihwvUv75yf)?
+
+- <time>Sep 18, 2022</time> [What a terrible middlegame lol](https://lichess.org/5QgJw2gx).
+
+- <time>Sep 16, 2022</time> [Oops](https://lichess.org/fcnivxJg).
+
+- <time>Sep 10, 2022</time> [?](https://lichess.org/zFoqiMsj)
+
+- <time>Aug 22, 2022</time> [Good game](https://lichess.org/wUWnxnr0/)! (I mean, it was barely passable at my end, but it was fun nonetheless)
+
+- <time>Aug 17, 2022</time> [Hmm](https://lichess.org/gKJgrr3O).
+
+- <time>Aug 12, 2022</time> [11 blunders](https://lichess.org/96a0IFbf)!
+
+- <time>Aug 07, 2022</time> This is, probably by a lot, [the most surprising checkmate I've received](https://lichess.org/VLZ8KdYlThwJ).
+
+- <time>Aug 05, 2022</time> [I was **this** close to a checkmate and](https://lichess.org/qkecYsz9)...
+
+- <time>Jul 31, 2022</time> [Sigh](https://lichess.org/Qp3Ydw1h).
+
+- <time>Jul 29, 2022</time> Decided to play sort of fast and loose with [this game](https://lichess.org/2cs4kdik0fxR), turns out I was _too_ fast and loose.
+
+- <time>Jul 24, 2022</time> I'm very angry with myself over [this game](https://lichess.org/XeJSNnRm4dws).
+
+- <time>Jul 20, 2022</time> I hate [unexpected checkmates](https://lichess.org/3T5gDELMTfXH).
+
+- <time>Jul 11, 2022</time> [Interesting game](https://lichess.org/rDjC0oG5/), made a lot of silly blunders.
+
+- <time>Jul 06, 2022</time> [An Antichess Tragedy](https://lichess.org/puOItG13/black). Will get back to regular chess tomorrow.
+
+- <time>Jun 26, 2022</time> [Absolutely no clue](https://lichess.org/pqDJpI96)
+
+- <time>Jun 24, 2022</time> [Rough game](https://lichess.org/i7vpImEA). I had like ~4 takebacks over move 15 lol.
+
+- <time>Jun 19, 2022</time> [Short and sweet](https://lichess.org/i7vpImEA).
+
+- <time>Jun 17, 2022</time> [~5 takebacks, pretty fun endgame](https://lichess.org/EgyZXQch/white).
+
+- <time>Jun 12, 2022</time> [Infinite Takebacks](https://lichess.org/yAlVZwn50kEX).
+
+- <time>Jun 10, 2022</time> [One pawn move ended the game for me lol](https://lichess.org/WpBVCKzo).
+
+- <time>Jun 05, 2022</time> [Drawtastic](https://lichess.org/doDkKQco/).
+
+- <time>Jun 03, 2022</time> [Saddest game ever](https://lichess.org/PQct3m2W). I couldn't save myself at some point even with takebacks.
+
+- <time>May 28, 2022</time> [A good game to end of the week](https://lichess.org/GXCRZmvP) (even though I lost).
+
+- <time>May 27, 2022</time> [Anitchess!](https://lichess.org/HRZsuTAD) (with a lot of takebacks, I'll get back to non-variant chess tomorrow)
+
+- <time>May 26, 2022</time> [Antichess!](https://lichess.org/JJN0JMOm)
+
+- <time>May 25, 2022</time> [Sometimes even takebacks can't save you from a terrible game](https://lichess.org/H7G28pQz).
+
+- <time>May 24, 2022</time> [Less than 20 moves lol](https://lichess.org/KKSIrpCF).
+
+- <time>May 23, 2022</time> [A near perfect game](https://lichess.org/KikhiqhZ/) (but not really, also 3 takebacks)
+
+- <time>May 22, 2022</time> Shockingly, [only 1 blunder](https://lichess.org/Q7XEKg6mwPrF) (though that's because it was so short lol)
+
+- <time>May 21, 2022</time> Played [a Chess960 game](https://lichess.org/IoQY2wWPLSGP) for fun.
+
+- <time>May 20, 2022</time> Another [Antichess game](https://lichess.org/5XuI5yt3/).
+
+- <time>May 19, 2022</time> No clue what I was doing [here](https://lichess.org/Y5NjdSfUPQht).
+
+- <time>May 18, 2022</time> Again, had some fun with antichess (or Antichess?) ([1](https://lichess.org/auEtS0Q2DpGt), [2](https://lichess.org/C8tsL3q2/))
+
+- <time>May 17, 2022</time> Took me forever to checkmate with just a king and a queen, [but I did it](https://lichess.org/GE1wmusO)! (overall, with 1 takeback)
+
+- <time>May 16, 2022</time> [A pretty humiliating defeat](https://lichess.org/YnThdAwC1whT).
+
+- <time>May 15, 2022</time> [So close, yet so far](https://lichess.org/ikwCysD1/).
+
+- <time>May 14, 2022</time> [??](https://lichess.org/CN2tFl9K5zWK)
+
+- <time>May 13, 2022</time> [?](https://lichess.org/k57tWxr1rFL6)
+
+- <time>May 12, 2022</time> [I stupidly stalemated after ~6 takebacks](https://lichess.org/mHdsSRo3).
+
+- <time>May 11, 2022</time> [Defeated Stockfish Level 4](https://lichess.org/IKQshfI3) with intense focus... and like 3 takebacks lol.
+
+- <time>May 10, 2022</time> [Drew Stockfish Level 4](https://lichess.org/2lojjiiC) with (very roughly) 15 takebacks.
+
+- <time>May 09, 2022</time> For some fun, I played an [Antichess](https://lichess.org/nq1ouE5CMjYS) and a [Chess960](https://lichess.org/E2RAI2Lm8qFN) game.
+
+- <time>May 08, 2022</time> [I liked this game a lot](https://lichess.org/VZNkBq9SqGQT) (even though I lost).
+
+- <time>May 07, 2022</time> [Went back to Level 3 for a game](https://lichess.org/Sjw5zGaS).
+
+- <time>May 06, 2022</time> [Oof](https://lichess.org/ubDbzVToEEN8).
+
+- <time>May 05, 2022</time> [I thought I played well in this game](https://lichess.org/ucqFj9yk/). Nope, 11 blunders (I also missed such an obvious check that could have potentially won the game).
+
+- <time>May 04, 2022</time> [Another win](https://lichess.org/fih99502)! (though I did takeback once)
+
+- <time>May 03, 2022</time> I got checkmated 3 times... ([1](https://lichess.org/vXVawh68BJmO), [2](https://lichess.org/HhSS3DsT1Rbx), [3](https://lichess.org/naFAOqR61XJP))
+- <time>May 02, 2022</time> [Back to being bad at chess](https://lichess.org/GSmnChPu).
+
+- <time>May 01, 2022</time> What a way to start off the month: [defeated Stockfish Level 4 without takebacks with the black pieces](https://lichess.org/3NcHqVM1/) (only 1 blunder from my side!)
+
+- <time>Apr 30, 2022</time> [That is certainly one way to end of the month](https://lichess.org/zNJYBuZj/).
+
+- <time>Apr 29, 2022</time> Two checkmates for the price of one: [1](https://lichess.org/Kke677aa0wul), [2](https://lichess.org/E9SB0eHPTbn2).
+
+- <time>Apr 28, 2022</time> [Stalemate after some takebacks](https://lichess.org/ssTgvmXno5Xz).
+
+- <time>Apr 27, 2022</time> [Played a blitz game against my friend](https://lichess.org/xJwvwn5y).
+
+- <time>Apr 26, 2022</time> [One of my shortest game ever](https://lichess.org/hsw1Ahwq) (also [drew Level 4 after a couple of takebacks](https://lichess.org/DOp6uGXV)).
+
+- <time>Apr 25, 2022</time> [Sort of didn't expect that](https://lichess.org/tA4Tj0yC3bx3).
+
+- <time>Apr 24, 2022</time> [I went from 3 pawns up to checkmate in like 15 moves](https://lichess.org/eScmA5Gt/) :(
+
+- <time>Apr 23, 2022</time> [Sigh](https://lichess.org/h8l6S4dz).
+
+- <time>Apr 22, 2022</time> [Rough game](https://lichess.org/b98zhIeb).
+
+- <time>Apr 21, 2022</time> I think I need to go back to Level 3.
+
+- <time>Apr 20, 2022</time> [Definitely doesn't count but still a fun game](https://lichess.org/L5E379tJ).
+
+- <time>Apr 19, 2022</time> [Only ~2 takebacks this time](https://lichess.org/uv5bB7OP)!
+
+- <time>Apr 18, 2022</time> [I won using the Tennison Gambit!](https://lichess.org/3hVwF3GxP5xS) (note: this doesn't count towards my battle against Stockfish Level 4 lol)
+
+- <time>Apr 17, 2022</time> [Sigh](https://lichess.org/nCWfEusDxGRY).
+
+- <time>Apr 16, 2022</time> [I think this one counts](https://lichess.org/mIHX8ii514Sz), I did takeback once but it was accidental.
+
+- <time>Apr 15, 2022</time> [Another game that doesn't really count because of takebacks](https://lichess.org/DwmZrFAH).
+
+- <time>Apr 14, 2022</time> [The uphill battle against Stockfish Level 4 is going to be a long one...](https://lichess.org/mDhrPoHpjsFE)
+
+- <time>Apr 13, 2022</time> [This WOULD have been my first win against Stockfish Level 4](https://lichess.org/anOmMF1T) if I hadn't taken back so many times in the endgame (still a fun game!)
+
+- <time>Apr 12, 2022</time> [Nice](https://lichess.org/YkoW8FUw).
+
+- <time>Apr 11, 2022</time> [With one take back, I got my revenge against Stockfish.](https://lichess.org/UVSVtH9k/)
+
+- <time>Apr 10, 2022</time> Sigh. ([1](https://lichess.org/HDJrnGzmtZw1), [2](https://lichess.org/dZp9iTRN5Nac))
+
+- <time>Apr 09, 2022</time> Played sort of absent-mindedly but here we are: [1](https://lichess.org/qtWsajtnYHld), [2](https://lichess.org/tep1fr7y9Ej0).
+
+- <time>Apr 08, 2022</time> [Sigh](https://lichess.org/hfP10Qiry8FK).
+
+- <time>Apr 07, 2022</time> [Ouch](https://lichess.org/auFUm9pP), I don't think there were any good moves at move 15 lol.
+
+- <time>Apr 06, 2022</time> [Possibly the wildest game I've ever played](https://lichess.org/QMhUWQ2Y). I was so close to losing and then I pulled up with the promotion that made me win with the black pieces!
+
+- <time>Apr 05, 2022</time> [I need to practice with the black pieces](https://lichess.org/AFzchdPIX70b) against Stockfish Level 3. [I'm fine with the white pieces](https://lichess.org/5WWgfcxNo3lC).
+
+- <time>Apr 04, 2022</time> [Maybe a simple 1. e4 with good opening principles and development is all you need at this level](https://lichess.org/dPXpnyW2wv3E).
+
+- <time>Apr 03, 2022</time> No idea what I did today for chess today. I need to change my opening repertoire.
+
+- <time>Apr 02, 2022</time> I present to you, [the biggest throw ever](https://lichess.org/IisosILB).
+
+- <time>Apr 01, 2022</time> [I feel like Stockfish wanted to throw an April Fools' Day joke at me...](https://lichess.org/YNk1DPtz)
+
+- <time>Mar 31, 2022</time> [Sigh](https://lichess.org/Uw3QuLpa).
+
+- <time>Mar 30, 2022</time> [I threw this game so badly lol](https://lichess.org/Zq3UitfH).
+
+- <time>Mar 29, 2022</time> Man, [I really lost my luck with the King's Indian Attack](https://lichess.org/vk4ykawkKQ9I).
+
+- <time>Mar 28, 2022</time> Not sure what I was doing today.
+
+- <time>Mar 27, 2022</time> [Stockfish Level 4 made me suffer in the last few moves](https://lichess.org/Wnc5FazT). We quickly went from the best game yet to possibly the worst game yet lol.
+
+- <time>Mar 26, 2022</time> [My best game yet with the King's Indian Setup](https://lichess.org/wBuMt14Y), no blunders and I never lost the advantage + didn't lose a forced checkmate sequence lol. Played a few other King's Indian Setups as well ([1](https://lichess.org/kNel3RsmqMzZ), [2](https://lichess.org/CTYOZMYD43bT))
+
+- <time>Mar 24, 2022</time> [I threw away a game so badly](https://lichess.org/J5UWKcCf) that I'm actually disappointed in myself. At least the King's Indian Setup has proven its worth to me with the white pieces.
+
+- <time>Mar 23, 2022</time> I think this will be my opening repertoire: black pieces with e4 will be the Caro-Kann Defense and anything else (white or black pieces) will mean the [King's Indian Setup](https://www.youtube.com/watch?v=kK0cq6UBt1Y) (need to study this one).
+
+- <time>Mar 22, 2022</time> [This game definitely doesn't count](https://lichess.org/I9LuxSgMDNQq) (took back a lot of blunders) but it was so calming to checkmate my opponent with three queens while listening to Pentatonic.
+
+- <time>Mar 21, 2022</time> [Explored the Blackmar-Diemer Gambit](https://lichess.org/Xc9lFTBf) (also this game doesn't count as a win because I used so many takebacks lol)
+
+- <time>Mar 20, 2022</time> [Explored Stockfish Level 4 with many takebacks](https://lichess.org/ONdJj5ni).
+
+- <time>Mar 19, 2022</time> Never mind. ([1](https://lichess.org/SpRBdlSncvt3), [2](https://lichess.org/q8ZmSMxcg74v))
+- <time>Mar 18, 2022</time> [Time to move on to Level 4?](https://lichess.org/uPYtO4TB/white#107)
+
+- <time>Mar 17, 2022</time> I was trying out the [Italian Game](https://www.chess.com/openings/Italian-Game) and [I got this gem of a game](https://lichess.org/YD5Pn3BV/), so I guess my opening with the white pieces is now the Italian Game? Need to study it for some time.
+
+- <time>Mar 16, 2022</time> [Had no clue what I was doing with the London System](https://lichess.org/8bDyoPeDvpO4).
+
+- <time>Mar 15, 2022</time> [Saddest game yet?](https://lichess.org/ZmFrvgiAxmp5)
+
+- <time>Mar 14, 2022</time> [My best worst game ever](https://lichess.org/fq9QmZ1Sw5Ch). I thought I was being smart with the pawn promotion sacrifice but nope.
+
+- <time>Mar 13, 2022</time> Haha! [Pawn to knight promotion leads to checkmate](https://lichess.org/JegQsvaRNl86) (Note: I did do a couple of take backs).
+
+- <time>Mar 12, 2022</time> Yeah, that game didn't go too well... Also played a few random games against bots for fun.
+
+- <time>Mar 11, 2022</time> Started learning the [Giuoco Piano](https://www.chess.com/article/view/giuoco-piano-chess-opening) opening and [I got pretty far with it against Stockfish Level 3](https://lichess.org/SapRQi1L).
+
+- <time>Mar 10, 2022</time> [Lost against my classmate after exchange variation](https://lichess.org/HAQ06c9b/). I thought move 22 was sort of smart but nope it was a blunder lol.
+
+- <time>Mar 09, 2022</time> [This is most definitely the best game I've ever played so far](https://lichess.org/CqVRzsEy). Only one blunder with the Caro-Kann exchange variation and man was the endgame fun.
+
+- <time>Mar 08, 2022</time> [What a game](https://lichess.org/RaKOMjdW).
+
+- <time>Mar 07, 2022</time> Just sort of fooled around a bit. Second game wasn't too horrible (but I had no idea how to continue), [1](https://lichess.org/OtB1RmQBwona), [2](https://lichess.org/j6nnPFlM).
+
+- <time>Mar 06, 2022</time> [Stockfish Level 2](https://lichess.org/9I8onA5B) is too easy and level 3 is too "meh" (can sometimes win if I'm focused) and I've noticed that very low rated bots just give up their queens sometimes.
+
+- <time>Mar 05, 2022</time> [Resigned after losing my queen](https://lichess.org/O1I8KDut), though I performed a "push" variation of the Caro-Kann without referring back to the video!
+
+- <time>Mar 04, 2022</time> Lost that game and played my [most humiliating game yet](https://lichess.org/bWdVW8XW).
+
+- <time>Mar 03, 2022</time> [Started an interesting exchange variation](https://lichess.org/5xod7PlS), I have no idea where to go from here.
+
+- <time>Mar 02, 2022</time> [Quick death for me after a rook blunder on my side](https://lichess.org/oYGKOnah).
+
+- <time>Mar 01, 2022</time> Finished yesterday's game, did not go well.
+
+- <time>Feb 28, 2022</time> [Started a really interesting game after the classical variation](https://lichess.org/TzlTqMPh/black).
+
+- <time>Feb 27, 2022</time> [Resigned after advanced variation](https://lichess.org/15bmgKkj).
+
+- <time>Feb 26, 2022</time> [Exchange variation which led to me getting checkmated](https://lichess.org/CkUjsYND).
+
+- <time>Feb 25, 2022</time> [This game with the Caro-Kann defense was rough](https://lichess.org/kU0wRiiR7Gfz).
+
+- <time>Feb 24, 2022</time> [First win after learning the Caro-Kann defense](https://lichess.org/AaDNOf1o)!
+
+- <time>Feb 23, 2022</time> [Lost to Stockfish Level 3 after the advanced variation](https://lichess.org/GSOkSqqtrV4v).
+
+- <time>Feb 22, 2022</time> Continued learning the advanced variation.
+
+- <time>Feb 21, 2022</time> Continued learning the advanced variation.
+
+- <time>Feb 20, 2022</time> [Got checkmated after Caro-Kann defense](https://lichess.org/mktV30iE).
+
+- <time>Feb 19, 2022</time> [This one](https://lichess.org/FswbwI7V) is just funny, got checkmated in 20 moves lol.
+
+- <time>Feb 18, 2022</time> Learnt some lines against the Fanatasy Caro-Kann variation.
+
+- <time>Feb 17, 2022</time> [Lost very badly after the white pawn pushed](https://lichess.org/9Ksu9gK8).
+
+- <time>Feb 16, 2022</time> [Lost badly after a classical variation](https://lichess.org/mpHlY3Jp).
+
+- <time>Feb 15, 2022</time> [This may be the angriest I've been with myself over a chess game](https://lichess.org/bXJDmXL0hwOp). Two major blunders from a Caro-Kann opening.
+
+- <time>Feb 14, 2022</time> [Continued with the Caro-Kann Defense](https://lichess.org/o0Wpu0Dg).
+
+- <time>Feb 13, 2022</time> Continued with the Caro-Kann Defense.
+
+- <time>Feb 12, 2022</time> Continued with the Caro-Kann Defense.
+
+- <time>Feb 11, 2022</time> Continued with the Caro-Kann Defense.
+
+- <time>Feb 10, 2022</time> Continued with the Caro-Kann Defense.
+
+- <time>Feb 09, 2022</time> Started learning [the Caro-Kann Defense via GothamChess](https://www.youtube.com/watch?v=ebfzL_GwiIE) and (sort of) [played it against Stockfish Level 1](https://lichess.org/RyNrtNW2B3q7).
+
+- <time>Feb 08, 2022</time> For fun, I played against Stockfish Level 4 twice ([1](https://lichess.org/BZsxD5VrVPL1), [2](https://lichess.org/AOpeeeDwoC3l)). Will learn an opening tomorrow and practice it against Level 3 and 4.
+
+- <time>Feb 07, 2022</time> Finished with Knight & Bishop Mate, which means I've finished the whole practice section!
+
+- <time>Feb 06, 2022</time> Finished with 7th Rank Rook Pawn (Passive)!
+
+- <time>Feb 05, 2022</time> Started with [7th Rank Rook Pawn (Passive)](https://lichess.org/practice/rook-endgames/7th-rank-rook-pawn/).
+
+- <time>Feb 04, 2022</time> Finished with 7th Rank Rook Pawn!
+
+- <time>Feb 03, 2022</time> Continued with 7th Rank Rook Pawn. Will be done with this tomorrow!
+
+- <time>Feb 02, 2022</time> Continued with 7th Rank Rook Pawn. Nearly done.
+
+- <time>Feb 01, 2022</time> Continued with 7th Rank Rook Pawn.
+
+- <time>Jan 31, 2022</time> Continued with 7th Rank Rook Pawn.
+
+- <time>Jan 30, 2022</time> Started with [7th-Rank Rook Pawn](https://lichess.org/practice/pawn-endgames/7th-rank-rook-pawn/), this section is quite long!
+
+- <time>Jan 29, 2022</time> Finished Opposition, really cool practice section!
+
+- <time>Jan 28, 2022</time> Finished [the Direct Opposition part of Opposition](https://lichess.org/practice/pawn-endgames/opposition/).
+
+- <time>Jan 27, 2022</time> Finished with Key Squares.
+
+- <time>Jan 26, 2022</time> Started with [Key Squares](https://lichess.org/practice/pawn-endgames/key-squares/).
+- <time>Jan 25, 2022</time> Continued with my Knight and Bishop Mate lesson.
+
+- <time>Jan 24, 2022</time> Finished with [Desperado](https://lichess.org/practice/intermediate-tactics/desperado/).
+
+- <time>Jan 23, 2022</time> Finished with [Deflection](https://lichess.org/practice/intermediate-tactics/deflection/).
+
+- <time>Jan 22, 2022</time> Finished with [Attraction](https://lichess.org/practice/intermediate-tactics/attraction)
+
+- <time>Jan 21, 2022</time> Finished with [Counter Check](https://lichess.org/practice/intermediate-tactics/counter-check/).
+
+- <time>Jan 20, 2022</time> Finished with [Undermining](https://lichess.org/practice/intermediate-tactics/undermining/).
+
+- <time>Jan 19, 2022</time> Finished with [X-Ray](https://lichess.org/practice/basic-tactics/x-ray/).
+
+- <time>Jan 18, 2022</time> Finished with [Interference](https://lichess.org/practice/intermediate-tactics/interference/), really interesting!
+
+- <time>Jan 17, 2022</time> Finished with [Zugzwang](https://lichess.org/practice/intermediate-tactics/zugzwang) (my new favourite word) and [Underpromotion](https://lichess.org/practice/intermediate-tactics/underpromotion)
+
+- <time>Jan 16, 2022</time> Finished with [Overloaded Pieces](https://lichess.org/practice/basic-tactics/overloaded-pieces/o734CNqp/TgeQz3DF) and got close, [but ultimately still resigned to Stockfish Level 4 after a long break](https://lichess.org/ngkPjQiq).
+
+- <time>Jan 15, 2022</time> Finished with [Double Check](https://lichess.org/practice/basic-tactics/double-check/RUQASaZm) and [Zwischenzug](https://lichess.org/practice/basic-tactics/zwischenzug/ITWY4GN2).
+
+- <time>Jan 14, 2022</time> Finished with Discovered Attacks.
+
+- <time>Jan 13, 2022</time> Started with Discovered Attacks.
+
+- <time>Jan 12, 2022</time> Finished The Fork! Will start [Discovered Attacks](https://lichess.org/practice/basic-tactics/discovered-attacks/MnsJEWnI) tomorrow.
+
+- <time>Jan 11, 2022</time> Continued with The Fork.
+
+- <time>Jan 10, 2022</time> Started with [The Fork](https://lichess.org/practice/basic-tactics/the-fork/Qj281y1p).
+
+- <time>Jan 09, 2022</time> Going to actually practice chess by learning theory and finishing my practice on lichess (+ doing a puzzle every day starting from tomorrow). Finished [learning about skewers](https://lichess.org/practice/basic-tactics/the-skewer/tuoBxVE5/DXc6bhG2).
+
+- <time>Jan 08, 2022</time> Lost two games ([1](https://lichess.org/M8ivEcSR4DdN), [2](https://lichess.org/IYmMcmkwMy4c)), one against Stockfish Level 4 and against a person in rapid.
+
+- <time>Jan 07, 2022</time> [I HAD TWO QUEENS AND I STILL STALEMATED STOCKFISH LEVEL 4!](https://lichess.org/zAd107Wb) This is why there are so few grandmasters.
+
+- <time>Jan 06, 2022</time> Resigned again in my final game against my brother.
+
+- <time>Jan 05, 2022</time> Resigned against my brother.
+
+- <time>Jan 04, 2022</time> [Checkmated Stockfish Level 3](https://lichess.org/aSZ6xu0R), it shocks me how well made lichess is, all for free and open-source.
+
+- <time>Jan 03, 2022</time> Continued my Knight & Bishop Mate lessons.
+
+- <time>Jan 02, 2022</time> Learnt about [the Greek Gift](https://lichess.org/practice/intermediate-tactics/greek-gift) and won against my brother as black via resignation.
+
+- <time>Jan 01, 2022</time> Lost a couple of games, but [at least I beat level 3](https://lichess.org/dIIOAovkznvI).
+
+- <time>Dec 31, 2021</time> Lost countless number of times to bots and 2 times in Blitz, hope to see some improvement in 2022 for chess.
+
+- <time>Dec 30, 2021</time> Lost to my brother twice in Blitz.
+
+- <time>Dec 29, 2021</time> Stockfish Level 4 [got a surprise checkmate for me](https://lichess.org/WBSHbU3NCtjX) as a belated Christmas gift...
+
+- <time>Dec 28, 2021</time> Stockfish Level 4 is still out of reach, lost three games. ([1](https://lichess.org/dOtufNjh95pj), [2](https://lichess.org/eowlokNciIP3), [3](https://lichess.org/r3XK9OrQWzno))
+
+- <time>Dec 27, 2021</time> Won against my brother via resignation.
+
+- <time>Dec 26, 2021</time> Lost (badly) to Stockfish Level 4 in three games ([1](https://lichess.org/3slS78GzEO03), [2](https://lichess.org/60oZW1XtM7Qw), [3](https://lichess.org/vBr40xEKWHmB)). At least I won twice against my brother.
+
+- <time>Dec 25, 2021</time> Lost (badly) to my brother in chess.
+
+- <time>Dec 24, 2021</time> Resigned twice against Stockfish Level 4 ([1](https://lichess.org/vtoIvaZ2ryOe), [2](https://lichess.org/VziO9EPPqzO3)).
+
+- <time>Dec 23, 2021</time> Played 4 games against Stockfish Level 3 ([1](https://lichess.org/uWabhhcoX1Mx), [2](https://lichess.org/YudvFGz2ha2M), [3](https://lichess.org/4jRE3GWC1ay0), [4](https://lichess.org/gEUKIC6wlR9o)) which resulted in 2 losses ([1 checkmate](https://lichess.org/uWabhhcoX1Mx) and [1 resignation](https://lichess.org/4jRE3GWC1ay0)), [a stalemate](https://lichess.org/YudvFGz2ha2M) (which resulted in a facepalm) and [a win](https://lichess.org/gEUKIC6wlR9o)!
+
+- <time>Dec 22, 2021</time> Played 3 games against Stockfish Level 2 ([1](https://lichess.org/MlE35gfEgXnO), [2](https://lichess.org/MYEEyCi41Tko), [3](https://lichess.org/iD4XbTGjQQYN)), I was so close to losing in the 3rd game, then the bot makes a huge, huge blunder by not taking my queen with his bishop, which led to checkmate.
+
+- <time>Dec 21, 2021</time> Played 3 games against Stockfish Level 1 ([1](https://lichess.org/K4QhMifiyTql), [2](https://lichess.org/zqJkIJjC8evH), [3](https://lichess.org/MmRJXrJc3C1i)) and got checkmate in the first and last game. My revenge against Level 1 is complete.
+
+- <time>Dec 20, 2021</time> [Stalemated Level 1 again](https://lichess.org/KjGeLucv), how does this keep happening?
+
+- <time>Dec 19, 2021</time> I am so bad at chess it's funny, I played three games ([1](https://lichess.org/w3qLvswJRtBa), [2](https://lichess.org/gEbIMqtyK7xr), [3](https://lichess.org/dmJPaET7D5z3)) with the first being a loss to Stockfish Level 3, to boost my confidence I played against Level 1 and somehow lost and stalemated respectively.
+
+- <time>Dec 18, 2021</time> Played two games this time ([1](https://lichess.org/CHS7tA4S8k07), [2](https://lichess.org/7JdlfKzuRmdZ)) and the second one was very interesting.
+
+- <time>Dec 17, 2021</time> Played three games against Stockfish Level 3 and [lost all three](https://lichess.org/@/y_arjun_y/all).
+
+- <time>Dec 16, 2021</time> Checkmated [Stockfish Level 2 as black](https://lichess.org/s0GesXfH)!
+
+- <time>Dec 15, 2021</time> So close to checkmating Stockfish Level 2! Alas, [I stalemated](https://lichess.org/hrhwm3EO).
+
+- <time>Dec 14, 2021</time> Started with the [Knight & Bishop Mate](https://lichess.org/practice/checkmates/knight--bishop-mate/), [messed up against Stockfish Level 2](https://lichess.org/l8vSC5KKHEuP) and finished [The Pin](https://lichess.org/practice/basic-tactics/the-pin/).
+
+- <time>Dec 13, 2021</time> [Got destroyed by Stockfish Level 2](https://lichess.org/hsAFJKeHh2at) and finished Piece Checkmates II.
+
+- <time>Dec 12, 2021</time> Continued with Piece Checkmates II.
+
+- <time>Dec 11, 2021</time> Started with [Piece Checkmates II](https://lichess.org/practice/checkmates/piece-checkmates-ii)
+
+- <time>Dec 10, 2021</time> [Last game against Stockfish Level 1](https://lichess.org/qi4YECRe).
+
+- <time>Dec 09, 2021</time> Finished with Checkmate Patterns IV.
+
+- <time>Dec 08, 2021</time> Started with [Checkmate Patterns IV](https://lichess.org/practice/checkmates/checkmate-patterns-iv/) and [had a fun game against Stockfish Level 1](https://lichess.org/Ta5BnnXi). Magnus might win today, but we'll see. (Edit: [Draw.](https://www.theguardian.com/sport/live/2021/dec/08/magnus-carlsen-v-ian-nepomniachtchi-world-chess-championship-game-10-live))
+
+- <time>Dec 07, 2021</time> Finished Checkmate Patterns III. I smell a draw for today's match, both Magnus and Nepo will be well-rested. (Edit: I'm so sorry Nepo.)
+
+- <time>Dec 06, 2021</time> Started with [Checkmate Patterns III](https://lichess.org/practice/checkmates/checkmate-patterns-iii).
+
+- <time>Dec 05, 2021</time> Continued with Checkmate Patterns II. I'm going to take a risk and say that Nepo wins today. Let's see if I'm right. (Edit: I was [very wrong](https://www.theguardian.com/sport/live/2021/dec/05/magnus-carlsen-v-ian-nepomniachtchi-world-chess-championship-game-8-live).)
+
+- <time>Dec 04, 2021</time> Continued with Checkmate Patterns II. [Magnus won the sixth game and he and Ian now have the longest game in a World Chess Championship!](https://www.theguardian.com/sport/2021/dec/03/chess-carlsen-and-nepomniachtchi-face-weekend-crunch-games-in-dubai)
+
+- <time>Dec 03, 2021</time> Won against my dad with the black pieces via checkmate.
+
+- <time>Dec 02, 2021</time> Started [Checkmate Patterns II](https://lichess.org/practice/checkmates/checkmate-patterns-ii/).
+
+- <time>Dec 01, 2021</time> Completed Checkmate Patterns I. Pretty sure today's [World Chess Championship](https://en.wikipedia.org/wiki/World_Chess_Championship_2021) match is going to be a draw. (Edit: I was right.)
+
+- <time>Nov 30, 2021</time> Started with [Checkmate Patterns I](https://lichess.org/practice/checkmates/checkmate-patterns-i/), what a crazy month for chess!
+
+- <time>Nov 29, 2021</time> Finished Piece Checkmates I and [got absolutely destroyed by Stockfish Level 2](https://lichess.org/HYLIMU7TSZqm).
+
+- <time>Nov 28, 2021</time> Started with [Piece Checkmates I](https://lichess.org/practice/checkmates/piece-checkmates-i) and [played my first game on lichess v.s. Stockfish level 1.](https://lichess.org/gI7HGjiW#0)
+
+- <time>Nov 27, 2021</time> Finished the ["learning section"](https://lichess.org/learn#/) of the chess course!
+
+- <time>Nov 26, 2021</time> Switched to [lichess](https://lichess.org) and started their [chess course](https://lichess.org/learn).
+
+- <time>Nov 25, 2021</time> Damn, my game against Antonio today was incredible (even though I lost). I got 74 accuracy! [Here's the game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.25%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22arjunyadav7%22%5D%0A%5BBlack%20%22Antonio%22%5D%0A%5BResult%20%220-1%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%5BBlackElo%20%221500%22%5D%0A%5BWhiteElo%20%22744%22%5D%0A%0A1.%20e4%20e5%202.%20Nf3%20Nc6%203.%20d4%20exd4%204.%20Nxd4%20Nxd4%205.%20Qxd4%20d6%206.%20Bc4%20Be6%207.%20b3%20c6%208.%0AO-O%20Qf6%209.%20Qxf6%20Nxf6%2010.%20Re1%20Bxc4%2011.%20bxc4%20h6%2012.%20e5%20dxe5%2013.%20Rxe5%2B%20Kd7%2014.%20Nc3%0ARe8%2015.%20Bf4%20Rxe5%2016.%20Bxe5%20Ng4%2017.%20f4%20Nxe5%2018.%20fxe5%20Bb4%2019.%20Ne4%20Re8%2020.%20Rd1%2B%20Ke6%0A21.%20Rd6%2B%20Bxd6%2022.%20Nxd6%20Rf8%2023.%20h3%20Kxe5%2024.%20Nxb7%20Rb8%2025.%20Nc5%20Kd4%2026.%20Nb3%2B%20Kc3%2027.%0ANa5%20Rb6%2028.%20c5%20Ra6%2029.%20Nb7%20Rxa2%2030.%20Nd8%20a5%2031.%20Nxc6%20Ra4%2032.%20Na7%20Rc4%2033.%20c6%20a4%0A34.%20Nb5%2B%20Kb4%2035.%20Na7%20Rc3%2036.%20g4%20Rxc2%2037.%20h4%20a3%2038.%20g5%20a2%2039.%20gxh6%20a1%3DQ%23%200-1&tab=analysis&referrer=vs-computer-analyze).
+
+- <time>Nov 24, 2021</time> Completed the [Value of the Pieces](https://www.chess.com/lessons/capturing-pieces/value-of-the-pieces) and had some fun [learning about the Stafford Gambit](https://www.chess.com/blog/ThummimS/stafford-gambit-traps-a-complete-guide)
+
+- <time>Nov 23, 2021</time> Antonio is really tough.
+
+- <time>Nov 22, 2021</time> [Antonio](https://chess.com/play/computer/) is tough.
+
+- <time>Nov 21, 2021</time> Defeated Nelson with the black pieces! [Here's the game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.21%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22arjunyadav7%22%5D%0A%5BBlack%20%22Nelson%22%5D%0A%5BResult%20%221-0%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%5BBlackElo%20%221300%22%5D%0A%5BWhiteElo%20%22744%22%5D%0A%0A1.%20d4%20e6%202.%20e4%20Qh4%203.%20Nc3%20Bd6%204.%20Nf3%20Qg4%205.%20h3%20Qg6%206.%20e5%20Bb4%207.%20a3%20Bxc3%2B%208.%20bxc3%0ANe7%209.%20Bc4%20d5%2010.%20Bb3%20O-O%2011.%20O-O%20f6%2012.%20Nh4%20Qf7%2013.%20c4%20Nf5%2014.%20Nf3%20dxc4%2015.%0ABxc4%20fxe5%2016.%20dxe5%20b5%2017.%20Bxb5%20c6%2018.%20Bc4%20Ba6%2019.%20Bd3%20Bxd3%2020.%20cxd3%20Nd4%2021.%20Nxd4%0ANd7%2022.%20Nxc6%20Rac8%2023.%20Nxa7%20Rc7%2024.%20Nb5%20Nxe5%2025.%20d4%20Nf3%2B%2026.%20Qxf3%20Qxf3%2027.%20gxf3%0ARb7%2028.%20a4%20h6%2029.%20Nd6%20Rb4%2030.%20Rd1%20Rb3%2031.%20Kg2%20Rfxf3%2032.%20a5%20Rxh3%2033.%20a6%20Rhc3%2034.%0Aa7%20Kh7%2035.%20a8%3DQ%20Rf3%2036.%20Rd3%20Rxf2%2B%2037.%20Kxf2%20Rxd3%2038.%20Qe4%2B%20g6%2039.%20Qxd3%20h5%2040.%20Qe4%0AKh8%2041.%20Qxe6%20Kh7%2042.%20Qe7%2B%20Kh8%2043.%20Ne4%20Kg8%2044.%20d5%20Kh8%2045.%20d6%20Kg8%2046.%20d7%20Kh8%2047.%0Ad8%3DQ%23%201-0&tab=analysis&referrer=vs-computer-analyze).
+
+- <time>Nov 20, 2021</time> Played 2 games with Nelson, and drew one!
+
+- <time>Nov 19, 2021</time> Very close to winning against [Nelson](https://chess.com/play/computer), but I eventually lost way too much material.
+
+- <time>Nov 18, 2021</time> "One day Sven, one day." Well folks, that day finally came! [I checkmated Sven with the black pieces](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.18%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22Sven%22%5D%0A%5BBlack%20%22arjunyadav7%22%5D%0A%5BResult%20%220-1%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%5BBlackElo%20%22744%22%5D%0A%5BWhiteElo%20%221100%22%5D%0A%0A1.%20d4%20d5%202.%20Nf3%20Nc6%203.%20c4%20f6%204.%20c5%20e5%205.%20g3%20exd4%206.%20Nxd4%20Bxc5%207.%20Nc2%20Nge7%208.%20Qd3%0AO-O%209.%20Qb3%20Bf5%2010.%20Rg1%20Na5%2011.%20Qc3%20b6%2012.%20Ne3%20Bd7%2013.%20Bg2%20d4%2014.%20Bxa8%20dxc3%2015.%0ABe4%20cxb2%2016.%20Bxb2%20Bb4%2B%2017.%20Nc3%20Bh3%2018.%20a4%20Qd4%2019.%20Bd3%20Bxc3%2B%2020.%20Kd1%20Bxb2%2021.%20Ra2%0AQb4%2022.%20Nc2%20Qb3%2023.%20Rh1%20Qxa2%2024.%20Bxh7%2B%20Kxh7%2025.%20Ne1%20Rd8%2B%2026.%20Nd3%20Ba3%2027.%20Ke1%0AQa1%2B%2028.%20Kd2%20Qxh1%2029.%20Kc2%20Nc4%2030.%20f4%20Ne3%2B%2031.%20Kb3%20Be6%2B%2032.%20Kxa3%20Qa1%2B%2033.%20Kb4%0AQb1%2B%2034.%20Kc3%20Rd4%2035.%20Kxd4%20Nc6%2B%2036.%20Kxe3%20Nb4%2037.%20h4%20Nxd3%2038.%20exd3%20Qe1%2B%2039.%20Kf3%0AQf1%2B%2040.%20Ke4%20Qe1%2B%2041.%20Kf3%20Bd5%2B%2042.%20Kg4%20Qe6%2B%2043.%20f5%20Qe2%2B%2044.%20Kh3%20Bg2%2B%2045.%20Kh2%0ABf3%2B%2046.%20Kg1%20Qe1%2B%2047.%20Kh2%20c5%2048.%20g4%20Bxg4%2049.%20Kg2%20c4%2050.%20a5%20cxd3%2051.%20axb6%20axb6%0A52.%20h5%20d2%2053.%20h6%20gxh6%2054.%20Kh2%20d1%3DQ%2055.%20Kg2%20Qdd2%23%200-1&tab=analysis&referrer=vs-computer-analyze)!
+
+- <time>Nov 17, 2021</time> Played several games online.
+
+- <time>Nov 16, 2021</time> One day Sven, one day. Also played [a really, really funny blitz game where my opponent only moved their king for the majority of the game.](https://www.chess.com/game/live/30805164009)
+
+- <time>Nov 15, 2021</time> Finished my [weekly lesson.](https://www.chess.com/lessons/winning-the-game)
+
+- <time>Nov 14, 2021</time> Drew Sven due to a mouse slip. [Here is the game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.14%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22Sven%22%5D%0A%5BBlack%20%22arjunyadav7%22%5D%0A%5BResult%20%221/2-1/2%22%5D%0A%5BBlackElo%20%22744%22%5D%0A%5BWhiteElo%20%221100%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%0A1.%20d4%20d5%202.%20c4%20e6%203.%20Nf3%20Nf6%204.%20Nc3%20Nc6%205.%20Bg5%20Bd6%206.%20Qc1%20O-O%207.%20Bh4%20h6%208.%20e3%20g5%0A9.%20cxd5%20exd5%2010.%20a3%20a6%2011.%20Bxg5%20hxg5%2012.%20Kd1%20g4%2013.%20Ng5%20b5%2014.%20Bd3%20b4%2015.%20Na2%0ABb7%2016.%20Be2%20bxa3%2017.%20h4%20axb2%2018.%20Qxb2%20Qb8%2019.%20Kc2%20a5%2020.%20Kb1%20Nb4%2021.%20Nc3%20Ne4%2022.%0ANcxe4%20dxe4%2023.%20Re1%20a4%2024.%20Bxg4%20a3%2025.%20Qd2%20a2%2B%2026.%20Kc1%20Ra3%2027.%20Rh1%20Rd3%2028.%20Qe2%0ARc3%2B%2029.%20Kd1%20Qa7%2030.%20Qf1%20Qa3%2031.%20Qb5%20Qb2%2032.%20Nxe4%20Bxe4%2033.%20Bf5%20Bxf5%2034.%20Qxf5%20Nc6%0A35.%20Re1%20f6%2036.%20Qg6%2B%20Kh8%2037.%20Qh6%2B%20Kg8%2038.%20Qg6%2B%20Kh8%2039.%20Qh6%2B%20Kg8%2040.%20Qg6%2B%201/2-1/2&tab=analysis&referrer=vs-computer-analyze).
+
+- <time>Nov 13, 2021</time> Thinking about (seriously) playing online.
+
+- <time>Nov 12, 2021</time> Had some fun with [lower-rated bots](https://chess.com/play/computer).
+
+- <time>Nov 11, 2021</time> Completed my weekly lesson. Moved away from Sven, and (for fun) I tried my hand at [DanyaBot](https://chess.com/play/computer/), I'm actually proud to say I only made 1 blunder (even though I lost).
+
+- <time>Nov 10, 2021</time> I think I will put the bots on the side and try to actually study the game instead of brute-forcing it.
+
+- <time>Nov 09, 2021</time> Same old, same old. I also had some fun [analyzing games](https://chess.com/analysis) and [learning the Caro-Kann](https://www.chess.com/openings/Caro-Kann-Defense). Later, I won against my dad with the black pieces via checkmate.
+
+- <time>Nov 08, 2021</time> So close! I blundered my queen again. I'll get three crowns against Sven sooner or later.
+
+- <time>Nov 07, 2021</time> I was so close but I blundered too many times.
+
+- <time>Nov 06, 2021</time> 1000 -> 1100 transition is tough.
+
+- <time>Nov 05, 2021</time> Jumped around different bots. Need to defeat Sven with three crowns soon.
+
+- <time>Nov 04, 2021</time> I played against [Jimmy](https://chess.com/play/computer) ~3 times, blundering my queen in the first two games, but winning in the last. [Here's that last game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.04%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22arjunyadav7%22%5D%0A%5BBlack%20%22Jimmy%22%5D%0A%5BResult%20%221-0%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%5BBlackElo%20%22600%22%5D%0A%5BWhiteElo%20%22744%22%5D%0A%0A1.%20e4%20d5%202.%20f3%20c5%203.%20d3%20Nh6%204.%20h3%20Bxh3%205.%20Nxh3%20f6%206.%20g4%20%7B%5B%25cal%20dh6g4%5D%5B%25c_arrow%0Ah6g4;from;h6;to;g4%5D%7D%206...%20Qd7%207.%20Nc3%20Kf7%208.%20Nxd5%20a6%209.%20b3%20b5%2010.%20Be2%20Qe6%2011.%20O-O%0ANc6%2012.%20b4%20Ra7%2013.%20bxc5%20b4%2014.%20Nxb4%20Qd7%2015.%20f4%20Nd8%2016.%20e5%20Ne6%2017.%20f5%20%7B%5B%25cal%0Adh6f5%5D%5B%25c_arrow%20h6f5;from;h6;to;f5%5D%7D%2017...%20Qc8%2018.%20fxe6%2B%20Kg8%2019.%20Bf4%20Qd8%2020.%20Nc6%0Aa5%2021.%20Nxd8%20Ra6%2022.%20g5%20fxe5%2023.%20Bxe5%20a4%2024.%20gxh6%20Rxe6%2025.%20Nxe6%20gxh6%2026.%20Nxf8%20h5%0A27.%20Nd7%20h6%2028.%20Bxh8%20h4%2029.%20Rf4%20a3%2030.%20Rxh4%20Kh7%2031.%20Ra4%20Kg8%2032.%20Rxa3%20Kxh8%2033.%0ARa8%2B%20Kh7%2034.%20Bg4%20Kg7%2035.%20Be6%20Kh7%2036.%20Qh5%20Kg7%2037.%20Qe8%20h5%2038.%20Rf1%20Kh6%2039.%20Nf4%20h4%0A40.%20Rf3%20Kg5%2041.%20Qg8%2B%20Kh6%2042.%20Qh8%2B%20Kg5%2043.%20Rg8%23%201-0&tab=analysis&referrer=vs-computer-analyze). Later, I played two games against my dad, I think the first one was a draw? (no legal moves but not in check) and the second one was a win via resignation.
+
+- <time>Nov 03, 2021</time> I finally defeated the pumpkin 3 days after Halloween. [Here's the game](https://www.chess.com/analysis?pgn=%5BEvent%20%22vs%20Computer%22%5D%0A%5BSite%20%22Chess.com%22%5D%0A%5BDate%20%222021.11.03%22%5D%0A%5BRound%20%22?%22%5D%0A%5BWhite%20%22Pumpkin%22%5D%0A%5BBlack%20%22arjunyadav7%22%5D%0A%5BResult%20%220-1%22%5D%0A%5BBlackElo%20%22744%22%5D%0A%5BWhiteElo%20%221000%22%5D%0A%5BTimeControl%20%22-%22%5D%0A%0A1.%20Nc3%20e5%202.%20Ne4%20d5%203.%20Nc3%20c6%204.%20b3%20Nf6%205.%20Bb2%20Bc5%206.%20a3%20O-O%207.%20f3%20e4%208.%20f4%20h6%0A9.%20e3%20g5%2010.%20g3%20Bg4%2011.%20Nce2%20a5%2012.%20f5%20Nh5%2013.%20c4%20Bxf5%2014.%20b4%20axb4%2015.%20Kf2%20dxc4%0A16.%20Bg2%20bxa3%2017.%20Be5%20Nd7%2018.%20Bc3%20Nb6%2019.%20Nh3%20Na4%2020.%20Nd4%20Nxc3%2021.%20dxc3%20a2%2022.%0AQg1%20Ra3%2023.%20Qe1%20Qa5%2024.%20Rc1%20g4%2025.%20Ng5%20hxg5%2026.%20Rf1%20b5%2027.%20Nxf5%20Re8%2028.%20Bh1%20Re5%0A29.%20Kg2%20Kh7%2030.%20Kg1%20Kg6%2031.%20Nd4%20Bxd4%2032.%20Rd1%20Bxc3%2033.%20Qe2%20Kh6%2034.%20Rd6%2B%20Kg7%2035.%0ARa1%20Bxa1%2036.%20Kg2%20Rb3%2037.%20Rd7%20c3%2038.%20Kf2%20Rb2%2039.%20Rd1%20Rxe2%2B%2040.%20Kxe2%20c2%2041.%20Rxa1%0AQc3%2042.%20Bg2%20Qxa1%2043.%20Kd2%20c1%3DQ%2B%2044.%20Ke2%20Qc2%23%200-1&tab=analysis&referrer=vs-computer-analyze). I also resigned against Sven again.
+
+- <time>Nov 02, 2021</time> So close, but I hanged my queen accidentally.
+
+- <time>Nov 01, 2021</time> I hate pumpkins. (Also, [I completed a lesson on rook checkmates.](https://www.chess.com/lessons/winning-the-game))
+
+- <time>Oct 31, 2021</time> Resigned against Sven for the quadrillionth time.
+
+- <time>Oct 30, 2021</time> Tried to defeat the damn [Pumpkin](https://chess.com/play/computer), was close but blundered the endgame.
+
+- <time>Oct 29, 2021</time> Kept resigning against Sven. Later in the day, I learnt about the [Scandinavian Defense](https://www.chess.com/openings/Scandinavian-Defense) and won against my dad with the white pieces via checkmate!
+
+- <time>Oct 28, 2021</time> Kept resigning against [Sven](https://chess.com/play/computer) and [finished the Assisted Checkmate lesson](https://www.chess.com/lessons/winning-the-game/assisted-checkmates).
+
+<hr />
+
 ## <span id="eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</span>
 
 <small>Jul 08, 2022-Sep 03, 2022</small>  
@@ -18656,6 +18221,442 @@ Was quite a fun tournament! I watched CaryKH's BFDI series when I was quite youn
 
 An interesting first foray into the world of extracurriculars for little Arjun, I distinctly remember running from the car after an outing to attend my microeconomics class. The neurodegenerative disease course was also interesting. I hope all my instructors are doing well now!
 
+<hr />
+
+## Archive
+
+These are for projects that, while I may still continue in some capacity, I do not log them anymore.
+
+<hr />
+
+## <span id="drums">Drums</span>
+
+<small>Aug 02, 2022-present</small>  
+<small>Trying to get better every day and have some fun as well!</small>
+
+<hr />
+<small>Drums' start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Dec 24, 2023</time> More acoustic drums should be there in hip-hop music, both live drums and drum machine samples can coexist!
+
+- <time>Dec 07, 2023-Dec 12, 2023</time> Learnt ~about two songs for, something!
+
+- <time>Nov 30, 2023</time> Recorded and uploading Clocks by Coldplay.
+
+- <time>Nov 14, 2023</time> It's up!
+
+- <time>Nov 11, 2023-Nov 13, 2023</time> Recorded a song that a couple of my schoolmates and I are covering!
+
+- <time>Oct 07, 2023</time> Recorded Zero by The Smashing Pumpkins!
+
+- <time>Oct 07, 2023</time> Recorded Suck My Kiss by Red Hot Chili Peppers - really loved how this one came out!
+
+- <time>Sep 24, 2023</time> Do air drums count?
+
+- <time>Sep 23, 2023</time> Recorded Rope by Foo Fighters! (finally)
+
+- <time>Sep 22, 2023</time> Recorded Rock and Roll by Led Zeppelin!
+
+- <time>Sep 19, 2023</time> Played the acoustic drum kit in school!
+
+- <time>Sep 17, 2023</time> Almost recorded Rope by Foo Fighters.
+
+- <time>Sep 05, 2023-Sep 10, 2023</time> Recorded Heartbreaker by Led Zeppelin.
+
+- <time>Sep 04, 2023</time> I think I made my teacher proud!
+
+- <time>Sep 04, 2023</time> Played Summer of 69' by Bryan Adams for tomorrow.
+
+- <time>Sep 03, 2023</time> I am Iron Man. Also, Heartbreaker! Will finish learning it by Friday.
+
+- <time>Aug 21, 2023</time> Finished an audition.
+
+- <time>Aug 20, 2023</time> Messed around with some blink-182 and Van Halen.
+
+- <time>Aug 12, 2023-Aug 17, 2023</time> Finished Grade 3 for the most part (one song is left I believe) and blink-182!
+
+- <time>Aug 11, 2023</time> Recorded Smells Like Teen Spirit by Nirvana.
+
+- <time>Aug 07, 2023</time> Recorded Come Together by The Beatles.
+
+- <time>Jul 31, 2023-Aug 06, 2023</time> Continuing to learn Sweet Child O' Mine by Guns N' Roses.
+
+- <time>Jul 29, 2023-Jul 30, 2023</time> Learnt Weird Fishes/ Arpeggi by Radiohead.
+
+- <time>Jul 28, 2023</time> Los.
+
+- <time>Jul 27, 2023</time> 'Breed' by Nirvana is quite a fun song to play.
+
+- <time>Jul 26, 2023</time> Played the intro to Toxicity and shared it.
+
+- <time>Jul 24, 2023</time> Learnt Boulevard of Broken Dreams and I Believe I'll Dust My Broom
+
+- <time>Jul 21, 2023-Jul 23, 2023</time> "I've given.... UUUUUPPPP!"
+
+- <time>Jul 17, 2023-Jul 20, 2023</time> Back to playing random songs, 'Los' is quite fun to play! Turns out that I broke my snare pad, so swapped with a tom pad. Works.
+
+- <time>Jul 16, 2023</time> Played 'Chop Suey!' by System of a Down and shared it to the interwebs.
+
+- <time>Jul 11, 2023-Jul 15, 2023</time> So much fun just playing random songs (mostly by a certain NDH band). Going to record a little something tomorrow.
+
+- <time>Jul 08, 2023</time> Played some Radiohead songs. This is a lot more fun than I remember!
+
+- <time>Dec 20, 2022</time> Sort of messed around for a bit.
+
+- <time>Aug 13, 2022</time> Played [Fever by The Black Keys](https://www.youtube.com/watch?v=tk5m_TAD_AM).
+
+- <time>Aug 12, 2022</time> Played [I Want to Break Free by Queen](https://www.youtube.com/watch?v=wIqa9uVnXCQ).
+
+- <time>Aug 06, 2022</time> Finished learning Back in Black by AC/DC. The snare-kick-hi-hat pattern was the only thing I had to get down.
+
+- <time>Aug 04, 2022</time> Played [Back in Black by AC/DC](https://www.youtube.com/watch?v=pAgnJDJN4VA).
+
+- <time>Aug 02, 2022</time> Played [Yellow by Coldplay](https://www.youtube.com/watch?v=fviwj5P1FCc).
+
+<hr />
+
+## <span id="guitar">Guitar</span>
+
+<small>Oct 29, 2021-present</small>  
+<small>Trying to learn acoustic guitar via [justinguitar.com](https://justinguitar.com).</small>
+
+<hr />
+<small>Guitar's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Sep 16, 2022</time> Learnt [some open 7th chords](https://www.justinguitar.com/guitar-lessons/open-7th-chords-bg-1301).
+
+- <time>Sep 03, 2022</time> (Tried) to learn [Hey You](https://www.youtube.com/watch?v=soL8JK6kALc) by Pink Floyd.
+
+- <time>Aug 17, 2022</time> Freestyled to ease back in.
+
+- <time>Aug 03, 2022</time> Continued with Module 4 practice.
+
+- <time>Aug 01, 2022</time> "Learnt" [the intro to Chop Suey!](https://www.youtube.com/watch?v=EjQxA7ulTdM) Drop C tuning is awesome.
+
+- <time>Jul 28, 2022</time> Practiced a sliding power chord song that was recommended to us (why do almost all of them have iffy names?)
+
+- <time>Jul 27, 2022</time> Got started with Module 4 practice.
+
+- <time>Jul 26, 2022</time> Finished learning [an easier version of Enter Sandman](https://www.youtube.com/watch?v=j7GCEY1TALw).
+
+- <time>Jul 25, 2022</time> "Finished" with the Module 5 videos (sort of just skipped a few) and will get started with the practice tomorrow.
+
+- <time>Jul 20, 2022</time> Played an electric guitar for the first time!
+- <time>Jul 08, 2022</time> Finished [a short video](https://www.justinguitar.com/guitar-lessons/awesome-power-chord-songs-bg-1207) in the module. I guess I've been less motivated to continue with this module since it's so electric guitar focused (though maybe I'm wrong and my skill is to blame here, not the acoustic)
+
+- <time>Jul 04, 2022</time> Sort of continued with the riff.
+
+- <time>Jul 03, 2022</time> Learnt the first part of the first part of the [Enter Sandman riff](https://www.justinguitar.com/guitar-lessons/enter-sandman-bg-1205).
+
+- <time>Jul 02, 2022</time> Finished with [Palm Muting](https://www.justinguitar.com/guitar-lessons/palm-muting-bg-1203) and [Understanding Distortion](https://www.justinguitar.com/guitar-lessons/understanding-distortion-bg-1204). This module is irritating if you're using an acoustic. Why do you have to be so cool, electric?.
+
+- <time>Jun 27, 2022</time> Finished with [The Am Pentatonic Scale](https://www.justinguitar.com/guitar-lessons/the-a-minor-pentatonic-bg-1202).
+
+- <time>Jun 26, 2022</time> Finished with Power Chords (and sort of learnt [Smells Like Teen Spirit](https://www.youtube.com/watch?v=JirXTmnItd4)?)
+
+- <time>Jun 25, 2022</time> Got started with [Power Chords](https://www.justinguitar.com/guitar-lessons/power-chords-bg-1201).
+
+- <time>Jun 18, 2022</time> Six days... Finished with the second iteration of Module 4 practice.
+
+- <time>Jun 12, 2022</time> Continued with the second iteration of Module 4 practice. I finally understood why my guitar improv is so bad: I keep trying to play odd patterns.
+
+- <time>Jun 11, 2022</time> Continued with the second iteration of Module 4 practice.
+
+- <time>Jun 09, 2022</time> Got started with the second iteration of Module 4 practice.
+
+- <time>Jun 08, 2022</time> Finished with the first iteration of Module 4 practice.
+
+- <time>Jun 06, 2022</time> Continued with the first iteration of Module 4 practice.
+
+- <time>Jun 05, 2022</time> Got my guitar repaired!
+
+- <time>May 28, 2022</time> Continued with the first iteration of Module 4 practice, will be done with it tomorrow (welp, a guitar string broke again, so I'll try my best to get back to the practice ASAP).
+
+- <time>May 26, 2022</time> Finished with the Module 4 videos and got started with the first iteration of Module 4 practice. I think I'm going to increase the number of iterations to three.
+
+- <time>May 25, 2022</time> Finished [dice songwriting](https://www.justinguitar.com/guitar-lessons/introduction-to-dice-songwriting-bg-1108). Really fun lesson! (even though I didn't do too much lol)
+
+- <time>May 24, 2022</time> Finished learning about [the songs for this module](https://www.justinguitar.com/guitar-lessons/songs-for-module-11-bg-1107) (excited for the fingerstyle songs for the first iteration).
+
+- <time>May 23, 2022</time> Finished [some ear training](https://www.justinguitar.com/guitar-lessons/re-active-listening-bg-1104), felt pretty disheartened after getting the last exercise wrong.
+
+- <time>May 22, 2022</time> Had fun with [this lesson](https://www.justinguitar.com/guitar-lessons/chord-freedom-bg-1101).
+
+- <time>May 19, 2022</time> It took roughly a week but I can finally play Happy Birthday on my own!
+
+- <time>May 18, 2022</time> Hopefully I should be able to play it tomorrow...
+
+- <time>May 16, 2022</time> So close to playing Happy Birthday on my own!
+
+- <time>May 15, 2022</time> Continued with learning Happy Birthday, about two-thirds of the way there.
+
+- <time>May 13, 2022</time> Continued with learning Happy Birthday.
+
+- <time>May 12, 2022</time> Got started with learning [Happy Birthday](https://www.justinguitar.com/guitar-lessons/happy-birthday-finger-style-bg-1106) and had some fun with learning [All Falls Down](https://www.youtube.com/watch?v=gWxt9GAiKZo) (I guess I've learnt it? It sounds pretty bad though).
+
+- <time>May 11, 2022</time> Learnt more about [fingerstyle playing](https://www.justinguitar.com/guitar-lessons/finger-style-first-steps-bg-1105).
+
+- <time>May 10, 2022</time> Had fun playing How Much A Dollar Cost with [these chords](https://tabs.ultimate-guitar.com/tab/kendrick-lamar/how-much-a-dollar-cost-chords-1947283) (simplified) (only the F#, F and Dm sounded okay lol)
+
+- <time>May 09, 2022</time> Finished with [shifting the F chord](https://www.justinguitar.com/guitar-lessons/shifting-the-f-bg-1103). The way Justin played the F chord reminded me [How Much a Dollar Cost by Kendrick Lamar](https://www.youtube.com/watch?v=y8kEiL81_R4). I'm going to try to play that tomorrow.
+
+- <time>May 08, 2022</time> Got started with [Module 11 with some sus chords](https://www.justinguitar.com/guitar-lessons/beginner-sus-chords-bg-1102), I really like the transition from A sus2 to A sus4.
+
+- <time>May 06, 2022</time> Finished with the second iteration of Module 10 practice!
+
+- <time>May 05, 2022</time> Continued with the second iteration of Module 10 practice. Nearly done!
+
+- <time>May 04, 2022</time> Continued with the second iteration of Module 10 practice.
+
+- <time>May 03, 2022</time> Continued with the second iteration of Module 10 practice, I thought I forgot the C Major scale but nope, my guitar was just slightly out of tune lol.
+
+- <time>May 02, 2022</time> Got started with the second iteration of Module 10 practice.
+
+- <time>May 01, 2022</time> Finished with the first iteration of Module 10 practice! Also, small correction: I don't use the songbook tab on JustinGuitar.com (since it forces the song into three categories, which I don't like) and instead I just like the play-through video (which acts as a songbook).
+
+- <time>Apr 27, 2022</time> Continued with Module 10 practice and added two songs to my songbook!
+
+- <time>Apr 26, 2022</time> Continued with Module 10 practice, F (with bar) chord is shaping up to be pretty decent now (similar sounding to a Fmaj7) but the change from F to C is slow for me lol.
+
+- <time>Apr 23, 2022</time> Continued with Module 10 practice and did some really bad C Major improvisation (why did I choose the thinnest string?)
+
+- <time>Apr 22, 2022</time> Continued (?) with Module 10 practice.
+
+- <time>Apr 20, 2022</time> Finished with the Module 10 videos and got started with the first iteration of Module 10 practice (sort of, I need to start over with the C major scale alternate picking).
+
+- <time>Apr 19, 2022</time> Learnt some [common chord progressions](https://www.justinguitar.com/guitar-lessons/5-common-chord-progressions-bg-1011).
+
+- <time>Apr 17, 2022</time> Finished with La Bamba Riff (learnt the double note variation).
+
+- <time>Apr 16, 2022</time> Finished with [Beginner Hammer-ons](https://www.justinguitar.com/guitar-lessons/beginner-hammer-ons-bg-1008) which are super tricky and learnt the single note variation of the [La Bamba riff](https://www.justinguitar.com/guitar-lessons/la-bamba-riff-bg-1009), which is super awesome.
+
+- <time>Apr 15, 2022</time> Finished with [The Rhythm Push](https://www.justinguitar.com/guitar-lessons/the-rhythm-push-bg-1007) and also discovered that the 11th fret of the thinnest string sounds almost exactly like the "siren" sample in [Use This Gospel](https://www.youtube.com/watch?v=8yQVcGkbpAc).
+
+- <time>Apr 14, 2022</time> Finished with [Alternate Picking C Major](https://www.justinguitar.com/guitar-lessons/alternate-picking-c-major-bg-1005) and [Major Scale Improvisation](https://www.justinguitar.com/guitar-lessons/major-scale-improvisation-bg-1006) (really excited to start guitar improv in this module's practice!)
+
+- <time>Apr 13, 2022</time> Finished with [F chord changes](https://www.justinguitar.com/guitar-lessons/f-chord-changes-bg-1003) and [feeling the frets](https://www.justinguitar.com/guitar-lessons/feeling-the-frets-bg-1004).
+
+- <time>Apr 12, 2022</time> Learnt about the [weak finger G](https://www.justinguitar.com/guitar-lessons/weak-finger-g-bg-1001) (which I dislike, for now...) and the [A mini barre](https://www.justinguitar.com/guitar-lessons/first-finger-a-chord-bg-1002) (which I kinda dig)
+
+- <time>Apr 11, 2022</time> Finished the second iteration of Module 9 practice! Will start [Module 10](https://www.justinguitar.com/modules/alternate-gs-making-up-solos) tomorrow.
+
+- <time>Apr 10, 2022</time> Continued with the second iteration of Module 9 practice.
+
+- <time>Apr 09, 2022</time> Continued with the second iteration of Module 9 practice.
+
+- <time>Apr 08, 2022</time> Got started with the second iteration of Module 9 practice.
+
+- <time>Apr 07, 2022</time> Finished the first iteration of Module 9 practice, will start the second iteration tomorrow.
+
+- <time>Apr 06, 2022</time> I did it! I learnt the C Major Scale! I leveraged the previous pattern I learnt for the note circle.
+
+- <time>Apr 04, 2022</time> Continued with the first iteration of Module 9 practice and played [One by U2](https://www.youtube.com/watch?v=TBF_jCLO1l0).
+
+- <time>Apr 03, 2022</time> Continued with the first iteration of Module 9 practice. Something barely impressive: I can play the C-G-D-A-Em chord transition without looking at the guitar (kind of).
+
+- <time>Apr 01, 2022</time> Continued with the first iteration of Module 9 practice, the guitar chords Notion page is extremely handy!
+
+- <time>Mar 31, 2022</time> Revised the Em Pentatonic Scale.
+
+- <time>Mar 24, 2022</time> Continued with the first iteration of Module 9 practice.
+
+- <time>Mar 23, 2022</time> Got started with the first iteration of Module 9 practice.
+
+- <time>Mar 22, 2022</time> Finished with the Module 9 lessons, will be on the practice for some time (due to the C Major scale lol)
+
+- <time>Mar 21, 2022</time> Finished with the Red Hot Chili Peppers riff (minus the chords, might do that for fun).
+
+- <time>Mar 20, 2022</time> Got my guitar strings replaced, I've never heard a guitar so out of tune before lol.
+
+- <time>Mar 11, 2022</time> It wouldn't be a JustinGuitar module without an [odd finger training exercise](https://www.justinguitar.com/guitar-lessons/pinky-workout-b2-907). I was planning on finishing up [the Red Hot Chili Peppers riff today](https://www.justinguitar.com/guitar-lessons/californication-riff-b2-908) (since it's pretty easy) but my D string broke :(
+
+- <time>Mar 10, 2022</time> Finished with [more advanced 16th note strumming](https://www.justinguitar.com/guitar-lessons/ups-to-the-all-down-b2-906).
+
+- <time>Mar 09, 2022</time> Got done with compiling all the chords in a [Notion page](https://arjun-yadav.notion.site/Guitar-Chords-8f0d7c8cecd34495a8274b8f0ee3fa73?pvs=73).
+
+- <time>Mar 08, 2022</time> Changed my mind, [the C Major scale](https://www.justinguitar.com/guitar-lessons/c-major-scale-b2-905) got to me lol. I'll start the chord book work tomorrow.
+
+- <time>Mar 07, 2022</time> Finished with [All Stop Mute](https://www.justinguitar.com/guitar-lessons/all-stop-mute-b2-903) and [creating a chord book](https://www.justinguitar.com/guitar-lessons/your-chord-book-b2-904) (which I will do from tomorrow instead of the videos.)
+
+- <time>Mar 06, 2022</time> Finished with learning the F chord and [its variations](https://www.justinguitar.com/guitar-lessons/f-chord-cheats-b2-902). It honestly isn't _impossible_ but it certainly is tricky. Maybe I'm just lucky.
+
+- <time>Mar 03, 2022</time> Finished with the second iteration of Module 8 practice! Will start [Module 9 and the dreaded F chord](https://www.justinguitar.com/guitar-lessons/the-f-chord-b2-901) soon.
+
+- <time>Mar 02, 2022</time> Continued with the second iteration of Module 8 practice, nearly done.
+
+- <time>Mar 01, 2022</time> Continued with the second iteration of Module 8 practice.
+
+- <time>Feb 28, 2022</time> Started with the second iteration of Module 8 practice, why does my E min7 chord sound so bad?
+
+- <time>Feb 27, 2022</time> Finished with the first iteration of Module 8 practice! I'll start it all over again tomorrow.
+
+- <time>Feb 26, 2022</time> Continued with Module 8 practice.
+
+- <time>Feb 24, 2022</time> I think I'm done learning the riff! I'll check back tomorrow to see if I still remember it.
+
+- <time>Feb 23, 2022</time> Continued with the Wish You Were Here riff.
+
+- <time>Feb 22, 2022</time> I've been listening to Wish You Were Here by Pink Floyd in preparation for finishing the riff. I guess it helped a bit? Anyways, almost finished learning the riff and just a few more items are left for the first iteration of Module 1 practice!
+
+- <time>Feb 20, 2022</time> Continued with Module 8 practice.
+
+- <time>Feb 19, 2022</time> Continued with [Module 8](https://www.justinguitar.com/modules/cool-chords-fast-changes-scales) practice. I stink at Big G to D chord transitions.
+
+- <time>Feb 18, 2022</time> Memorized all the Stuck 3&4 chords!
+
+- <time>Feb 17, 2022</time> 3 days... Anyways, I've finished with all the content and I'll start with the practice tomorrow (for real this time!), it'll probably last ~2 weeks since I'll repeat it.
+
+- <time>Feb 13, 2022</time> Finished with the Wish You Were Here riff video, sort of got the introduction down. Will start the practice soon!
+
+- <time>Feb 12, 2022</time> Finished with [Notes in Open Position](https://www.justinguitar.com/guitar-lessons/notes-in-open-position-b2-809) and got started with the [Wish You Were Here riff](https://www.justinguitar.com/guitar-lessons/wish-you-were-here-riff-for-beginners-b2-808), the riff is super hard!
+
+- <time>Feb 11, 2022</time> Finished with [Pick Manipulation](https://www.justinguitar.com/guitar-lessons/pick-manipulation-b2-806).
+
+- <time>Feb 10, 2022</time> Finished with [All Down 8th Note Strumming](https://www.justinguitar.com/guitar-lessons/all-down-8th-note-strumming-b2-805), really had a lot fun today in this lesson! Strumming can sometimes be fun.
+
+- <time>Feb 09, 2022</time> Finished with [Muting Strings Deliberately](https://www.justinguitar.com/guitar-lessons/muting-strings-deliberately-b2-804).
+
+- <time>Feb 08, 2022</time> I have no excuses for not playing guitar for 4 days. Anyways, learnt about a [new exercise routine](https://www.justinguitar.com/guitar-lessons/perfect-fast-changes-b2-802) and the [Open Em Pentatonic scale](https://www.justinguitar.com/guitar-lessons/open-e-minor-pentatonic-scale-b2-803).
+
+- <time>Feb 04, 2022</time> Learnt [a ton of chord variations](https://www.justinguitar.com/guitar-lessons/the-stuck-3-4-chords-b2-801). Going to be slightly hard to remember and practice all of them :(
+
+- <time>Feb 02, 2022</time> Finished Module 7 practice. Going to start Grade 2 (in guitar!) on the weekend.
+
+- <time>Feb 01, 2022</time> It's been a while and I finished memorizing two more songs (mainly Mad World) and I only have two more before I finish all my pre-requisites! The memorizing and practising also continued my Module 7 practice.
+
+- <time>Jan 28, 2022</time> Continued with [Module 7](https://www.justinguitar.com/guitar-lessons/the-8-essential-beginner-chord-grips-b1-701)'s practice.
+
+- <time>Jan 26, 2022</time> Finished all the content of the last module for Grade 1 and got started with the practice, this (and the last pre-requisite) should be done in about 2 weeks time.
+
+- <time>Jan 25, 2022</time> Finished all the pre-requisites for Grade 2 except for memorizing the songs, still have 4-ish left.
+
+- <time>Jan 24, 2022</time> We did it! We'll soon be in [Grade 2](https://www.justinguitar.com/classes/beginner-guitar-course-grade-two) after I complete the pre-requisites and the practice for this module.
+
+- <time>Jan 23, 2022</time> Learnt about the extra modules that JustinGuitar provides (outside of the grades).
+
+- <time>Jan 22, 2022</time> Learnt more about [Dynamics](https://www.justinguitar.com/guitar-lessons/dynamic-improvements-b1-706).
+
+- <time>Jan 21, 2022</time> Learnt about [open strings between chord changes](https://www.justinguitar.com/guitar-lessons/open-strings-between-changes-b1-704) and [feel good strumming](https://www.justinguitar.com/guitar-lessons/feel-good-strumming-b1-705).
+
+- <time>Jan 20, 2022</time> Learnt about the [best chord changes to practice](https://www.justinguitar.com/guitar-lessons/best-chord-changes-to-work-on-b1-702) and [air changes](https://www.justinguitar.com/guitar-lessons/air-changes-aspire-to-this-b1-703).
+
+- <time>Jan 19, 2022</time> Started the last module with [a revision on the 8 basic chords](https://www.justinguitar.com/guitar-lessons/the-8-essential-beginner-chord-grips-b1-701).
+
+- <time>Jan 18, 2022</time> Finished with the second iteration of practice (!) and practised Mad World. Will start the last module of Grade 1 tomorrow.
+
+- <time>Jan 17, 2022</time> Continued with the second iteration of practice and Hey Joe. Nearly done.
+
+- <time>Jan 16, 2022</time> Continued with the second iteration of practice and Hey Joe.
+
+- <time>Jan 15, 2022</time> Started the second iteration of practice and added Hey Joe and [Mad World](https://www.youtube.com/watch?v=4N3N1MlvVc4) to my songbook!
+
+- <time>Jan 14, 2022</time> Finished Module 6 practice and played quite alright for this module's song, [Hey Joe](https://www.youtube.com/watch?v=rXwMrBb2x1Q).
+
+- <time>Jan 13, 2022</time> Continued with Module 6 practice, I only have the song practice left!
+
+- <time>Jan 11, 2022</time> Continued with Module 6 practice.
+
+- <time>Jan 10, 2022</time> Started with Module 6 practice. After this and the second iteration, I will have moved on to the last module of [Grade 1](https://www.justinguitar.com/classes/beginner-guitar-course-grade-one)!
+
+- <time>Jan 08, 2022</time> Finished [Module 6](https://www.justinguitar.com/modules/beginner-guitar-lesson-6)! Will start the practice soon.
+
+- <time>Jan 07, 2022</time> Learnt a [strumming pattern in 6:8 timing](https://www.justinguitar.com/guitar-lessons/a-6-8-strumming-pattern-b1-604) and [string names](https://www.justinguitar.com/guitar-lessons/open-string-note-names-b1-605).
+
+- <time>Jan 06, 2022</time> Learnt about [6:8 timing](https://www.justinguitar.com/guitar-lessons/about-time-signatures-b1-603).
+
+- <time>Jan 05, 2022</time> Learnt about [alternate picking](https://www.justinguitar.com/guitar-lessons/beginner-alternate-picking-b1-601) and a [variation of the G chord](https://www.justinguitar.com/guitar-lessons/the-g-chord-hacked-b1-602).
+
+- <time>Jan 04, 2022</time> Finished the second iteration of practice and added [Black](https://www.youtube.com/watch?v=4q9UafsiQ6k) to my songbook!
+
+- <time>Jan 03, 2022</time> Only song practice is left for the second iteration of practice! Also, I am very bad at transitioning from C chord to E chord.
+
+- <time>Jan 02, 2021</time> Continued the second iteration of practice.
+
+- <time>Jan 01, 2021</time> Sorry, I forgot what tomorrow meant, anyways, I started with the second iteration with the odd finger stretching exercise and the riff practice, will continue with the iteration tomorrow...
+
+- <time>Dec 29, 2021</time> Completed the first iteration! Will start the Module 5 practice once again tomorrow.
+
+- <time>Dec 28, 2021</time> Continued with Module 5 practice. Only song practice is left for iteration 1.
+
+- <time>Dec 27, 2021</time> Continued with Module 5 practice.
+
+- <time>Dec 26, 2021</time> Started with Module 5 practice.
+
+- <time>Dec 25, 2021</time> Finished Module 5, will take the next week solely for practice. Also going to build a songbook next week.
+
+- <time>Dec 24, 2021</time> Watched the [Songs For Module 5](https://www.justinguitar.com/guitar-lessons/songs-for-module-5-b1-507) video and tried my hands at [Daft Punk](https://www.youtube.com/watch?v=5NV6Rdv1a3I), let's just say that I'll be practising Daft Punk for a while...
+
+- <time>Dec 23, 2021</time> Learnt about [music theory and notes in guitar](https://www.justinguitar.com/guitar-lessons/understanding-music-notes-b1-504).
+
+- <time>Dec 22, 2021</time> Learnt [more about strumming](https://www.justinguitar.com/guitar-lessons/exploring-strumming-b1-503).
+
+- <time>Dec 21, 2021</time> Learnt the [Come As You Are riff](https://www.justinguitar.com/guitar-lessons/riff-come-as-you-are-b1-506).
+
+- <time>Dec 20, 2021</time> Finished with Justin's strumming tips.
+
+- <time>Dec 18, 2021</time> Got a little more than half-way through with [Justin's strumming tips](https://www.justinguitar.com/guitar-lessons/guitar-strumming-tips-b1-502).
+
+- <time>Dec 16, 2021</time> Learnt [the C Chord](https://www.justinguitar.com/guitar-lessons/the-c-chord-b1-501).
+
+- <time>Dec 15, 2021</time> Finished the second iteration of Module 4 practice and played 505 and Chocolate Jesus! I'll start [Module 5](https://www.justinguitar.com/modules/c-chord-music-notes-more) tomorrow.
+
+- <time>Dec 13, 2021</time> Continued with Module 4 practice, nearly done!
+
+- <time>Dec 12, 2021</time> Started with the second iteration of Module 4 practice.
+
+- <time>Dec 10, 2021</time> Finished the first iteration of Module 4 practice, had fun playing 505 and [Chocolate Jesus](https://www.youtube.com/watch?v=1wfamPW3Eaw).
+
+- <time>Dec 09, 2021</time> Continued with Module 4 Practice, I'll probably finish with this practice after I do the whole thing twice.
+
+- <time>Dec 08, 2021</time> Website is back up and continued with [Module 4](https://www.justinguitar.com/modules/using-a-metronome-riffs-and-tab) practice.
+
+- <time>Dec 06, 2021</time> Continued with 505 as the website is still broken.
+
+- <time>Dec 05, 2021</time> Sort of freestyled a bit since the website seems to be broken.
+
+- <time>Dec 03, 2021</time> Continued with 505, the strumming pattern is hard to master!
+
+- <time>Dec 02, 2021</time> Continued with 505.
+
+- <time>Dec 01, 2021</time> Started learning [505 by Arctic Monkeys](https://www.youtube.com/watch?v=qU9mHegkTc4) as part of my guitar practice, really nice song.
+
+- <time>Nov 30, 2021</time> Learnt [the riff to Sunshine Of Your Love by Cream](https://www.justinguitar.com/guitar-lessons/sunshine-of-your-love-b1-406), hoping to learn much more in December.
+
+- <time>Nov 29, 2021</time> Learnt about the [most common strumming patter in guitar](https://www.justinguitar.com/guitar-lessons/the-strumming-pattern-b1-404).
+
+- <time>Nov 28, 2021</time> Learnt about the [metronome](https://www.justinguitar.com/guitar-lessons/meet-the-metronome-b1-403) in guitar.
+
+- <time>Nov 27, 2021</time> Learnt the [D Minor chord](https://www.justinguitar.com/guitar-lessons/the-d-minor-chord-b1-402), really cool chord! Sounds much moodier than the other minor chords I've learnt.
+
+- <time>Nov 25, 2021</time> Continued with JustinGuitar and [learnt about this odd finger stretching exercise](https://www.justinguitar.com/guitar-lessons/beginner-finger-stretches-b1-401).
+
+- <time>Nov 22, 2021</time> Went back to Three Little Birds.
+
+- <time>Nov 21, 2021</time> Freestyled for a bit.
+
+- <time>Nov 19, 2021</time> Easing back into guitar.
+
+- <time>Nov 07, 2021</time> Finishing the whole practice was way too ambitious. I could only get done with the Seven Nation Army riff practice.
+
+- <time>Nov 06, 2021</time> Finished with Three Little Birds, hope to finish [Module 3](https://www.justinguitar.com/modules/minor-chords-and-up-strums) practice tomorrow.
+
+- <time>Nov 05, 2021</time> Continued with Three Little Birds, the A to E to D transition is really hard.
+
+- <time>Nov 04, 2021</time> Continued with Three Little Birds.
+
+- <time>Nov 03, 2021</time> Practiced [Three Little Birds by Bob Marley](https://www.youtube.com/watch?v=HNBCVM4KbUM). Beautiful song!
+
+- <time>Nov 02, 2021</time> Been some time, and learnt the [Seven Nation Army riff](https://www.justinguitar.com/guitar-lessons/seven-nation-army-b1-309).
+
+- <time>Oct 30, 2021</time> Learnt about [strumming with up strums, and using it after the 2nd beat](https://www.justinguitar.com/guitar-lessons/strumming-patterns-with-ups-b1-307).
+
+- <time>Oct 29, 2021</time> Learnt about [up strums](https://www.justinguitar.com/guitar-lessons/all-about-up-strums-b1-306).
 <hr />
 
 ## <span id="note">Note</span>
