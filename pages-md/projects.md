@@ -148,7 +148,7 @@ To be logged soon.
 
 #### Log
 
-- <time>Jun 10, 2024-Jul 19, 2024</time> Done! On to the next thing(s).
+- <time>Jun 10, 2024-Jul 25, 2024</time> Done! On to the next thing(s).
 
 - <time>May 21, 2024-Jun 09, 2024</time> Preparing to host a seminar online.
 
@@ -173,7 +173,7 @@ To be logged soon.
 
 #### Log
 
-- <time>Jun 10, 2024-Jul 19, 2024</time> Turns out, that really interesting person sparked new life into this project!
+- <time>Jun 10, 2024-Jul 25, 2024</time> Turns out, that really interesting person sparked new life into this project!
 
 - <time>May 19, 2024-Jun 09, 2024</time> Meeting(s) + met a really interesting person!
 
@@ -220,7 +220,7 @@ To be logged soon.
 
 #### Log
 
-- <time>May 07, 2024-Jul 19, 2024</time> Some what back to it.
+- <time>May 07, 2024-Jul 25, 2024</time> Some what back to it.
 
 - <time>May 04, 2024</time> Discussions...
 
@@ -441,7 +441,7 @@ To be logged soon.
 
 #### Log
 
-- <time>Jun 02, 2024-Jul 19, 2024</time> Some interesting follow-ups!
+- <time>Jun 02, 2024-Jul 25, 2024</time> Some interesting follow-ups!
 
 - <time>May 25, 2024</time> Weekly check-in.
 
@@ -682,7 +682,7 @@ To be logged soon.
 
 #### Log
 
-- <time>May 27, 2024-Jul 19, 2024</time> It's very annoying to log this particular project.
+- <time>May 27, 2024-Jul 25, 2024</time> It's very annoying to log this particular project.
 
 - <time>May 26, 2024</time> Finished [Split String](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/python) in Python:
 ```py
@@ -1204,7 +1204,7 @@ function getCount(str) {
 
 #### Log
 
-- <time>Jun 06, 2024-Jul 19, 2024</time> Loads of problems.
+- <time>Jun 06, 2024-Jul 25, 2024</time> Loads of problems.
 
 - <time>Jun 05, 2024</time> Finished [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/):
 ```py
