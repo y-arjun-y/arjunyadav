@@ -682,7 +682,7 @@ To be logged soon.
 
 #### Log
 
-- <time>May 27, 2024-Jul 25, 2024</time> It's very annoying to log this particular project.
+- <time>May 27, 2024-Jul 26, 2024</time> It's very annoying to log this particular project.
 
 - <time>May 26, 2024</time> Finished [Split String](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/python) in Python:
 ```py
@@ -1204,7 +1204,7 @@ function getCount(str) {
 
 #### Log
 
-- <time>Jun 06, 2024-Jul 25, 2024</time> Loads of problems.
+- <time>Jun 06, 2024-Jul 26, 2024</time> Loads of problems.
 
 - <time>Jun 05, 2024</time> Finished [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/):
 ```py
