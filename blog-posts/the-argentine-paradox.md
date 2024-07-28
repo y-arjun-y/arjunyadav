@@ -21,9 +21,9 @@ Is this my fault? Yes, 100%. But I do wish to make things right for a subject th
 
 For the past decade or so, there's been a consistent spell of budget deficits (that is, the government of a country spending more than they take in through taxation) and inflation (the "value" of money in a region) spiralling out of control. The recent COVID-19 pandemic did not help either of these at all.
 
-The plate of bad things that Argentina's economy has experienced in the past is vast: periods of hyperinflation whose effects still linger to this day to defaulting on debt: a big no-no when it comes to instilling confidence in your people, investors and the wider world and it's institutes (such as the International Monetary Fund).
+The plate of bad things that Argentina's economy has experienced in the past is vast: periods of hyperinflation whose effects still linger to this day to defaulting on debt: a big no-no when it comes to instilling confidence in your people, investors and the wider world and its institutes (such as the International Monetary Fund).
 
-## What did Javier Mileli do to turn this ship around?
+## What did Javier Milei do to turn this ship around?
 
 Javier Milei became the president of Argentina late last year and vowed "to turn this ship around" in his presidential campaign. A staunch defender of property rights and free market capitalism and a critic of "the welfare state" propped up by major Western nations across the world.
 
@@ -35,7 +35,7 @@ Mileli focused on reforming the following "twin issues" his administration ident
 
 Thus, Mileli and his administration planned on a "V-shaped" recovery: they slashed public spending in their proposed budget (which was passed by law-markers late April of this year) and devalued their currency to reverse the prop ups.
 
-Now, even though Argentina doesn't seem to be in a recession any more, it's quite razor-thin, and there are a lot of issues and further complications plaguing Mileli right now (such as whether to increase interest rates or not, which may help slow down inflation but ), but broadly speaking, Mileli did what was needed to save Argentina right now.
+Now, even though Argentina doesn't seem to be in a recession any more, it's economy is still razor-thin from entering a new one, and there are a lot of issues and further complications plaguing Mileli right now (such as whether to increase interest rates or not, which may help slow down inflation but ), but broadly speaking, Mileli did what was needed to save Argentina right now.
 
 ## Some remarks on austerity
 
@@ -45,5 +45,5 @@ After the new Labour string of premierships with Tony Blair and Gordon Brown end
 
 Now, was austerity needed in both countries? *While both countries saw major government spending*, the economies of both Argentina and the U.K. could not be more different: one still relies heavily on agriculture while the other is one of the most diversified and globalised economies in the world.
 
-Another aspect to consider is the timing of austerity measures taking place in both countries, the U.K.'s spending cuts towards the NHS left it in a much worse place to be during the COVID-19 pandemic ([a storm that Argentina did quite well in compared to the rest of the world]()), resulting in harsher criticism on how we got to this point. Add an energy crisis caused by the Russian-Ukraine war and it's no wonder Labour won a landslide last month.
+Another aspect to consider is the timing of austerity measures taking place in both countries, the U.K.'s spending cuts towards the NHS left it in a much worse place to be during the COVID-19 pandemic (a storm that Argentina did relatively quite well), resulting in harsher criticism on how we got to this point. Add an energy crisis caused by the Russian-Ukraine war and it's no wonder Labour won a landslide last month (even though [the spending proposed in their manifesto leading up to the election is one of their most fiscally conservative yet](https://news.sky.com/video/analysis-how-does-labours-manifesto-stack-up-against-the-other-parties-13152494)).
 
