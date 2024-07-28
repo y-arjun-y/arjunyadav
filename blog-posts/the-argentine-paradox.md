@@ -1,7 +1,7 @@
 ---
-title: Trying to understand macroeconomics through a case study
+title: The Argentine Paradox
 publish_date: Jul 28th, 2024
-meta_description: Will China be calling America up any time soon?
+meta_description: My attempt at trying to explain macroeconomics through a case study.
 meta_image: https://arjunyadav.net/boe.jpeg
 ---
 
