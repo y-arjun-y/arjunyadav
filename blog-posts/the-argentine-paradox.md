@@ -25,7 +25,7 @@ The plate of bad things that Argentina's economy has experienced in the past is 
 
 ## What did Javier Milei do to turn this ship around?
 
-Javier Milei became the president of Argentina late last year and vowed "to turn this ship around" in his presidential campaign. A staunch defender of property rights and free market capitalism and a critic of "the welfare state" propped up by major Western nations across the world.
+Javier Milei became the president of Argentina late last year and vowed to fix the broken economy in his presidential campaign. A staunch defender of property rights and free market capitalism and a critic of "the welfare state" propped up by major Western nations across the world, Javier is what most describe as a “Right-wing libertarian” economically speaking.
 
 With poverty reaching an all-time high since exiting the last major recession back in 2004, it seemed like Javier had an impossible task ahead of him, until he did the impossible back in May, steering Argentina out of its recent recession and beating all predictions for year-on-year growth.
 
