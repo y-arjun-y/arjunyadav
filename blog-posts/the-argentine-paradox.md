@@ -1,6 +1,6 @@
 ---
 title: The Argentine Paradox
-publish_date: Jul 28th, 2024
+publish_date: Jul 28, 2024
 meta_description: My attempt at trying to explain macroeconomics through a case study.
 meta_image: https://arjunyadav.net/boe.jpeg
 ---
