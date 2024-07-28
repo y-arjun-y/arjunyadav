@@ -9,7 +9,7 @@ meta_image: https://arjunyadav.net/boe.jpeg
 
 I recently had to cram a lot of macroeconomics for an exam that I may or may not have had much motivation to write, and while I did okay on it in the end, I couldn't shake the feeling that this was a lot tougher than what I had learnt in microeconomics: the graphs seemed to make less sense, and a lot of the topics just seemed to float in my mind without case studies to peg them down.
 
-Is this my fault? Yes, 100%. But I do wish to make things right for a subject that I genuinely have a lot of love and self-interest in, so in this post, I'll try to cover the practical concepts behind marcoecon using a case study: *the proported economic miracle of Argentina in the past two to three months*.
+Is this my fault? Yes, 100%. But I do wish to make things right for a subject that I genuinely have a lot of love and self-interest in, so in this post, I'll try to cover the practical concepts behind marcoecon using a case study: *the purported economic miracle of Argentina in the past two to three months*.
 
 ## But first, a clarification on interest and inflation
 
@@ -35,7 +35,7 @@ Mileli focused on reforming the following "twin issues" his administration ident
 
 Thus, Mileli and his administration planned on a "V-shaped" recovery: they slashed public spending in their proposed budget (which was passed by law-markers late April of this year) and devalued their currency to reverse the prop ups.
 
-Now, even though Argentina doesn't seem to be in a recession any more, it's economy is still razor-thin from entering a new one, and there are a lot of issues and further complications plaguing Mileli right now (such as whether to increase interest rates or not, which may help slow down inflation but ), but broadly speaking, Mileli did what was needed to save Argentina right now.
+Now, even though Argentina doesn't seem to be in a recession any more, its economy is still razor-thin from entering a new one, and there are a lot of issues and further complications plaguing Mileli right now (such as whether to increase interest rates or not, which may help slow down inflation but ), but broadly speaking, Mileli did what was needed to save Argentina right now.
 
 ## Some remarks on austerity
 
