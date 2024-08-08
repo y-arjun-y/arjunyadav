@@ -8,17 +8,16 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ### Active
 
-- <a href="#harmonica">Harmonica</a>
-- <a href="#ukulele">Ukulele</a>
-- <a href="#horizonomega">Horizon Omega (HΩ)</a>
+- <a href="#arrayah">Arrayah</a>
 - <a href="#oss">Offline Streaming Systems</a>
-- <a href="#optx">OptX</a>
-- <a href="#eauae">EA UAE</a>
 - <a href="#codewars">Codewars</a>
 - <a href="#leetcode">LeetCode</a>
 
 ### Completed
 
+- <a href="#horizonomega">Horizon Omega (HΩ)</a>
+- <a href="#optx">OptX</a>
+- <a href="#eauae">EA UAE</a>
 - <a href="#ai-plans">AI Plans</a>
 - <a href="#aisfg">AI Safety Fundamentals: Governance Course</a>
 - <a href="#aisfa">AI Safety Fundamentals: Alignment Course</a>
@@ -107,60 +106,25 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-## <span id="harmonica">Harmonica</span>
+## <span id="arrayah">Arrayah</span>
 
-<small>Jul 20, 2024-present</small>  
-<small>I practice the harmonica every morning, trying to get better.</small>
+<small>Aug 4, 2024-present</small>  
+<small>Currently a deep tech intern at a hacker space in Dubai backed by The Residency!</small>
 
-<hr />
-<small>Harmonica's start date is the date I started logging, not the date when the project started.</small>
 <hr />
 
 #### Log
 
-To be logged soon.
+- <time>Aug 08, 2024</time> Fourth day completed!
 
-<hr />
+- <time>Aug 07, 2024</time> Third day completed!
 
-## <span id="ukulele">Ukulele</span>
+- <time>Aug 06, 2024</time> Second day completed!
 
-<small>Jul 20, 2024-present</small>  
-<small>I practice the ukulele every morning, trying to get better.</small>
+- <time>Aug 05, 2024</time> First day completed!
 
-<hr />
-<small>Ukulele's start date is the date I started logging, not the date when the project started.</small>
-<hr />
+- <time>Aug 04, 2024</time> Induction day completed!
 
-#### Log
-
-To be logged soon.
-
-<hr />
-
-## <span id="horizonomega">[Horizon Omega (HΩ)](https://www.horizonomega.org/)</span>
-
-<small>Apr 26, 2024-present</small>  
-<small>Part of the Horizon Omega team!</small>
-
-<hr />
-<small>Horizon Omega's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Log
-
-- <time>Jun 10, 2024-Jul 25, 2024</time> Done! On to the next thing(s).
-
-- <time>May 21, 2024-Jun 09, 2024</time> Preparing to host a seminar online.
-
-- <time>May 09, 2024-May 20, 2024</time> Reviewed the table and sorted out my projects!
-
-- <time>May 05, 2024</time> New workspace.
-
-- <time>May 03, 2024</time> Another meeting!
-
-- <time>Apr 26, 2024-Apr 30, 2024</time> Successful meeting! + organised the Notion.
-
-- <time>Apr 26, 2024-Apr 30, 2024</time> Meeting soon!
 
 <hr />
 
@@ -208,468 +172,6 @@ To be logged soon.
 - <time>Nov 30, 2023</time> First meeting!
 
 - <time>Nov 17, 2023</time> Excited to see where this goes!
-
-<hr />
-
-## <span id="optx">[OptX](https://www.instagram.com/optx.uae/)</span>
-
-<small>Jan 04, 2023-present</small>  
-<small>Became part of OptX, my school's student-led initiative to provide opportunities to the youth. Trying to the best job I can.</small>
-
-<hr />
-
-#### Log
-
-- <time>May 07, 2024-Jul 25, 2024</time> Some what back to it.
-
-- <time>May 04, 2024</time> Discussions...
-
-- <time>May 03, 2024</time> Certificates finally out!
-
-- <time>May 02, 2024</time> Advised some juniors.
-
-- <time>Apr 14, 2024-Apr 30, 2024</time> What's next? + Meeting!
-
-- <time>Apr 13, 2024</time> OptX's flagship event for the year done!
-
-![OptX - TS2](/optx-ts2.jpg)
-
-- <time>Apr 07, 2024-Apr 13, 2024</time> Working on it...
-
-- <time>Apr 06, 2024</time> Iftar Distribution 2.0 done!
-
-![Iftar Distribution 2.0](/optx-iftar-2.jpg)
-
-- <time>Mar 24, 2024-Apr 05, 2024</time> Progress!
-
-- <time>Mar 14, 2024-Mar 23, 2024</time> Discussions...
-
-- <time>Mar 10, 2024-Mar 13, 2024</time> Meeting!
-
-- <time>Mar 05, 2024-Mar 06, 2024</time> We're back.
-
-- <time>Feb 21, 2024-Feb 26, 2024</time> Bounce back.
-
-- <time>Feb 15, 2024-Feb 20, 2024</time> Hm.
-
-- <time>Dec 22, 2023-Feb 14, 2024</time> On to the next thing.
-
-- <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
-
-- <time>Dec 15, 2023</time> The youngins really outdid themselves, a spectacular event!
-
-![OptX - SHC Visit](shc.jpeg)
-
-- <time>Dec 11, 2023</time> Got back in to the loop.
-
-- <time>Dec 01, 2023-Dec 04, 2023</time> Meeting + inaugural post!
-
-- <time>Oct 07, 2023-Oct 17, 2023</time> Discussions are getting serious now.
-
-- <time>Sep 04, 2023-Sep 22, 2023</time> Innovation wall + meeting!
-
-- <time>Sep 01, 2023-Sep 03, 2023</time> RMC is officially over! Congrats to the winn... never mind.
-
-- <time>Aug 22, 2023-Aug 25, 2023</time> Emails!
-
-- <time>Aug 21, 2023</time> AC (x2)! Also, kind chap on the phone today.
-
-- <time>Aug 20, 2023</time> Who turned off the AC?
-
-- <time>Aug 12, 2023-Aug 17, 2023</time> Reel making competition is over now, a really sick reel was made by committee for India's independence day!
-
-- <time>Aug 11, 2023</time> OptX astronomy centre visit happened successfully! Thank you to our incredible tour guides and to all those that had come!
-
-![OptX Astronomy](/optx-astronomy.jpg)
-
-- <time>Aug 07, 2023-Aug 09, 2023</time> Yes, mind?
-
-- <time>Aug 05, 2023-Aug 06, 2023</time> Never mind.
-
-- <time>Aug 02, 2023-Aug 04, 2023</time> Astronomy!
-
-- <time>Jul 29, 2023-Aug 01, 2023</time> Hm. This is an interesting fork in the road. At least there's kulfi.
-
-- <time>Jul 28, 2023</time> Might need to concoct up something tomorrow, also, progress on a smaller event!
-
-- <time>Jul 27, 2023</time> Somnething quite fun might be coming soon....
-
-- <time>Jul 23, 2023-Jul 26, 2023</time> Launched!
-
-- <time>Jul 19, 2023-Jul 22, 2023</time> Competition should be launched by the end of today...
-
-- <time>Jul 18, 2023</time> Meeting!
-
-- <time>Jul 15, 2023-Jul 17, 2023</time> A discussion may or may not have occurred.
-
-- <time>Jul 09, 2023-Jul 13, 2023</time> An interesting thing might be coming up after this competition!
-
-- <time>Jul 07, 2023-Jul 08, 2023</time> Sent the guidelines.
-
-- <time>Jul 06, 2023</time> Really productive day, a certain social media competition coming soon!
-
-- <time>Jul 05, 2023</time> Messages!
-
-- <time>Jul 04, 2023</time> Got some discussions in.
-
-- <time>Jun 27, 2023-Jun 29, 2023</time> Emails!
-
-- <time>Jun 26, 2023</time> Got the discussion rolling again.
-
-- <time>Jun 22, 2023</time> Had a really important meeting with a lawyer!
-
-- <time>Jun 18, 2023</time> Got some really important discussions in.
-
-- <time>Jun 12, 2023-Jun 17, 2023</time> Did some organisational work.
-
-- <time>Jun 09, 2023-Jun 11, 2023</time> Conducted more research.
-
-- <time>Jun 08, 2023</time> Discussed about (a) moot.
-
-- <time>Jun 07, 2023</time> Did some organisational work.
-
-- <time>Jun 05, 2023</time> Did some organisational work.
-
-- <time>Jun 01, 2023-Jun 03, 2023</time> Followed on with a lead.
-
-- <time>May 30, 2023-May 31, 2023</time> Got some leads (and sent out a template)!
-
-- <time>May 29, 2023</time> Did some organisational work.
-
-- <time>May 20, 2023-May 28, 2023</time> Had some interesting discussions.
-
-- <time>May 15, 2023-May 19, 2023</time> Did some organisational work.
-
-- <time>May 09, 2023-May 14, 2023</time> Did some organisational work.
-
-- <time>May 08, 2023</time> Did some organisational work.
-
-- <time>May 05, 2023-May 07, 2023</time> Did some organisational work.
-
-- <time>May 04, 2023</time> Did some organisational work.
-
-- <time>May 04, 2023</time> Really successful meeting!
-
-- <time>May 03, 2023</time> Did some organisational work.
-
-- <time>May 02, 2023</time> Breakthrough! (x2)
-
-- <time>Apr 30, 2023-May 01, 2023</time> Breakthrough!
-
-- <time>Apr 29, 2023</time> Follow-up, follow-up...
-
-- <time>Apr 28, 2023</time> Finished sending out the certificates.
-
-- <time>Apr 26, 2023</time> Sent some really important messages.
-
-- <time>Apr 25, 2023</time> Got back from a contact.
-
-- <time>Apr 23, 2023</time> Still finalizing certificates...
-
-- <time>Apr 21, 2023-Apr 22, 2023</time> Worked on finalizing the certificates and gave some feedback for the reel.
-
-- <time>Apr 20, 2023</time> Oh, it happened alright! It was a massive success, thank you to everyone who attended!
-
-![OptX Iftar Distribution Event](/optx-polaroid.png/)
-
-- <time>Apr 17, 2023-Apr 19, 2023</time> Everything seems to be in place...
-
-- <time>Apr 12, 2023-Apr 16, 2023</time> First event in some time coming up very soon!
-
-- <time>Apr 09, 2023-Apr 11, 2023</time> One of our smaller events had a lot of progress happen pretty spontaneously, and sent out an important message.
-
-- <time>Apr 08, 2023</time> Did some organisational work and had a productive meeting.
-
-- <time>Apr 06, 2023-Apr 07, 2023</time> Did some organisational work.
-
-- <time>Apr 01, 2023-Apr 05, 2023</time> Did some organisational work, had a productive-ish meeting and got some more great advice!
-
-- <time>Mar 31, 2023-Apr 01, 2023</time> Did some organisational work and got some great advice!
-
-- <time>Mar 30, 2023</time> Had a productive meeting.
-
-- <time>Mar 29, 2023</time> Re-scheduled a meeting.
-
-- <time>Mar 28, 2023</time> Did some organisational work and had a meeting.
-
-- <time>Mar 27, 2023</time> Did some organisational work.
-
-- <time>Mar 24, 2023</time> Did the arithmetic mean of organisational work between Mar 22, 2023 and Mar 24, 2023.
-
-- <time>Mar 24, 2023</time> Did _a lot_ of organisational work.
-
-- <time>Mar 22, 2023</time> Did some organisational work.
-
-- <time>Mar 19, 2023</time> Did some organisational work.
-
-- <time>Mar 16, 2023-Mar 18, 2023</time> Had two meetings and did some organisational work.
-
-- <time>Mar 14, 2023-Mar 15, 2023</time> Did some organisational work.
-
-- <time>Mar 13, 2023</time> Volunteered with OptX + two other students for Bridges of Giving. An incredibly fulfilling experience to say the least.
-
-![OptX - Bridges of Giving](/optx-aid.jpeg)
-
-- <time>Mar 11, 2023</time> Did _a lot_ of organisational work. Really productive day for this project!
-
-- <time>Mar 10, 2023</time> Did some organisational work.
-
-- <time>Mar 09, 2023</time> Had a productive meeting and did some organisational work.
-
-- <time>Mar 08, 2023</time> Did some organisational work.
-
-- <time>Mar 07, 2023</time> Another meeting - wrapped up the discussion (mostly) for this year's plan and organised the Notion accordingly.
-
-- <time>Mar 06, 2023</time> Had a fruitful dinner meeting!
-
-- <time>Jan 27, 2023</time> Had a productive conversation!
-
-- <time>Jan 17, 2023</time> Discussed next meeting.
-
-- <time>Jan 04, 2023-Jan 14, 2023</time> Well, I initially thought that I would just be a volunteer for OptX's The Symposium 1.0, but roughly a day before the event (Jan 07, 2023), I became one of the newest committee member. In the end, The Symposium 1.0 was an incredible success. Seeing it all unfold was one of the greatest moments in my life.
-
-![OptX - The Symposium 1.0](/optx-sym1.jpg)
-
-<hr />
-
-## <span id="eauae">[EA UAE](https://www.instagram.com/effectivealtruism.uae/)</span>
-
-<small>Dec 29, 2022-present</small>  
-<small>A cold email led to me and another person co-founding EA UAE. Trying to make this as successful as possible.</small>
-
-<hr />
-
-#### Log
-
-- <time>Jun 02, 2024-Jul 25, 2024</time> Some interesting follow-ups!
-
-- <time>May 25, 2024</time> Weekly check-in.
-
-- <time>May 09, 2024-May 19, 2024</time> An interesting update!
-
-- <time>Mar 12, 2024-Apr 30, 2024</time> Getting back into it.
-
-- <time>Jan 12, 2024-Feb 08, 2024</time> Had a small-scale meeting + working on something for future-proofing.
-
-- <time>Jan 05, 2024-Jan 12, 2024</time> New member introduced and meeting soon!
-
-- <time>Dec 28, 2023-Jan 05, 2024</time> Actually... Yeah, nope.
-
-- <time>Dec 26, 2023</time> Welp, next year then!
-
-- <time>Dec 18, 2023-Dec 25, 2023</time> Meet-up soon!
-
-- <time>Dec 12, 2023</time> We'll be back soon with after this forthcoming meeting!
-
-- <time>Nov 26, 2023</time> Should hopefully get more activity in the GC soon...
-
-- <time>Oct 24, 2023-Oct 25, 2023</time> Discussion time!
-
-- <time>Oct 07, 2023</time> Getting back into the swing of things.
-
-- <time>Sep 24, 2023</time> Some, uh, interesting discussions...
-
-- <time>Sep 18, 2023-Sep 23, 2023</time> Met with a professor virtually with my co-founder!
-
-- <time>Sep 17, 2023</time> DYH!
-
-[EA UAE - DYH](/ea-uae-dyh.jpg)
-
-- <time>Sep 11, 2023-Sep 15, 2023</time> New logo, new event!
-
-- <time>Sep 09, 2023-Sep 10, 2023</time> Wrote up everything that I learnt, and we're back on track!
-
-- <time>Sep 08, 2023</time> Finally met the EA NYUAD folk, an amazing dinner, thank you to all who attended!
-
-![EA UAE x EA NYUAD](/ea-uae-2.jpeg)
-
-- <time>Sep 03, 2023-Sep 06, 2023</time> Abu Dhabi, any one?
-
-- <time>Aug 28, 2023-Sep 01, 2023</time> Progress! Then, a snafu, then progress!
-
-- <time>Aug 22, 2023-Aug 27, 2023</time> Further discussion, and found a suitable compromise.
-
-- <time>Aug 19, 2023-Aug 21, 2023</time> Incredible day(s): got the new set of logos (which look amazing) and a lot of headway on our next big thing!
-
-- <time>Aug 18, 2023</time> Some admin work.
-
-- <time>Aug 16, 2023</time> Gathertown!
-
-- <time>Aug 10, 2023-Aug 15, 2023</time> Sent out the comprehensive message.
-
-- <time>Aug 07, 2023-Aug 09, 2023</time> Airtable!
-
-- <time>Aug 04, 2023-Aug 06, 2023</time> Solid progress.
-
-- <time>Jul 30, 2023-Aug 03, 2023</time> Airtable are close to being fully up! Expecting a big splash sooner or later.
-
-- <time>Jul 20, 2023-Jul 29, 2023</time> Got some discussions in with my co-founder + some organisational work.
-
-- <time>Jul 19, 2023</time> All the plans are out and we're working on something important now!
-
-- <time>Jul 18, 2023</time> Drafted a document.
-
-- <time>Jul 17, 2023</time> Finished the plans for the non-outreach projects!
-
-- <time>Jul 15, 2023</time> Finished my EA organiser application!
-
-- <time>Jul 11, 2023-Jul 13, 2023</time> Got started with the next steps. Emails, Asana, oh my!
-
-- <time>Jul 10, 2023</time> Follow-up to the meeting last week: was somewhat productive!
-
-- <time>Jul 08, 2023-Jul 09, 2023</time> Lots of behind-the-scene work: emails and docs.
-
-- <time>Jul 07, 2023</time> Really fruitful meeting!
-
-- <time>Jul 06, 2023</time> Got a discussion going upon sending a EA Forum post.
-
-- <time>Jul 05, 2023</time> Meeting scheduled!
-
-- <time>Jul 04, 2023</time> Continued with my tasks assigned to me.
-
-- <time>Jun 29, 2023-Jun 30, 2023</time> Learnt something interesting!
-
-- <time>Jun 27, 2023-Jun 28, 2023</time> Got started with the next steps.
-
-- <time>Jun 26, 2023</time> Had the most productive meeting yet! Really excited to get a lot of work done for this project over the summer.
-
-- <time>Jun 18, 2023-Jun 22, 2023</time> Did some organisational work.
-
-- <time>Jun 17, 2023</time> Webinar was a moderate success, and sent out some important messages!
-
-- <time>Jun 15, 2023-Jun 16, 2023</time> Outreach, in the literal definition of the word.
-
-- <time>Jun 12, 2023-Jun 14, 2023</time> Some really great news about our webinar!
-
-- <time>Jun 10, 2023</time> Oddly, a lot of work for this project today.
-
-- <time>May 29, 2023-Jun 09, 2023</time> Sent out message(s).
-
-- <time>May 25, 2023-May 28, 2023</time> Did some organisational work.
-
-- <time>May 15, 2023-May 24, 2023</time> Did some organisational work.
-
-- <time>May 09, 2023-May 14, 2023</time> Did some organisational work. Going to go ahead with outreach + social media work.
-
-- <time>May 06, 2023-May 08, 2023</time> Did some organisational work.
-
-- <time>May 05, 2023</time> Did some organisational work.
-
-- <time>May 04, 2023</time> Did some organisational work.
-
-- <time>May 03, 2023</time> Did some organisational work.
-
-- <time>May 02, 2023</time> Did some organisational work.
-
-- <time>May 01, 2023</time> Did some organisational work.
-
-- <time>Apr 30, 2023</time> Did some organisational work.
-
-- <time>Apr 29, 2023</time> Successful meeting!
-
-- <time>Apr 28, 2023</time> Got a meeting mostly organised.
-
-- <time>Apr 23, 2023</time> Sent an email.
-
-- <time>Apr 19, 2023-Apr 22, 2023</time> Did some organisational work.
-
-- <time>Apr 18, 2023</time> Got a Graphic Designer on board!
-
-- <time>Apr 12, 2023-Apr 16, 2023</time> Had a productive meeting and thinking about the next meet-up.
-
-- <time>Apr 09, 2023-Apr 11, 2023</time> Our first event happened on Apr 10, 2023!
-
-![EA UAE](/ea-uae.jpg)
-
-- <time>Apr 08, 2023</time> Did some organisational work (we might get a graphic designer on board!)
-
-- <time>Apr 06, 2023-Apr 07, 2023</time> I think we're good to go!
-
-- <time>Apr 01, 2023-Apr 05, 2023</time> Got the poster and form out - going to check the situation tomorrow and (mostly regardless) finalize everything.
-
-- <time>Apr 01, 2023</time> Did some organisational work.
-
-- <time>Mar 30, 2023-Mar 31, 2023</time> Postponed - but it'll happen.
-
-- <time>Mar 29, 2023</time> I think we have a winner, folks...
-
-- <time>Mar 28, 2023</time> Did some organisational work.
-
-- <time>Mar 26, 2023-Mar 27, 2023</time> Did some organisational work - closing in on the actual booking.
-
-- <time>Mar 25, 2023</time> Did some organisational work.
-
-- <time>Mar 24, 2023</time> Short-listed the restaurant!
-
-- <time>Mar 22, 2023</time> Did some organisational work.
-
-- <time>Mar 20, 2023</time> Did some organisational work.
-
-- <time>Mar 16, 2023-Mar 18, 2023</time> Did some organisational work.
-
-- <time>Mar 12, 2023-Mar 15, 2023</time> Did some organisational work.
-
-- <time>Mar 11, 2023</time> Did some organisational work.
-
-- <time>Mar 10, 2023</time> Did some organisational work.
-
-- <time>Mar 03, 2023-Mar 09, 2023</time> Did some organisational work.
-
-- <time>Feb 20, 2023-Mar 03, 2023</time> Communication work and a meeting with EA NYUAD!
-
-- <time>Feb 19, 2023</time> Finished meeting notes for yesterday's introductory meeting.
-
-- <time>Feb 18, 2023</time> Had a stellar meeting with EA AUS for our introductory meeting!
-
-- <time>Feb 17, 2023</time> Did some organisational work.
-
-- <time>Feb 16, 2023</time> We've scheduled the introductory meeting for Saturday. Hope to see everyone there soon!
-
-- <time>Feb 15, 2023</time> Had a great discussion with the executive board and got the introduction meeting date and time _mostly_ sorted out.
-
-- <time>Feb 11, 2023</time> Did some organisational work.
-
-- <time>Feb 10, 2023</time> Did some organisational work.
-
-- <time>Feb 09, 2023</time> Got a great meeting and some communication in!
-
-- <time>Feb 08, 2023</time> Did some organisational work for tomorrow.
-
-- <time>Feb 07, 2023</time> Did some organisational work.
-
-- <time>Feb 05, 2023-Feb 06, 2023</time> Scheduled a meeting.
-
-- <time>Feb 04, 2023</time> Did some organisational work and replied to an email.
-
-- <time>Feb 03, 2023</time> Did some organisational work. Instagram page is much more lively now!
-
-- <time>Feb 02, 2023</time> Did some organisational work.
-
-- <time>Feb 01, 2023</time> Did some organisational work.
-
-- <time>Jan 31, 2023</time> Had two productive meetings.
-
-- <time>Jan 27, 2023</time> Had a productive meeting.
-
-- <time>Jan 22, 2023-Jan 25, 2023</time> Sent out the Airtable and, in general, got a lot of work done for this project!
-
-- <time>Jan 22, 2023</time> For now, finished with Airtable.
-
-- <time>Jan 21, 2023</time> Figured out how to get data for Airtable and got started with a post.
-
-- <time>Jan 20, 2023</time> Had a productive meeting!
-
-- <time>Jan 18, 2023</time> Sent out a message.
-
-- <time>Jan 17, 2023</time> Sent out an important email.
-
-- <time>Jan 16, 2023</time> Still working with Airtable.
-
-- <time>Jan 15, 2023</time> Worked with [Airtable](https://airtable.com/).
-
-- <time>Dec 29, 2022-Jan 14, 2023</time> I think cold emails are an incredibly powerful tool that must be used responsibly. Before this, I thought that I was the "king of cold emails", as it led to the <a href="#eadata">Effective Altruism Data and LPP project</a>. However, I got dethroned when someone cold emailed after seeing <a href="https://forum.effectivealtruism.org/posts/2XF4cFs4txmEdegtT/">this EA Forum question</a> that I wrote quite some time back.
-
-  What was originally me being pessimistic about re-starting EA Dubai led to meetings with EA AUS, [EA NYUAD](https://www.eanyuad.org/) and even an advisor from [CEA](https://www.centreforeffectivealtruism.org/)! So far, we've gotten some EA AUS and EA NYUAD members to join us - and we're on the look out for someone else to help lead this project with us! I'm really excited to see where this project is after exactly half a year (July 14, 2023)!
 
 <hr />
 
@@ -11266,6 +10768,495 @@ class Solution:
 <hr />
 
 ## Completed
+
+<hr />
+
+## <span id="horizonomega">[Horizon Omega (HΩ)](https://www.horizonomega.org/)</span>
+
+<small>Apr 26, 2024-Aug 08, 2024</small>  
+<small>Part of the Horizon Omega team!</small>
+
+<hr />
+<small>Horizon Omega's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+#### Log
+
+- <time>Jun 10, 2024-Jul 25, 2024</time> Done! On to the next thing(s).
+
+- <time>May 21, 2024-Jun 09, 2024</time> Preparing to host a seminar online.
+
+- <time>May 09, 2024-May 20, 2024</time> Reviewed the table and sorted out my projects!
+
+- <time>May 05, 2024</time> New workspace.
+
+- <time>May 03, 2024</time> Another meeting!
+
+- <time>Apr 26, 2024-Apr 30, 2024</time> Successful meeting! + organised the Notion.
+
+- <time>Apr 26, 2024-Apr 30, 2024</time> Meeting soon!
+
+<hr />
+
+## <span id="optx">[OptX](https://www.instagram.com/optx.uae/)</span>
+
+<small>Jan 04, 2023-Aug 08, 2024</small>  
+<small>Became part of OptX, my school's student-led initiative to provide opportunities to the youth. Trying to the best job I can.</small>
+
+<hr />
+
+#### Log
+
+- <time>May 07, 2024-Jul 25, 2024</time> Some what back to it.
+
+- <time>May 04, 2024</time> Discussions...
+
+- <time>May 03, 2024</time> Certificates finally out!
+
+- <time>May 02, 2024</time> Advised some juniors.
+
+- <time>Apr 14, 2024-Apr 30, 2024</time> What's next? + Meeting!
+
+- <time>Apr 13, 2024</time> OptX's flagship event for the year done!
+
+![OptX - TS2](/optx-ts2.jpg)
+
+- <time>Apr 07, 2024-Apr 13, 2024</time> Working on it...
+
+- <time>Apr 06, 2024</time> Iftar Distribution 2.0 done!
+
+![Iftar Distribution 2.0](/optx-iftar-2.jpg)
+
+- <time>Mar 24, 2024-Apr 05, 2024</time> Progress!
+
+- <time>Mar 14, 2024-Mar 23, 2024</time> Discussions...
+
+- <time>Mar 10, 2024-Mar 13, 2024</time> Meeting!
+
+- <time>Mar 05, 2024-Mar 06, 2024</time> We're back.
+
+- <time>Feb 21, 2024-Feb 26, 2024</time> Bounce back.
+
+- <time>Feb 15, 2024-Feb 20, 2024</time> Hm.
+
+- <time>Dec 22, 2023-Feb 14, 2024</time> On to the next thing.
+
+- <time>Dec 19, 2023-Dec 20, 2023</time> Fixed the certificates for our most recent event.
+
+- <time>Dec 15, 2023</time> The youngins really outdid themselves, a spectacular event!
+
+![OptX - SHC Visit](shc.jpeg)
+
+- <time>Dec 11, 2023</time> Got back in to the loop.
+
+- <time>Dec 01, 2023-Dec 04, 2023</time> Meeting + inaugural post!
+
+- <time>Oct 07, 2023-Oct 17, 2023</time> Discussions are getting serious now.
+
+- <time>Sep 04, 2023-Sep 22, 2023</time> Innovation wall + meeting!
+
+- <time>Sep 01, 2023-Sep 03, 2023</time> RMC is officially over! Congrats to the winn... never mind.
+
+- <time>Aug 22, 2023-Aug 25, 2023</time> Emails!
+
+- <time>Aug 21, 2023</time> AC (x2)! Also, kind chap on the phone today.
+
+- <time>Aug 20, 2023</time> Who turned off the AC?
+
+- <time>Aug 12, 2023-Aug 17, 2023</time> Reel making competition is over now, a really sick reel was made by committee for India's independence day!
+
+- <time>Aug 11, 2023</time> OptX astronomy centre visit happened successfully! Thank you to our incredible tour guides and to all those that had come!
+
+![OptX Astronomy](/optx-astronomy.jpg)
+
+- <time>Aug 07, 2023-Aug 09, 2023</time> Yes, mind?
+
+- <time>Aug 05, 2023-Aug 06, 2023</time> Never mind.
+
+- <time>Aug 02, 2023-Aug 04, 2023</time> Astronomy!
+
+- <time>Jul 29, 2023-Aug 01, 2023</time> Hm. This is an interesting fork in the road. At least there's kulfi.
+
+- <time>Jul 28, 2023</time> Might need to concoct up something tomorrow, also, progress on a smaller event!
+
+- <time>Jul 27, 2023</time> Somnething quite fun might be coming soon....
+
+- <time>Jul 23, 2023-Jul 26, 2023</time> Launched!
+
+- <time>Jul 19, 2023-Jul 22, 2023</time> Competition should be launched by the end of today...
+
+- <time>Jul 18, 2023</time> Meeting!
+
+- <time>Jul 15, 2023-Jul 17, 2023</time> A discussion may or may not have occurred.
+
+- <time>Jul 09, 2023-Jul 13, 2023</time> An interesting thing might be coming up after this competition!
+
+- <time>Jul 07, 2023-Jul 08, 2023</time> Sent the guidelines.
+
+- <time>Jul 06, 2023</time> Really productive day, a certain social media competition coming soon!
+
+- <time>Jul 05, 2023</time> Messages!
+
+- <time>Jul 04, 2023</time> Got some discussions in.
+
+- <time>Jun 27, 2023-Jun 29, 2023</time> Emails!
+
+- <time>Jun 26, 2023</time> Got the discussion rolling again.
+
+- <time>Jun 22, 2023</time> Had a really important meeting with a lawyer!
+
+- <time>Jun 18, 2023</time> Got some really important discussions in.
+
+- <time>Jun 12, 2023-Jun 17, 2023</time> Did some organisational work.
+
+- <time>Jun 09, 2023-Jun 11, 2023</time> Conducted more research.
+
+- <time>Jun 08, 2023</time> Discussed about (a) moot.
+
+- <time>Jun 07, 2023</time> Did some organisational work.
+
+- <time>Jun 05, 2023</time> Did some organisational work.
+
+- <time>Jun 01, 2023-Jun 03, 2023</time> Followed on with a lead.
+
+- <time>May 30, 2023-May 31, 2023</time> Got some leads (and sent out a template)!
+
+- <time>May 29, 2023</time> Did some organisational work.
+
+- <time>May 20, 2023-May 28, 2023</time> Had some interesting discussions.
+
+- <time>May 15, 2023-May 19, 2023</time> Did some organisational work.
+
+- <time>May 09, 2023-May 14, 2023</time> Did some organisational work.
+
+- <time>May 08, 2023</time> Did some organisational work.
+
+- <time>May 05, 2023-May 07, 2023</time> Did some organisational work.
+
+- <time>May 04, 2023</time> Did some organisational work.
+
+- <time>May 04, 2023</time> Really successful meeting!
+
+- <time>May 03, 2023</time> Did some organisational work.
+
+- <time>May 02, 2023</time> Breakthrough! (x2)
+
+- <time>Apr 30, 2023-May 01, 2023</time> Breakthrough!
+
+- <time>Apr 29, 2023</time> Follow-up, follow-up...
+
+- <time>Apr 28, 2023</time> Finished sending out the certificates.
+
+- <time>Apr 26, 2023</time> Sent some really important messages.
+
+- <time>Apr 25, 2023</time> Got back from a contact.
+
+- <time>Apr 23, 2023</time> Still finalizing certificates...
+
+- <time>Apr 21, 2023-Apr 22, 2023</time> Worked on finalizing the certificates and gave some feedback for the reel.
+
+- <time>Apr 20, 2023</time> Oh, it happened alright! It was a massive success, thank you to everyone who attended!
+
+![OptX Iftar Distribution Event](/optx-polaroid.png/)
+
+- <time>Apr 17, 2023-Apr 19, 2023</time> Everything seems to be in place...
+
+- <time>Apr 12, 2023-Apr 16, 2023</time> First event in some time coming up very soon!
+
+- <time>Apr 09, 2023-Apr 11, 2023</time> One of our smaller events had a lot of progress happen pretty spontaneously, and sent out an important message.
+
+- <time>Apr 08, 2023</time> Did some organisational work and had a productive meeting.
+
+- <time>Apr 06, 2023-Apr 07, 2023</time> Did some organisational work.
+
+- <time>Apr 01, 2023-Apr 05, 2023</time> Did some organisational work, had a productive-ish meeting and got some more great advice!
+
+- <time>Mar 31, 2023-Apr 01, 2023</time> Did some organisational work and got some great advice!
+
+- <time>Mar 30, 2023</time> Had a productive meeting.
+
+- <time>Mar 29, 2023</time> Re-scheduled a meeting.
+
+- <time>Mar 28, 2023</time> Did some organisational work and had a meeting.
+
+- <time>Mar 27, 2023</time> Did some organisational work.
+
+- <time>Mar 24, 2023</time> Did the arithmetic mean of organisational work between Mar 22, 2023 and Mar 24, 2023.
+
+- <time>Mar 24, 2023</time> Did _a lot_ of organisational work.
+
+- <time>Mar 22, 2023</time> Did some organisational work.
+
+- <time>Mar 19, 2023</time> Did some organisational work.
+
+- <time>Mar 16, 2023-Mar 18, 2023</time> Had two meetings and did some organisational work.
+
+- <time>Mar 14, 2023-Mar 15, 2023</time> Did some organisational work.
+
+- <time>Mar 13, 2023</time> Volunteered with OptX + two other students for Bridges of Giving. An incredibly fulfilling experience to say the least.
+
+![OptX - Bridges of Giving](/optx-aid.jpeg)
+
+- <time>Mar 11, 2023</time> Did _a lot_ of organisational work. Really productive day for this project!
+
+- <time>Mar 10, 2023</time> Did some organisational work.
+
+- <time>Mar 09, 2023</time> Had a productive meeting and did some organisational work.
+
+- <time>Mar 08, 2023</time> Did some organisational work.
+
+- <time>Mar 07, 2023</time> Another meeting - wrapped up the discussion (mostly) for this year's plan and organised the Notion accordingly.
+
+- <time>Mar 06, 2023</time> Had a fruitful dinner meeting!
+
+- <time>Jan 27, 2023</time> Had a productive conversation!
+
+- <time>Jan 17, 2023</time> Discussed next meeting.
+
+- <time>Jan 04, 2023-Jan 14, 2023</time> Well, I initially thought that I would just be a volunteer for OptX's The Symposium 1.0, but roughly a day before the event (Jan 07, 2023), I became one of the newest committee member. In the end, The Symposium 1.0 was an incredible success. Seeing it all unfold was one of the greatest moments in my life.
+
+![OptX - The Symposium 1.0](/optx-sym1.jpg)
+
+<hr />
+
+## <span id="eauae">[EA UAE](https://www.instagram.com/effectivealtruism.uae/)</span>
+
+<small>Dec 29, 2022-Aug 08, 2024</small>  
+<small>A cold email led to me and another person co-founding EA UAE. Tried to make it as successful as possible.</small>
+
+<hr />
+
+#### Log
+
+- <time>Jun 02, 2024-Jul 25, 2024</time> Some interesting follow-ups!
+
+- <time>May 25, 2024</time> Weekly check-in.
+
+- <time>May 09, 2024-May 19, 2024</time> An interesting update!
+
+- <time>Mar 12, 2024-Apr 30, 2024</time> Getting back into it.
+
+- <time>Jan 12, 2024-Feb 08, 2024</time> Had a small-scale meeting + working on something for future-proofing.
+
+- <time>Jan 05, 2024-Jan 12, 2024</time> New member introduced and meeting soon!
+
+- <time>Dec 28, 2023-Jan 05, 2024</time> Actually... Yeah, nope.
+
+- <time>Dec 26, 2023</time> Welp, next year then!
+
+- <time>Dec 18, 2023-Dec 25, 2023</time> Meet-up soon!
+
+- <time>Dec 12, 2023</time> We'll be back soon with after this forthcoming meeting!
+
+- <time>Nov 26, 2023</time> Should hopefully get more activity in the GC soon...
+
+- <time>Oct 24, 2023-Oct 25, 2023</time> Discussion time!
+
+- <time>Oct 07, 2023</time> Getting back into the swing of things.
+
+- <time>Sep 24, 2023</time> Some, uh, interesting discussions...
+
+- <time>Sep 18, 2023-Sep 23, 2023</time> Met with a professor virtually with my co-founder!
+
+- <time>Sep 17, 2023</time> DYH!
+
+[EA UAE - DYH](/ea-uae-dyh.jpg)
+
+- <time>Sep 11, 2023-Sep 15, 2023</time> New logo, new event!
+
+- <time>Sep 09, 2023-Sep 10, 2023</time> Wrote up everything that I learnt, and we're back on track!
+
+- <time>Sep 08, 2023</time> Finally met the EA NYUAD folk, an amazing dinner, thank you to all who attended!
+
+![EA UAE x EA NYUAD](/ea-uae-2.jpeg)
+
+- <time>Sep 03, 2023-Sep 06, 2023</time> Abu Dhabi, any one?
+
+- <time>Aug 28, 2023-Sep 01, 2023</time> Progress! Then, a snafu, then progress!
+
+- <time>Aug 22, 2023-Aug 27, 2023</time> Further discussion, and found a suitable compromise.
+
+- <time>Aug 19, 2023-Aug 21, 2023</time> Incredible day(s): got the new set of logos (which look amazing) and a lot of headway on our next big thing!
+
+- <time>Aug 18, 2023</time> Some admin work.
+
+- <time>Aug 16, 2023</time> Gathertown!
+
+- <time>Aug 10, 2023-Aug 15, 2023</time> Sent out the comprehensive message.
+
+- <time>Aug 07, 2023-Aug 09, 2023</time> Airtable!
+
+- <time>Aug 04, 2023-Aug 06, 2023</time> Solid progress.
+
+- <time>Jul 30, 2023-Aug 03, 2023</time> Airtable are close to being fully up! Expecting a big splash sooner or later.
+
+- <time>Jul 20, 2023-Jul 29, 2023</time> Got some discussions in with my co-founder + some organisational work.
+
+- <time>Jul 19, 2023</time> All the plans are out and we're working on something important now!
+
+- <time>Jul 18, 2023</time> Drafted a document.
+
+- <time>Jul 17, 2023</time> Finished the plans for the non-outreach projects!
+
+- <time>Jul 15, 2023</time> Finished my EA organiser application!
+
+- <time>Jul 11, 2023-Jul 13, 2023</time> Got started with the next steps. Emails, Asana, oh my!
+
+- <time>Jul 10, 2023</time> Follow-up to the meeting last week: was somewhat productive!
+
+- <time>Jul 08, 2023-Jul 09, 2023</time> Lots of behind-the-scene work: emails and docs.
+
+- <time>Jul 07, 2023</time> Really fruitful meeting!
+
+- <time>Jul 06, 2023</time> Got a discussion going upon sending a EA Forum post.
+
+- <time>Jul 05, 2023</time> Meeting scheduled!
+
+- <time>Jul 04, 2023</time> Continued with my tasks assigned to me.
+
+- <time>Jun 29, 2023-Jun 30, 2023</time> Learnt something interesting!
+
+- <time>Jun 27, 2023-Jun 28, 2023</time> Got started with the next steps.
+
+- <time>Jun 26, 2023</time> Had the most productive meeting yet! Really excited to get a lot of work done for this project over the summer.
+
+- <time>Jun 18, 2023-Jun 22, 2023</time> Did some organisational work.
+
+- <time>Jun 17, 2023</time> Webinar was a moderate success, and sent out some important messages!
+
+- <time>Jun 15, 2023-Jun 16, 2023</time> Outreach, in the literal definition of the word.
+
+- <time>Jun 12, 2023-Jun 14, 2023</time> Some really great news about our webinar!
+
+- <time>Jun 10, 2023</time> Oddly, a lot of work for this project today.
+
+- <time>May 29, 2023-Jun 09, 2023</time> Sent out message(s).
+
+- <time>May 25, 2023-May 28, 2023</time> Did some organisational work.
+
+- <time>May 15, 2023-May 24, 2023</time> Did some organisational work.
+
+- <time>May 09, 2023-May 14, 2023</time> Did some organisational work. Going to go ahead with outreach + social media work.
+
+- <time>May 06, 2023-May 08, 2023</time> Did some organisational work.
+
+- <time>May 05, 2023</time> Did some organisational work.
+
+- <time>May 04, 2023</time> Did some organisational work.
+
+- <time>May 03, 2023</time> Did some organisational work.
+
+- <time>May 02, 2023</time> Did some organisational work.
+
+- <time>May 01, 2023</time> Did some organisational work.
+
+- <time>Apr 30, 2023</time> Did some organisational work.
+
+- <time>Apr 29, 2023</time> Successful meeting!
+
+- <time>Apr 28, 2023</time> Got a meeting mostly organised.
+
+- <time>Apr 23, 2023</time> Sent an email.
+
+- <time>Apr 19, 2023-Apr 22, 2023</time> Did some organisational work.
+
+- <time>Apr 18, 2023</time> Got a Graphic Designer on board!
+
+- <time>Apr 12, 2023-Apr 16, 2023</time> Had a productive meeting and thinking about the next meet-up.
+
+- <time>Apr 09, 2023-Apr 11, 2023</time> Our first event happened on Apr 10, 2023!
+
+![EA UAE](/ea-uae.jpg)
+
+- <time>Apr 08, 2023</time> Did some organisational work (we might get a graphic designer on board!)
+
+- <time>Apr 06, 2023-Apr 07, 2023</time> I think we're good to go!
+
+- <time>Apr 01, 2023-Apr 05, 2023</time> Got the poster and form out - going to check the situation tomorrow and (mostly regardless) finalize everything.
+
+- <time>Apr 01, 2023</time> Did some organisational work.
+
+- <time>Mar 30, 2023-Mar 31, 2023</time> Postponed - but it'll happen.
+
+- <time>Mar 29, 2023</time> I think we have a winner, folks...
+
+- <time>Mar 28, 2023</time> Did some organisational work.
+
+- <time>Mar 26, 2023-Mar 27, 2023</time> Did some organisational work - closing in on the actual booking.
+
+- <time>Mar 25, 2023</time> Did some organisational work.
+
+- <time>Mar 24, 2023</time> Short-listed the restaurant!
+
+- <time>Mar 22, 2023</time> Did some organisational work.
+
+- <time>Mar 20, 2023</time> Did some organisational work.
+
+- <time>Mar 16, 2023-Mar 18, 2023</time> Did some organisational work.
+
+- <time>Mar 12, 2023-Mar 15, 2023</time> Did some organisational work.
+
+- <time>Mar 11, 2023</time> Did some organisational work.
+
+- <time>Mar 10, 2023</time> Did some organisational work.
+
+- <time>Mar 03, 2023-Mar 09, 2023</time> Did some organisational work.
+
+- <time>Feb 20, 2023-Mar 03, 2023</time> Communication work and a meeting with EA NYUAD!
+
+- <time>Feb 19, 2023</time> Finished meeting notes for yesterday's introductory meeting.
+
+- <time>Feb 18, 2023</time> Had a stellar meeting with EA AUS for our introductory meeting!
+
+- <time>Feb 17, 2023</time> Did some organisational work.
+
+- <time>Feb 16, 2023</time> We've scheduled the introductory meeting for Saturday. Hope to see everyone there soon!
+
+- <time>Feb 15, 2023</time> Had a great discussion with the executive board and got the introduction meeting date and time _mostly_ sorted out.
+
+- <time>Feb 11, 2023</time> Did some organisational work.
+
+- <time>Feb 10, 2023</time> Did some organisational work.
+
+- <time>Feb 09, 2023</time> Got a great meeting and some communication in!
+
+- <time>Feb 08, 2023</time> Did some organisational work for tomorrow.
+
+- <time>Feb 07, 2023</time> Did some organisational work.
+
+- <time>Feb 05, 2023-Feb 06, 2023</time> Scheduled a meeting.
+
+- <time>Feb 04, 2023</time> Did some organisational work and replied to an email.
+
+- <time>Feb 03, 2023</time> Did some organisational work. Instagram page is much more lively now!
+
+- <time>Feb 02, 2023</time> Did some organisational work.
+
+- <time>Feb 01, 2023</time> Did some organisational work.
+
+- <time>Jan 31, 2023</time> Had two productive meetings.
+
+- <time>Jan 27, 2023</time> Had a productive meeting.
+
+- <time>Jan 22, 2023-Jan 25, 2023</time> Sent out the Airtable and, in general, got a lot of work done for this project!
+
+- <time>Jan 22, 2023</time> For now, finished with Airtable.
+
+- <time>Jan 21, 2023</time> Figured out how to get data for Airtable and got started with a post.
+
+- <time>Jan 20, 2023</time> Had a productive meeting!
+
+- <time>Jan 18, 2023</time> Sent out a message.
+
+- <time>Jan 17, 2023</time> Sent out an important email.
+
+- <time>Jan 16, 2023</time> Still working with Airtable.
+
+- <time>Jan 15, 2023</time> Worked with [Airtable](https://airtable.com/).
+
+- <time>Dec 29, 2022-Jan 14, 2023</time> I think cold emails are an incredibly powerful tool that must be used responsibly. Before this, I thought that I was the "king of cold emails", as it led to the <a href="#eadata">Effective Altruism Data and LPP project</a>. However, I got dethroned when someone cold emailed after seeing <a href="https://forum.effectivealtruism.org/posts/2XF4cFs4txmEdegtT/">this EA Forum question</a> that I wrote quite some time back.
+
+  What was originally me being pessimistic about re-starting EA Dubai led to meetings with EA AUS, [EA NYUAD](https://www.eanyuad.org/) and even an advisor from [CEA](https://www.centreforeffectivealtruism.org/)! So far, we've gotten some EA AUS and EA NYUAD members to join us - and we're on the look out for someone else to help lead this project with us! I'm really excited to see where this project is after exactly half a year (July 14, 2023)!
 
 <hr />
 
