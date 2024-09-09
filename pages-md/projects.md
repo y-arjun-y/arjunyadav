@@ -8,13 +8,12 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ### Active
 
-- <a href="#arrayah">Arrayah</a>
-- <a href="#oss">Offline Streaming Systems</a>
 - <a href="#codewars">Codewars</a>
 - <a href="#leetcode">LeetCode</a>
 
 ### Completed
 
+- <a href="#arrayah">Arrayah</a>
 - <a href="#horizonomega">Horizon Omega (HΩ)</a>
 - <a href="#optx">OptX</a>
 - <a href="#eauae">EA UAE</a>
@@ -106,75 +105,6 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
-## <span id="arrayah">Arrayah</span>
-
-<small>Aug 4, 2024-present</small>  
-<small>Currently a deep tech intern at a hacker space in Dubai backed by The Residency!</small>
-
-<hr />
-
-#### Log
-
-- <time>Aug 08, 2024</time> Fourth day completed!
-
-- <time>Aug 07, 2024</time> Third day completed!
-
-- <time>Aug 06, 2024</time> Second day completed!
-
-- <time>Aug 05, 2024</time> First day completed!
-
-- <time>Aug 04, 2024</time> Induction day completed!
-
-
-<hr />
-
-## <span id="oss">Offline Streaming Systems</span>
-
-<small>Nov 11, 2023-present</small>  
-<small>Part of the O.S.S. team as a developer and general member. Currently paused</small>
-
-<hr />
-
-#### Log
-
-- <time>Jun 10, 2024-Jul 25, 2024</time> Turns out, that really interesting person sparked new life into this project!
-
-- <time>May 19, 2024-Jun 09, 2024</time> Meeting(s) + met a really interesting person!
-
-- <time>Apr 26, 2024-Apr 30, 2024</time> Spoke with my teammate, meeting soon!
-
-- <time>Apr 24, 2024-Apr 25, 2024</time> I'm back!
-
-- <time>Feb 02, 2024-Feb 15, 2024</time> More discussions.
-
-- <time>Jan 28, 2024</time> Got back to someone!
-
-- <time>Jan 27, 2024</time> Added comments.
-
-- <time>Jan 23, 2024</time> Check-in time!
-
-- <time>Jan 13, 2024</time> Notion.
-
-- <time>Jan 11, 2024-Jan 12, 2024</time> Meeting + links + comments!
-
-- <time>Jan 05, 2024</time> An interesting video was shared.
-
-- <time>Jan 03, 2024</time> I think we're done for the first part! Just need to review an API and find a work-around soon.
-
-- <time>Dec 21, 2023-Dec 30, 2023</time> Making progress.
-
-- <time>Dec 19, 2023-Dec 20, 2023</time> Pretty decent bug fix from the team!
-
-- <time>Dec 18, 2023</time> Had a productive meeting!
-
-- <time>Dec 01, 2023</time> Got organised and got started with debugging.
-
-- <time>Nov 30, 2023</time> First meeting!
-
-- <time>Nov 17, 2023</time> Excited to see where this goes!
-
-<hr />
-
 ## <span id="codewars">[Codewars](https://www.codewars.com)</span>
 
 <small>Dec 13, 2022-present</small>  
@@ -184,7 +114,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Log
 
-- <time>May 27, 2024-Jul 26, 2024</time> It's very annoying to log this particular project.
+- <time>May 27, 2024-Sep 10, 2024</time> It's very annoying to log this particular project.
 
 - <time>May 26, 2024</time> Finished [Split String](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/python) in Python:
 ```py
@@ -10768,6 +10698,24 @@ class Solution:
 <hr />
 
 ## Completed
+
+<hr />
+
+## <span id="arrayah">[Arrayah](https://arrayah.io)</span>
+
+<small>Aug 4, 2024-Aug 31, 2024</small>  
+<small>Was a deep tech intern at a hacker space in Dubai backed by The Residency! This covers both O.S.S. and Feed Forward as well.</small>
+
+<hr />
+
+#### Summary
+
+Arrayah, is a hacker house supported by The Residency in Dubai, working on Offline Streaming Systems and Feed Forward. From the start, we were introduced to some incredible people in tech, and thanks to regular check-ins with Akshat and Guglielmo, we made progress on Offline Streaming Systems while getting inspired by guests in deep tech.
+
+Midway through, we pivoted to Feed Forward, focusing on food waste solutions. The support from the Arrayah family was unmatched as we refined our pitch and business model. By demo day, after endless practice runs, we delievered what on what worked on. The experience was full of laughs, an oddly high amount of birthdays, and incredible energy. Huge thanks to everyone who supported us along the way!
+
+
+![Polaroid - Arrayah](/polaroid-arrayah.jpg)
 
 <hr />
 
