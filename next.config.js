@@ -21,6 +21,11 @@ const nextConfig = {
         permanent: false,
       },
       {
+        source: "/cv",
+        destination: "/cv.pdf",
+        permanent: false,
+      },
+      {
         source: "/resume",
         destination: "/resume.pdf",
         permanent: false,
