@@ -8,6 +8,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 ### Active
 
+- <a href="#unics">UniCS</a>
+- <a href="#ea-manchester">EA Manchester</a>
+- <a href="#kickstart-global">Kickstart Global</a>
 - <a href="#codewars">Codewars</a>
 - <a href="#leetcode">LeetCode</a>
 
