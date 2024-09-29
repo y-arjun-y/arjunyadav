@@ -108,6 +108,39 @@ Confused? See the <a href="#note">note</a> down below.
 
 <hr />
 
+## <span id="unics">[UniCS](https://unicsmcr.com)</span>
+
+<small>Sep 28, 2024-present</small>  
+<small>Part of the Events Team & GameDev Team for UniCS.</small>
+
+<hr />
+<small>UniCS's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+- <time>Sep 28, 2024</time> Events + GameDev workshops coming up soon!
+
+## <span id="EA Manchester">EA Manchester</span>
+
+<small>Sep 28, 2024-present</small>  
+<small>AI Officer for EA Manchester.</small>
+
+<hr />
+<small>EA Manchester's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+- <time>Sep 28, 2024</time> Intro talk soon!
+
+## <span id="kickstart-global">[Kickstart Global](https://www.kickstartglobal.com/)</span>
+
+<small>Sep 28, 2024-present</small>  
+<small>Part of the partnerships team for Kickstart Global, the UK's largest cross-university incubator.</small>
+
+<hr />
+<small>Kickstart Global's start date is the date I started logging, not the date when the project started.</small>
+<hr />
+
+- <time>Sep 28, 2024</time> Meeting!
+
 ## <span id="codewars">[Codewars](https://www.codewars.com)</span>
 
 <small>Dec 13, 2022-present</small>  
@@ -10716,7 +10749,6 @@ class Solution:
 Arrayah, is a hacker house supported by The Residency in Dubai, working on Offline Streaming Systems and Feed Forward. From the start, we were introduced to some incredible people in tech, and thanks to regular check-ins with Akshat and Guglielmo, we made progress on Offline Streaming Systems while getting inspired by guests in deep tech.
 
 Midway through, we pivoted to Feed Forward, focusing on food waste solutions. The support from the Arrayah family was unmatched as we refined our pitch and business model. By demo day, after endless practice runs, we delievered what on what worked on. The experience was full of laughs, an oddly high amount of birthdays, and incredible energy. Huge thanks to everyone who supported us along the way!
-
 
 ![Polaroid - Arrayah](/polaroid-arrayah.jpg)
 
