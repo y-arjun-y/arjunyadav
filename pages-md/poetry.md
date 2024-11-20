@@ -1,13 +1,13 @@
 ---
 title: Poetry
-meta_description: Welcome to all of the poetry on my website!
+meta_description: Welcome to my poetry!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
 
 <hr />
 
-- May 2024 - <a href="#ideal-situations">Ideal Situations</a>
+- Nov 2024 - <a href="#a-fresh-start">A Fresh Star</a>
 - May 2024 - <a href="#highway-star">Highway Star</a>
 - May 2024 - <a href="#coming-home">Coming Home</a>
 - May 2024 - <a href="#wrath-of-man">Wrath of Man</a>
@@ -24,6 +24,14 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 - Apr 2024 - <a href="#lakeside">Lakeside</a>
 
 <hr />
+
+## <span id="a-fresh-start">A Fresh Start</span>
+<p>Nov 2024</p>
+
+Pen down these words, <br />
+for they fade easily. <br />
+The laws of cause and effect aren't meandering  <br />
+So do something now, rather than fleetingly. 
 
 ## <span id="ideal-situations">Ideal Situations</span>
 <p>May 2024</p>
@@ -59,7 +67,7 @@ that's when all seems right in place.
 <hr />
 
 
-## <span id="wrath-of-man">[Wrath of Man](https://genius.com/Metallica-72-seasons-lyrics)</span>
+## <span id="wrath-of-man">Wrath of Man</span>
 <p>May 2024</p>
 
 No mercy from the ghost within, <br />

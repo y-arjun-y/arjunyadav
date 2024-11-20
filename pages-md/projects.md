@@ -1,16 +1,12 @@
 ---
-title: Projects
+title: Projects (Defunct)
 meta_description: Check my projects and their progress here!
 meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
 ---
 
 ## Table of Contents
 
-### Active
-
-- <a href="#unics">UniCS</a>
-- <a href="#ea-manchester">EA Manchester</a>
-- <a href="#kickstart-global">Kickstart Global</a>
+### Active (before becoming defunct)
 - <a href="#codewars">Codewars</a>
 - <a href="#leetcode">LeetCode</a>
 
@@ -104,42 +100,9 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 Confused? See the <a href="#note">note</a> down below.
 <hr />
 
-## Active
+## Active (before becoming defunct)
 
 <hr />
-
-## <span id="unics">[UniCS](https://unicsmcr.com)</span>
-
-<small>Sep 28, 2024-present</small>  
-<small>Part of the Events Team & GameDev Team for UniCS.</small>
-
-<hr />
-<small>UniCS's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-- <time>Sep 28, 2024</time> Events + GameDev workshops coming up soon!
-
-## <span id="EA Manchester">EA Manchester</span>
-
-<small>Sep 28, 2024-present</small>  
-<small>AI Officer for EA Manchester.</small>
-
-<hr />
-<small>EA Manchester's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-- <time>Sep 28, 2024</time> Intro talk soon!
-
-## <span id="kickstart-global">[Kickstart Global](https://www.kickstartglobal.com/)</span>
-
-<small>Sep 28, 2024-present</small>  
-<small>Part of the partnerships team for Kickstart Global, the UK's largest cross-university incubator.</small>
-
-<hr />
-<small>Kickstart Global's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-- <time>Sep 28, 2024</time> Meeting!
 
 ## <span id="codewars">[Codewars](https://www.codewars.com)</span>
 

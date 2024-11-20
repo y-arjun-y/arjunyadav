@@ -6,25 +6,6 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 This page serves as my **machine learning/AI safety** notebook, I hope for this page to serve as a more unstructured knowledge hub of all that I have discovered in ML/AIS in the future.
 
-For all the interesting thoughts and posts I've discovered, see my [X.com](https://x.com/y_arjun_y) profile.
-
-## Learning
-
-### What I'm Learning
-
-Concurrently working on [this levelling up guide](https://docs.google.com/document/d/1b83_-eo9NEaKDKc9R3P5h5xkLImqMw8ADLmi__rkLo4/edit#heading=h.fke682cxqkxr) - currently at Level 4.
-
-- [Mar 2024 - May 2024: AI Safety Fundamentals (Alignment + Governance) + Re-building a large language model (GPT-2)](#mar-2024-may-2024)
-- [Nov 2023 - Feb 2024: Steering and Evaluation Research + Large Language Models (LLMs)](#nov-2023-feb-2024)
-
-### What I'm planning to learn/do
-
-- Apply to [SERI Mats](https://www.matsprogram.org/).
-- Completing CS50 and [this](https://www.cloudskillsboost.google/paths/17) course by Google.
-- Either with a course or independently, finishing this [notebook](https://www.aisafetybook.com/).
-- Seeing [this](https://github.com/rasbt/LLMs-from-scratch/tree/main) repository.
-- Re-building a large language model (GPT-2) - Got in touch with a person who was interested in following [Neel Nanda's video](https://www.youtube.com/watch?v=dsjUDacBw8o), will be getting started with this soon and writing anything interesting here!
-
 #### Notebook
 
 #### <span id="mar-2024-may-2024">AI Safety Fundamentals (Alignment + Governance) + Re-building a large language model (GPT-2)</span>
