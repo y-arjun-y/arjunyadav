@@ -7,7 +7,7 @@ meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880
 
 <hr />
 
-- Nov 2024 - <a href="#a-fresh-start">A Fresh Star</a>
+- Nov 2024 - <a href="#a-fresh-start">A Fresh Start</a>
 - May 2024 - <a href="#highway-star">Highway Star</a>
 - May 2024 - <a href="#coming-home">Coming Home</a>
 - May 2024 - <a href="#wrath-of-man">Wrath of Man</a>
