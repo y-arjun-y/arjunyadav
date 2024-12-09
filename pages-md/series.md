@@ -1,7 +1,7 @@
 ---
 title: Series
 meta_description: Welcome to all of the series on my blog!
-meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
+meta_image: https://arjunyadav.net/twittercard.png
 ---
 
 <h2 id="interesting-reads">Interesting Reads</h2>

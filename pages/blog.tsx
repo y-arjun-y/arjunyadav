@@ -39,7 +39,7 @@ export default function Blog({ posts }) {
         <meta property="og:title" content="Welcome to arjunyadav.net!" />
         <meta
           property="og:image"
-          content="https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1"
+          content="https://arjunyadav.net/twittercard.png"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Welcome to arjunyadav.net!" />

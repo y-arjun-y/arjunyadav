@@ -1,7 +1,7 @@
 ---
 title: Poetry
 meta_description: Welcome to my poetry!
-meta_image: https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1
+meta_image: https://arjunyadav.net/twittercard.png
 ---
 
 
