@@ -17,19 +17,20 @@ In addition, I love running, drumming (and music in general) and [poetry](/poetr
 
 Here are some of the things I've done and/or projects I've worked on that I'm particularly proud of (reverse-chronological order):
 
-- Machine Learning and AI Safety: [Horizon Omega](/projects#horizonomega), [AI Safety Fundamentals: Governance Course](/projects#aisfg), [AI Safety Fundamentals: Alignment Course](/projects#aisfa), [AI Safety Camp](/projects#aisc2024), [AI Plans](/projects#ai-plans), [Dioptra](/projects#dioptra), [teaching a class](/projects#aaeclass) and completing three courses ([1](/projects#mathforml), [2](/projects#mlsafetycourse), [3](/projects#introml)).
-- Music: [Gratis](/projects#gratis2023), [Ukulele](/projects#ukulele), [Drums](/projects#drums), [Guitar](/projects#guitar)
-- MUNs: [GMAMUN Jr.'24](/projects#gmamunjr), [DXBMUN 2023](/projects#dxbmun2023), [NMSMUN 2023](/projects#nmsmun2023), [GFSMUN III](/projects#gfsmun2023), [ADMUN 2023](/projects#admun2023), [GFSMUN II](/projects#gfsmun2022)
-- [Project: Unboxed](/projects#projectunboxed)
-- [TEDxYouth@DPSS 2023](/projects#tedx2023)
-- SOLARIS: ([1](/projects#solaris-3), [2](/projects#solaris-2), [3](/projects#solaris-1))
-- [AUS CSE Research Assistant](/projects#ausresearch)
-- [OptX](/projects#optx)
-- [AUS Winter Computing Camp](/projects#computingcamp2022)
-- [EAGxOxford 2022](/projects#eagxoxford2022)
-- [Miller-Rabin Research](/projects#millerrabin)
-- [bettermailto](/projects#bettermailto)
-- [Effective Altruism Data](/projects#eadata)
+
+- Machine Learning and AI Safety: [Teaching AI Safety](/projects#aisprogramme2024) as part of [EA Manchester](/projects#eamanchester), completing both [AI Safety Fundamentals courses by BlueDot Impact](https://aisafetyfundamentals.com/) ([1](/projects#aisfg), [2](/projects#aisfa)), being accepted into and attending [AI Safety Camp 2024](/projects#aisc2024) and hosting VAISU 2024, writing my first published research paper under [Dioptra](/projects#dioptra) and [teaching machine learning while in high school](/projects#aaeclass).
+- Music: Drumming for [Gratis](/projects#gratis2023) and playing the [ukulele](/projects#ukulele), [drums](/projects#drums) and [guitar](/projects#guitar) semi-regularly.
+- Model UNs: Participated in a bunch of them, including [GMAMUN Jr.'24](/projects#gmamunjr), [DXBMUN 2023](/projects#dxbmun2023), [NMSMUN 2023](/projects#nmsmun2023), [GFSMUN III](/projects#gfsmun2023), [ADMUN 2023](/projects#admun2023) and [GFSMUN II](/projects#gfsmun2022).
+- Student Moderator at [Project: Unboxed](/projects#projectunboxed)
+- Co-organiser at [TEDxYouth@DPSS 2023](/projects#tedx2023)
+- Co-Founder of SOLARIS: ([1](/projects#solaris-3), [2](/projects#solaris-2), [3](/projects#solaris-1))
+- Formerly an [AUS CSE Research Assistant](/projects#ausresearch) working on computer vision with data from the World Wildlife Fund.
+- Helped to run [OptX](/projects#optx), a volunteering organisation I worked on in high school.
+- Was accepted to and attended the [AUS Winter Computing Camp](/projects#computingcamp2022) in winter of 2022.
+- Was accepted to and attended [EAGxOxford 2022](/projects#eagxoxford2022).
+- My first stint at research: [Miller-Rabin Research](/projects#millerrabin)
+- Worked on replacing the mailto attribute found all over the web with [bettermailto](/projects#bettermailto)
+- Worked on data visualisation at [Effective Altruism Data](/projects#eadata), along with helping out Legal Priorities Project (now the [Institute for Law & AI](https://law-ai.org/))
 
 </details>
 
