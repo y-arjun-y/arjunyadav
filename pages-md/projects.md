@@ -6,7 +6,8 @@ meta_image: https://arjunyadav.net/twittercard.png
 
 ## Table of Contents
 
-### Active (before becoming defunct)
+### Active
+
 - <a href="#codewars">Codewars</a>
 - <a href="#leetcode">LeetCode</a>
 

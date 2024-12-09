@@ -14,7 +14,7 @@ export default function Navbar() {
           <Link href="/poetry">Poetry</Link>
           <Link href="/subscribe">Subscribe</Link>
           <br />
-          <Link href="https://github.com/y-arjun-y/">Projects</Link>
+          <Link href="/projects/">Projects</Link>
           <Link href="/notebook">Notebook</Link>
           <Link href="/profiles">Profiles</Link>
           <Link href="/cv">CV</Link>
