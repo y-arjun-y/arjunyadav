@@ -16,7 +16,7 @@ export default function Navbar() {
           <br />
           <Link href="/projects/">Projects</Link>
           <Link href="/notebook">Notebook</Link>
-          <Link href="/profiles">Profiles</Link>
+          <Link href="https://linktr.ee/yarjuny">Profiles</Link>
           <Link href="/cv">CV</Link>
         </p>
       </nav>
