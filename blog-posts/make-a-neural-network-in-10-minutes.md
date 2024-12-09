@@ -2,7 +2,7 @@
 title: Make a neural network in ~10 minutes
 publish_date: Apr 25, 2022
 meta_description: For this post, we're going to create a neural network to classify three types of bears - grizzly, black and teddy.
-meta_image: https://lh3.google.com/u/0/d/1sKV4CjiKQmDxb71iJZJghdjoKyYqC9Bf=w2880-h1528-iv1
+meta_image: https://arjunyadav.net/neuralnetwork.png
 ---
 
 ![Neural Network - Chris Olah](/neuralnetwork.png)

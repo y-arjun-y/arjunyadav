@@ -2,7 +2,7 @@
 title: KENKEN
 publish_date: Mar 15, 2022
 meta_description: KENKEN is a Japanese math puzzle that combines sudoku with arithmetic operations (as if sudoku wasn't hard enough!)
-meta_image: https://lh3.google.com/u/0/d/1VFzToFHGICTdPCHcp79nR_8UQUrAXCm0=w2880-h1528-iv1
+meta_image: https://arjunyadav.net/Circle-Pattern.jpg
 ---
 
 ![Circle Pattern - British Library](/Circle-Pattern.jpg)

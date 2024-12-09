@@ -2,7 +2,7 @@
 title: Interesting Reads - May 2022
 publish_date: May 31, 2022
 meta_description: I log everything I read in Notion. This month I read 48 newsletters and 17 articles. Here are some of the highlights of this month!
-meta_image: https://lh3.google.com/u/0/d/1TYjt-xFf9079Fa7993ODqDU3-r1Ei_3T=w2880-h1528-iv1
+meta_image: https://arjunyadav.met/Gato.png
 ---
 
 ![Gato - DeepMind](/Gato.png)

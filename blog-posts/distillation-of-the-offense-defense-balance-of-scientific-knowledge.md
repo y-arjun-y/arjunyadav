@@ -2,7 +2,7 @@
 title: Distillation of The Offense-Defense Balance of Scientific Knowledge
 publish_date: Aug 12, 2022
 meta_description:
-meta_image: https://lh3.google.com/u/0/d/1mVA8hj6rKTIKI652HtcSz0XM_akvjsj_=w2880-h1528-iv1
+meta_image: https://www.arjunyadav.net/Goldilock's-Zone-1.png
 ---
 
 ![Goldilocks Zone](/Goldilock's-Zone-1.png)
