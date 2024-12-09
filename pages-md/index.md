@@ -6,7 +6,7 @@ meta_image: https://arjunyadav.net/twittercard.png
 
 ## Hello!
 
-<img src="/collage.jpg" />
+<img src="/collage.png" />
 
 My name is Arjun Yadav, my interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development, [machine learning and AI safety](/notebook/)) and [writing on my blog](/blog/) (click [here](/subscribe) to subscribe). 
 
