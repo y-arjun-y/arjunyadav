@@ -45,6 +45,11 @@ const nextConfig = {
         destination: "https://youtu.be/PJiVvpH6-E0?si=x-JWFe5WZjZAg6Vs&t=10",
         permanent: false,
       },
+      {
+        source: "/see-hear-speak",
+        destination: "https://www.youtube.com/watch?v=6E1DkgUNfBc",
+        permanent: false,
+      }
     ];
   },
 };
