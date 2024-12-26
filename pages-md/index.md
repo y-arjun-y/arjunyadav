@@ -8,24 +8,26 @@ meta_image: https://arjunyadav.net/twittercard.png
 
 <img src="/collage.png" />
 
-My name is Arjun Yadav, my interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development, [machine learning and AI safety](/notebook/)) and [writing on my blog](/blog/) (click [here](/subscribe) to subscribe). 
+My name is Arjun Yadav (pronounced /ˈɑːɹ.dʒʌn ˈjɑː.dʌv/), my interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development, [machine learning and AI safety](/notebook/)) and [writing on my blog](/blog/) (click [here](/subscribe) to subscribe).
 
-In addition, I love running, drumming (and music in general) and [poetry](/poetry)! Feel free to [email me](https://www.bettermailto.com/user/620278e0561f820009d840d2) or [schedule time to chat with me](https://calendly.com/arjun-yadav).
+In addition, I love running, drumming (and music in general) and [poetry](/poetry)! Feel free to email me at arjun (at) arjunyadav (dot) net or [schedule time to chat with me](https://calendly.com/arjun-yadav).
 
 <details open>
-<summary>Things I've Done</summary>
+<summary>Projects</summary>
 
-Here are some of the things I've done and/or projects I've worked on that I'm particularly proud of (reverse-chronological order):
+Here is a non-exhaustive list of projects I've worked on in my life in reverse-chronological order:
 
+### University
 
-- Machine Learning and AI Safety: [Teaching AI Safety](/projects#aisprogramme2024) as part of [EA Manchester](/projects#eamanchester), completing both [AI Safety Fundamentals courses by BlueDot Impact](https://aisafetyfundamentals.com/) ([1](/projects#aisfg), [2](/projects#aisfa)), being accepted into and attending [AI Safety Camp 2024](/projects#aisc2024) and hosting VAISU 2024, writing my first published research paper under [Dioptra](/projects#dioptra) and [teaching machine learning while in high school](/projects#aaeclass).
-- Music: Drumming for [Gratis](/projects#gratis2023) and playing the [ukulele](/projects#ukulele), [drums](/projects#drums) and [guitar](/projects#guitar) semi-regularly.
-- Model UNs: Participated in a bunch of them, including [GMAMUN Jr.'24](/projects#gmamunjr), [DXBMUN 2023](/projects#dxbmun2023), [NMSMUN 2023](/projects#nmsmun2023), [GFSMUN III](/projects#gfsmun2023), [ADMUN 2023](/projects#admun2023) and [GFSMUN II](/projects#gfsmun2022).
-- Student Moderator at [Project: Unboxed](/projects#projectunboxed)
-- Co-organiser at [TEDxYouth@DPSS 2023](/projects#tedx2023)
-- Co-Founder of SOLARIS: ([1](/projects#solaris-3), [2](/projects#solaris-2), [3](/projects#solaris-1))
+- Computer Science and AI: Teaching an Introduction to Programming course at university, teaching AI Safety as part of [EA Manchester](/projects#eamanchester),
+
+### High School (2021-2024)
+
+- Computer Science and AI: Completing both [AI Safety Fundamentals courses by BlueDot Impact](https://aisafetyfundamentals.com/) ([1](/projects#aisfg), [2](/projects#aisfa)), being accepted to and attending [AI Safety Camp 2024](/projects#aisc2024) and hosting VAISU 2024, writing my first published research paper under [Dioptra](/projects#dioptra) and [teaching machine learning while in high school](/projects#aaeclass).
+- Music: Drumming for [our batch's last event](/projects#gratis2023).
+- Public Speakking: Student Moderator at [Project: Unboxed](/projects#projectunboxed), Co-organiser for [TEDxYouth@DPSS 2023](/projects#tedx2023) and a lot of Model UNs before and in-between. Also co-founded a rationality club ([1](/projects#solaris-3), [2](/projects#solaris-2), [3](/projects#solaris-1)).
 - Formerly an [AUS CSE Research Assistant](/projects#ausresearch) working on computer vision with data from the World Wildlife Fund.
-- Helped to run [OptX](/projects#optx), a volunteering organisation I worked on in high school.
+- Helped to run [OptX](/projects#optx), a volunteering organisation.
 - Was accepted to and attended the [AUS Winter Computing Camp](/projects#computingcamp2022) in winter of 2022.
 - Was accepted to and attended [EAGxOxford 2022](/projects#eagxoxford2022).
 - My first stint at research: [Miller-Rabin Research](/projects#millerrabin)

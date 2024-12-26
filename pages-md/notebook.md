@@ -8,7 +8,7 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 #### Notebook
 
-#### <span id="mar-2024-may-2024">AI Safety Fundamentals (Alignment + Governance) + Re-building a large language model (GPT-2)</span>
+#### AI Safety Fundamentals (Alignment + Governance) + Re-building a large language model (GPT-2)
 
 ##### AI Safety Fundamentals - Governance
 
@@ -260,3 +260,5 @@ Note that these are outside of formal projects. I'd also like to shout out two p
 - [Introduction to Machine Learning](/projects#mathforml)
 - [ML Safety Course](/projects#mlsafetycourse)
 - [Introduction to Machine Learning](/projects#introml)
+
+

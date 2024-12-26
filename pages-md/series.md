@@ -29,15 +29,6 @@ I log everything I read[^1] in Notion, and every month, I publish some of the mo
 - <time>Oct 2021</time> [Interesting Reads - October 2021](/blog/interesting-reads-october-2021)
 - <time>Sep 2021</time> [Interesting Reads - September 2021](/blog/interesting-reads-september-2021)
 
-<h2 id="replacement-posts">Replacement Posts</h2>
-
-I've missed my goal of posting a blog post at least once a month (excluding my [interesting reads](/#interesting-reads) series) a couple of times, here are all the replacement posts:
-
-- [Results from DALL·E 2 (Part 2)](/blog/results-from-dalle-2-part-2) (replacement post for October 2022)
-- [Distillation of The Offense-Defense Balance of Scientific Knowledge](/blog/distillation-of-the-offense-defense-balance-of-scientific-knowledge) (replacement post for July 2022)
-
-[^1]: Well, not _everything_ everything, only most newsletters, articles/posts and books. But you get the point.
-
 <h2 id="summaries-distillations">Summaries/Distillations</h2>
 
 - [The Busy Person's Introduction to AI Safety](/blog/the-busy-persons-introduction-to-ai-safety)
