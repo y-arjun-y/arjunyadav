@@ -11,9 +11,9 @@ export default function Navbar() {
           <Link href="/">Home</Link>
           <Link href="/blog/">Blog</Link>
           <Link href="/series">Series</Link>
-          <Link href="/poetry">Poetry</Link>
           <Link href="/subscribe">Subscribe</Link>
           <br />
+          <Link href="/poetry">Poetry</Link>
           <Link href="/projects/">Projects</Link>
           <Link href="/notebook">Notebook</Link>
           <Link href="https://linktr.ee/yarjuny">Profiles</Link>
