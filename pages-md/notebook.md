@@ -8,8 +8,6 @@ This page serves as my **machine learning/AI safety** notebook, I hope for this 
 
 #### Notebook
 
-#### AI Safety Fundamentals (Alignment + Governance) + Re-building a large language model (GPT-2)
-
 ##### AI Safety Fundamentals - Governance
 
 - Session 5: AI Policy Levers: Should have prepared better for this session. Oh well.
