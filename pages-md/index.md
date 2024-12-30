@@ -12,7 +12,7 @@ My name is Arjun Yadav (pronounced /ˈɑːɹ.dʒʌn ˈjɑː.dʌv/).
 
 As of now, I work on the tech side of [Kickstart Global](https://kickstartglobal.com) as well as sales at [AIESEC Manchester](https://www.aiesec.co.uk/). In addition, I'm studying Computer Science at the University of Manchester.
 
-My interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development, [machine learning and AI safety](/notebook/)) and [writing on my blog](/blog/) (click [here](/subscribe) to subscribe).
+My interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development, [machine learning](/notebook) and [AI safety](/notebook/)) and [writing on my blog](/blog/) (click [here](/subscribe) to subscribe).
 
 My avid interests in life right now are running, hiking, practicing different musical instruments (drums, ukulele and harmonica) and getting better at writing [poetry](/poetry).
 
@@ -25,7 +25,7 @@ Here is a non-exhaustive list of projects I've worked on in my life that I'm mos
 
 - Teaching an [Introduction to Programming course](/projects#unics) at university
 - Teaching AI Safety as part of [EA Manchester](/projects#eamanchester)
-- Completing both [AI Safety Fundamentals courses by BlueDot Impact](https://aisafetyfundamentals.com/) ([1](/projects#aisfg), [2](/projects#aisfa))
+- Completing both [AI Safety Fundamentals courses by BlueDot Impact](https://aisafetyfundamentals.com/)
 - Being accepted to and attending [AI Safety Camp 2024](/projects#aisc2024) and hosting [VAISU 2024](https://vaisu.ai/). 
 - Writing my first published research paper under [Dioptra](/projects#dioptra) and [teaching machine learning while in high school](/projects#aaeclass).
 - Drumming for [one of my high school's bands](/projects#gratis2023).
