@@ -8,16 +8,9 @@ meta_image: https://arjunyadav.net/twittercard.png
 
 <img src="/collage.png" />
 
-My name is Arjun Yadav (pronounced /ˈɑːɹ.dʒʌn ˈjɑː.dʌv/). 
+My name is Arjun Yadav (pronounced /ˈɑːɹ.dʒʌn ˈjɑː.dʌv/).
 
-<details open>
-<summary>Quick Facts</summary>
-
-* What are you working on right now?: I work on the tech side of [Kickstart Global](https://kickstartglobal.com) as well as in sales at [AIESEC Manchester](https://www.aiesec.co.uk/). In addition, I'm studying Computer Science at the University of Manchester.
-* Where do you live?: I currently reside in Manchester, England.
-
-</details>
-
+As of now, I work on the tech side of [Kickstart Global](https://kickstartglobal.com) as well as sales at [AIESEC Manchester](https://www.aiesec.co.uk/). In addition, I'm studying Computer Science at the University of Manchester.
 
 My interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development, [machine learning and AI safety](/notebook/)) and [writing on my blog](/blog/) (click [here](/subscribe) to subscribe).
 
