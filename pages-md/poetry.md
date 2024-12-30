@@ -33,6 +33,8 @@ for they fade easily. <br />
 The laws of cause and effect aren't meandering  <br />
 So do something now, rather than fleetingly. 
 
+<hr />
+
 ## <span id="ideal-situations">Ideal Situations</span>
 <p>May 2024</p>
 
@@ -42,7 +44,6 @@ for delusions often make him tame. <br />
 or is it to write our own history?"
 
 <hr />
-
 
 ## <span id="highway-star">Highway Star</span>
 <p>May 2024</p>
