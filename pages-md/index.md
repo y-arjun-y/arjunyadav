@@ -52,8 +52,6 @@ These are all my donations to [effective charities](https://www.givewell.org/cha
 | 09/01/2022 | 13.61 USD | GiveDirectly               |
 | 09/01/2022 | 13.61 USD | Against Malaria Foundation |  
 
-Watch this space for a breakdown of my fundraising activities!
-
 </details>
 
 <details id="end" open>
