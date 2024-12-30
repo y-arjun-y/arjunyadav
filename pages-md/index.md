@@ -58,5 +58,5 @@ Watch this space for a breakdown of my fundraising activities!
 This map showcases countries that have contributed to the overall web traffic for [arjunyadav.net](/).
 Data from [CloudFlare](https://cloudflare.com), map created with [gallpeters](https://gallpeters.vercel.app).
 
-<img src="/map.svg" />
+<img src="/map-new.svg" />
 </details>
