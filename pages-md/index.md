@@ -21,16 +21,20 @@ Feel free to email me at arjun (at) arjunyadav (dot) net or schedule out time to
 <details open>
 <summary>Projects</summary>
 
-Here is a non-exhaustive list of projects I've worked on in my life (in reverse-chronological order):
- 
-- Computer Science and AI: Teaching an Introduction to Programming course at university, teaching AI Safety as part of [EA Manchester](/projects#eamanchester), Completing both [AI Safety Fundamentals courses by BlueDot Impact](https://aisafetyfundamentals.com/) ([1](/projects#aisfg), [2](/projects#aisfa)), being accepted to and attending [AI Safety Camp 2024](/projects#aisc2024) and hosting VAISU 2024, writing my first published research paper under [Dioptra](/projects#dioptra) and [teaching machine learning while in high school](/projects#aaeclass).
-- Music: Drumming for [our batch's last event](/projects#gratis2023).
-- Public Speakking: Student Moderator at [Project: Unboxed](/projects#projectunboxed), Co-organiser for [TEDxYouth@DPSS 2023](/projects#tedx2023) and a lot of Model UNs before and in-between. Also co-founded a rationality club ([1](/projects#solaris-3), [2](/projects#solaris-2), [3](/projects#solaris-1)).
-- Formerly an [AUS CSE Research Assistant](/projects#ausresearch) working on computer vision with data from the World Wildlife Fund.
+Here is a non-exhaustive list of projects I've worked on in my life that I'm most proud of (in reverse-chronological order):
+
+- Teaching an [Introduction to Programming course](/projects#unics) at university
+- Teaching AI Safety as part of [EA Manchester](/projects#eamanchester)
+- Completing both [AI Safety Fundamentals courses by BlueDot Impact](https://aisafetyfundamentals.com/) ([1](/projects#aisfg), [2](/projects#aisfa))
+- Being accepted to and attending [AI Safety Camp 2024](/projects#aisc2024) and hosting [VAISU 2024](https://vaisu.ai/). 
+- Writing my first published research paper under [Dioptra](/projects#dioptra) and [teaching machine learning while in high school](/projects#aaeclass).
+- Drumming for [one of my high school's bands](/projects#gratis2023).
+- Moderated a [mental health conclave](/projects#projectunboxed). 
+- Co-organised my school's [TEDxYouth conference](/projects#tedx2023)
+- Brief stint as a [research assistant at the American University of Sharjah](/projects#ausresearch) working on computer vision with data from the World Wildlife Fund.
 - Helped to run [OptX](/projects#optx), a volunteering organisation.
-- Was accepted to and attended the [AUS Winter Computing Camp](/projects#computingcamp2022) in winter of 2022.
-- Was accepted to and attended [EAGxOxford 2022](/projects#eagxoxford2022).
-- My first stint at research: [Miller-Rabin Research](/projects#millerrabin)
+- Attended the [AUS Winter Computing Camp](/projects#computingcamp2022) in winter of 2022.
+- Attended [EAGxOxford 2022](/projects#eagxoxford2022).
 - Worked on replacing the mailto attribute found all over the web with [bettermailto](/projects#bettermailto)
 - Worked on data visualisation at [Effective Altruism Data](/projects#eadata), along with helping out Legal Priorities Project (now the [Institute for Law & AI](https://law-ai.org/))
 
