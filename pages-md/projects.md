@@ -1,6 +1,6 @@
 ---
 title: Projects
-meta_description: Check my projects and their progress here!
+meta_description: Read about my projects here.
 meta_image: https://arjunyadav.net/twittercard.png
 ---
 
@@ -8,10 +8,12 @@ meta_image: https://arjunyadav.net/twittercard.png
 
 ### Completed
 
+#### 2024
+- <a href="effallhack">EF Fall Hackathon</a>
 - <a href="#arrayah">Arrayah</a>
 - <a href="#horizonomega">Horizon Omega (HΩ)</a>
 - <a href="#optx">OptX</a>
-- <a href="#eauae">EA UAE</a>
+- <a href="#eauae">Effective Altruism UAE</a>
 - <a href="#ai-plans">AI Plans</a>
 - <a href="#aisfg">AI Safety Fundamentals: Governance Course</a>
 - <a href="#aisfa">AI Safety Fundamentals: Alignment Course</a>
@@ -22,6 +24,8 @@ meta_image: https://arjunyadav.net/twittercard.png
 - <a href="#oceanbusters">Ocean Busters</a>
 - <a href="#gmamunjr24">GMAMUN Jr.'24</a>
 - <a href="#studentcouncil12">Student Council - 12th + Head of Events</a>
+
+#### 2023
 - <a href="#ausresearch">AUS CSE Research Assistant</a>
 - <a href="#aoc2023">Advent of Code 2023</a>
 - <a href="#gratis2023">Gratis 2023</a>
@@ -47,20 +51,18 @@ meta_image: https://arjunyadav.net/twittercard.png
 - <a href="#middleschoolcsevent">Middle School CS Event</a>
 - <a href="#adventofcodepytech">Advent of Code (PyTech)</a>
 - <a href="#coldtakesbetareading">Cold Takes Beta Reading</a>
+
+#### 2022 and 2021
 - <a href="#y1d2">y1d2</a>
 - <a href="#introml">Introduction to Machine Learning</a>
 - <a href="#computingcamp2022">Winter Computing Camp</a>
-- <a href="#emiratehackathon2022">Emirate-level Hackathon</time>
-- <a href="#gfsmun2022">GFSMUN 2022</time>
+- <a href="#emiratehackathon2022">Emirate-Level Hackathon</a>
+- <a href="#gfsmun2022">GFSMUN 2022</a>
 - <a href="#cubing">Cubing</a>
-- <a href="#localhackathon2022">Local Hackathon</time>
-- <a href="#landingpage">Landing Page Project + App Integration</a>
+- <a href="#localhackathon2022">Local Hackathon</a>
+- <a href="#eaindia">Effective Altruism India</a>
 - <a href="#kenken">KENKEN</a>
-- <a href="#duolingo">Duolingo</a>
-- <a href="#localaiprogram">Local AI Program</a>
 - <a href="#chess">Chess</a>
-- <a href="#eabristol2">EA Bristol Website Re-design (Round 2) + Booking Project</a>
-- <a href="#openresearchpaper">Maintaining the benefits of open research in AI</a>
 - <a href="#bearblogreplacementtemplate">Bear Blog Replacement Template</a>
 - <a href="#solaris-1">SOLARIS (First Edition)</a>
 - <a href="#sudoku">Sudoku</a>
@@ -70,9 +72,7 @@ meta_image: https://arjunyadav.net/twittercard.png
 - <a href="#eagxoxford2022">EAGxOxford 2022</a>
 - <a href="#eafacilitator">EA In-Depth Fellowship Facilitator</a>
 - <a href="#millerrabin">Miller-Rabin Research</a>
-- <a href="#eabristol">EA Bristol Website Re-design</a>
 - <a href="#eaindepth">Effective Altruism In-Depth Fellowship</a>
-- <a href="#eaglobal2021">EA Global: London 2021</a>
 
 ### Retroactive
 
@@ -100,6 +100,22 @@ Confused? See the <a href="#note">note</a> down below.
 ## Completed
 
 <hr />
+
+## <span id="effallhack">[EF](https://www.joinef.com/) Fall Hackathon</span>
+
+<small>Nov 2024</small>
+<small>I was accepted to EF's Fall Hackathon this year.</small>
+
+<hr />
+
+#### Summary
+
+An extremely fun hackathon, my first time being in London proper after almost a decade, and my first hackathon in the UK (could have been my second, but oh well). Loved my teammates, and even though we didn't win, the food was pretty damn great.
+
+![EF Fall Hackathon](/ef-fall-hackathon.jpg)
+
+<hr />
+
 
 ## <span id="arrayah">[Arrayah](https://arrayah.io)</span>
 
@@ -138,35 +154,32 @@ An enjoyable time overall, worked closely with [Orpheus](https://www.orpheuslumm
 
 OptX was started by my high school's batch as an effort to provide more volunteering opportunities to the youth (mostly other high school students across the U.A.E.), I was not there during its founding, and truth be told, I only got involved out of a fear of missing out on something big. And big it was.
 
-![OptX - TS2](/optx-ts2.jpg)
-
 Our first event was called The Symposium, an event that brought together an astrophysics professor and a surgeon with some 30-40 of our batchmates to discuss their respective fields and solve a "crisis" situation.
 
-![Iftar Distribution 2.0](/optx-iftar-2.jpg)
+![OptX - The Symposium 1.0](/optx-sym1.jpg)
 
 We got the idea pretty impromptu to hold an Iftar distribution outside a labour camp in Dubai, which became the second of two events to be continued (the other one being The Symposium), in between, some of us volunteered for the UAE Aid distribution campaign for those affected by the Türkiye-Syria earthquake.
 
-![OptX - SHC Visit](shc.jpeg)
+![OptX - Bridges of Giving](/optx-aid.jpeg)
+![OptX Iftar Distribution Event](/optx-polaroid.png/)
 
 During the summer, some of us decided to pay a visit to an astronomy centre in Dubai. It was also during this summer we tried our hand at organising a reel-making campaign to promote healthy eating (a campaign which received one submission... by me)
 
 ![OptX Astronomy](/optx-astronomy.jpg)
 
-We carried on with our sequels, by this point planning for The Symposium 2.0 was underway, and with a date announced and a venue + another successful Iftar distribution campaign, everything seemed to be swell.
+Our last event for 2023 was visiting a Senior Happiness Centre in Dubai. We carried on with our sequels, by this point planning for The Symposium 2.0 was underway, and with a date announced and a venue + another successful Iftar distribution campaign, everything seemed to be swell.
 
-![OptX Iftar Distribution Event](/optx-polaroid.png/)
+![OptX - SHC Visit](shc.jpeg)
 
 Somewhat last minute, however, our venue pulled out for The Symposium 2.0, leaving us scrambling for a replacement. Thankfully, one did come and what occured was our largest event yet in terms of attendance and venue.
 
-![OptX - Bridges of Giving](/optx-aid.jpeg)
+![OptX - TS2](/optx-ts2.jpg)
 
 I'm extremely glad OptX happened to me, made some of my closest friends through it and learnt a lot about myself through helping others.
 
-![OptX - The Symposium 1.0](/optx-sym1.jpg)
-
 <hr />
 
-## <span id="eauae">[EA UAE](https://www.instagram.com/effectivealtruism.uae/)</span>
+## <span id="eauae">[Effective Altruism UAE](https://www.instagram.com/effectivealtruism.uae/)</span>
 
 <small>Dec 2022-Aug 2024</small>
 <small>A cold email led to me and another person co-founding EA UAE. Tried to make it as successful as possible.</small>
@@ -175,19 +188,18 @@ I'm extremely glad OptX happened to me, made some of my closest friends through 
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+This project started out with Riya cold-emailing me after she attending an EA community building fellowship, the email asked if I was interested in "restarting" EA Dubai. I said yes, of course.
 
-[EA UAE - DYH](/ea-uae-dyh.jpg)
+From my recollection, we started Effective Altruism UAE after speaking with Q, the founder of EA Dubai who at the time was studying in England. We created a group chat, added the leaders of EA AUS and EA NYUAD at the time, and slowly, but surely, things started to take-off.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+The peak of EA UAE was when we were just simply hosting dinners and socials for both university groups (which I'm sure they appreciated, taking off one event from their calendar to organise!)
 
 ![EA UAE x EA NYUAD](/ea-uae-2.jpeg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
-
 ![EA UAE](/ea-uae.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+But alas, all good things come to a halt eventually. After Riya left to Ireland, it became quite difficult to maintain a level of activity in the group chat. I recall trying to start something with sending EA Forum posts daily? Any how, made some good friends, learnt a lot, I'd call that a success.
+
 
 <hr />
 
@@ -323,6 +335,7 @@ First (and probably last) time chairing was a decent success (even though I had 
 
 #### Summary
 
+One advice I wish I was more aware about when I was younger was that my time is valuable. I would not trade anything for the friendships I gained during this project, but it took a lot out of me for sure. Regardless, while I would advice anyone in my position to evaluate their time carefully, I'm still happy with my end result.
 
 ![Graduation 2024](/graduation-2024.png)
 
@@ -341,13 +354,13 @@ First (and probably last) time chairing was a decent success (even though I had 
 ## <span id="ausresearch">AUS CSE Research Assistant</span>
 
 <small>Jun 2023-Dec 2023</small>
-<small>Currently a research assistant for the computer science and engineering department at the American University of Sharjah. Will continue after my examinations this last month of the year.</small>
+<small>Formerly a research assistant for the computer science and engineering department at the American University of Sharjah. Will continue after my examinations this last month of the year.</small>
 
 <hr />
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+I was a research assistant at the American University of Sharjah, I got it after emailing my professor from their Winter Computing Camp. While I did not achieve a lot, I certainly learned a lot, and my professor was super welcoming and helpful during my journey, even at times when he was busy with his own duty. Came back to show my first published paper with [Dioptra](/#dioptra).
 
 ![AUS - Part Two](/AUS-2.jpeg)
 
@@ -364,7 +377,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+Got about 25 stars. Advent of Code is only as fun as the group you're completing it with.
 
 <hr />
 
@@ -437,7 +450,7 @@ A really enjoyable experience overall: my sir present during the committee was r
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+This event took a lot out of me, mostly because of the amount of stress I put on myself and me not taking steps back when I needed to, but nonetheless, this was an immensely memorable project in my life. Taught me a lot about leading a team and organising something somewhat big.
 
 ![TEDxYouth](/TEDx.png)
 
@@ -452,7 +465,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 
 <hr />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+#### Summary
+
+This was a fun one, I missed the feeling of teaching, and I was getting really into more technical aspects of AI Safety through my [self-study](/notebook) efforts, and so, through Instagram, I announced this project. Grateful to everyone who signed up and joined my lessons.
 
 ![AAE - Second](/aae-two.jpg)
 
@@ -482,7 +497,7 @@ A lot of work happened before the start date given here: including finalizing ou
 
 <hr />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+One last time teaching Effective Altruism to my high school, an interesting ride.
 
 ![SOLARIS - 3](/solaris-3.png)
 
@@ -497,7 +512,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+Fun course.
 
 ![Backpropagation](/backpropagation.png)
 
@@ -534,13 +549,13 @@ This was quite an experience - finished going through the ML Safety Course by th
 ## <span id="solaris-2">SOLARIS (Second Edition)</span>
 
 <small>Dec 2022-Jul 2023</small>
-<small>Trying to co-run the second edition of a logic, rationality and Effective Altruism club that I co-founded. Currently inactive/paused.</small>
+<small>Tried to co-run the second edition of a logic, rationality and Effective Altruism club that I co-founded.</small>
 
 <hr />
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+Second time teaching Effective Altruism to my high school, got some really interesting capstone projects!
 
 <hr />
 
@@ -602,14 +617,22 @@ With that being said, what an incredible event, so glad to have been (somewhat) 
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+Here are all the certifications I've earned from freeCodeCamp (would recommend these courses highly if you're completely new to programming, maybe supplementing with YouTube videos in-between if you're having trouble understanding)- 
+
+- [Scientific Computing with Python](https://www.freecodecamp.org/certification/y_arjun_y/scientific-computing-with-python-v7)
+- [Quality Assurance](https://www.freecodecamp.org/certification/y_arjun_y/quality-assurance-v7)
+- [Back-End Development and APIs](https://www.freecodecamp.org/certification/y_arjun_y/back-end-development-and-apis)
+- [Data Visualizations](https://www.freecodecamp.org/certification/y_arjun_y/data-visualization)
+- [JavaScript and Data Structures](https://www.freecodecamp.org/certification/y_arjun_y/javascript-algorithms-and-data-structures) 
+- [Front-End Development Libraries](https://www.freecodecamp.org/certification/y_arjun_y/front-end-development-libraries)
+- [Responsive Web Design](https://www.freecodecamp.org/certification/y_arjun_y/responsive-web-design) 
 
 <hr />
 
 ## <span id="nationalmathscompetition">National Maths Competition</span>
 
 <small>Mar 2023</small>
-<small>Attended a national maths competition with my schoolmate. Due to privacy reasons, I was being incredibly vague.</small>
+<small>Attended a national maths competition with my schoolmate.</small>
 
 <hr />
 
@@ -622,7 +645,7 @@ Attended the first (and last) day of a national maths competition with my school
 ## <span id="studentcouncil11">Student Council - 11th</span>
 
 <small>Oct 2022-Feb 2023</small>
-<small>I was the Coordinator - Environment for my school. A post that I will cherish having for a long time (oh, and due to privacy reasons, I was being incredibly vague).</small>
+<small>I was the Coordinator - Environment for my school.</small>
 
 <hr />
 
@@ -634,20 +657,18 @@ I ended up making the post a lot more influential than it should have been. It's
 
 The student council in your junior year should (hopefully!) just be a taste of what's to come next year. But that shouldn't stop you from reminiscing.
 
-![Grad Day](/grad-day-2023.jpg)
-
 <hr />
 
 ## <span id="admun2023">ADMUN 2023</span>
 
 <small>Feb 2023-Feb 2023</small>
-<small>Attended my last MUN, ADMUN 2.3 as part of my school team. Due to privacy reasons, I was being incredibly vague.</small>
+<small>Attended ADMUN 2.3 as part of my school team.</small>
 
 <hr />
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+My second in-person MUN, and the first time meeting some really close friends in-person. We may have done some shenanigans during the closing ceremony.
 
 ![ADMUN](/admun.jpeg)
 
@@ -662,20 +683,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+This was... a bit of an unnecessary project. I was curious about learning more about data structures and algorithms, and certainly Brilliant did help me learn some fundamental concepts (linked lists, binary trees, etc), but, in my opinion, it isn't worth the price point. Better off with a free course from [CodeChef](https://www.codechef.com/) or plain old YouTube videos.
 
 <hr />
 
 ## <span id="middleschoolcsevent">Middle School CS Event</span>
 
 <small>Jan 2023-Jan 2023</small>
-<small>I was part of the organising team for a middle school computer science event. Tried my best to make this as successful as possible. Due to privacy reasons, I was being incredibly vague.</small>
+<small>I was part of the organising team for a middle school computer science event. Tried my best to make this as successful as possible.</small>
 
 <hr />
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+This was a fun project to work on, pretty low-stakes, just had to teach a bunch of middle schoolers about the basics of programming. I always enjoy teaching.
 
 <hr />
 
@@ -688,21 +709,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+As part of PyTech, my high school's Python club that I took over from my seniors, I posted coding problems on Instagram daily leading up to Christmas. My classmate won first place.
 
 <hr />
 
 ## <span id="coldtakesbetareading">[Cold Takes](https://www.cold-takes.com/) Beta Reading</span>
 
 <small>Jan 2022-Jan 2023</small>
-<small>I was accepted to beta read Holden Karnofsky's articles for his blog, Cold Takes. Note that I only updated this log when I fully finish proof-reading and when the post has been published.</small>
+<small>I proof-read a couple of Holden Karnofsky's articles for his blog, Cold Takes.</small>
 
 <hr />
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
-
+One of the first few projects that made me think I "made it" (whatever that means), Holden Karnofsky posted a call for beta readers for his blog, I signed up and proof-read about five or so blog posts? I can't exactly remember.
 <hr />
 
 ## <span id="y1d2">[y1d2](https://y1d2.com)</span>
@@ -712,8 +732,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
-
+Created 
 <hr />
 
 ## <span id="introml">[Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning-duke/)</span>
@@ -725,20 +744,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+Great course, much more balanced than Stanford's course.
 
 <hr />
 
 ## <span id="computingcamp2022">Winter Computing Camp</span>
 
 <small>Dec 2022-Dec 2022</small>
-<small>Attending a winter computing camp. Due to privacy reasons, I'm being incredibly vague.</small>
+<small>Attended a winter computing camp.</small>
 
 <hr />
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+This was a blast, led to my first exposure to computer science research later on, and was a great way to end my junior year at high school.
 
 ![Winter Computing Camp](/winter-camp.jpg)
 
@@ -747,7 +766,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 ## <span id="emiratehackathon2022">Emirate-level Hackathon</span>
 
 <small>Nov 2022</small>
-<small>Led my senior team to a win in a "state" hackathon! Due to privacy reasons, I was being incredibly vague.</small>
+<small>Led my senior team to a win in a "state" hackathon!</small>
 
 <hr />
 
@@ -762,20 +781,20 @@ Happy to report that we've won the senior category of a "state" hackathon! Hope 
 ## <span id="gfsmun2022">GFSMUN II</span>
 
 <small>Nov 2022-Nov 2022</small>
-<small>Attended GFSMUN 2022 as part of my school team. Due to privacy reasons, I was being incredibly vague.</small>
+<small>Attended GFSMUN 2022 as part of my school team.</small>
 
 <hr />
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+First time I won an award at an in-person MUN. It was a fun time overall (especially the social).
 
 <hr />
 
 ## <span id="cubing">[Cubing](https://www.worldcubeassociation.org/persons/2019YADA06)</span>
 
 <small>Oct 2021-Oct 2022</small>
-<small>Tried my best to get better every day at the four events I practice, which are [3x3](https://ruwix.com/the-rubiks-cube/), [2x2](https://ruwix.com/twisty-puzzles/2x2x2-rubiks-cube-pocket/), [3x3 OH](https://ruwix.com/the-rubiks-cube/one-handed/) and [Skewb](https://ruwix.com/twisty-puzzles/skewb-pyraminx-mod-skewb-diamond/), all [AO5](https://ruwix.com/the-rubiks-cube/cubing-terminology-abbreviations-commonly-used-expressions/)'s were presented in that order and I usually wrote about any [PB](https://ruwix.com/the-rubiks-cube/cubing-terminology-abbreviations-commonly-used-expressions/) I get. In addition to regular-ish practice, I attended [a local WCA competition](https://www.worldcubeassociation.org/competitions/DubaiSummerOpen2022).</small>
+<small>Tried my best to get better every day at the four events I practiced, which are [3x3](https://ruwix.com/the-rubiks-cube/), [2x2](https://ruwix.com/twisty-puzzles/2x2x2-rubiks-cube-pocket/), [3x3 OH](https://ruwix.com/the-rubiks-cube/one-handed/) and [Skewb](https://ruwix.com/twisty-puzzles/skewb-pyraminx-mod-skewb-diamond/), all [AO5](https://ruwix.com/the-rubiks-cube/cubing-terminology-abbreviations-commonly-used-expressions/)'s were presented in that order and I usually wrote about any [PB](https://ruwix.com/the-rubiks-cube/cubing-terminology-abbreviations-commonly-used-expressions/) I get. In addition to regular-ish practice, I attended [a local WCA competition](https://www.worldcubeassociation.org/competitions/DubaiSummerOpen2022).</small>
 
 <hr />
 <small>Cubing's start date is the date I started logging, not the date when the project started.</small>
@@ -783,14 +802,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+Cubing was one of the first hobbies I picked up when I was a kid, I still remember my first competition in Sharjah like it was yesterday. I still practice it daily.
 
 <hr />
 
-## <span id="localhackathon2022">Local Hackathon</span>
+## <span id="localhackathon2022">Local Hackathon 2022</span>
 
 <small>Oct 2022</small>
-<small>Participated in a local hackathon and did pretty well with my teammates! Due to privacy reasons, I was being incredibly vague.</small>
+<small>Participated in a local hackathon and did pretty well with my teammates!</small>
 
 <hr />
 
@@ -802,59 +821,29 @@ Participated in a ~3 hour long hackathon which consisted of 2 questions. My team
 
 <hr />
 
-## <span id="landingpage">Landing Page Project + App Integration</span>
+## <span id="eaindia">Effective Altruism India</span>
 
 <small>Jul 2022-Oct 2022</small>
-<small>Designed a landing page for a project I've been accepted to. In addition, I helped with app integrations among other things. Note that, due to organizational requirements, I was being incredibly vague.</small>
+<small>Designed a landing page for a EAGxIndia 2023. In addition, I helped with app integrations among other things.</small>
 
-<hr />
-<small>Landing Page Project's start date is the date I started logging, not the date when the project started.</small>
 <hr />
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+Got accepted, did my work, got paid. I do not remember much beyond that nor do I remember my superiors very fondly.
 
 <hr />
 
 ## <span id="kenken">[KENKEN](http://www.kenkenpuzzle.com/)</span>
 
 <small>Jan 2022-Oct 2022</small>
-<small>I was a two-time silver medalist for 2019 and 2020 in my country. Initially tried to get a similar result for 2022, but ended up losing interest. Note that, for the majority of this project, I got four 5x5s and two 6x6s (thought it was previously two 4x4s and four 5x5s).</small>
+<small>I was a two-time silver medalist for 2019 and 2020 in my country. Initially tried to get a similar result for 2022, but ended up losing interest.</small>
 
 <hr />
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
-
-<hr />
-
-## <span id="duolingo">[Duolingo](https://duolingo.com)</span>
-
-<small>Oct 2021-Oct 2022</small>
-<small>I learnt a bit of [Hindi](https://www.duolingo.com/enroll/hi/en/Learn-Hindi) and [French](https://www.duolingo.com/enroll/fr/en/Learn-French) with [Duolingo](https://duolingo.com) and earned a Level 5 Trophy for Hindi.</small>
-
-<hr />
-<small>Duolingo's start date is the date I started logging, not the date when the project started.</small>
-<hr />
-
-#### Summary
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
-
-<hr />
-
-## <span id="localaiprogram">Local AI Program</span>
-
-<small>Sep 2022-Oct 2022</small>
-<small>Attended a local AI program. Due to privacy reasons, I was being incredibly vague.</small>
-
-<hr />
-
-#### Summary
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+I was a somewhat serious KENKEN solver, I reached till national stage. Our school placed a lot of merit on this, I wonder why... ($$$)
 
 <hr />
 
@@ -867,7 +856,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+Used to play chess quite regularly, learnt a couple of openings and defenses. This mostly came out of the chess invasion that took place on YouTube and Twitch. Go figure.
 
 <hr />
 
@@ -895,31 +884,31 @@ Posted the template on [Show HN](https://news.ycombinator.com/item?id=32382716) 
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+First launch of the Society of Logic and Rationality in Students, a high school club aimed to teach logic, rationality and Effective Altruism. It was... moderately succesfully?
 
 <hr />
 
 ## <span id="fastai">[fast.ai](https://fast.ai)</span>
 
 <small>Mar 2022-Jul 2022</small>
-<small>Trying to learn A.I. by leveraging pre-existing knowledge. This project got abandoned, don't think I'll be revisting it as I've acquired ML knowledge elsewhere.</small>
+<small>Tried to learn A.I. by leveraging pre-existing knowledge.</small>
 
 <hr />
 
 ##### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+My first serious attempt at trying to learn artificial intelligence (my first actual attempt was Stanford's Machine Learning course through Coursera, but that was too difficult for me at the time, probably because MATLAB was used). It was somewhat useful, though I honestly cannot remember much from this.
 
 <hr />
 
 ## <span id="sudoku">Sudoku</span>
 
 <small>Apr 2022-Jul 2022</small>
-<small>Not exactly sure why, but I spent some time trying to solve at least one sudoku every Friday & Saturday. The odd notation you see encodes the puzzle, you can parse it [here](https://sudoku-solver.freecodecamp.rocks/) (note that you may need to provide ~2-3 more guesses for it to solve it).</small>
+<small>Not exactly sure why, but I spent some time trying to solve at least one sudoku every Friday & Saturday.</small>
 
 <hr />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+Yeah, this project was completely useless. Which shouldn't be mistaken as a negative thing, just that there wasn't much purpose to me grinding out Sudoku puzzles.
 
 <hr />
 
@@ -949,11 +938,15 @@ Super proud of how this project came out. Started with a simple idea and lead to
 
 #### Summary
 
-I cold-emailed [Hamish](https://www.linkedin.com/in/hamish-h-572b45123/) claiming that I could improve the styling of his website, he took me up on that offer and I worked on the improving the front-end of Effective Altruism Data EA Forum posts ([1](https://forum.effectivealtruism.org/posts/CQaNyJfsRFZhseiLZ/effectivealtruismdata-com-a-website-for-aggregating-and), [2](https://forum.effectivealtruism.org/posts/c5f9bL8f3YenLmqSc/new-data-visualisations-of-the-ea-forum))
+I cold-emailed [Hamish](https://www.linkedin.com/in/hamish-h-572b45123/) claiming that I could improve the styling of his website, he took me up on that offer and I worked on the improving the front-end.
+
+Eventually, I found out (somehow, can't seem to exactly remember) that Legal Priorities Project (now called the Institute of Law & AI) needed help with data visualisations for one of their papers, "Protecting Future Generations", we both helped them out, though Hamish did try to stifle my payment.
+
+The project died out after that, the last thing I remember was emailing him about a flashcard feature I implemented. Any who, here are two EA Forum posts about Effective Altruism Data ([1](https://forum.effectivealtruism.org/posts/CQaNyJfsRFZhseiLZ/effectivealtruismdata-com-a-website-for-aggregating-and), [2](https://forum.effectivealtruism.org/posts/c5f9bL8f3YenLmqSc/new-data-visualisations-of-the-ea-forum))
 
 <hr />
 
-## <span id="bettermailto">[bettermailto](https://bettermailto.com)</span>
+## <span id="bettermailto">[bettermailto](https://bettermailto.vercel.app)</span>
 
 <small>Oct 2021-Apr 2022</small>
 <small>Created an alternative to the [mailto attribute in HTML](https://css-tricks.com/snippets/html/mailto-links/). See the repository [here](https://github.com/bettermailto/bettermailto).</small>
@@ -964,7 +957,7 @@ I cold-emailed [Hamish](https://www.linkedin.com/in/hamish-h-572b45123/) claimin
 
 #### Summary
 
-This and [gal]
+This and [gallpeters](/#gallpeters) are my two proudest web projects thus far. I got the idea to try to make a more customizable mailto attribute seemingly from nowhere, but I sort of rolled with it. Now, I do not think this service full works anymore, but I am still quite proud of the front-end. [Give it a try](https://bettermailto.vercel.app).
 
 <hr />
 
@@ -1169,14 +1162,4 @@ Here's a link to [all my public drum recordings](/drum-recordings).
 
 ## <span id="note">Note</span>
 
-I define a project as anything I am actively building, creating or participating in (preparing for a project doesn't count, the project must be actively ongoing before it gets logged). I don't count my content and schoolwork as projects. One-off tasks (such as updating documentation or fixing a small glitch for a previous project) and hobbies really personal to me (such as meditation, running and [poetry](/poetry)) also don't count.
-
-Any gaps between logs does not mean that I worked on the project in between, any work done for the project will be logged (unless any special circumstance occurs).
-
-I put links to jargon, tools I use, or anything I think would be cool to read more about! But please note that, unless explicitly stated, I was never paid to mention the link.
-
-I may make spelling, grammar or factual mistakes. I'll probably notice them at the end of my day. If I don't, [contact me](https://bettermailto.com/user/620278e0561f820009d840d2).
-
-For privacy reasons, I don't mention others who may have worked with me on these projects (unless I asked them first or their role was public), some projects with their logs may come later and I may also come off a bit vague at times.
-
-There'll be a lot of exceptions in this note (with many more spelling and grammar mistakes), but regardless, I hope you find these logs inspiring!
+I define a project as anything I am actively building, creating or participating in. Things really personal to me and my routine (such as meditation, running and [poetry](/poetry)) don't get summaries. Enjoy!
