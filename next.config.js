@@ -6,18 +6,8 @@ const nextConfig = {
   async redirects() {
     return [
       {
-        source: "/aae-class",
-        destination: "https://forms.gle/NpvofSH5AUCY2mFd6",
-        permanent: false,
-      },
-      {
         source: "/profiles",
         destination: "https://linktr.ee/y_arjun_y",
-        permanent: false,
-      },
-      {
-        source: "/rainbows",
-        destination: "https://youtu.be/sWqDIZxO-nU?t=20",
         permanent: false,
       },
       {
@@ -26,18 +16,8 @@ const nextConfig = {
         permanent: false,
       },
       {
-        source: "/resume",
-        destination: "/resume.pdf",
-        permanent: false,
-      },
-      {
         source: "/subscribe",
         destination: "https://yarjuny.substack.com/subscribe",
-        permanent: false,
-      },
-      {
-        source: "/the-busy-persons-introduction-to-ai-safety",
-        destination: "/blog/the-busy-persons-introduction-to-ai-safety",
         permanent: false,
       },
       {

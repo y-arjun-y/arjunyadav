@@ -84,8 +84,9 @@ meta_image: https://arjunyadav.net/twittercard.png
 
 ### Archive
 
-- <a href="#drums">Drums</a>
+- <a href="#ukulele-and-harmonica">Ukulele and Harmonica</a>
 - <a href="#guitar">Guitar</a>
+- <a href="#drums">Drums</a>
 
 #### Navigation Tips
 
@@ -109,7 +110,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+Looking back, I did not enjoy this project of mine all that much, a feeling which is less to do with the organisers and more to do with my co-founder who I did not get along with at all. Nonetheless, there were pockets of deeply enjoyable moments which I will cherish.
 
 ![Polaroid - Arrayah](/polaroid-arrayah.jpg)
 
@@ -118,11 +119,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 ## <span id="horizonomega">[Horizon Omega (HΩ)](https://www.horizonomega.org/)</span>
 
 <small>Apr 2024-Aug 2024</small>
-<small>Part of the Horizon Omega team!</small>
+<small>I was part of the Horizon Omega team, helping out with hosting our seminars.</small>
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+An enjoyable time overall, worked closely with [Orpheus](https://www.orpheuslummis.info/) on hosting the seminars which all went smoothly, just wish I dedicated more time to this in the past.
 
 <hr />
 
@@ -135,31 +136,31 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+OptX was started by my high school's batch as an effort to provide more volunteering opportunities to the youth (mostly other high school students across the U.A.E.), I was not there during its founding, and truth be told, I only got involved out of a fear of missing out on something big. And big it was.
 
 ![OptX - TS2](/optx-ts2.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+Our first event was called The Symposium, an event that brought together an astrophysics professor and a surgeon with some 30-40 of our batchmates to discuss their respective fields and solve a "crisis" situation.
 
 ![Iftar Distribution 2.0](/optx-iftar-2.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+We got the idea pretty impromptu to hold an Iftar distribution outside a labour camp in Dubai, which became the second of two events to be continued (the other one being The Symposium), in between, some of us volunteered for the UAE Aid distribution campaign for those affected by the Türkiye-Syria earthquake.
 
 ![OptX - SHC Visit](shc.jpeg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+During the summer, some of us decided to pay a visit to an astronomy centre in Dubai. It was also during this summer we tried our hand at organising a reel-making campaign to promote healthy eating (a campaign which received one submission... by me)
 
 ![OptX Astronomy](/optx-astronomy.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+We carried on with our sequels, by this point planning for The Symposium 2.0 was underway, and with a date announced and a venue + another successful Iftar distribution campaign, everything seemed to be swell.
 
 ![OptX Iftar Distribution Event](/optx-polaroid.png/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+Somewhat last minute, however, our venue pulled out for The Symposium 2.0, leaving us scrambling for a replacement. Thankfully, one did come and what occured was our largest event yet in terms of attendance and venue.
 
 ![OptX - Bridges of Giving](/optx-aid.jpeg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+I'm extremely glad OptX happened to me, made some of my closest friends through it and learnt a lot about myself through helping others.
 
 ![OptX - The Symposium 1.0](/optx-sym1.jpg)
 
@@ -201,66 +202,66 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+Helped out AI Plans at a time when they were making a pretty major transition to a new website design, there was some turbulance from me not knowing Vue.js fully, but I got help when I needed and [Kabir](https://www.linkedin.com/in/kabir-kumar-324b02b8/) was very thoughtful and considering of my inputs and contributions.
 
 <hr />
 
 ## <span id="aisfg">[AI Safety Fundamentals: Governance Course](https://aisafetyfundamentals.com/)</span>
 
 <small>Mar 2023-Jul 2024</small>
-<small>I was a fellow for AISF Governance 2024! I finished my project a bit later on however due to other commitments.</small>
+<small>I was a fellow for the AI Safety Fundamentals Governance course. I finished my project a bit later on however due to other commitments.</small>
 
 <hr />
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+Similar to [the alignment course](/#aisfa), was extremely well facilitated (by someone who I, coincidentally, knew beforehand from [EA UAE](/eauae)!) and the cohort I was in was super lovely. Learnt a lot.
 
 <hr />
 
 ## <span id="aisfa">[AI Safety Fundamentals: Alignment Course](https://aisafetyfundamentals.com/)</span>
 
 <small>Feb 2023-Jul 2024</small>
-<small>I was a fellow for AISF Alignment 2024! I finished my project a bit later on however due to other commitments.</small>
+<small>I was a fellow for AI Safety Fundamentals Alignment course. I finished my project a bit later on however due to other commitments.</small>
 
 <hr />
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+After many failed applications and mock attempts at completing the syllabus myself, I finally got accepted to the course, and coincidentally, my facilitator was someone who I was working with for [VAISU 2024](/#aisc2024). A wonderful time of learning.
 
 <hr />
 
 ## <span id="zerodha">[Zerodha Varsity](https://zerodha.com/varsity)</span>
 
 <small>Apr 2024-Jun 2024</small>
-<small>Finished the Zerodha Varsity course till the third module (as I did not find much value beyond then).</small>
+<small>Finished the Zerodha Varsity course till the third module.</small>
 
 <hr />
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+Finished this course till the third module (mostly because the other modules didn't seem to provide much value) with friends, hope to actually apply what I've learnt when I enter university. Still, was interesting especially when connecting it with my knowledge in economics.
 
 <hr />
 
 ## <span id="dioptra">Dioptra</span>
 
 <small>Dec 2023-Jun 2024</small>
-<small>Part of the Dioptra team, working on projects with them and trying to learn a lot in the process! Currently paused</small>
+<small>I was of the Dioptra team, where I worked on GameBench, a project which led to my first project.</small>
 
 <hr />
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+This was a really stressful and difficult project to get through, mostly because of the fact that during crunch time (trying to get all the games ready for the testing to actually occur between the large language models), I had my final high school exams. Everything turned out fine in the end thankfully, and I got my [first paper published into arXiv and NeurIPS](https://gamebench-website.vercel.app).
 
 <hr />
 
 ## <span id="aisc2024">[AI Safety Camp: VAISU](https://aisafety.camp)</span>
 
 <small>Dec 2023-Jun 2024</small>
-<small>Inductee for AISC 2024! Part of Project #29: VAISU.</small>
+<small>I was an inductee for AISC 2024, where I was part of Project #29: VAISU.</small>
 
 <hr />
 
@@ -294,7 +295,7 @@ This internship was a lot (turns out, it's pretty hard to go back to waking up a
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+This project was pretty random, I do remember filling out a Google Form and getting accepted to be a blog writer and editor, and occasionally a Google Docs link would come my way which I would edit (I never did end up writing a blog post, only editing duties). But that's about, the organisation (and hence the project) just sort of fizzled out. 
 
 <hr />
 
@@ -307,7 +308,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 
 #### Summary
 
-First (and probably last) time chairing was a decent success (even though I had skipped the first day, oh well - it was well worth it).
+First (and probably last) time chairing was a decent success (even though I had skipped the first day, oh well, I was not going to skip beach day with my classmates).
 
 ![GMAMUN Jr.](/gmamunjr.jpg)
 
@@ -322,7 +323,6 @@ First (and probably last) time chairing was a decent success (even though I had 
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
 
 ![Graduation 2024](/graduation-2024.png)
 
@@ -932,7 +932,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+Super proud of how this project came out. Started with a simple idea and lead to a simple but well executed web app. Check it out [here](https://gallpeters.vercel.app).
 
 ![gallpeters](/gallpeters.png)
 
@@ -941,7 +941,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 ## <span id="eadata">[Effective Altruism Data](https://effectivealtruismdata.com)</span>
 
 <small>Oct 2021-Apr 2022</small>
-<small>I was a programmer for EA Data (official website [here](https://effectivealtruismdata.com), up-to-date one [here](https://effectivealtruismdata.herokuapp.com) which may require some refreshing to work). See the [repository](https://github.com/hamishhuggard/ea_data_viz) and [my fork](https://github.com/y-arjun-y/ea_data_viz) for commits mentioned. The two EA Forum posts ([1](https://forum.effectivealtruism.org/posts/CQaNyJfsRFZhseiLZ/effectivealtruismdata-com-a-website-for-aggregating-and), [2](https://forum.effectivealtruism.org/posts/c5f9bL8f3YenLmqSc/new-data-visualisations-of-the-ea-forum)) may also prove informative.</small>
+<small>I was a programmer for EA Data (unfortunately, the website is no longer up). See the [repository](https://github.com/hamishhuggard/ea_data_viz) and [my fork](https://github.com/y-arjun-y/ea_data_viz).</small>
 
 <hr />
 <small>Effective Altruism Data's start date is the date I started logging, not the date when the project started.</small>
@@ -949,7 +949,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+I cold-emailed [Hamish](https://www.linkedin.com/in/hamish-h-572b45123/) claiming that I could improve the styling of his website, he took me up on that offer and I worked on the improving the front-end of Effective Altruism Data EA Forum posts ([1](https://forum.effectivealtruism.org/posts/CQaNyJfsRFZhseiLZ/effectivealtruismdata-com-a-website-for-aggregating-and), [2](https://forum.effectivealtruism.org/posts/c5f9bL8f3YenLmqSc/new-data-visualisations-of-the-ea-forum))
 
 <hr />
 
@@ -964,20 +964,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+This and [gal]
 
 <hr />
 
 ## <span id="eagxoxford2022">[EAGxOxford 2022](https://www.eaglobal.org/events/eagxoxford-2022/)</span>
 
-<small>26 2022-27 2022</small>
+<small>Mar 2022</small>
 <small>Attended EAGxOxford 2022.</small>
 
 <hr />
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+Looking back, this was a pretty monumental moment in my life. I never knew that my efforts on trying different things could lead me to attending a conference in another continent. A part of me wishes I was a bit older when I attended this conference, but at the same time, I cannot think of a more perfect moment to have been there (my brother just finished his first year of university, and as mentioned in my [EA Facilitator](/#eafacilitator) project, one of my fellows was in attendance as well).
 
 ![EAGxOxford](/eagxoxford.jpg)
 
@@ -992,11 +992,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+I facilitated the EA In-Depth Fellowship after completing it myself, was a super enjoyable time! My first time trying to teach competently, and I eventually met one of my fellows at [EAGxOxford 2022](/eagxoxford2022).
 
+![EAG]
 <hr />
 
-## <span id="millerrabin">[Miller-Rabin Research](https://drive.google.com/file/d/10amLeqLfCtTacSXVoJMn97ktD5njTa39/view?usp=sharing)</span>
+## <span id="millerrabin">[Miller-Rabin Research](https://github.com/y-arjun-y/liars-miller-rabin)</span>
 
 <small>Nov 2021-Jan 2022</small>
 <small>Did some research in to the liars in [the Miller-Rabin Primality Test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test), inspired by [Numberphile](https://www.youtube.com/watch?v=_MscGSN5J6o).</small>
@@ -1005,7 +1006,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+This was an interesting project, I was watching Numberphile and I saw this [video](https://www.youtube.com/watch?v=_MscGSN5J6o), and Matt Parker pointed out an open research problem involving liars in the Miller-Rabin Primality test. And so, [I worked on it](https://github.com/y-arjun-y/liars-miller-rabin).
+
+I created a [paper](/miller-rabin.pdf) and tried to get it published on arXiv, which didn't succeed (mostly because the paper isn't very high quality). I emailed Matt Parker my research efforts, here's hoping tomorrow I get a reply!
 
 <hr />
 
@@ -1018,7 +1021,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus sceleris
 
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+Worked on the website for my brother. That's it.
 
 <hr />
 
@@ -1060,7 +1063,7 @@ This is a retroactive recollection of all the projects I undertook in my life be
 
 ## <span id="webdevmisc">[Classless CSS](https://github.com/y-arjun-y/classless-css) + [Bear Blog Replacement](https://github.com/y-arjun-y/bear-blog-replacement-template)</span>
 
-<small>Sep 2021-Au 2022</small>
+<small>Sep 2021-Aug 2022</small>
 
 <hr />
 
@@ -1118,7 +1121,7 @@ Was quite a fun tournament! I watched CaryKH's BFDI series when I was quite youn
 
 #### Summary
 
-An interesting first foray into the world of extracurriculars for little Arjun, I distinctly remember running from the car after an outing to attend my microeconomics class. The neurodegenerative disease course was also interesting. I hope all my instructors are doing well now!
+An interesting first foray into the world of extracurriculars, I distinctly remember running from the car after an outing to attend my microeconomics class. The neurodegenerative disease course was also interesting. I hope all my instructors are doing well now!
 
 <hr />
 
@@ -1128,33 +1131,39 @@ These are for projects that, while I may still continue in some capacity, I do n
 
 <hr />
 
-## <span id="drums">Drums</span>
+## <span id="ukulele-and-harmonica">Ukulele and Harmonica</span>
 
-<small>Aug 2022-present</small>
-<small>Trying to get better every day and have some fun as well!</small>
+<small>Trying to get better every day, I practice both in the morning.</small>
 
 <hr />
-<small>Drums' start date is the date I started logging, not the date when the project started.</small>
-<hr />
 
-#### Summary
+#### Archive
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+Here's a link to [all my public ukulele and harmonica recordings](/ukulele-and-harmonica-recordings).
 
 <hr />
 
 ## <span id="guitar">Guitar</span>
 
-<small>Oct 2021-present</small>
-<small>Trying to learn acoustic guitar via [justinguitar.com](https://justinguitar.com).</small>
+<small>Trying to learn classical guitar via learning chords and scales as well as various songs.</small>
 
 <hr />
-<small>Guitar's start date is the date I started logging, not the date when the project started.</small>
+
+#### Archive
+
+Here's a link to [all my public guitar recordings](/guitar-recordings).
+
 <hr />
 
-#### Summary
+## <span id="drums">Drums</span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus scelerisque orci at elementum. Sed in urna turpis. Sed consequat urna a felis sagittis fermentum. Sed a luctus metus. Etiam eleifend mollis augue eget tincidunt. Sed luctus, nisi quis vestibulum suscipit, mi mi vulputate mi, at tempor nibh lectus maximus diam. Nulla rhoncus massa sit amet enim vulputate, quis cursus nulla auctor. Vivamus consequat eros at odio faucibus, eu aliquet leo tristique. Integer vel rhoncus massa, eget congue turpis. Nullam euismod nisl sapien, sed tristique nibh tempor a. Mauris dapibus placerat felis, non rhoncus velit tempor consequat. Curabitur mollis ut libero nec dapibus. Maecenas rutrum lectus ac velit facilisis iaculis. Mauris sed dolor vitae nisi pharetra commodo.
+<small>Trying to get better as well as record covers when I creativity striked.</small>
+
+<hr />
+
+#### Archive
+
+Here's a link to [all my public drum recordings](/drum-recordings).
 
 <hr />
 
