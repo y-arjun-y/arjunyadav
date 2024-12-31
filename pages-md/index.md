@@ -61,5 +61,5 @@ This map showcases countries that have contributed to the overall web traffic fo
 
 Data from [CloudFlare](https://cloudflare.com), map created with [gallpeters](https://gallpeters.vercel.app).
 
-<img src="/map-new.svg" />
+<img src="/map-dec-2024.svg" />
 </details>
