@@ -1150,7 +1150,7 @@ Here's a link to [all my public guitar recordings](/guitar-recordings).
 
 ## <span id="drums">Drums</span>
 
-<small>Trying to get better as well as record covers when creativity striked.</small>
+<small>Trying to get better as well as record covers when creativity striked</small>
 
 <hr />
 
