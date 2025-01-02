@@ -987,7 +987,8 @@ Looking back, this was a pretty monumental moment in my life. I never knew that 
 
 I facilitated the EA In-Depth Fellowship after completing it myself, was a super enjoyable time! My first time trying to teach competently, and I eventually met one of my fellows at [EAGxOxford 2022](/eagxoxford2022).
 
-![EAG]
+![EA Facilitation](/ea-facilitation.jpg)
+
 <hr />
 
 ## <span id="millerrabin">[Miller-Rabin Research](https://github.com/y-arjun-y/liars-miller-rabin)</span>
@@ -1150,7 +1151,7 @@ Here's a link to [all my public guitar recordings](/guitar-recordings).
 
 ## <span id="drums">Drums</span>
 
-<small>Trying to get better as well as record covers when creativity striked</small>
+<small>Trying to get better as well as record covers when creativity striked.</small>
 
 <hr />
 
