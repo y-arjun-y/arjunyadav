@@ -21,21 +21,6 @@ const nextConfig = {
         permanent: false,
       },
       {
-        source: "/ukulele-and-harmonica-recordings",
-        destination: "",
-        permanent: false,
-      },
-      {
-        source: "/guitar-recordings",
-        destination: "",
-        permanent: false,
-      },
-      {
-        source: "/drum-recordings",
-        destination: "",
-        permanent: false,
-      },
-      {
         source: "/time-and-memory",
         destination: "https://youtu.be/PJiVvpH6-E0?si=x-JWFe5WZjZAg6Vs&t=10",
         permanent: false,
