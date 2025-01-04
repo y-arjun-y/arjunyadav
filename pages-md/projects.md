@@ -517,7 +517,7 @@ One last time teaching Effective Altruism to my high school, an interesting ride
 
 Fun course.
 
-![Backpropagation](/backpropagation.png)
+![Backpropagation](/Backpropagation.png)
 
 <hr />
 
@@ -943,7 +943,7 @@ Super proud of how this project came out. Started with a simple idea and lead to
 
 I cold-emailed [Hamish](https://www.linkedin.com/in/hamish-h-572b45123/) claiming that I could improve the styling of his website, he took me up on that offer and I worked on the improving the front-end.
 
-Eventually, I found out (somehow, can't seem to exactly remember) that Legal Priorities Project (now called the Institute of Law & AI) needed help with data visualisations for one of their papers, "Protecting Future Generations", we both helped them out, though Hamish did try to stifle my payment.
+Eventually, I found out (somehow, can't seem to exactly remember) that Legal Priorities Project (now called the Institute of Law & AI) needed help with data visualisations for one of their papers, "Protecting Future Generations", we both helped them out.
 
 The project died out after that, the last thing I remember was emailing him about a flashcard feature I implemented. Any who, here are two EA Forum posts about Effective Altruism Data ([1](https://forum.effectivealtruism.org/posts/CQaNyJfsRFZhseiLZ/effectivealtruismdata-com-a-website-for-aggregating-and), [2](https://forum.effectivealtruism.org/posts/c5f9bL8f3YenLmqSc/new-data-visualisations-of-the-ea-forum))
 
