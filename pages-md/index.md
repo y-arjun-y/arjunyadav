@@ -23,14 +23,15 @@ Feel free to email me at arjun (at) arjunyadav (dot) net or schedule out time to
 
 Here is a non-exhaustive list of projects I've worked on in my life that I'm most proud of (in reverse-chronological order):
 
-- Teaching an [Introduction to Programming course](/projects#unics) at university
-- Teaching AI Safety as part of [EA Manchester](/projects#eamanchester)
-- Completing both [AI Safety Fundamentals courses by BlueDot Impact](https://aisafetyfundamentals.com/)
+- Taught an Introduction to Programming course at university.
+- Taught AI Safety as part of [EA Manchester](/projects#eamanchester).
+- Completing both [AI Safety Fundamentals courses by BlueDot Impact](https://aisafetyfundamentals.com/).
 - Being accepted to and attending [AI Safety Camp 2024](/projects#aisc2024) and hosting [VAISU 2024](https://vaisu.ai/). 
 - Writing my first published research paper under [Dioptra](/projects#dioptra) and [teaching machine learning while in high school](/projects#aaeclass).
+- Helped to run a [youth-based volunteering organisation](/projects#optx).
 - Drumming for [one of my high school's bands](/projects#gratis2023).
 - Moderated a [mental health conclave](/projects#projectunboxed). 
-- Co-organised my school's [TEDxYouth conference](/projects#tedx2023)
+- Co-organised my school's [TEDxYouth conference](/projects#tedx2023).
 - Brief stint as a [research assistant at the American University of Sharjah](/projects#ausresearch) working on computer vision with data from the World Wildlife Fund.
 - Helped to run [OptX](/projects#optx), a volunteering organisation.
 - Attended the [AUS Winter Computing Camp](/projects#computingcamp2022) in winter of 2022.
