@@ -9,6 +9,7 @@ meta_image: https://arjunyadav.net/twittercard.png
 ### Completed
 
 #### 2024
+
 - <a href="effallhack">EF Fall Hackathon</a>
 - <a href="#arrayah">Arrayah</a>
 - <a href="#horizonomega">Horizon Omega (HΩ)</a>
@@ -26,6 +27,7 @@ meta_image: https://arjunyadav.net/twittercard.png
 - <a href="#studentcouncil12">Student Council - 12th + Head of Events</a>
 
 #### 2023
+
 - <a href="#ausresearch">AUS CSE Research Assistant</a>
 - <a href="#aoc2023">Advent of Code 2023</a>
 - <a href="#gratis2023">Gratis 2023</a>
@@ -53,6 +55,7 @@ meta_image: https://arjunyadav.net/twittercard.png
 - <a href="#coldtakesbetareading">Cold Takes Beta Reading</a>
 
 #### 2022 and 2021
+
 - <a href="#y1d2">y1d2</a>
 - <a href="#introml">Introduction to Machine Learning</a>
 - <a href="#computingcamp2022">Winter Computing Camp</a>
@@ -103,7 +106,7 @@ Confused? See the <a href="#note">note</a> down below.
 
 ## <span id="effallhack">[EF](https://www.joinef.com/) Fall Hackathon</span>
 
-<small>Nov 2024</small>
+<small>Nov 2024</small>  
 <small>I was accepted to EF's Fall Hackathon this year.</small>
 
 <hr />
@@ -119,7 +122,7 @@ An extremely fun hackathon, my first time being in London proper after almost a 
 
 ## <span id="arrayah">[Arrayah](https://arrayah.io)</span>
 
-<small>Aug 2024</small>
+<small>Aug 2024</small>  
 <small>I was a deep tech intern at a hacker space in Dubai backed by The Residency. This covers both O.S.S. and Feed Forward as well.</small>
 
 <hr />
@@ -134,7 +137,7 @@ Looking back, I did not enjoy this project of mine all that much, a feeling whic
 
 ## <span id="horizonomega">[Horizon Omega (HΩ)](https://www.horizonomega.org/)</span>
 
-<small>Apr 2024-Aug 2024</small>
+<small>Apr 2024-Aug 2024</small>  
 <small>I was part of the Horizon Omega team, helping out with hosting our seminars.</small>
 
 #### Summary
@@ -145,7 +148,7 @@ An enjoyable time overall, worked closely with [Orpheus](https://www.orpheuslumm
 
 ## <span id="optx">[OptX](https://www.instagram.com/optx.uae/)</span>
 
-<small>Jan 2023-Aug 2024</small>
+<small>Jan 2023-Aug 2024</small>  
 <small>Became part of OptX, my school's student-led initiative to provide opportunities to the youth. Trying to the best job I can.</small>
 
 <hr />
@@ -181,7 +184,7 @@ I'm extremely glad OptX happened to me, made some of my closest friends through 
 
 ## <span id="eauae">[Effective Altruism UAE](https://www.instagram.com/effectivealtruism.uae/)</span>
 
-<small>Dec 2022-Aug 2024</small>
+<small>Dec 2022-Aug 2024</small>  
 <small>A cold email led to me and another person co-founding EA UAE. Tried to make it as successful as possible.</small>
 
 <hr />
@@ -205,7 +208,7 @@ But alas, all good things come to a halt eventually. After Riya left to Ireland,
 
 ## <span id="ai-plans">[AI Plans](https://ai-plans.com)</span>
 
-<small>Dec 2023-Jul 2024</small>
+<small>Dec 2023-Jul 2024</small>  
 <small>I was formerly an active member of the AI Plans dev team.</small>
 
 <hr />
@@ -220,7 +223,7 @@ Helped out AI Plans at a time when they were making a pretty major transition to
 
 ## <span id="aisfg">[AI Safety Fundamentals: Governance Course](https://aisafetyfundamentals.com/)</span>
 
-<small>Mar 2023-Jul 2024</small>
+<small>Mar 2023-Jul 2024</small>  
 <small>I was a fellow for the AI Safety Fundamentals Governance course. I finished my project a bit later on however due to other commitments.</small>
 
 <hr />
@@ -233,7 +236,7 @@ Similar to [the alignment course](/#aisfa), was extremely well facilitated (by s
 
 ## <span id="aisfa">[AI Safety Fundamentals: Alignment Course](https://aisafetyfundamentals.com/)</span>
 
-<small>Feb 2023-Jul 2024</small>
+<small>Feb 2023-Jul 2024</small>  
 <small>I was a fellow for AI Safety Fundamentals Alignment course. I finished my project a bit later on however due to other commitments.</small>
 
 <hr />
@@ -246,7 +249,7 @@ After many failed applications and mock attempts at completing the syllabus myse
 
 ## <span id="zerodha">[Zerodha Varsity](https://zerodha.com/varsity)</span>
 
-<small>Apr 2024-Jun 2024</small>
+<small>Apr 2024-Jun 2024</small>  
 <small>Finished the Zerodha Varsity course till the third module.</small>
 
 <hr />
@@ -259,7 +262,7 @@ Finished this course till the third module (mostly because the other modules did
 
 ## <span id="dioptra">Dioptra</span>
 
-<small>Dec 2023-Jun 2024</small>
+<small>Dec 2023-Jun 2024</small>  
 <small>I was of the Dioptra team, where I worked on GameBench, a project which led to my first project.</small>
 
 <hr />
@@ -272,7 +275,7 @@ This was a really stressful and difficult project to get through, mostly because
 
 ## <span id="aisc2024">[AI Safety Camp: VAISU](https://aisafety.camp)</span>
 
-<small>Dec 2023-Jun 2024</small>
+<small>Dec 2023-Jun 2024</small>  
 <small>I was an inductee for AISC 2024, where I was part of Project #29: VAISU.</small>
 
 <hr />
@@ -287,7 +290,7 @@ While not everything went smoothly, this event represents the culmination of cou
 
 ## <span id="dpsinternship">Internship @ DPS Sharjah</span>
 
-<small>May 2024</small>
+<small>May 2024</small>  
 <small>Interning at my high school for a brief stint.</small>
 
 #### Summary
@@ -300,7 +303,7 @@ This internship was a lot (turns out, it's pretty hard to go back to waking up a
 
 ## <span id="oceanbusters">Ocean Busters</span>
 
-<small>Jul 2023-May 2024</small>
+<small>Jul 2023-May 2024</small>  
 <small>I was formerly a blog writer and editor at Ocean Busters, a new organisation dedicated to effectively tackling ocean pollution.</small>
 
 <hr />
@@ -313,7 +316,7 @@ This project was pretty random, I do remember filling out a Google Form and gett
 
 ## <span id="gmamunjr">GMAMUN Jr.'24</span>
 
-<small>Apr 2023</small>
+<small>Apr 2023</small>  
 <small>Was head chair of the United Nations Office on Outer Space Affairs!</small>
 
 <hr />
@@ -328,7 +331,7 @@ First (and probably last) time chairing was a decent success (even though I had 
 
 ## <span id="studentcouncil12">Student Council - 12th + Head of Events</span>
 
-<small>Mar 2023-Jan 2024</small>
+<small>Mar 2023-Jan 2024</small>  
 <small>Became the vice head boy of my school. Tried to the best job I can. Also, I was the Head of Events for my school's environment club.</small>
 
 <hr />
@@ -353,7 +356,7 @@ One advice I wish I was more aware about when I was younger was that my time is 
 
 ## <span id="ausresearch">AUS CSE Research Assistant</span>
 
-<small>Jun 2023-Dec 2023</small>
+<small>Jun 2023-Dec 2023</small>  
 <small>Formerly a research assistant for the computer science and engineering department at the American University of Sharjah. Will continue after my examinations this last month of the year.</small>
 
 <hr />
@@ -370,7 +373,7 @@ I was a research assistant at the American University of Sharjah, I got it after
 
 ## <span id="aoc2023">[Advent of Code](https://adventofcode.com/) 2023</span>
 
-<small>Dec 2023-Dec 2023</small>
+<small>Dec 2023-Dec 2023</small>  
 <small>Tried to solve all the coding problems for 2023's Advent of Code!</small>
 
 <hr />
@@ -383,7 +386,7 @@ Got about 25 stars. Advent of Code is only as fun as the group you're completing
 
 ## <span id="gratis2023">Gratis 2023</span>
 
-<small>Dec 2023-Dec 2023</small>
+<small>Dec 2023-Dec 2023</small>  
 <small>Was the drummer for Band 2 - and played the drums for two songs for our annual Gratis event</small>
 
 <hr />
@@ -398,7 +401,7 @@ Greatest gig in the sky.
 
 ## <span id="dxbmun2023">DXBMUN 2023</span>
 
-<small>Dec 2023-Dec 2023</small>
+<small>Dec 2023-Dec 2023</small>  
 <small>Was the delegate of Nigeria for the United Nations Office on Drugs and Crime, won outstanding delegate!</small>
 
 <hr />
@@ -413,7 +416,7 @@ May not have been the best MUN I've attended, but god damn was it fun at times -
 
 ## <span id="nmsmun2023">NMSMUN 2023</span>
 
-<small>Oct 2023-Oct 2023</small>
+<small>Oct 2023-Oct 2023</small>  
 <small>Was the delegate of France for the Special Committee on Peacekeeping Operations, won best delegate and best delegation!</small>
 
 <hr />
@@ -428,7 +431,7 @@ What an eventful MUN: from the delegate of Russia tearing up my placard to the v
 
 ## <span id="projectunboxed">Project: Unboxed</span>
 
-<small>Oct 2023-Oct 2023</small>
+<small>Oct 2023-Oct 2023</small>  
 <small>Student moderator for the metaverse committee!</small>
 
 <hr />
@@ -443,7 +446,7 @@ A really enjoyable experience overall: my sir present during the committee was r
 
 ## <span id="tedx2023">[TEDxYouth@DPSS 2023](https://www.ted.com/tedx/events/54736)</span>
 
-<small>Jul 2023-Sep 2023</small>
+<small>Jul 2023-Sep 2023</small>  
 <small>Formerly the co-event organiser for my school's second edition TEDxYouth!</small>
 
 <hr />
@@ -460,7 +463,7 @@ This event took a lot out of me, mostly because of the amount of stress I put on
 
 ## <span id="aaeclass">Arjun's AI Escapades Class</span>
 
-<small>Aug 2023-Aug 2023</small>
+<small>Aug 2023-Aug 2023</small>  
 <small>Hosting a series of machine learning and AI safety classes this summer!</small>
 
 <hr />
@@ -477,7 +480,7 @@ This was a fun one, I missed the feeling of teaching, and I was getting really i
 
 ## <span id="rtahackathon">RTA Hackathon</span>
 
-<small>Aug 2023-Aug 2023</small>
+<small>Aug 2023-Aug 2023</small>  
 <small>Participated in RTA's sustainability ~hackathon!</small>
 
 <hr />
@@ -492,7 +495,7 @@ A lot of work happened before the start date given here: including finalizing ou
 
 ## <span id="solaris-3">SOLARIS (Third Edition)</span>
 
-<small>Jul 2023-Aug 2023</small>
+<small>Jul 2023-Aug 2023</small>  
 <small>One last rodeo this summer! Excited to be teaching our ten incredible students.</small>
 
 <hr />
@@ -505,7 +508,7 @@ One last time teaching Effective Altruism to my high school, an interesting ride
 
 ## <span id="mathforml">Mathematics for Machine Learning</span>
 
-<small>Jul 2022-Aug 2023</small>
+<small>Jul 2022-Aug 2023</small>  
 <small>Learnt the <a href="https://www.coursera.org/learn/linear-algebra-machine-learning">linear algebra</a>, <a href="https://www.coursera.org/learn/multivariate-calculus-machine-learning">multivariate calculus</a> and <a href="https://www.coursera.org/learn/pca-machine-learning/">principal component analysis</a> behind machine learning.</small>
 
 <hr />
@@ -520,7 +523,7 @@ Fun course.
 
 ## <span id="ktyouth">YCM Youth Meet-up</span>
 
-<small>Aug 2023</small>
+<small>Aug 2023</small>  
 <small>Attended Youth Creative Minds' Youth meet-up!</small>
 
 <hr />
@@ -535,7 +538,7 @@ Had a great time at Khaleej Times x YCM's youth meet-up, got a chance to speak a
 
 ## <span id="mlsafetycourse">Machine Learning Safety Course</span>
 
-<small>Jun 2023</small>
+<small>Jun 2023</small>  
 <small>~Finished the ML Safety course (Intro to ML Safety) in one day and made a guide/blog post on it.</small>
 
 <hr />
@@ -548,7 +551,7 @@ This was quite an experience - finished going through the ML Safety Course by th
 
 ## <span id="solaris-2">SOLARIS (Second Edition)</span>
 
-<small>Dec 2022-Jul 2023</small>
+<small>Dec 2022-Jul 2023</small>  
 <small>Tried to co-run the second edition of a logic, rationality and Effective Altruism club that I co-founded.</small>
 
 <hr />
@@ -561,7 +564,7 @@ Second time teaching Effective Altruism to my high school, got some really inter
 
 ## <span id="gfsmun2023">GFSMUN III</span>
 
-<small>Jun 2023-Jun 2023</small>
+<small>Jun 2023-Jun 2023</small>  
 <small>Attended GFSMUN 2023 as part of my school team, and won best speaker!</small>
 
 <hr />
@@ -576,7 +579,7 @@ From ditching a portion of the first day (and missing my chance for a GSL) for p
 
 ## <span id="localhackathon2023">Local Hackathon 2023</span>
 
-<small>Jun 2023-Jun 2023</small>
+<small>Jun 2023-Jun 2023</small>  
 <small>From participant to organiser this time around! The start date for this project represents when the auditions were conducted.</small>
 
 <hr />
@@ -591,7 +594,7 @@ From the okay-ish auditions (which were mostly my doing) came a really fun hacka
 
 ## <span id="ygss2023">YGSS 2023</span>
 
-<small>May 2023-May 2023</small>
+<small>May 2023-May 2023</small>  
 <small>I was a resource head for the Earth and Climate Change Council and a member of the IT team. Won best counci.l</small>
 
 <hr />
@@ -608,7 +611,7 @@ With that being said, what an incredible event, so glad to have been (somewhat) 
 
 ## <span id="freecodecamp">[freeCodeCamp](https://freecodecamp.org)</span>
 
-<small>Oct 2021-Mar 2023</small>
+<small>Oct 2021-Mar 2023</small>  
 <small>Trying to finish freeCodeCamp.org's curriculum by the end of 2023.</small>
 
 <hr />
@@ -631,7 +634,7 @@ Here are all the certifications I've earned from freeCodeCamp (would recommend t
 
 ## <span id="nationalmathscompetition">National Maths Competition</span>
 
-<small>Mar 2023</small>
+<small>Mar 2023</small>  
 <small>Attended a national maths competition with my schoolmate.</small>
 
 <hr />
@@ -644,7 +647,7 @@ Attended the first (and last) day of a national maths competition with my school
 
 ## <span id="studentcouncil11">Student Council - 11th</span>
 
-<small>Oct 2022-Feb 2023</small>
+<small>Oct 2022-Feb 2023</small>  
 <small>I was the Coordinator - Environment for my school.</small>
 
 <hr />
@@ -661,7 +664,7 @@ The student council in your junior year should (hopefully!) just be a taste of w
 
 ## <span id="admun2023">ADMUN 2023</span>
 
-<small>Feb 2023-Feb 2023</small>
+<small>Feb 2023-Feb 2023</small>  
 <small>Attended ADMUN 2.3 as part of my school team.</small>
 
 <hr />
@@ -676,7 +679,7 @@ My second in-person MUN, and the first time meeting some really close friends in
 
 ## <span id="brilliant">[Brilliant](https://brilliant.org)</span>
 
-<small>Apr 2022-Jan 2023</small>
+<small>Apr 2022-Jan 2023</small>  
 <small>Tried to learn more about computer science (mainly), mathematics and science with Brilliant + tried to complete the [daily challenges](https://brilliant.org/daily-problems/).</small>
 
 <hr />
@@ -689,7 +692,7 @@ This was... a bit of an unnecessary project. I was curious about learning more a
 
 ## <span id="middleschoolcsevent">Middle School CS Event</span>
 
-<small>Jan 2023-Jan 2023</small>
+<small>Jan 2023-Jan 2023</small>  
 <small>I was part of the organising team for a middle school computer science event. Tried my best to make this as successful as possible.</small>
 
 <hr />
@@ -702,7 +705,7 @@ This was a fun project to work on, pretty low-stakes, just had to teach a bunch 
 
 ## <span id="adventofcodepytech">Advent of Code (PyTech)</span>
 
-<small>Dec 2022-Jan 2023</small>
+<small>Dec 2022-Jan 2023</small>  
 <small>Trying to Currently running an advent of code for my school's Python club. Due to privacy reasons, I'm being incredibly vague.</small>
 
 <hr />
@@ -715,7 +718,7 @@ As part of PyTech, my high school's Python club that I took over from my seniors
 
 ## <span id="coldtakesbetareading">[Cold Takes](https://www.cold-takes.com/) Beta Reading</span>
 
-<small>Jan 2022-Jan 2023</small>
+<small>Jan 2022-Jan 2023</small>  
 <small>I proof-read a couple of Holden Karnofsky's articles for his blog, Cold Takes.</small>
 
 <hr />
@@ -727,7 +730,7 @@ One of the first few projects that made me think I "made it" (whatever that mean
 
 ## <span id="y1d2">[y1d2](https://y1d2.com)</span>
 
-<small>Dec 2022-Dec 2022</small>
+<small>Dec 2022-Dec 2022</small>  
 <small>Created my brother's <strike>current</strike> (?) website in the span of ~2 days.</small>
 
 #### Summary
@@ -737,7 +740,7 @@ Created
 
 ## <span id="introml">[Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning-duke/)</span>
 
-<small>Jul 2022-Dec 2022</small>
+<small>Jul 2022-Dec 2022</small>  
 <small>Trying to learn the fundamental concepts of machine learning.</small>
 
 <hr />
@@ -750,7 +753,7 @@ Great course, much more balanced than Stanford's course.
 
 ## <span id="computingcamp2022">Winter Computing Camp</span>
 
-<small>Dec 2022-Dec 2022</small>
+<small>Dec 2022-Dec 2022</small>  
 <small>Attended a winter computing camp.</small>
 
 <hr />
@@ -765,7 +768,7 @@ This was a blast, led to my first exposure to computer science research later on
 
 ## <span id="emiratehackathon2022">Emirate-level Hackathon</span>
 
-<small>Nov 2022</small>
+<small>Nov 2022</small>  
 <small>Led my senior team to a win in a "state" hackathon!</small>
 
 <hr />
@@ -780,7 +783,7 @@ Happy to report that we've won the senior category of a "state" hackathon! Hope 
 
 ## <span id="gfsmun2022">GFSMUN II</span>
 
-<small>Nov 2022-Nov 2022</small>
+<small>Nov 2022-Nov 2022</small>  
 <small>Attended GFSMUN 2022 as part of my school team.</small>
 
 <hr />
@@ -793,7 +796,7 @@ First time I won an award at an in-person MUN. It was a fun time overall (especi
 
 ## <span id="cubing">[Cubing](https://www.worldcubeassociation.org/persons/2019YADA06)</span>
 
-<small>Oct 2021-Oct 2022</small>
+<small>Oct 2021-Oct 2022</small>  
 <small>Tried my best to get better every day at the four events I practiced, which are [3x3](https://ruwix.com/the-rubiks-cube/), [2x2](https://ruwix.com/twisty-puzzles/2x2x2-rubiks-cube-pocket/), [3x3 OH](https://ruwix.com/the-rubiks-cube/one-handed/) and [Skewb](https://ruwix.com/twisty-puzzles/skewb-pyraminx-mod-skewb-diamond/), all [AO5](https://ruwix.com/the-rubiks-cube/cubing-terminology-abbreviations-commonly-used-expressions/)'s were presented in that order and I usually wrote about any [PB](https://ruwix.com/the-rubiks-cube/cubing-terminology-abbreviations-commonly-used-expressions/) I get. In addition to regular-ish practice, I attended [a local WCA competition](https://www.worldcubeassociation.org/competitions/DubaiSummerOpen2022).</small>
 
 <hr />
@@ -808,7 +811,7 @@ Cubing was one of the first hobbies I picked up when I was a kid, I still rememb
 
 ## <span id="localhackathon2022">Local Hackathon 2022</span>
 
-<small>Oct 2022</small>
+<small>Oct 2022</small>  
 <small>Participated in a local hackathon and did pretty well with my teammates!</small>
 
 <hr />
@@ -823,7 +826,7 @@ Participated in a ~3 hour long hackathon which consisted of 2 questions. My team
 
 ## <span id="eaindia">Effective Altruism India</span>
 
-<small>Jul 2022-Oct 2022</small>
+<small>Jul 2022-Oct 2022</small>  
 <small>Designed a landing page for a EAGxIndia 2023. In addition, I helped with app integrations among other things.</small>
 
 <hr />
@@ -836,7 +839,7 @@ Got accepted, did my work, got paid. I do not remember much beyond that nor do I
 
 ## <span id="kenken">[KENKEN](http://www.kenkenpuzzle.com/)</span>
 
-<small>Jan 2022-Oct 2022</small>
+<small>Jan 2022-Oct 2022</small>  
 <small>I was a two-time silver medalist for 2019 and 2020 in my country. Initially tried to get a similar result for 2022, but ended up losing interest.</small>
 
 <hr />
@@ -849,7 +852,7 @@ I was a somewhat serious KENKEN solver, I reached till national stage. Our schoo
 
 ## <span id="chess">[Chess](https://lichess.org/@/y_arjun_y)</span>
 
-<small>Oct 2021-Sep 2022</small>
+<small>Oct 2021-Sep 2022</small>  
 <small>Tried to get better at chess via practicing on [lichess](https://lichess.org). You can see all my games that I refer to [here](https://lichess.org/@/y_arjun_y/all). Previously, I practiced on [chess.com](https://chess.com).</small>
 
 <hr />
@@ -862,7 +865,7 @@ Used to play chess quite regularly, learnt a couple of openings and defenses. Th
 
 ## <span id="bearblogreplacementtemplate">[Bear Blog Replacement Template](https://bear-blog-replacement-template.vercel.app/)</span>
 
-<small>Aug 2022</small>
+<small>Aug 2022</small>  
 <small>I was getting increasingly dissatisfied with [Bear Blog](https://bearblog.dev) (where this website was formerly). So I decided to migrate to Next.js and [I made a template](https://github.com/y-arjun-y/bear-blog-replacement-template) that [I posted on Show HN](https://news.ycombinator.com/item?id=32382716).</small>
 
 <hr />
@@ -877,7 +880,7 @@ Posted the template on [Show HN](https://news.ycombinator.com/item?id=32382716) 
 
 ## <span id="solaris-1">SOLARIS</span>
 
-<small>Jul 2022-Aug 2022</small>
+<small>Jul 2022-Aug 2022</small>  
 <small>Co-founded a rationality club in my school. We've finished running the first edition of SOLARIS!</small>
 
 <hr />
@@ -890,7 +893,7 @@ First launch of the Society of Logic and Rationality in Students, a high school 
 
 ## <span id="fastai">[fast.ai](https://fast.ai)</span>
 
-<small>Mar 2022-Jul 2022</small>
+<small>Mar 2022-Jul 2022</small>  
 <small>Tried to learn A.I. by leveraging pre-existing knowledge.</small>
 
 <hr />
@@ -903,7 +906,7 @@ My first serious attempt at trying to learn artificial intelligence (my first ac
 
 ## <span id="sudoku">Sudoku</span>
 
-<small>Apr 2022-Jul 2022</small>
+<small>Apr 2022-Jul 2022</small>  
 <small>Not exactly sure why, but I spent some time trying to solve at least one sudoku every Friday & Saturday.</small>
 
 <hr />
@@ -914,7 +917,7 @@ Yeah, this project was completely useless. Which shouldn't be mistaken as a nega
 
 ## <span id="gallpeters">[gallpeters](https://gallpeters.vercel.app)</span>
 
-<small>Apr 2022-May 2022</small>
+<small>Apr 2022-May 2022</small>  
 <small>Created a simple website/API to create a customizable world map.</small>
 
 <hr />
@@ -929,7 +932,7 @@ Super proud of how this project came out. Started with a simple idea and lead to
 
 ## <span id="eadata">[Effective Altruism Data](https://effectivealtruismdata.com)</span>
 
-<small>Oct 2021-Apr 2022</small>
+<small>Oct 2021-Apr 2022</small>  
 <small>I was a programmer for EA Data (unfortunately, the website is no longer up). See the [repository](https://github.com/hamishhuggard/ea_data_viz) and [my fork](https://github.com/y-arjun-y/ea_data_viz).</small>
 
 <hr />
@@ -948,7 +951,7 @@ The project died out after that, the last thing I remember was emailing him abou
 
 ## <span id="bettermailto">[bettermailto](https://bettermailto.vercel.app)</span>
 
-<small>Oct 2021-Apr 2022</small>
+<small>Oct 2021-Apr 2022</small>  
 <small>Created an alternative to the [mailto attribute in HTML](https://css-tricks.com/snippets/html/mailto-links/). See the repository [here](https://github.com/bettermailto/bettermailto).</small>
 
 <hr />
@@ -963,7 +966,7 @@ This and [gallpeters](/#gallpeters) are my two proudest web projects thus far. I
 
 ## <span id="eagxoxford2022">[EAGxOxford 2022](https://www.eaglobal.org/events/eagxoxford-2022/)</span>
 
-<small>Mar 2022</small>
+<small>Mar 2022</small>  
 <small>Attended EAGxOxford 2022.</small>
 
 <hr />
@@ -978,7 +981,7 @@ Looking back, this was a pretty monumental moment in my life. I never knew that 
 
 ## <span id="eafacilitator">[EA In-Depth Fellowship Facilitator](https://www.effectivealtruism.org/virtual-programs/in-depth-program/)</span>
 
-<small>Dec 2021-Mar 2022</small>
+<small>Dec 2021-Mar 2022</small>  
 <small>I got accepted to be a facilitator for EA Virtual Programs In-Depth Fellowship, it was an awesome experience!</small>
 
 <hr />
@@ -993,7 +996,7 @@ I facilitated the EA In-Depth Fellowship after completing it myself, was a super
 
 ## <span id="millerrabin">[Miller-Rabin Research](https://github.com/y-arjun-y/liars-miller-rabin)</span>
 
-<small>Nov 2021-Jan 2022</small>
+<small>Nov 2021-Jan 2022</small>  
 <small>Did some research in to the liars in [the Miller-Rabin Primality Test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test), inspired by [Numberphile](https://www.youtube.com/watch?v=_MscGSN5J6o).</small>
 
 <hr />
@@ -1008,7 +1011,7 @@ I created a [paper](/miller-rabin.pdf) and tried to get it published on arXiv, w
 
 ## <span id="eabristol">[EA Bristol](https://eabristol.co.uk) Website Redesign</span>
 
-<small>Nov 2021-Nov 2021</small>
+<small>Nov 2021-Nov 2021</small>  
 <small>Re-designed EA Bristol's website.</small>
 
 <hr />
@@ -1021,7 +1024,7 @@ Worked on the website for my brother. That's it.
 
 ## <span id="eaindepth">[Effective Altruism In-Depth Fellowship](https://www.effectivealtruism.org/virtual-programs/in-depth-program)</span>
 
-<small>Oct 2021</small>
+<small>Oct 2021</small>  
 <small>I attended EA Virtual Program's In-Depth Fellowship after my [introductory fellowship by EA Cambridge](https://www.eacambridge.org/ea-fellowship-info).</small>
 
 <hr />
@@ -1036,7 +1039,7 @@ Wow, it's crazy how nearly 2 months just flew by. Incredible, incredible fellows
 
 ## <span id="eaglobal2021">[EA Global: London 2021](https://www.eaglobal.org/events/london2021/) </span>
 
-<small>Oct 2021</small>
+<small>Oct 2021</small>  
 <small>Attended EA Global: London 2021 as a virtual attendee.</small>
 
 <hr />
@@ -1057,7 +1060,7 @@ This is a retroactive recollection of all the projects I undertook in my life be
 
 ## <span id="webdevmisc">[Classless CSS](https://github.com/y-arjun-y/classless-css) + [Bear Blog Replacement](https://github.com/y-arjun-y/bear-blog-replacement-template)</span>
 
-<small>Sep 2021-Aug 2022</small>
+<small>Sep 2021-Aug 2022</small>  
 
 <hr />
 
@@ -1069,7 +1072,7 @@ In my experimentations with [Bear Blog](https://bearblog.dev/) (which [I develop
 
 ## <span id="youthree">[youthree](https://github.com/y-arjun-y/youthree/)</span>
 
-<small>Aug 2021-Oct 2021</small>
+<small>Aug 2021-Oct 2021</small>  
 
 <hr />
 
@@ -1083,7 +1086,7 @@ My first real "weekend" programming project (which take way longer than a weeken
 
 ## <span id="symposiumproject">Symposium Project</span>
 
-<small>May 2021-Aug 2021</small>
+<small>May 2021-Aug 2021</small>  
 
 <hr />
 
@@ -1097,7 +1100,7 @@ We had our fair share of arguments during this project, but I'm sure it made our
 
 ## <span id="carykhpd">[CaryKH's Prisoner's Dilemma Tournament](https://github.com/carykh/PrisonersDilemmaTournament/)</span>
 
-<small>May 2021-May 2021</small>
+<small>May 2021-May 2021</small>  
 
 <hr />
 
