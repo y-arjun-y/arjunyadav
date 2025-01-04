@@ -588,7 +588,7 @@ From ditching a portion of the first day (and missing my chance for a GSL) for p
 
 From the okay-ish auditions (which were mostly my doing) came a really fun hackathon: the teams were assigned to create an encryption/decryption app using Tkinter in Python. In the beginning, a fun plot line involving the FBI/CIA and spying emerged. Was quite fun!
 
-![Local Hackathon - 2023](/localhackathon2023.jpeg)
+![Local Hackathon - 2023](/local-hackathon-2023.jpeg)
 
 <hr />
 
