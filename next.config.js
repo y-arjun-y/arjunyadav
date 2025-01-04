@@ -21,6 +21,21 @@ const nextConfig = {
         permanent: false,
       },
       {
+        source: "/ukulele-and-harmonica-recordings",
+        destination: "https://drive.google.com/drive/folders/1LF2i_C7gImifG8ljCki-jsgdSZPmEFDS?usp=sharing",
+        permanent: false,
+      },
+      {
+        source: "/guitar-recordings",
+        destination: "https://drive.google.com/drive/folders/1LALtYJysww_9H72JPdNLTP43jIYQ7qtb?usp=sharing",
+        permanent: false,
+      },
+      {
+        source: "/drum-recordings",
+        destination: "https://drive.google.com/drive/folders/1v_pZQy1dT8Wl9o1wGFIwO9j8yMOV2B4i?usp=sharing",
+        permanent: false,
+      },
+      {
         source: "/time-and-memory",
         destination: "https://youtu.be/PJiVvpH6-E0?si=x-JWFe5WZjZAg6Vs&t=10",
         permanent: false,
