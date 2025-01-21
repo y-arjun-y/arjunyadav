@@ -54,8 +54,6 @@ Only _it_, can find its pathway forward.
 
 ## <span id="coming-home">Coming Home</span>
 
-![Tunnel](/tunnel.png)
-
 The crack of dawn, with its radiant rays, <br />
 casts a shadow of doubt on your outlook. <br />
 But when the people start chiming, the words start flowing, <br />
@@ -154,8 +152,6 @@ us all, a song leaving them in tears.
 
 
 ## <span id="reflection">Reflection</span>
-
-![Ocean](/ocean.jpg)
 
 Gaze your eyes upon the ocean, <br />
 where man often refines their notion. <br />
