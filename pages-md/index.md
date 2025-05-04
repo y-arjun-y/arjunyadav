@@ -12,7 +12,7 @@ My name is Arjun Yadav (pronounced /ˈɑːɹ.dʒʌn ˈjɑː.dʌv/).
 
 I study Computer Science at The University of Manchester, I'm passionate about making AI safer for humanity. My interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development, [machine learning](/notebook) and [AI safety](/notebook/)) and [writing on my blog](/blog/) (click [here](/subscribe) if you'd like to subscribe).
 
-Beyond that, I enjoy a bit of running, hiking, practicing different instruments (drums, guitar, ukulele, harmonica and keyboard) and occassioanlly writing [poetry](/poetry).
+Beyond that, I enjoy a bit of running, hiking, practicing different instruments (drums, guitar, ukulele, harmonica and keyboard) and occasionally writing [poetry](/poetry).
 
 Feel free to email me at arjun (at) arjunyadav (dot) net or schedule a chat with me [here](https://zcal.co/arjun-yadav).
 
