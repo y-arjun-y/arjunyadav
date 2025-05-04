@@ -10,13 +10,11 @@ meta_image: https://arjunyadav.net/twittercard.png
 
 My name is Arjun Yadav (pronounced /ˈɑːɹ.dʒʌn ˈjɑː.dʌv/).
 
-As of now, I work on the tech side of [Kickstart Global](https://kickstartglobal.com) as well as sales at [AIESEC Manchester](https://www.aiesec.co.uk/). In addition, I'm studying Computer Science at the University of Manchester.
+I study Computer Science at The University of Manchester, I'm passionate about making AI safer for humanity. My interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development, [machine learning](/notebook) and [AI safety](/notebook/)) and [writing on my blog](/blog/) (click [here](/subscribe) if you'd like to subscribe).
 
-My interests lie in [effective altruism](/blog/what-is-effective-altruism), [computer science](https://github.com/y-arjun-y) (more specifically in web development, [machine learning](/notebook) and [AI safety](/notebook/)) and [writing on my blog](/blog/) (click [here](/subscribe) to subscribe).
+Beyond that, I enjoy a bit of running, hiking, practicing different instruments (drums, guitar, ukulele, harmonica and keyboard) and occassioanlly writing [poetry](/poetry).
 
-My avid interests in life right now are running, hiking, practicing different musical instruments (drums, ukulele and harmonica) and getting better at writing [poetry](/poetry).
-
-Feel free to email me at arjun (at) arjunyadav (dot) net or schedule out time to chat with me [here](https://calendly.com/arjun-yadav).
+Feel free to email me at arjun (at) arjunyadav (dot) net or schedule a chat with me [here](https://zcal.co/arjun-yadav).
 
 <details open>
 <summary>Projects</summary>
@@ -42,9 +40,11 @@ Here is a non-exhaustive list of projects I've worked on in my life that I'm mos
 </details>
 
 <details open>
-<summary>Donations and Fundraising</summary>
+<summary>Donations and Fundraisers</summary>
 
 These are all my donations to [effective charities](https://www.givewell.org/charities/top-charities), guided by [GiveWell](https://www.givewell.org/).
+
+Watch this space for a list of my fundraising activities!
 
 | Date       | Amount    | Charity                    |
 | ---------- | --------- | -------------------------- |
@@ -58,7 +58,7 @@ These are all my donations to [effective charities](https://www.givewell.org/cha
 <details id="end" open>
 <summary>Website Statistics</summary>
 
-This map showcases countries that have contributed to the overall web traffic for [arjunyadav.net](/) for December 2024.  
+This map showcases countries that have contributed to the overall web traffic for [arjunyadav.net](/) for 2024. This section gets updated at the end of every year.
 
 Data from [CloudFlare](https://cloudflare.com), map created with [gallpeters](https://gallpeters.vercel.app).
 
