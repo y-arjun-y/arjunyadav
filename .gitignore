@@ -278,7 +278,7 @@ $RECYCLE.BIN/
 # and uncomment the following lines
 # .pnp.*
 
-# Archive and Scripts
+# Archive
 /blog-posts/archive
-*.sh
+
 
