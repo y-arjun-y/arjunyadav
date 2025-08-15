@@ -1,7 +1,7 @@
 ---
 title: A Collection of Koans
 publish_date: Nov 26, 2022
-meta_description: I recently finished the Koan series by Henry Shukman on Waking Up. Here are some of the more profound koans I've come across.
+meta_description: I recently finished the Koan series by Henry Shukman on Waking Up. Here are some of the more profound koans I've come across!
 meta_image: https://www.arjunyadav.net/dalle-2-robot-meditating.png
 ---
 
