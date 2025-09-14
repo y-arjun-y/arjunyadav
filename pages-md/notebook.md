@@ -1,6 +1,6 @@
 ---
 title: Notebook
-meta_description: Welcome to my public ML/AI Safety notebook!
+meta_description: Welcome to my public ML/AI Safety notebook.
 meta_image: https://arjunyadav.net/twittercard.png
 ---
 
@@ -219,6 +219,7 @@ Put simply, steering is the idea that _we can change the course of what a model 
 - Auto-encoder: An autoencoder is a type of convolutional neural network (CNN) that converts a high-dimensional input into a low-dimensional one (i.e. a latent vector), and later reconstructs the original input with the highest quality possible. It consists of both an encoder and decoder. An example of its use is removing noise from a dataset (Paperspace Blog).
 
 ## People I've Met in AI Safety
+
 Note that these are outside of formal projects. I'd also like to shout out two people who are working on (or at least thought of) two really interesting mashups of generative AI with their respective arts (dance and singing).
 
 ### Meeting with a co-worker at Dioptra
@@ -258,5 +259,3 @@ Note that these are outside of formal projects. I'd also like to shout out two p
 - [Introduction to Machine Learning](/projects#mathforml)
 - [ML Safety Course](/projects#mlsafetycourse)
 - [Introduction to Machine Learning](/projects#introml)
-
-
