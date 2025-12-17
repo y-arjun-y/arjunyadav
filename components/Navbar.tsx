@@ -12,10 +12,10 @@ export default function Navbar() {
           <Link href="/blog/">Blog</Link>
           <Link href="/series">Series</Link>
           <Link href="/subscribe">Subscribe</Link> <br />
-          <Link href="/cv">CV</Link>
+          <Link href="/journeys">Journeys</Link>
           <Link href="https://linktr.ee/yarjuny">Profiles</Link>
           <Link href="/poetry">Poetry</Link>
-          <Link href="/notebook">Notebook</Link>
+          <Link href="/ai-safety">AI Safety</Link>
         </p>
       </nav>
     </header>
