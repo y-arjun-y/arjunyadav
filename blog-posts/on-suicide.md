@@ -15,7 +15,7 @@ I recently finished watching Prisoners, as part of an effort to complete Denis V
 
 The surrealness of seeing someone’s brains on the wall, their body dropping limp the moment the trigger is pulled, will never cease to shock me to my core. In my experience, films have depicted suicide in one of two ways:
 
-i) Stress-induced: In confrontations and places where escape seems impossible.
+i) Stress-induced: In confrontations and places where escape seems impossible.  
 ii) Traumatic event: After a long prison sentence, assault or ostracisation, to name but a few.
 
 My experience with the thought of suicide came about a bit differently. I struggled with anxious, racing thoughts for almost five years. This led to a lack of eating and sleeping. Oftentimes, I couldn’t even talk at an understandable pace (earning me the “rapper” title in high school).
@@ -32,6 +32,6 @@ I’d like to think I worked hard to get past that episode in my life, work that
 
 It may sound cheesy, but I now like to think of life as more of a journey, where looking back in the past without a reflective, investigative angle feels futile and unproductive.
 
-I’ll end this blog post by just saying thanks to a couple of people, institutions, and circumstances: my mother and brother, my therapist and psychiatrist, and the Samaritans Foundation for convincing me not to attempt suicide^[1].
+I’ll end this blog post by just saying thanks to a couple of people, institutions, and circumstances: my mother and brother, my therapist and psychiatrist, and the Samaritans Foundation for convincing me not to attempt suicide[^1].
 
-[1] - I usually prefer discuss aspects of my life rather than direct them somewhere else. However, I am making an exception for this topic. Talking about mental health often results in sympathy that, while appreciated, sometimes obscures the nuance of my experience. I hope this post has provided a fair glimpse into my experience.
+[^1] - I usually prefer discuss aspects of my life rather than direct them somewhere else. However, I am making an exception for this topic. Talking about mental health often results in sympathy that, while appreciated, sometimes obscures the nuance of my experience. I hope this post has provided a fair glimpse into my experience.
