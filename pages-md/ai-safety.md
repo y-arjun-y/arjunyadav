@@ -1,5 +1,5 @@
 ---
-title: Notebook
+title: AI Safet
 meta_description: Welcome to my public ML/AI Safety notebook.
 meta_image: https://arjunyadav.net/twittercard.png
 ---
@@ -7,36 +7,6 @@ meta_image: https://arjunyadav.net/twittercard.png
 This page serves as my **machine learning/AI safety** notebook, I hope for this page to serve as a more unstructured knowledge hub of all that I have discovered in ML/AIS in the future.
 
 #### Notebook
-
-##### AI Safety Fundamentals - Governance
-
-- Session 5: AI Policy Levers: Should have prepared better for this session. Oh well.
-
-- Session 4: Obstacles to Controlling AI: Great session (finally!) and thoroughly enjoyed the debate!
-
-- Session 3: The Perils of AI: Didn't enjoy this session as much, but again - still valuable.
-
-- Session 2: The Promise of AI: A bit more slow, but still really valuable.
-
-- Session 1: Introduction to Artificial Intelligence: Figure 01 and Palantir were wild, also, [we made a song](https://suno.com/song/febf3882-5b82-4015-8f65-ee8bdf0bf463)!
-
-##### AI Safety Fundamentals - Alignment
-
-- Session 8-11: Contined work on my alignment project, which will have its own section in this notebook real soon!
-
-- Session 7: Contributing to AI Alignment: Gained a lot of clarity in career and a great coincidence happened today!
-
-- Session 6: Technical governance approaches: Some lovely one-on-ones!
-
-- Session 5: Mechanistic Interpretability: [Dictionary Learning is incredible](https://transformer-circuits.pub/2023/monosemantic-features/index.html).
-
-- Session 4: Scalable Oversight: This session made me feel that I actually know what I'm talking about, a rare feeling.
-
-- Session 3: Reinforcement learning from human (or AI) feedback: Lovely.
-
-- Session 2: What is AI Safety?: The gaps are definitely getting filled. (x2)
-
-- Session 1: AI and the Years Ahead: The gaps are definitely getting filled.
 
 #### <span id="nov-2023-feb-2024">Steering and Evaluation Research + Large Language Models (LLMs)</span>
 
@@ -63,42 +33,6 @@ Currently, closed source models (ones where we can only interact through a web i
 ###### What is Steering?
 
 Put simply, steering is the idea that _we can change the course of what a model generates_ by somehow manipulating its activation vectors, whether that involves changing individual neurons or adding activation vectors.
-
-### Achievements
-
-#### Apr-May 2024
-
-- Applied for [ESPR & PAIR 2024](https://espr-camp.org/)!
-- Applied for [SPAR 2024](https://supervisedprogramforalignment.org/)!
-- Applied for the [AI Safety Careers Course](https://impactacademy.org/aiscc/)!
-- Part of the [Horizon Omega team](/projects#horizonomega)!
-- Applied for the AI Safety, Ethics and Society course!
-- Got accepted to AI Safety Fundamentals: Governance course!
-
-#### Jan-Mar 2024
-
-- Finished with my work for Dioptra!
-- Got accepted to AI Safety Fundamentals!
-- Got accepted to AI Safety Camp 2024: VAISU project!
-
-#### Dec 2023
-
-- Became a part of the [ai-plans](https://ai-plans.com) dev team!
-- Became a part of the Dioptra research team!
-
-#### Nov 2023
-
-- Applied to the Inspirit AI Program for Summer 2024 (July 15 - July 26, 5-7:30 PT)!
-- Applied to OpenAI's Red Teaming Network!
-- Applied to GovAI's blog editor post!
-- Applied to AI Safety Fundamentals!
-- Applied to AI Safety Camp 2024!
-
-#### Summer 2023
-
-- Taught high school seniors about machine learning and AI safety!
-- Worked with my brother on variational auto-encoders and mechanistic interpretability while he was setting up BAISC.
-- Research Assistant Tenureship - got to learn a lot about transformers!
 
 ## Papers, Notes and Reports
 
