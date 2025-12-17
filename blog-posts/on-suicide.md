@@ -1,11 +1,11 @@
 ---
 title: On Suicide
 publish_date: Dec 17, 2024
-meta_description: TW: Suicide (but you knew that already), depression, and sexual misconduct
+meta_description: Trigger warning for suicide, depression, and sexual misconduct
 meta_image: https://arjunyadav.net/glasgow.png
 ---
 
-TW: Suicide (but you knew that already), depression, and sexual misconduct
+TW: suicide, depression, and sexual misconduct
 
 If you, or someone else, is experiencing suicidal thoughts, please reach out for help. You will find crisis hotlines for wherever you may be in the world here
 
